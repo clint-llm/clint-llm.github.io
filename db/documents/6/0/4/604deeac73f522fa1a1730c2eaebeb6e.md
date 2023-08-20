@@ -1,0 +1,11 @@
+**Fontanelles and Cranial Sutures**
+
+Fontanelles are soft areas where the skull has not ossified to allow for brain growth and development. There are six fontanelles, with the anterior and posterior being the most prominent and clinically significant. The anterior fontanelle closes around age 1 to 2 years and hardens to become the bregma and adjacent coronal suture. The posterior fontanelle closes around 6 to 8 weeks of age and becomes the lambda and adjacent lambdoid suture.
+
+The sutures of the skull allow for movement of the cranial bones during infancy, which persists into adulthood. Eventually, these sutures fuse and are no longer moveable. There is a great deal of variation in the timing of the closure of individual sutures. The sagittal suture closes first around age 22, then the coronal suture, followed by the lambdoid around age 26, and the squamous sutures around age 60. The metopic suture splits the frontal bones and typically closes at three months of age but can take up to nine months.
+
+**Skull Abnormalities and Embryologic Pathophysiology**
+
+Skull abnormalities and neural tube malformations such as anencephaly are unfortunately fairly common due to several factors. Many cranial structures develop early in utero and are vulnerable to toxic insults in unplanned pregnancies. Folate and other nutritional deficiencies and substance abuse can hinder the development and proper growth of the axial skeleton and central nervous system and, in some cases, lead to early miscarriage. Disorders of chromosome number and single genetic defects (i.e., Shh mutations) are also associated with cranial malformations.
+
+Neural crest abnormalities can lead to cleft palate, inner ear problems, or other skull abnormalities. The premature fusion of cranial sutures is termed craniosynostosis and leads to differences in skull shape (i.e., brachycephaly and plagiocephaly). Treacher-Collins syndrome is a craniofacial disorder characterized by an interruption of normal embryonic growth, specifically the development of the first and second embryonic arches. The syndrome commonly presents with mandibular hypoplasia, facial abnormalities, and craniosynostosis.

@@ -1,0 +1,1 @@
+Leeches are hermaphroditic parasites of phylum Annelida and class Hirudinea.

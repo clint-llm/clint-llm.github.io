@@ -1,0 +1,1 @@
+The prognosis of juvenile xanthogranuloma is generally excellent with most lesions undergoing spontaneous involution over the course of 3-6 years. Lesions which are of cosmetic concern or pose a risk to vital functions can be treated.

@@ -1,0 +1,1 @@
+Cavernomas can present with headaches, focal neurologic deficits, seizures, hemorrhage, or incidental findings. A review by Ene and colleagues found that the most common presentation of cavernous malformations was seizures at an average of 40.6% of cavernoma cases.

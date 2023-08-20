@@ -1,0 +1,1 @@
+Contraindications to CABG include patient refusal, coronary arteries incompatible with grafting, and the absence of viable myocardium to graft.

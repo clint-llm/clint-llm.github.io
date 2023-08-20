@@ -1,0 +1,1 @@
+Diethylcarbamazine has mild side effects which include fever, headache, and gastrointestinal manifestations.

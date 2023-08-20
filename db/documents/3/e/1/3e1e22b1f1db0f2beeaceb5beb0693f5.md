@@ -1,0 +1,9 @@
+Cases of limb-threatening ischemia require emergent vascular surgery consult. The surgical approach is directed at the reperfusion of the affected extremity. This can be accomplished by surgical bypass, endarterectomy, or embolectomy. Results are variable and will ultimately depend on the duration of the ischemia and the extent of occlusion. Catheter-directed thrombolysis (CDT) by an interventional radiologist is becoming more common and is reserved for patients with a salvageable limb (Rutherford class II, IIa, and IIb). Patients presenting with profound paralysis and absent pain with inaudible arterial and venous pulses are considered to have irreversible damage and will require amputation. Surgical treatment options are typically reserved for more severe cases or where nonsurgical management fails. These options include the following:
+
+- Open bypass surgery
+
+- Endovascular therapy, such as stenting, balloon angioplasty, or atherectomy
+
+Whereas open surgery was a popular treatment option two decades ago, endovascular therapy for PAD has become increasingly popular since then.
+
+While the patient waits for surgical or interventional radiology assessment, initial therapy should include fluid resuscitation, pain control, and administration of unfractionated heparin to minimize thrombus propagation. The general goal of anticoagulation is to increase partial thromboplastin by a factor of 2.0 to 2.5 above baseline. Management after revascularization requires close and frequent observation. Prolonged ischemia of greater than 4 hours increases the risk of compartment syndrome and must be monitored with hourly neurovascular checks.

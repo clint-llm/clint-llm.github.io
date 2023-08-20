@@ -1,0 +1,3 @@
+The Statistics and Healthcare Economics section of StatPearls seeks to provide a framework for learners to engage with evidence-based medicine (EBM) in order to maintain high standards of clinical practice.
+
+The father of EBM, Dr. David Sackett, describes EBM as “conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients … integrating individual clinical expertise with the best available external clinical evidence from systematic research."neither alone is enough.”

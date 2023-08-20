@@ -1,0 +1,1 @@
+Meta-analysis of studies evaluating the efficacy of behavioral and family-based interventions in reducing childhood obesity have shown encouraging outcomes in preschool children. The reduction of screen time has emerged as a critical strategy.

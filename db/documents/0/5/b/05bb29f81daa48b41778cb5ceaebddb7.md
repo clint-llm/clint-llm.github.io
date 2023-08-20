@@ -1,0 +1,7 @@
+Epidural morphine is a medication used for analgesia, as an adjunct to general anesthesia, or as a sole technique for surgical anesthesia. Morphine was the first opioid approved for neuraxial administration by the US Food and Drugs Administration (FDA), and it has been the most widely used opioid in clinical practice via this route. This activity describes the indications, action, and contraindications for epidural morphine as a valuable agent for acute and chronic moderate to severe pain. This activity will highlight the mechanism of action, adverse event profile, and other vital factors (dosing, pharmacodynamics, pharmacokinetics, monitoring, toxicity) pertinent for interprofessional team members in managing patients receiving epidural morphine.
+
+**Objectives:**
+- Describe the indications for the administration of morphine via the epidural route.
+- Summarize the risks associated with epidural morphine.
+- Identify the most common and most severe adverse events associated with epidural morphine.
+- Outline the importance of improving care coordination amongst the interprofessional team to enhance care delivery for patients with opioid-induced respiratory depression or opioid toxicity after epidural morphine administration.

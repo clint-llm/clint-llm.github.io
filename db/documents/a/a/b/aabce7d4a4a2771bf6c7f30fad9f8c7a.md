@@ -1,0 +1,1 @@
+An allergic response to egg allergens can range from dermatological manifestation (i.e. rashes, hives), gastrointestinal symptoms (i.e., diarrhea, nausea, vomiting) to potentially life-threatening anaphylaxis.

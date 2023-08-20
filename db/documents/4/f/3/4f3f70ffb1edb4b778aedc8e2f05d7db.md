@@ -1,0 +1,3 @@
+The clinical features depend on the duration and the severity of ischemia, depending on whether the obstruction is wholly or partially occlusive, transient, or persistent. Coronary artery thrombus presents clinically as sudden cardiac arrest or acute coronary syndrome.
+
+On physical examination, the patient may have S4 gallop or S3 due to LV dysfunction. Heart murmurs of mitral regurgitation and ventricular septal rupture may present, especially in patients with delayed presentation.

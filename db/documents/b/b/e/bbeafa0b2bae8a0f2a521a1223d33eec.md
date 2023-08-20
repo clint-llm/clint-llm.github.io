@@ -1,0 +1,1 @@
+Most of the cardiac arrests are preceded by changes in vital signs, including tachycardia, hypoxia, and tachypnea. Health care professionals should pay attention to such changes and look into the causes and treat them to prevent a potential cardiac arrest due to PEA.

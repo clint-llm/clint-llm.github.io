@@ -1,0 +1,5 @@
+The histologic findings in HCM are variable. Some of the tissue findings are of primary etiologic nature, while many others are the result of the complications and comorbidities associated with HCM as detailed below.
+
+As regards the primary disease histopathologic changes, these depend on the underlying etiology. For CNS primary ACTH dependent HCM, the most common histologic finding is of pituitary microadenomas with basophilic staining properties on routine H&E staining as first famously detailed by Harvey Cushing.
+
+ACTH dependent Cushing syndrome, whether of pituitary, hypothalamic, or ectopic origin, often results in secondary adrenocortical hyperplasia, which is generally diffuse but can be nodular in gross and histologic appearance though this seldom leads to adrenal resection for surgical pathologic analysis. Most surgical adrenal samples obtained for analysis in patients with HCM are typically in the setting of ACTH independent adrenal HCM. The histopathologic findings can range from diffuse adrenal hyperplasia to micro or macronodular adrenal hyperplasia, lone adrenal incidentaloma lesions (often benign adrenal adenomas) to adrenocortical carcinomas.

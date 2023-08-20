@@ -1,0 +1,3 @@
+Prognosis in lens abscess cases depends on multiple factors such as type of trauma, the onset of infection, anterior or posterior segment involvement, immune status, timing and nature of the treatment, follow-up, and patient compliance.
+
+The prognosis is poor if the posterior capsule is breached, the posterior segment is involved, and the immune system is compromised. Delay in surgical intervention is another reason for the poor prognosis of these cases.

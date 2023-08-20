@@ -1,0 +1,5 @@
+Macroscopically, pheochromocytoma is encapsulated and appears brown to yellow and soft. It is comprised of cystic degeneration, patches of necrosis, or hemorrhage.
+
+Histopathological examination showed that pheochromocytoma is composed of large basophilic cells assembled as a nest; the cytoplasm comprises multiple granules with many large, pleomorphic, and bizarre nuclei. The nuclei have prominent nucleoli and coarse chromatin. Occasional intracytoplasmic hyaline globules positive for periodic acid–Schiff stain are present. There is a thin rim of subcapsular lipid-rich adrenal tissue. There is no clear demarcation between the tumor cells and normal adrenal tissue.
+
+Hyperchromasia, nuclear pleomorphism, or capsular or vascular invasion may be present, but these are not a predictor of malignancy. Metastases to a different site are the only indicator of malignancy.

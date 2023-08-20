@@ -1,0 +1,1 @@
+The estimated incidence is between 1 in 2000 and 1 in 5000 live births, although the true incidence is unknown.

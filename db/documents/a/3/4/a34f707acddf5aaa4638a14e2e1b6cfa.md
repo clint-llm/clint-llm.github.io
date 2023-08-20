@@ -1,0 +1,3 @@
+In cases of solitary lesions, treatment and management of TE/TB are relatively unremarkable, given the benign nature of these tumors. However, in familial genetic syndromes, treatment plans may be more complex due to the risk of lesion recurrence, assortment, and location in cosmetic skin areas (e.g., face).
+
+Patients with multiple lesions or a suggestive family history should communicate this with their providers as further genetic workup may be necessary. Practitioners should also reassure patients that TE/TB is benign and different from BCC.

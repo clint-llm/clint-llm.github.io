@@ -1,0 +1,1 @@
+Atelectasis is one of the most common respiratory complications in the perioperative period, and it may contribute to significant morbidity and mortality, including the development of pneumonia and acute respiratory failure.

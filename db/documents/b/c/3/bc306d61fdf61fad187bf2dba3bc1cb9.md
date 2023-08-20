@@ -1,0 +1,1 @@
+Staging plays an important role in the long-term follow up of body iron and determining treatment options. The staging system is based on the LIC level on liver biopsy and is classified as mild (< 7 mg/g DW), moderate (7-15 mg/g DW), or severe (>15 mg/g DW).

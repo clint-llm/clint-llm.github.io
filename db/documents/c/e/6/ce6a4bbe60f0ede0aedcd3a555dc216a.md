@@ -1,0 +1,1 @@
+As with other respiratory illnesses, patients and their caregivers are advised to present to the hospital early, at the first occurrence of symptoms. Being an idiopathic condition, there are no specific preventive measures to avoid the condition. It is not a contagious disease.

@@ -1,0 +1,1 @@
+In the USA, the most common cause of hypothyroidism is Hashimoto thyroiditis, characterized by lymphocytic infiltration, fibrosis, and atrophy of the thyroid gland. CD8 cells in the lymphocytic infiltrate are responsible for the destruction of the thyroid gland.

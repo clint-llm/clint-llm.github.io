@@ -1,0 +1,3 @@
+The various aspects of the patient's life may affect treatment decisions. For instance, pregnancy is often associated with low back pain, and pregnancy can complicate the choice of medication treatment options for chronic pain, particularly the use of opioids.
+
+It is critical to not focus solely on the numerical value of someone's pain. Often, it is necessary to prompt a patient to explain the numerical scale of pain. A 1/10 pain being a minor bump or bruise, while 10/10 pain being the worst pain they have ever experienced on par with giving birth or passing a kidney stone.

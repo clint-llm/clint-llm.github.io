@@ -1,0 +1,3 @@
+Optic pathway gliomas (OPG) are low-grade neoplasms arising from the pre-cortical optic pathways. OPG can involve the optic nerve, optic chiasm, optic tracts, optic radiations, or the hypothalamus. These neoplasms may arise sporadically or in association with neurofibromatosis type 1 (NF1).
+
+Several studies have shown that the prognosis of optic pathway gliomas in patients with NF1 is better with a better visual prognosis.

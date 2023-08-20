@@ -1,0 +1,1 @@
+Neurotrophic keratitis is a degenerative corneal disease caused by impairment of corneal sensory innervation. It is characterized by decreased or absent corneal sensation, leading to epithelial breakdown, impairment of healing, and ultimately to the development of corneal ulceration, melting and perforation.

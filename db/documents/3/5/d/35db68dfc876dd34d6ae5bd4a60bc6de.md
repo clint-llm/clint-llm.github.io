@@ -1,0 +1,1 @@
+Corneal mucous plaques are most commonly seen in patients with keratoconjunctivitis sicca. Keratoconjunctivitis sicca associated with Sjogren syndrome is more common in women than men. The frequency of corneal mucous plaques increases with age; it is seen more commonly in the elderly age group.

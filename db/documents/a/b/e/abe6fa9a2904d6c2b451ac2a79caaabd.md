@@ -1,0 +1,1 @@
+Histopathologic examination of lung tissue after acute exposure to ammonia demonstrates acute pulmonary congestion and edema and desquamation of the bronchial epithelium.

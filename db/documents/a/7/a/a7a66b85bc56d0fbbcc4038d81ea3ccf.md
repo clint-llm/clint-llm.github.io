@@ -1,0 +1,1 @@
+The popular technique of rubber band ligation for the treatment of symptomatic internal hemorrhoids was first described by Blaisdel,

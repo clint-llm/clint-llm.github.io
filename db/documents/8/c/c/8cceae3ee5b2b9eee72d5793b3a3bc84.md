@@ -1,0 +1,1 @@
+Prevention of DILI can begin with patient education on their medications, which include over-the-counter drugs, prescription medications, and HDS. If patients should experience signs and symptoms of liver toxicity or ALF, further evaluation is required.

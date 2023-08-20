@@ -1,0 +1,13 @@
+The vascular system shares common histology however, there are key differences among the diverse system. Most blood vessel walls can be histologically organized by three layers: an inner tunica intima, a middle tunica media, and an outer tunica externa or adventitia. Each layer has a distinct cellular composition and supportive connective tissue.
+
+The inner tunica intima is composed of a single layer of endothelial cells, surrounding the inner vessel lumen. It is supported by an underlying basement membrane, which contains laminin, collagen IV and XVIII, von Willebrand factor, and perlecan. Underlying the endothelium and dividing the inner tunica intima from the tunica media is a thin layer of fibro-elastic connective tissue called the internal elastic laminae.
+
+The endothelium can be classified into three structural types depending on the continuity of endothelial cells: continuous, fenestrated, and discontinuous. Continous endothelium is present in most organs and the endothelial cells next to each other are bound together with tight junctions. Fenestrated capillaries have pores and are found in the glomeruli of the kidney, choroid plexus, intestinal tract, etc. Discontinuous endothelium is characterized by gaps between endothelial cells and is located in the liver, bone marrow, and spleen.
+
+The tunica media is the middle layer of most blood vessel walls. It contains predominantly diagonally oriented smooth muscle cells and is supported by a basement membrane and extracellular matrix composed mostly of collagen and elastin fibers. It is separated from the tunica intima by the internal elastic lamina and from the outer adventitia by the external elastic lamina.
+
+The caliber of the blood vessel dictates the proportion of smooth muscle, elastin, elastic fibers, and collagen fibers within the vessel wall. In the case of the large arteries (i.e. the aorta), the tunica media is mostly composed of elastin and elastic fibers, with some smooth muscle cells interspersed. Medium and small size arteries have more smooth muscle cells. The smallest vessels of the vascular system are the capillaries. These vessels have a single layer of endothelial cells over a basement membrane. Histologically the capillary net is marked by a lack of smooth muscle.
+
+In general, small and medium veins have smooth muscle cells in the tunica media while large veins have more connective tissue. Some veins such as the ones located in the limbs contain valves that facilitate forward blood flow and avoid backflow.
+
+The outermost layer of the blood vessel wall is the adventitia. Its cellular components are mostly fibroblasts and myofibroblasts that are responsible for the synthesis of the fibro-elastic extracellular matrix that characterizes this layer.

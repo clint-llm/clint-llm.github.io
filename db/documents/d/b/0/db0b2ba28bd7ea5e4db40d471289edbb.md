@@ -1,0 +1,7 @@
+Relative rest from offending activity as guided by the level of pain should be prescribed. Ice after activity as well as oral or topical NSAIDs can be used to help alleviate pain. Deep friction massage of the arch and insertion has been shown to help. Shoe inserts or orthotics and night splints can be prescribed in conjunction with the previously mentioned therapies. Providers should educate patients on proper stretching and rehab of the plantar fascia, Achilles' tendon, gastrocnemius, and soleus.
+
+If the pain does not respond to conservative measures, then consider more advanced or invasive techniques such as extracorporeal shock-wave therapy, botulinum toxin A, or various injections that could include autologous platelet-rich plasma, dex prolotherapy, or steroids. The more advanced and invasive techniques should be combined with conservative therapies. Surgery should be the last option if this process has become chronic and other less invasive therapies have failed.
+
+No matter what treatment is selected, it needs to be carried out for at least 6 weeks. At the same time, stretching, icing, and strapping of the heel are recommended. The patient should be urged to modify work-related activities. A night splint may help patients with recalcitrant pain.
+
+Surgery is the last resort and may include fasciotomy via an open or endoscopic approach. However, the surgical release does not guarantee a successful outcome. Complications of surgery include nerve injury, plantar fascia rupture and flattening of the longitudinal arch.

@@ -1,0 +1,1 @@
+Since the sternohyoid muscle is in the anterior neck region, neck surgery involving the region below the hyoid bone will also involve the sternohyoid muscle. Since the sternothyroid muscle and the other infrahyoid muscles provide a muscular barrier to the trachea, esophagus, thyroid gland, and parathyroid glands.

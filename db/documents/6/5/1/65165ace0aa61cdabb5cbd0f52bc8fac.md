@@ -1,0 +1,3 @@
+A broad range of symptoms has been reported in exercise-induced laryngeal obstruction. Dyspnea, stridor wheezing, dysphonia, throat tightness, chest tightness, and anxiety have all been reported. Dyspnea and stridor are the most common. Based on a review of 5 large series, 96.5% to 100% of patients had dyspnea, and 43% to 68% reported stridor.
+
+Physical examination is rarely helpful in diagnosing EILO as, by definition, symptoms occur during exercise and are not present at rest. The presence of wheezing or stridor at rest should prompt further evaluation to assess for other airway diseases.

@@ -1,0 +1,5 @@
+Patients may present with an acute or chronic presentation of Sheehan syndrome. The chronic condition of Sheehan syndrome is more common than the acute presentation. Confounding the presentation is that Sheehan syndrome may present months to years after the initial event of hypovolemia and shock.
+
+The acute presenting condition of Sheehan syndrome is usually evident when the mother of the newborn has difficulty with breastfeeding or cannot produce milk at all (agalactorrhea).
+
+Chronic Sheehan syndrome is diagnosed due to symptoms that occur due to hypopituitarism, and again, it can occur months to years after the initial vascular insult to the pituitary gland. Symptoms of hypothyroidism may occur months after childbirth. The patient may complain of fatigue, asthenia or weakness, hair loss, constipation, weight gain, problems with focusing or with their attention span, and cold intolerance. Physicians may note hypotension and bradycardia during the physical exam. Patients may also exhibit a secondary adrenal insufficiency which could have symptoms of fatigue and weight loss.

@@ -1,0 +1,15 @@
+It is important to keep in mind that there is no curative treatment for moyamoya disease. Early diagnosis of moyamoya disease coupled with timely surgical intervention is of utmost importance as medical therapies act only as secondary prevention and do not halt disease progression. Both, medical and surgical treatments are directed towards improving cerebral blood flow. Acute therapy for strokes and/or intracranial bleeding is performed as per standard protocols.
+
+1) Conservative management:
+
+Conservative management is mainly directed towards maintaining cerebral blood flow and preventing further strokes. Aspirin has been conventionally used among patients of moyamoya disease to prevent further strokes. However, there is no evidence of a potential benefit of antiplatelet use to stroke prevention since the mechanism of MMD does not involve an endothelial damage and thereby platelet adhesion. Nevertheless, many neurologists around the world use aspirin towards mitigating the chances of further strokes in light of other risk factors and as a maintenance therapy to prevent thrombosis and thromboembolism from the stenosed portion of vessels after surgical revascularization. The usual dose of 50-100 mg is recommended.
+
+Headaches and seizures are usually managed by symptomatic treatments using analgesics and antiepileptic medications, respectively
+
+2) Surgical revascularization:
+
+This is the only main treatment for MMD with deteriorating cerebral hemodynamics to improve the cerebral blood flow and prevent further strokes. Main indications for surgical revascularization are apparent cerebral ischemia, reduced regional cerebral blood flow and decreased cerebral vascular reserve in perfusion studies. However, every case is evaluated separately as decisive factors may vary from case to case. Surgery is more beneficial for children since the pediatric form of MMD is usually rapidly progressive.
+
+- Indirect revascularization: This is an easier method to perform but the time to improve the cerebral blood flow is longer than the direct revascularization. Major techniques used under this method are encephalomyo synangiosis (EMS) where the supply comes from the deep temporal artery and encephalo-duro-arterio synangiosis (EDAS) with the supply comes from superficial temporal artery.  Encephalo-myo-arterio synangiosis (EMAS), encephalo-duro-arterio-myo synangiosis (EDAMS) and encephalo-galeo synangiosis (EGS) are variants of EMS and EDAS. The occipital artery can be used as an indirect bypass in case of MMD involving posterior circulation.
+
+- Direct revascularization: Superficial temporal artery is used as the main supply vessel in direct bypass. Direct vascularization is technically more difficult to perform and requires a highly skilled surgeon but the improvement in the cerebral blood flow is noted immediately following the surgery

@@ -1,0 +1,1 @@
+Basal cell nevus syndrome is caused by mutations in the patched (PTCH) gene that encodes a transmembrane receptor which recognizes sonic hedgehog signaling proteins. There is near complete penetrance with variable expressivity. De novo mutations represent approximately 20% to 30% of cases of BCNS.

@@ -1,0 +1,3 @@
+Metformin is available in immediate and extended-release tablet and liquid formulations. It is primarily absorbed in the small intestine with about 40 to 60% bioavailability.
+
+Approximately 90% of the absorbed metformin is excreted unchanged, renally suggesting little to no drug metabolism. Since most of the drug is renally excreted, acute or chronic renal failure can contribute to accumulation and toxicity. Metformin exhibits two-compartment behavior and a high volume of distribution, with most of the drug residing in tissue, primarily erythrocytes, intestinal tissue, skeletal muscle, and hepatocytes.

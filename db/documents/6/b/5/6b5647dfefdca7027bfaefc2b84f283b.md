@@ -1,0 +1,1 @@
+Rickettsia is a group of vector-borne organisms that cause acute febrile illnesses throughout the world.

@@ -1,0 +1,5 @@
+In hypotonic labor, consultations may become necessary. A patient under the care of a trained obstetric nurse or midwife may require consultations with an obstetrician. In a health facility without an obstetrician, or where provision for cesarean section and instrumental vaginal delivery is unavailable; an early referral to a higher level of care is recommended if protracted labor is diagnosed or anticipated.
+
+At the accepting health facility, the care team must include an obstetrician who should be consulted ahead of a transfer and all records on the progress of labor provided.
+
+Supportive consultation with the anesthetists and pharmacists is recommended where analgesic or anesthetic support is required. Their involvement is necessary during situations of oxytocin complications (hypotension, tachysystole, or oxytocin hypersensitivity).

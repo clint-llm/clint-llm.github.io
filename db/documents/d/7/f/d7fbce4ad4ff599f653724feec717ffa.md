@@ -1,0 +1,1 @@
+Because some of the causes of hematuria are caused by malignancies, the key is to communicate with the members of the team so that there is no delay in diagnosis.

@@ -1,0 +1,3 @@
+Patients typically present with a history of gradual deterioration. Signs of raised intracranial tension, like vomiting, headache, lateral gaze palsies, homonymous visual field defects, reduced mentation, and so on are usually evident. Sometimes the patient may develop subarachnoid hemorrhage due to bleeding from the tumor. Infants present with increasing head circumference or poor feeding or both, along with upgaze palsy, reduced activity, and altered consciousness.
+
+The clinical symptoms are predominantly due to hydrocephalus

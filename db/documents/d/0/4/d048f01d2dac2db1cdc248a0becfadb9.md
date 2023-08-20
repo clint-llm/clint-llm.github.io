@@ -1,0 +1,7 @@
+Though the various clinical features and diseases associated with HHV-6 are still under investigation, research already well documents that HHV-6 plays an extensive role in central nervous system diseases and immunocompromised individuals including transplant recipients.
+
+HHV-6B is the causative agent in exanthema subitum (also known as roseola infantum), a childhood disease characterized by high fever and a mild skin rash, and accounts for up to 10 to 17% of acute febrile Emergency department visits in children up to 36 months of age.
+
+The diagnosis of roseola infantum is clinical. It is often precipitated by abrupt onset of high fever with temperatures reaching 40°C (104 F) for three to five days. During the initial febrile phase, some children will have periorbital edema, conjunctivitis or inflammation of the tympanic membranes while many others will be active and well.
+
+Physical examination findings are usually consistent with the symptoms previously described. In children, with defervescence of the fever, there is often an eruption of a blanching maculopapular rash that is rose-pink and approximately 2 to 5mm with a surrounding halo. The rash typically persists for one to two days and often spreads centrifugally. However, there are documented cases of fever without a rash.

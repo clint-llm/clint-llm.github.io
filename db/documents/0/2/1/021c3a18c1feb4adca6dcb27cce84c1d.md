@@ -1,0 +1,3 @@
+Posterior nasal packing is frightening and unpleasant for patients. Placing the packs requires reassurance from healthcare professionals as well as appropriate analgesia, all while carefully avoiding over-sedation. Emergency medicine clinicians should be able to distinguish between anterior and posterior bleeding to help determine appropriate management strategies and also recognize severe or refractory cases.
+
+A good relationship between the emergency department and the otolaryngology department is necessary when managing posterior epistaxis. The otolaryngologist can provide valuable technical expertise concerning pack placement and will most likely be the one to remove the pack after an appropriate interval.

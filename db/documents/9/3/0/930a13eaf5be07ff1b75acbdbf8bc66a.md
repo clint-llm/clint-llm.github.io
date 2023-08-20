@@ -1,0 +1,7 @@
+Separation anxiety disorder (SAD) is one of the most common childhood anxiety disorders. SAD is an exaggeration of otherwise developmentally typical anxiety manifested by excessive concern, worry, and even dread of the actual or anticipated separation from an attachment figure. Although separation anxiety is a developmentally appropriate phenomenon, the disorder manifests with improper intensity at an inappropriate age or in an inappropriate context. Developmentally appropriate separation anxiety manifests between the ages of 6 to 12 months. This normative or physiological separation anxiety remains steadily observable until approximately age 3 and, under normal circumstances, diminishes afterward. This activity outlines the current DSM-5-TR diagnostic criteria; available validated assessment tools; evidence-based treatments, often combination treatment approaches; and the benefits of interprofessional team collaboration to enhance clinical outcomes for patients with separation anxiety disorder.
+
+**Objectives:**
+- Recognize the current DSM-5-TR diagnostic criteria for separation anxiety disorder.
+- Implement validated assessment tools for the diagnosis of separation anxiety disorder.
+- Select effective evidence-based treatment modalities for patients diagnosed with separation anxiety disorder. 
+- Collaborate with the interprofessional team to enhance clinical outcomes for patients with separation anxiety disorder.

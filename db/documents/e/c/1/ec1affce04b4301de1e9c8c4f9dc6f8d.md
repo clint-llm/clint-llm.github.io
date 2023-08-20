@@ -1,0 +1,1 @@
+The imbalance of regulatory T cells, Th1 (IFN-gamma secreting T cells), and Th17 (interleukin -17 secreting T cells) of adaptive immunity is the feature of most subtypes of JIA. IL-17 induces proinflammatory cytokines and matrix metalloproteinases, leading to joint damage in oligoarthritis, polyarthritis, and psoriatic arthritis.

@@ -1,0 +1,1 @@
+The workup would include a 12 lead electrocardiography. In cases where it is difficult to identify the baseline rhythm, then there may be a need for electrophysiological studies. There are no related laboratory findings that have been associated with Ashman phenomenon.

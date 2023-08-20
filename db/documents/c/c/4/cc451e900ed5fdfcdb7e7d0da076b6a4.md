@@ -1,0 +1,1 @@
+Doses up to 50 mg have been used. The majority of toxicity occurs when given by IV.

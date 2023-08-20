@@ -1,0 +1,9 @@
+Even if confrontation visual field testing is normal, perimetry performing formal visual field testing is an essential part of the assessment of any patient with possible visual pathway disease. The baseline field can be established to monitor the stability of the deficit or the efficacy of treatment. If there is complete homonymous hemianopia, no further localization is possible. Partial homonymous field loss can help localize the lesion in two ways. However, neither is entirely reliable:
+
+- The more congruous the field defect (i.e., the more similar the field defect is in both eyes), the more posterior the lesion is likely to be; e.g., anterior optic radiation field defects are often moderately different in size and shape between the two eyes, whereas occipital cortex lesions cause an identical or nearly identical defect in both eyes.
+
+- If the partial defect is predominantly superior or inferior: partial superior homonymous defects are probably from damage to the inferior parts of the posterior visual pathway including the inferior optic radiation (often damaged in temporal lobe lesions), or the inferior part of the occipital visual cortex. Likewise, partial inferior defects occur from damage to the superior parts of the pathway including the superior optic radiation in the parietal lobe, or the superior part of the visual cortex superior to the calcarine fissure. In temporal lobe lesions, the visual deficit tends to be incongruous, and the inferior margin may have sloping borders and may cross the horizontal midline.
+
+Magnetic resonance imaging (MRI) of the brain is the best modality to identify if there is a lesion in the brain causing the deficit. On rare conditions, the MRI may have no identifiable lesion. In the acute emergent cases from intracerebral hematomas and trauma, head computed tomography will adequately show the lesion.
+
+Specific etiologies may require further laboratory tests, non-invasive and invasive studies.

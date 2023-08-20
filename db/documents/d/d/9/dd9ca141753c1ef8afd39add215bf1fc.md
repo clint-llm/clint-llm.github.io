@@ -1,0 +1,1 @@
+The prevalence and incidence are not known. No racial nor sex predilection is known for monilethrix, and it is not related to any particular hair color.

@@ -1,0 +1,1 @@
+Radiation therapy can be used in the treatment of Hodgkin lymphoma as it plays a vital role in localized disease. It is beneficial when combined with chemotherapy in high-grade lymphoma and may be the choice of treatment for low-grade lymphomas.

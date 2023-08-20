@@ -1,0 +1,1 @@
+Pregnancy during mitral stenosis will increase the patient’s symptoms by one New York Heart Association class. Medical therapy is attempted first to improve symptoms. If symptoms do not improve with medical treatment, refer the patient for percutaneous mitral balloon valvuloplasty.

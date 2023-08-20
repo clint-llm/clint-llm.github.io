@@ -1,0 +1,3 @@
+Fibrodysplasia ossificans progressiva is described as a rare genetic disorder characterized by the organization of heterotopic hard tissues within the soft tissues, such as ligaments, tendons, and skeletal muscle.
+
+Making a diagnosis of fibrodysplasia ossificans progressiva was difficult for a long time as there were no reliable biomarkers for such cases that could be evaluated in urine or peripheral blood. The pathogenesis found in such patients is the gain of function mutation in the ACVR1/ALK2 gene located over chromosome 2 and the involvement of the bone morphogenetic proteins (BMP) signaling pathway.

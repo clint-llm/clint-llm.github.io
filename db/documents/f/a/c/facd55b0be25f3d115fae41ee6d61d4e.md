@@ -1,0 +1,1 @@
+These lesions are distinguishable by glomus cells surrounded by enlarged, dilated vein-like tubes. Glomus cells are poorly differentiated smooth muscle cells. They stain positive for vimentin, calponin, and SMC alfa-actin. They are negative for S-100, von Willebrand factor, and desmin.

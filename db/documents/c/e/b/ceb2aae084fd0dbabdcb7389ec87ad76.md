@@ -1,0 +1,1 @@
+The follow-up also varies according to the type of osteotomy procedure and type of fixation.

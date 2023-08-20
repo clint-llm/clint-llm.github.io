@@ -1,0 +1,1 @@
+Adhesions account for approximately one percent of all general surgical admissions and three percent of all laparotomies. It is estimated to cost the United States over $2 billion annually in the management of adhesion-related complications.

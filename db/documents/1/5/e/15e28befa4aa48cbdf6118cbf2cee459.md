@@ -1,0 +1,3 @@
+While the major cause of these tumors remains unknown, several risks have been described for soft tissue sarcomas, such as genetic predisposition, radiation therapy, lymphedema, gene mutations, and chemotherapy.
+
+Clear cell sarcoma was initially described as “malignant melanoma of soft parts” due to their histological similarities. Both share immunohistochemical markers, and their gene expression profiling suggests that CCSST are a genomic subtype of MM.

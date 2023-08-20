@@ -1,0 +1,1 @@
+Extremes of age seem to be protective for postoperative nausea and vomiting. Meanwhile, there is an increased risk of PONV in female patients, in certain types of surgery. One of the few benefits of tobacco use, particularly smoking, may decrease the risk of developing postoperative nausea and vomiting.

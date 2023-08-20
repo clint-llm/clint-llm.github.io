@@ -1,0 +1,1 @@
+CPPs are rare tumors of neuroectodermal origin. In the pediatric population, they form the third most common congenital brain tumors, after teratomas and gliomas, and account for 0.4 to 0.6% of all intracranial neoplasms.

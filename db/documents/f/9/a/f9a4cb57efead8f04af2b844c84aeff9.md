@@ -1,0 +1,1 @@
+American Poison Control Centers have reported cardiovascular drugs as the third fastest-growing category of substance exposures. The American Association of Poison Control Centers (2011) reported 11,764 CCB overdoses in adults, second only to beta-blockers in several overdose deaths from cardiovascular medications (reported at 78 deaths).

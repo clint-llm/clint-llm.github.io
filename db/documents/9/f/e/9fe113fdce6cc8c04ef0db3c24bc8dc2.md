@@ -1,0 +1,1 @@
+The vagina has embryologic derivatives from both the Mullerian ducts proximally and urogenital sinus distally.

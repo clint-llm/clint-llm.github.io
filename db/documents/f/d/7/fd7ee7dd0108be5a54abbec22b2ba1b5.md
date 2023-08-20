@@ -1,0 +1,3 @@
+Researchers have not extensively studied the incidence of Liddle syndrome in the hypertensive population. Lin-Ping Wang et al. and Liu et al. studied the prevalence of Liddle syndrome. They found that among younger Chinese patients with unexplained resistant hypertension, the prevalence of Liddle Syndrome was 1.52% and 1.72%, respectively.
+
+Researchers of one study in US veterans concluded that there was approximately a 6% prevalence of symptomatic Liddle syndrome.

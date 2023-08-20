@@ -1,0 +1,3 @@
+An estimation of the pre-test probability of any potential diagnosis is paramount to enable judicious use of cytogenetic testing and avoid a "shotgun-testing" approach, especially considering the expensive nature of these tests. Lack of appropriate differential diagnosis or fixation on a particular diagnosis can lead to inappropriate testing or confirmation bias upon receiving testing results.
+
+For conventional karyotyping, the need for metaphase-stage cells requires cell division in the cultured sample. Lack of adequate preparation or cell types that are not prone to growing in vitro without a specific mean may impede adequate testing. Keeping these pitfalls in mind allows efficient use of cytogenetic analysis and allows a full realization of such testing benefits.

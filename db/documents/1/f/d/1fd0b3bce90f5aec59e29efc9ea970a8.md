@@ -1,0 +1,5 @@
+Clinical evaluation of the patient is essential to look for signs of organ dysfunction, especially if the patient cannot vocalize any discomfort due to the propofol sedation — signs such as dark urine from rhabdomyolysis or hepatomegaly.
+
+Monitoring lab values regularly upon initiating and during propofol infusion will be essential to ascertain any early signs of PRIS.  Results may reflect multi-organ system dysfunction.  Serum lab values can reveal a high anion gap metabolic acidosis, lactic acidosis, and lipemic plasma.  Additionally, there may be elevated serum creatine kinase, serum myoglobin, serum urea, serum potassium, and liver enzymes.  Hypertriglyceridemia is not unexpected due to the lipemic nature of the medication, which can lead to pancreatitis.
+
+It is critical to monitor closely for any cardiac abnormalities.  Any hint of arrhythmias may be an early sign of toxicity, and further tests must occur.  Patients should be on telemetry, and serial EKGs are a consideration. Bradycardia is often the first sign of heart irregularities.

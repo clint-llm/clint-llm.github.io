@@ -1,0 +1,1 @@
+A cherry-red spot at the macula is a rare finding, and the epidemiology depends on the cause. Tay-Sachs disease is estimated to affect 1 in 320000 newborns.

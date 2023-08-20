@@ -1,0 +1,7 @@
+Sudden death in athletes has been a tragic occurrence in the fields of sports medicine, cardiology, primary care, and pediatrics. By far, the most common cause of unexpected death for a younger athlete on the competitive field is cardiac illness, usually that of congenital etiology. However, the use of anabolic steroids, peptide hormones, and stimulants has led to the emergence of acquired heart disease in younger and middle-aged athletes. In contrast, sudden death in an older athlete is typically due to atherosclerotic coronary artery disease. This activity describes the evaluation, diagnosis, and management of structural and nonstructural causes of sudden cardiac death in athletes and stresses the role of team-based interprofessional care for affected patients.
+
+**Objectives:**
+- Explain the onset of the cardiac problems that may precede sudden cardiac death.
+- Describe the sports clearance physical exam and what findings might prompt the consideration of a condition putting the individual at risk for sudden cardiac death. 
+- Describe the management of the various cardiac etiologies that lead to sudden death in athletes.
+- Examine interprofessional team strategies for improving care coordination and communication to prevent missed opportunities to diagnose and treat patients at risk for sudden cardiac death.

@@ -1,0 +1,1 @@
+Manicurist should stop the habit of removing cuticles from fingernails and toenails because it will create a port of entry for a variety of organisms and ultimately leads to colonization. Surgical intervention may be necessary for more severe cases. In patients with frequent recurrences, permanent nail ablation can be beneficial.

@@ -1,0 +1,1 @@
+Restrictive cardiomyopathy (RCM) is distinguished by diastolic dysfunction in a non-dilated ventricle. Multiple types of restrictive cardiomyopathies vary according to pathogenesis, clinical presentation, diagnostic evaluation, treatment, and prognosis. Three of the leading causes of RCM include cardiac amyloidosis, cardiac sarcoidosis, and cardiac hemochromatosis.

@@ -1,0 +1,1 @@
+Selective IgA deficiency is defined as a decrease of serum IgA in the setting of normal serum IgM and serum IgG levels. It is the most common primary immunodeficiency.

@@ -1,0 +1,7 @@
+The diagnosis and management of meningitis are to be done with an interprofessional team that includes an emergency department physician, infectious disease specialist, neurologist, nurse practitioner, and pediatrician.
+
+Meningitis is an important disease entity that carries high morbidity and mortality rates, requiring early recognition and management. Kernig sign is a bedside physical exam maneuver used since its description in the 19th century to help diagnose meningitis. A positive test is the elicitation of pain or resistance with passive extension of the patient’s knees past 135 degrees in the setting of meningeal irritation. Due to its low sensitivity, the absence of the Kernig sign does not rule out meningitis; however, with its high specificity, a positive Kernig sign is highly suggestive of the diagnosis.
+
+Much of the literature on the Kernig sign is many years old, and no randomized studies have determined its validity. The healthcare practitioner needs to be aware that the gold standard test for meningitis is the lumbar puncture to assess the cerebrospinal fluid. No physical sign can replace this test.
+
+The Kernig test is not very sensitive to meningitis, and if absent, it does not mean that the patient does not have meningitis. However, if the test is positive, then the test is highly specific for meningitis. Of course, a positive test must correlate with clinical and laboratory features.

@@ -1,0 +1,1 @@
+The temperature of the refrigerator where the membrane is stored in the freezer compartment must be monitored. The amniotic membrane is stored for long term use in a -80°C freezer before distribution to various centers. The maintenance of the temperature and sterility of the AMG must be ensured before use for patient safety.

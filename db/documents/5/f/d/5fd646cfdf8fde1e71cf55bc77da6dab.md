@@ -1,0 +1,1 @@
+The same contraindications exist for USGIVs as for any PIV. Infection or phlebitis overlying the vein, arteriovenous fistula in the extremity, previous surgeries to the extremity affecting the vasculature, and trauma or burns proximal to the injury would make the vein a less-than-ideal choice.

@@ -1,0 +1,1 @@
+To prevent toxicity, patients with hepatic impairment should be given a lower dose since the drug's elimination is lower than that of healthy patients. Additionally, tolterodine demonstrated higher concentrations in patients with renal impairment. Therefore, recommendations include a decrease in drug dosage in both patients with hepatic or renal impairment.

@@ -1,0 +1,1 @@
+Generally, magnetic resonance imaging (MRI) is necessary before performing any spinal epidural injection. This imaging allows for clear visualization of the pathology and can aid in procedure planning. Along with clinical findings, MRI also helps determine the procedure or approach most likely to benefit the patient and has been shown to influence management decisions.

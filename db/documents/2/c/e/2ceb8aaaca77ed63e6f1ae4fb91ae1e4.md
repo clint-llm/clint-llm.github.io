@@ -1,0 +1,1 @@
+This block is generally performed on patients undergoing shoulder, upper arm or elbow surgery. It is not recommended for hand surgery as the inferior trunk may be spared.

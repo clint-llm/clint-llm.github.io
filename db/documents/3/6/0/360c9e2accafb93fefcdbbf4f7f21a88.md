@@ -1,0 +1,1 @@
+It is important to remind parents of the natural history of capillary hemangiomas. With modern treatments using oral propranolol, most hemangiomas that need treatment will respond, although the procedure may need to be continued for a prolonged period.

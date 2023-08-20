@@ -1,0 +1,3 @@
+On a cellular level, the accommodation reflex relies on neural signaling to conduct both afferent and efferent pathways. Impulses are carried along the fibers of the optic nerve, through projections of the cortex, and ultimately to the oculomotor and Edinger-Westphal nuclei. Moreover, the retinal neurons involved in the transmission of vision rely on phototransduction, which has a complex cellular mechanism.
+
+Current understanding of accommodation has its basis in the capsular theory of accommodation or Helmholtz hypothesis. With accommodative effort, there is the contraction of the ciliary muscle, releasing the tension on zonules, that  “fatten” the lens, increasing the central thickness and optical power, aiding in near vision.

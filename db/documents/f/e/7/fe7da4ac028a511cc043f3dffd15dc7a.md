@@ -1,0 +1,1 @@
+The prevalence of substernal goiter in the general population is unknown because of a lack of epidemiological studies. Because of the widespread use of imaging, more cases of substernal goiter are expected to come to clinical attention. Substernal goiter is more commonly diagnosed after age 50 years and is four times more common in females.

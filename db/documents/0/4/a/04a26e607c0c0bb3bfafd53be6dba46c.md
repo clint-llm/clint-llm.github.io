@@ -1,0 +1,1 @@
+The underlying cause of placenta previa is unknown. There is, however, an association between endometrial damage and uterine scarring.

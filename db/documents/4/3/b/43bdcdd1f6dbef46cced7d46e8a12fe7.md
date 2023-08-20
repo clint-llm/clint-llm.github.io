@@ -1,0 +1,7 @@
+Unlike other conditions and life experiences, which only affect a certain percentage of the world’s population, the end-of-life is a stage in the process of living, which all people will eventually face. It is estimated there are currently twenty-million people worldwide who need some form of end-of-life care. In the United States, on average, seven thousand people die every day from various illnesses. At some point in their careers, all health professionals who provide direct patient care will most likely encounter an actively dying patient. Therefore, they must be informed of the issues of concern and the clinical significance of this process. This activity reviews the management of end-of-life issues and examines the interprofessional team's role in evaluating, diagnosing, and managing the situation.
+
+**Objectives:**
+- Identify the epidemiology of end of life events worldwide and in the United States.
+- Outline possible definitions of end-of-life.
+- Summarize the variability of the timeline for end-of-life events.
+- Describe the interprofessional team's role in caring for a patient near the end of life and how the individual and family can be assisted to provide the best possible outcome.

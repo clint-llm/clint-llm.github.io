@@ -1,0 +1,3 @@
+Patients with PLM may present at their provider’s office complaining of daytime fatigue, sleepiness, and insomnia. Collateral history from bed partner, if present, will include kicking of legs at night. A subset of patients may complain of frequent awakenings and problems with sleep onset due to these movements.
+
+The physical and neurological exams are normal in most cases of primary or idiopathic PLM. In other instances, anemia presenting as pallor, high BMI in obesity, and possible peripheral neuropathies from diabetes could be present. The examination should not only focus on evaluating upper airway obstruction but also look for other abnormalities like peripheral neuropathy, peripheral vascular disease, and varicose veins.

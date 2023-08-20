@@ -1,0 +1,1 @@
+Buckle fractures occur almost exclusively in long bones of children, although they can also occur in flat bones - particularly rib fractures.

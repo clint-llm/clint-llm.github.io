@@ -1,0 +1,1 @@
+The differential diagnosis for acute HIV infection in pregnancy can include infectious mononucleosis (IM), syphilis, rubella, toxoplasmosis, viral hepatitis, disseminated gonococcal infection, or an autoimmune disease of new-onset.

@@ -1,0 +1,1 @@
+Grafting requires a good vascular supply for the survival of the tissue and a good donor match for an acceptable cosmetic result. Donor sites should match in the thickness, color, texture, and adnexal structures. Donor sites should match the actinic damage of the graft site as well, but it is more important the area be free of cancerous and precancerous lesions.

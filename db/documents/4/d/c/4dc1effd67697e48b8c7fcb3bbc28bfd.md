@@ -1,0 +1,1 @@
+Prevertebral ganglia, in general, contain extensive vascularization. The primary source of vascularization of the celiac ganglia is the celiac trunk and specifically the celiac artery, which eventually branches into small ganglionic capillaries. Most ganglionic capillaries are continuous, but some are fenestrated, which allows the movement of substances through the membrane.

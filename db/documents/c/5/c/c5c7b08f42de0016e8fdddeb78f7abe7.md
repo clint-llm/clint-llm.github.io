@@ -1,0 +1,7 @@
+The World Health Organization characterizes the field of palliative care as a form of specialized medical care that aims to optimize the quality of life and alleviate the suffering of patients with serious illnesses. One of the primary ways to achieve this is through early identification and treatment of new symptoms, along with managing those that prove refractory. Palliative care can be administered in multiple settings and by various healthcare providers. Primary care providers, hospitalists, and emergency medicine physicians often provide the first interventions for palliative concerns. This activity reviews palliative care and highlights the role of the interprofessional team in evaluating and treating patients near the end of life or suffering from a severe chronic illness using an appropriately trained team of professionals.
+
+**Objectives:**
+- Describe how the World Health Organization defines palliative care.
+- Explain the signs and symptoms addressed by palliative care.
+- Describe the healthcare team members that should be in place to offer palliative care.
+- Review palliative care and the role of the interprofessional team in evaluating and treating patients near the end of life using an appropriately trained team of professionals.

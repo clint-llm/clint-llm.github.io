@@ -1,0 +1,1 @@
+Prognosis depends on age, size of the ischemic core, reperfusion strategies used, and other prognostic markers.

@@ -1,0 +1,3 @@
+Unicameral bone cysts tend to spontaneously improve in the majority of patients, especially after skeletal maturity. Less than 10% of patients experience growth arrest of the affected bone, which is usually seen after a pathologic fracture or recent curettage. Interestingly enough, both active and latent cysts tend to recur, even after resection.
+
+Overall, the majority of lesions are clinically insignificant, and patients do well.

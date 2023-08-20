@@ -1,0 +1,1 @@
+Lymphatic vessels within the thorax converge to form bronchomediastinal trunks. The trunks on the right side are typically present on the right brachiocephalic vein, as well as the subserosal surface of the mediastinal pleura. The bronchomediastinal trunks on the left side of the body display more variable courses.

@@ -1,0 +1,1 @@
+The differential diagnosis of CPA mass includes primary CPA tumors like vestibular schwannoma, meningioma, epidermoid, non-vestibular schwannoma, congenital, vascular, and metastatic lesions.

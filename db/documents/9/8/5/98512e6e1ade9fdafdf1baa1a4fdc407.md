@@ -1,0 +1,1 @@
+The pathogenesis of Bazex syndrome is unknown. Some authors have implicated an immunological mechanism based on the findings of immunoglobulins (IgG, IgA, IgM) and complement (C3) along the basal membrane of the involved and healthy skin. An immune reaction to a common antigen (skin and tumor) has been suggested.

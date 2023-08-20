@@ -1,0 +1,5 @@
+A diver with suspected pulmonary barotrauma needs prompt medical evaluation and treatment. Upon arrival at the medical facility, a history, physical exam, basic labs, electrocardiogram (EKG), and chest roentgenogram are required.
+
+Chest radiograph most commonly will reveal pneumomediastinum, but pneumothorax can be present. Edema or infiltrates may also be present.
+
+A complete blood count can help determine if an infection is present, and if hematocrit is more than 48%, the chance of neurologic sequelae one month after the injury is high. Rising serum creatinine phosphokinase (CPK) indicates tissue damage due to microemboli. EKG can reveal tachycardia, arrhythmias, or myocardial infarction. Pulse oximetry or arterial blood gas can indicate hypoxia. Then, the need for recompression and hyperbaric oxygen therapy needs to be efficiently and accurately assessed for the patient.

@@ -1,0 +1,1 @@
+By obtaining an ABG and analyzing the pH, partial pressures, comparing it to measured serum bicarbonate in a sick patient, multiple pathological conditions can be diagnosed. The alveolar-arterial oxygen gradient is a useful measure of lung gas exchange, which can be abnormal in patients with a ventilation-perfusion mismatch.

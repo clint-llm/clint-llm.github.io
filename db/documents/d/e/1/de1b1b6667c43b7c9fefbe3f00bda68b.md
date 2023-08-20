@@ -1,0 +1,1 @@
+A team consisting of an anesthesiologist, cardiac surgeon, cardiologist, surgery assistants, operation room assistant, a radiologist, and additional staff members is required to perform an aortic heart valve replacement surgery.

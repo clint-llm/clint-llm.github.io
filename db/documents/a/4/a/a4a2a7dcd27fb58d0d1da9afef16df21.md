@@ -1,0 +1,3 @@
+The hyoid consists of a body, two greater horns, and two lesser horns.
+
+The hyoid takes part in all possible functional actions of the orofacial complex. It preserves the patency of the airway between the oropharynx above and tracheal rings below. It also connects to the larynx and hence plays a role in phonation. Other functions include tongue movement, mastication, swallowing, prevention of regurgitation, and even respiration.

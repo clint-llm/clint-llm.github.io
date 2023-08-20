@@ -1,0 +1,1 @@
+Surgery offers the chance of curing this disease at an early stage. However, approximately 45 percent of the treated population develops recurrence over time.

@@ -1,0 +1,1 @@
+The prevalence of amputations was 1.6 million in 2005, with projections that the prevalence may double by the year 2050.

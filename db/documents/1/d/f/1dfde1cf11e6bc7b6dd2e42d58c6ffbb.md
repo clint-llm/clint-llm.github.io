@@ -1,0 +1,1 @@
+Endophthalmitis is defined as an inflammation of the inner coats of the eye, resulting from intraocular colonization of infectious agents with exudation within intraocular fluids (vitreous and aqueous).

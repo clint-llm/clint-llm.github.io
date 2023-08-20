@@ -1,0 +1,3 @@
+Marijuana toxicity is becoming common in emergency rooms all over the nation. The key reason is that there is limited quality control over the manufacturing of marijuana. Thus, many preparations contain varying levels of THC as well as toxic contaminants. Plus, many individuals consume marijuana with other illicit agents, including alcohol. The management of marijuana toxicity is commonly adequate with supportive measures. Because the agent can affect many organ systems, an interprofessional team including internists, psychiatrists, and occasionally cardiologists should assist with managing the patient.
+
+Parents should be educated about the adverse effects of marijuana and urged to store the agent away from the reach of children.

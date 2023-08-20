@@ -1,0 +1,3 @@
+There is no specific age and sex predilection for Marcus Gunn pupil in isolation. In a study conducted using binocular pupilometer, 42% of the normal population showed an RAPD between 0.08 and 0.22 log units, and 6% had an RAPD between 0.23 and 0.39 log units.
+
+An RAPD is noted in more than 90% of cases of acute unilateral cases of optic neuritis, 91% cases of ischemic central retinal vein occlusion (CRVO), more than 50% cases of retinal detachment involving the macula, and 23% cases of primary open-angle glaucoma (POAG).

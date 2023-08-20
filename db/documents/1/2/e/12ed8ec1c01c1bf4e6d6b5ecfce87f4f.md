@@ -1,0 +1,1 @@
+The primary differential diagnoses for clear cell acanthoma include pyogenic granuloma, benign lichenoid keratosis, inflamed seborrheic keratosis, eccrine poroma, basal cell carcinoma, squamous cell carcinoma, amelanotic melanoma, and psoriasis.

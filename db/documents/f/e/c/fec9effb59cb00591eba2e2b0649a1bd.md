@@ -1,0 +1,1 @@
+Recent studies have linked the etiology of Klippel Trenaunay syndrome to somatic mutations in the phosphatidylinositol-4-5-bisphosphate 3 kinase, catalytic subunit (PIK3CA) gene. This leads to the activation of phosphatidylinositol-3-kinase (PI3K)/protein kinase and cell overgrowth by dysregulation of the mTORC2 pathway.

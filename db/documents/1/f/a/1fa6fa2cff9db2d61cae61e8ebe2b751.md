@@ -1,0 +1,3 @@
+There is insufficient research to ascertain if persistent postural-perceptual dizziness is a lifelong condition. Patients who receive vestibular balance rehabilitation therapy and cognitive behavioral therapy, along with pharmaceutical management, report a higher quality of life and return to normal activities sooner than those who don’t receive any treatment.
+
+Studies suggest that those with intervention acutely following a triggering event fare better than those that receive no intervention following an acute triggering event.

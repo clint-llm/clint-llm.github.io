@@ -1,0 +1,1 @@
+All medical personnel should train with a basic understanding of the use of pulse oximetry. Advanced users will find it helpful to understand the relationship between the pulse oximetry readings to blood hemoglobin concentrations and how they are affected by the oxygen-hemoglobin dissociation curve.

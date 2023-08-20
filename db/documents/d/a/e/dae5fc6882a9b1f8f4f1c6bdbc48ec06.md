@@ -1,0 +1,1 @@
+Myotonic dystrophy is the most common muscular dystrophy in people of European ancestry.

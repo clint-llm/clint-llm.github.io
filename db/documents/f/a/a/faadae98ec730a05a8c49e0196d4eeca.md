@@ -1,0 +1,1 @@
+If the patient has elevated intraocular pressure, the patient must be referred to an ophthalmologist.

@@ -1,0 +1,1 @@
+The medical profession has an established history of team-based approaches to managing the varying complexities of patients. Effective communication between team members has been recognized as a critical factor in safer healthcare delivery.

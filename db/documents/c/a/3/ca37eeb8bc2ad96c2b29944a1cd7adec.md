@@ -1,0 +1,3 @@
+Gross granular infiltration of the corneal epithelium and the anterior stroma is the main finding in FK with collagen destruction, coagulative necrosis, and stromal fungal infiltration seen on microscopy. FK is usually associated with less purulent inflammatory cellular infiltration compared to bacterial keratitis.
+
+Various stains can be used to detect fungi in corneal tissue or scrapings including potassium-hydroxide, gram staining, Giemsa staining, lactophenol cotton blue, methenamine silver, and calcofluor white.Fusarium hyphae that lay parallel to the lamellae of the corneal stroma, and Aspergillus hyphae that grow vertically.

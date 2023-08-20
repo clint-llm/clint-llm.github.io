@@ -1,0 +1,3 @@
+As most cases of botulism follow the consumption of inadequately canned or preserved food, control is achievable by proper canning and preservation. When an outbreak occurs, a prophylactic dose of antitoxin should be given intramuscularly to all who consumed the food article.
+
+Active immunization has demonstrated to be effective. If immunization is needed, as in laboratory workers exposed to the risks, two injections of aluminum sulfate adsorbed toxoids may be given at an interval of ten weeks, followed by a booster a year later. Antitoxin may be tried for treatment. Polyvalent antiserum to types A, B, and E may be administered as soon as arriving at a clinical diagnosis. Supportive therapy with the maintenance of respiration is of equal or great importance.

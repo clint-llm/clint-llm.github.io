@@ -1,0 +1,9 @@
+There are numerous issues of concern within telemedicine. Some significant concerns include reimbursement, patient privacy, diagnostic accuracy, lack of physician-patient relationship, liability, security, regulatory issues, and technology-related barriers.
+
+There is no universal federal standard for reimbursement of telemedicine visits or services. Each state is responsible for addressing their own rules and approaches to the matter. While some states require the same reimbursement across telemedicine and in-person services, other states leave it up to the payers/insurance to address. This trend holds for many developed regulations and complexities with reimbursement for Medicare and Medicaid.
+
+As with all data sent electronically, it is subject to being intercepted, stolen, or misused in some fashion. HIPAA and similar regulations prove to remain a focal point of concern for many clinicians and patients. These same requirements mandate that data be encrypted to protect patients, and thereby rule-out ubiquitous programs such as Skype and Google chat for specialized solutions.
+
+The lack of direct contact between a patient and physician provider can create problems of its own regarding diagnostic accuracy and the physician-patient relationship.
+
+In that same light, another concern is the technology itself, specifically the accessibility and usability. The software must be easily operational and straightforward to be functional. Some clinicians get intimidated by feature overload and complex graphical user interfaces. Likewise, the general population is also at risk of being overwhelmed - especially if they belong to a demographic that is not well-acquainted with similar technology (email, text message, video chat). As such, patients must receive suitable training on how to operate their devices and/or programs effectively.

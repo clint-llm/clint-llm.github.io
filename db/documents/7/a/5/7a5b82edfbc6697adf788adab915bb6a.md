@@ -1,0 +1,3 @@
+Endobronchial ultrasound (EBUS) is an advanced bronchoscopic technique employing a side-viewing ultrasound transducer (either convex or radial) combined with a fibreoptic bronchoscope. Clinicians can assess and sample lymph nodes within the proximal bronchial tree, the hilar regions, and anterosuperior mediastinum, as well as both endobronchial and peribronchial mass lesions.
+
+Developed in the 1990s, clinical use has become widespread in the last 20 years, with endobronchial ultrasound transbronchial needle aspiration (EBUS-TBNA) becoming a gold standard test for tissue sampling staging of non-small cell lung cancer and the diagnostic assessment of mediastinal lymphadenopathy.

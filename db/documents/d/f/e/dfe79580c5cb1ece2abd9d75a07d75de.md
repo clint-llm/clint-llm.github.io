@@ -1,0 +1,1 @@
+The vast majority of Parkinson-plus syndrome cases occur sporadically, and the precise etiology remains unknown. A few examples of familial cases suggest that genetics may play a role in the pathogenesis of PPS.

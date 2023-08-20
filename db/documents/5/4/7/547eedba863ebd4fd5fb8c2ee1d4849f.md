@@ -1,0 +1,1 @@
+Rolando fracture which is a comminuted fracture at the base of the first metacarpal with a maintained volar carpal ligament, preventing displacement of the volar fragment.

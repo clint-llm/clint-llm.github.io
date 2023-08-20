@@ -1,0 +1,5 @@
+The prognosis of endogenous endophthalmitis depends on the presentation time, clinical manifestation, the extent of vitreous involvement, and virulence of the offending microorganism. It's a complex entity to diagnose, and due to various comorbidities, it is often picked up late. However, studies have proven that yeasts have the best prognosis, followed by bacteria followed by molds which have the worst prognosis.
+
+Patients who present late and in whom diagnosis and treatment are delayed often land up with complete vision loss, and the prognosis is poor in these cases. The patients requiring vitreous tap are at risk for retinal detachment, and the prognosis is guarded in these cases. Zenith et al., in their analysis, showed that bacterial EE had a poor outcome and prognosis compared to fungal EE and these cases usually require enucleation and evisceration.
+
+Similarly, Itoh et al. showed that early and aggressive vitrectomy within two weeks of diagnosis results in good final outcomes, and the prognosis is good in these cases.Klebsiella EE required vitrectomy.Klebsiella EE can be a prognostic predictor.

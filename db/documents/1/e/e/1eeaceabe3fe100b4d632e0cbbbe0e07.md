@@ -1,0 +1,3 @@
+Hearing loss is an extremely common condition. The World Health Organization (WHO) estimates that over 400 million individuals worldwide are affected by hearing loss.
+
+To best examine, diagnose, and treat hearing loss, standard definitions and agreements are required among health care practitioners. Understanding hearing loss through anatomy, pathophysiology, and epidemiology is key to adequately addressing this condition that is rising with the aging population.

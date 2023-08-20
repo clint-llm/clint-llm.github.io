@@ -1,0 +1,1 @@
+Bitemporal hemianopsia (or bitemporal hemianopia) describes the ocular defect that leads to impaired peripheral vision in the outer temporal halves of the visual field of each eye. This condition commonly results from a tumor or lesion impinging on the optic chiasm, the decussation point of the optic nerve conveying visual information from the nasal retina in each eye.

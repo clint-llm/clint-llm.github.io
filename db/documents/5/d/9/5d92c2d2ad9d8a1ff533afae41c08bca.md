@@ -1,0 +1,3 @@
+The brainstem, including the midbrain, the pons, and the medulla, is composed of several nerves, pathways, reflex centers, and nuclei. The midbrain is the smallest portion of the brainstem (about 1.5 cm) and its most cranial structure. It is in the brainstem between the pons caudally (mesencephalic-pons groove) and the diencephalon, which includes the thalamus, the hypothalamus, the epithalamus, and the subthalamus.
+
+The midbrain mediates the reflexes of miosis and mydriasis and plays an essential role in sensory and motor control pathways. It contains, for instance, several extrapyramidal structures that are important for movement regulation. Furthermore, it is indispensable for the passage of impulses from the nervous system between the spinal cord and brain.

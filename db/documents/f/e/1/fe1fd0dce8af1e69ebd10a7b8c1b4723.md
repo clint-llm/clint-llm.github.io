@@ -1,0 +1,3 @@
+Within the middle ear, there are two muscles that are integrated with the bony ossicles. The tensor tympani attaches to the malleus at the handle and functions to dampen the vibrations from the tympanic membrane. When the tensor tympani contracts, the malleus is moved medially, leading to the tympanic membrane becoming tauter. This functions to protect the ear from loud and damaging sounds.
+
+The other muscle, the stapedius, is located in the posterior portion of the tympanic membrane. It attaches to the stapes and functions to move the stapes posteriorly. By serving this action, the stapes is restricted in its range of motion. Additionally, the stapedius muscle contracting tilts the base of the stapes reducing the oscillatory range.

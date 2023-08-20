@@ -1,0 +1,5 @@
+The incidence of toxoplasmosis infection depends on the seropositivity of Toxoplasma gondii in the population. In the United States, the seropositivity of T. gondii is approximately 10% of the adult population. Seropositivity is higher in Africa and Europe where it can reach up to 80%, and toxoplasma encephalitis could be as high as 25% to 50% of susceptible hosts. The seropositivity in the HIV population mirrors that of the general population.
+
+Even though cats and related felines have traditionally been associated with toxoplasmosis, the prevalence of infection is not related to owning a cat. In the HIV Toxoplasma-seropositive patients with CD4 less than 100 who are not on appropriate prophylaxis, the probability of developing reactivated toxoplasmosis is as high as 30%.
+
+Apart from oral transmission, toxoplasmosis can also be transmitted via the placenta from mother to fetus or through transplantation of an infected organ.

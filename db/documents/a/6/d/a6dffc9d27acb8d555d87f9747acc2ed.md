@@ -1,0 +1,3 @@
+The anterior two-thirds of the cord contains important tracts for the proper functioning of the central nervous system (CNS); injury impairs the actions of these tracts.  Motor function impairment arises from damage to the efferent corticospinal tract and sensory deficits arise from damage to the afferent spinothalamic and spinocerebellar tracts. Other manifestations of the syndrome will depend on the location where the cord was injured. In general, there is a risk for autonomic dysreflexia, sexual impairments, movement impediments, neuropathic pain, and neurogenic bladder and bowel.
+
+The clinical onset of ventral cord syndrome is abrupt, with pain, flaccid paraplegia or tetraplegia below the lesion, and alterations in temperature and pain sensation.

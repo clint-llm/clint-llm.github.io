@@ -1,0 +1,1 @@
+Given the unrecognized nature of lipoid pneumonia, the precise incidence is unknown; however, in past autopsy series, the incidence has been reported as 1% to 2.5%.

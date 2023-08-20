@@ -1,0 +1,1 @@
+The anterior choroidal artery (branch of the internal carotid artery) and the lateral posterior choroidal artery (branch of the posterior cerebral artery) are the main arterial blood supply to the choroid plexus of the lateral ventricles.

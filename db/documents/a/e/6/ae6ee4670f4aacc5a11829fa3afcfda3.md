@@ -1,0 +1,5 @@
+The hypoglossal nerve (CN XII) is the last cranial nerve in the body, located on the posterior portion of the medulla oblongata. The hypoglossal nerve exits the skull in the posterior fossa via the hypoglossal canal. The hypoglossal nerve then descends deep to the sternocleidomastoid muscle and superficial to the external carotid artery. The hypoglossal nerve then makes a horizontal turn toward the greater horn of the hyoid bone and subsequently comes into proximity of the lingual artery.
+
+The hypoglossal-lingual neurovascular bundle (HLNVB) is located at the base of the tongue and is an important contributor to proper tongue structure and function.
+
+The chorda tympani is a branch of the facial nerve (CN VII) and provides taste sensation from the anterior two-thirds of the tongue. The lingual nerve provides general sensation from the anterior two-thirds of the tongue. The nerve fibers that make up the chorda tympani are special visceral afferents.

@@ -1,0 +1,1 @@
+Nail psoriasis is a chronic disease process, treatment may be prolonged, and education of patients is an essential part of management.

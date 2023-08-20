@@ -1,0 +1,5 @@
+The Morel-Lavallee lesion was first described in 1863 by a French surgeon named Maurice Morel-Lavallee as a closed degloving injury that occurs post traumatically where deep fascia get separated from the skin and superficial fascia, hence creating a potential space.
+
+The impact of devastating trauma leads to the injury of lymphatics and blood vessels that lie in the vicinity, resulting in the accumulation of lymph and blood in this potential space. This results in the setting of a chronic inflammatory reaction, which later leads to the formation of a capsulated lesion lined by a fibrous capsule and filled with necrotic fatty tissue, blood products, fibrin, and debris.
+
+The Morel-Lavallee lesion clinically presents as a painful fluctuant swelling at the site of involvement. Concerning the recent literature available, this lesion is also termed as Morel-Lavallée seroma, posttraumatic soft tissue cyst, post-traumatic extravasation, or Morel-Lavallée effusion.

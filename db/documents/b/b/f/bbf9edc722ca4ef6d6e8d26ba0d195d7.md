@@ -1,0 +1,1 @@
+Preventing snakebites and improving snakebite management requires collaboration among a variety of healthcare providers, including emergency medical service (EMS) personnel, rural hospitals and emergency departments, medical toxicologist, research institutions, and antivenom researchers and manufacturers. A recent article highlighted these challenges in the setting of South Asia.

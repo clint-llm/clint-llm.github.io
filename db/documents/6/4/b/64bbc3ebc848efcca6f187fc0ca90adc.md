@@ -1,0 +1,1 @@
+Four muscle groups comprise the intrinsic hand. These are the thenar, hypothenar, interossei and the lumbrical muscles.

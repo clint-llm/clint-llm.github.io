@@ -1,0 +1,1 @@
+Generally, with timely diagnosis and appropriate treatment, the lesions of Sweet syndrome resolve without scarring.

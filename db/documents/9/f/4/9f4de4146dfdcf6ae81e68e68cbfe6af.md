@@ -1,0 +1,15 @@
+In the various studies and trials performed using natalizumab, patients' most common self-reported effect was fatigue. Additional self-reported effects included headache, nausea, and rhinorrhea.
+
+There is a low risk of anaphylaxis. Hypersensitivity issues manifested with rash, urticaria, bronchospasm, chest pain, flushing of the skin, and low blood pressure. Most hypersensitivity issues will manifest within 2 hours of infusion.
+
+Given that natalizumab is an immune-modulating drug, its risk of association with other unusual and serious infections exists but is not definitive.[1]
+
+Three risk factors have been associated with a decreased incidence of PML, which include (1) that the patient was on Natalizumab for the shortest period, (2) the patient did not have a large list of immunosuppressant drug use in their history, and (3) those patients who were negative for virus antibodies. The incidence of PML in a low-risk group (as defined by those mentioned above) was 0.09 cases per 1000 patients, compared to the high-risk group’s 11.1 cases per 1000 patients.
+
+Increases in nucleated red cells were seen in some patients. The changes were not permanent and without clinical effect. The levels returned to baseline within 16 weeks. An increase in lymphocytes, monocytes, and eosinophils can be seen in a patient on Natalizumab therapy. No increase in the neutrophil count has been noted in patients on natalizumab therapy. The increase in lymphocytes is expected, as the alpha-4 integrin is located on these cells. By blocking their navigation across the blood-brain barrier, it is expected that they would remain at high levels in the serum.
+
+No significant negative psychiatric effects have been associated with disease-modifying drugs like natalizumab. Reviews suggest that there may be either an indirect or direct benefit in helping to reduce psychiatric symptoms of depression.
+
+Natalizumab can increase the risk of developing encephalitis and meningitis caused by varicella-zoster viruses and herpes simplex. Serious, life-threatening, and rarely fatal cases have been reported in the post-marketing studies in patients with MS. The diagnosis was confirmed by laboratory PCR for viral DNA in the cerebrospinal fluid. The duration of treatment with natalizumab before onset ranged from a few months to several years.
+
+There is also an increased risk of acute retinal necrosis (ARN) caused by herpesviruses has been observed in patients being administered natalizumab. ARN can also occur in patients with herpes meningitis or encephalitis. Serious cases of ARN may lead to the blindness of one or both eyes in some patients. Therefore, following a confirmed diagnosis of ARN, consider discontinuation of natalizumab. The treatment reported in ARN cases included anti-viral medicines and sometimes surgery.

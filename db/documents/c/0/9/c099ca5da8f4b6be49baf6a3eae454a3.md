@@ -1,0 +1,1 @@
+The incidence and prevalence of rib fractures depend on the injury and the severity of the trauma. Children are less likely to sustain rib fractures than adults due to their more elastic ribs. The elderly tend to be more prone to rib fractures than younger individuals, with higher mortality and morbidity.

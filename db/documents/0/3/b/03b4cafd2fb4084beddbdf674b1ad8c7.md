@@ -1,0 +1,7 @@
+**THE EXPANDING GLOBAL COSMECEUTICAL MARKET & TRENDS**
+
+The desire to look good, younger, toned, and healthy has caught on across the global population in a big way. According to Euromonitor International, the 2015 global retail sales of natural products-based cosmeceuticals were US$2.98 billion, with this segment showing a 4% compound annual growth rate (CAGR) during the previous five years. According to the study conducted by Indian Cosmetic Sector Analysis, the cosmetic market is around INR 356 billion. The  Indian beauty and cosmetic market have been showing a consistent growth between 15 to 20% per annum.
+
+Women remain the top consumers, although the use of cosmeceuticals by men is steadily increasing. Two major factors have contributed to the rising trend in this market - media exposure with attractive and catchy advertising by manufacturing companies, and the corporate dressing culture, which was commonplace in the west, but now evolving quickly in the Asia-Pacific region as well. Lastly, the improved buying capacity of consumers also has a substantial contribution to this phenomenon.
+
+Concomitant with the growth, there has also been a surge of development and employment of novel and innovative technologies for producing safer and more effective cosmeceuticals. Nanotechnology, penetration enhancers, stabilizers, and special excipients are increasing in use.

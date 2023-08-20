@@ -1,0 +1,1 @@
+Sulfur mustard (dichlorethylsulphide) and nitrogen mustard are blistering agents, or vesicants, that have been used in chemical warfare dating to before the nineteenth century. Their historical use is most often remembered in the first and second world wars.

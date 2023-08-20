@@ -1,0 +1,1 @@
+As mentioned in the introduction, there is a direct causal relationship between exposure to potentially traumatic events (PTEs) and the onset of PTSD. The most commonly reported PTEs in the pediatric population include physical injuries, domestic violence, and natural disasters.

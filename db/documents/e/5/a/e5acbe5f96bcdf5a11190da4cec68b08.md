@@ -1,0 +1,1 @@
+Any procedure involving the subclavian or axillary artery has the potential to affect the superior thoracic artery. These may include surgery for the correction of congenital anomalies such as an aberrant subclavian or during repair of an axillary artery dissection. Given the size and location of the artery, iatrogenic injuries are very rare.

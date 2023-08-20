@@ -1,0 +1,1 @@
+The facial colliculus is a unique feature located in the pons that houses the abducens nucleus and the facial motor fibers. This distinctive interaction between the two cranial nerves leads to multi-level neurological dysfunctions when there is a lesion of the facial colliculus.

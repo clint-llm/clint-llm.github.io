@@ -1,0 +1,7 @@
+A fully distended urinary bladder is required for adequate ultrasound assessment of pelvic organs in a female. It provides an acoustic window for adequate visualization of the pelvic structures. In non-emergency cases, patients with bladder control are advised to hold urine before scanning. The referring physician or assistant should be aware of this requirement and instruct the patients/parents accordingly. Interpersonal communication between the ordering physician and scheduling nurse can avoid unnecessary delays in scanning.
+
+In an emergency or in patients who do not have bladder control, the urinary bladder is filled retrogradely with a catheter. Communication between ultrasound technologists, ordering physicians, and/or nurse catheterizing the patients enhances patient care by obtaining proper ultrasound images.
+
+Point-of-care ultrasonography (POCUS) performed by an emergency physician can diagnose an ectopic pregnancy in pediatrics with 100% sensitivity. Early and accurate diagnosis reduces time in the treatment of ruptured ectopic pregnancy.
+
+Proper and timely communication of critical findings to the emergency physicians and gynecologists is required for speedy treatment. SPecialty-train ob/gyn nursing staff can also assist in the procedure. This type of interprofessional coordination will yield the best results. [Level 5]

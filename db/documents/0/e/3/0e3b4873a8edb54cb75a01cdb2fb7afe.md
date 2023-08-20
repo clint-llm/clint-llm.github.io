@@ -1,0 +1,9 @@
+There are a number of physiologic variants of the appendicular skeleton. The text below briefly describes several of the anomalies.
+
+Polymelia is a congenital duplication of a limb or appendage. It is rare in humans, but it often appears in animals. It seems to be due to incomplete separation of monozygotic twins. The gene responsible for polymelia may be related to the disorganization Ds gene seen in mice.
+
+Syndactyly, also known as webbed digits, is the partial or total conjoining of digits in the upper or lower limb; this is one of the most common limb malformations with a prevalence of 3 to 10 per 10,000 births. Syndactyly can present unilateral or bilateral. These are categorized as partial or complete, which is based on the extent of webbing or fusion. Syndactyly can then further sub-classify as simple or complex. Simple syndactyly only involves the fusion of soft tissue, in comparison to complex, which involves bone fusion. Treatment of syndactyl requires surgical intervention.
+
+Another digit malformation is triphalangeal thumbs, which is a rare congenital anomaly. This condition is where the thumb has three phalanges (proximal, intermediate, and distal) instead of the usual two phalanges (proximal and distal). This anomaly will often make the thumb appear “finger-like” due to its increased length. Like the other digit malformations, triphalangeal thumbs are repairable surgically.
+
+A supracondylar process is a bony projection on the anterior surface of the humerus. It points downward towards the medial epicondyle. Struthers ligament is a ligament that can accompany this bony malformation. The ligament attaches from the supracondylar process to the medial epicondyle. These variants are typically asymptomatic, although there are reports of cases where Struthers ligament entraps structures such as the median nerve.

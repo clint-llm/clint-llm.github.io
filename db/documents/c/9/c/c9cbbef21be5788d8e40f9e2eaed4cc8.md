@@ -1,0 +1,1 @@
+The CDC recommends that all persons who have had sexual contact with a granuloma inguinale patient within two months prior to the presentation of symptoms should undergo an examination and be offerred treatment. The role of empiric treatment in such individuals without any of the typical symptoms or signs of the disease has not been determined.

@@ -1,0 +1,1 @@
+There is an estimated incidence of 1 to 3 per 100000 live births, although the true incidence may be higher. It has a female predominance with a female/male ratio of 2 to 1. It presents in 3 to 6% of patients with a partial anomalous pulmonary venous connection.

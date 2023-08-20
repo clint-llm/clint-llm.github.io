@@ -1,0 +1,1 @@
+Tapia syndrome has a close association with surgical procedures involving general anesthesia and orotracheal intubation. Main factors that impact incidence appear to be the duration of intubation, neck positioning, and upper limb manipulation about the head. This is supported by reports in intensive care units, cervical spine surgery, and shoulder arthroscopy.

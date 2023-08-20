@@ -1,0 +1,7 @@
+Diagnosis of a concussion remains an exclusively clinical diagnosis based on history and exam findings. However, there is no single pathognomonic finding or a minimum number of symptoms for diagnosing a concussion. Several standardized diagnostic tools can be employed in the pre-hospital setting following an acute head injury to assist in determining the presence of a concussion. The Sideline Concussion Assessment Tool 5 (SCAT5) is one of the most commonly used tools for a concussion assessment, particularly by athletic trainers and sports medicine providers to assess athletes on the sideline after a potential head injury. The Child SCAT-5 exists for the assessment of patients between 5 and 12 years of age.
+
+Imaging modalities can be employed to rule out other injuries that may mimic the signs or symptoms of a concussion. In the hospital, a CT scan of the head is the radiographic study of choice for a quick evaluation to exclude neurosurgical emergencies.
+
+If the symptoms are prolonged for more than seven days, consider an MRI, which offers more details.
+
+Two serum biomarkers that show promise include ubiquitin C-terminal hydrolase and glial fibrillary acidic protein, which appear to be elevated early in the post-injury phase.

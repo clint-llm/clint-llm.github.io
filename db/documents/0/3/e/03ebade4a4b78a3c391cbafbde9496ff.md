@@ -1,0 +1,7 @@
+A prism is a wedge-shaped glass piece made up of transparent material. They have the property of a light ray's deflection towards the base. Prisms are routinely used in orthoptic practice to assess the degree of squint and manage deviations so that the eye becomes orthotropic. Prisms have been used in ophthalmology to treat binocular pathologies for over 100 years. However, only after the 1950s did instrumental orthoptics not provide the desired results; pediatric ophthalmologists started using prismotherapy as a prime treatment modality. As new prisms became available, the old conventional ones with high powers were aborted. After 1960, the Fresnel principle, which existed for more than 150 years, was used for the first time to manage strabismus. Fresnel prisms are made up of plastic sheet, which is thin and transparent, and it induces a prismatic effect. One side of the prism has angular grooves, and the other smooth side is attached to the lenses of the glass. This activity will describe the anatomy and physiology, indications, contraindications, equipment, preparation, technique, complications, and clinical significance of Fresnel prisms.
+
+**Objectives:**
+- Describe the optics and advantages of the Fresnel prism.
+- Explain the process and technique of Fresnel prisms application.
+- Outline the clinical uses of Fresnel prisms.
+- Summarise the contraindications and clinical problems associated with Fresnel prisms.

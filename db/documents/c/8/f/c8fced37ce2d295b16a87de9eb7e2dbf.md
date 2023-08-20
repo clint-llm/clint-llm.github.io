@@ -1,0 +1,19 @@
+**Eyelid Anatomy**
+
+Grossly, eyelids are divided into the orbital and tarsal parts by a sulcus or furrow. Additionally, there is the nasojugal fold medially and the malar fold laterally. The skin of the eyelid is the thinnest in the body, below which lies scant subcutaneous tissue. There is a transition to thicker skin from the lower eyelid to the cheek.
+
+Concentrically arranged striated muscle, the orbicularis oculi, lies beneath the skin and subcutaneous tissue. It is divided into three parts, namely, the orbital, preseptal, and pretarsal parts. The orbital part originates from the medial canthal tendon, the orbital process of the frontal bone, and the frontal process of the maxilla, forming a complete ellipse and inserts just below the point of origin. A surgically relevant ligamentous attachment, the orbital retaining ligament (ORL), attaches the orbital portion of the orbicularis to the periosteum of the maxilla
+
+The orbital septum, which lies beneath orbicularis oculi, is a thin, fibrous framework that begins anatomically at the arcus marginalis. It acts as a barrier and holds orbital fat in position. In the lower lid, there exist three fat pockets contained within the medial, central, and lateral compartments. The medial fat pad is separated from the central fat by the inferior oblique muscle. The medial fat is paler in appearance as compared to the yellowish lateral fat pad. The central and lateral fat pads are separated by a fascial layer extending off the capsulopalpebral fascia, and removal of this barrier improves access to the lateral fat pad. Inferiorly, the malar fat lies in the subcutaneous plane extending over the inferior orbital rim.
+
+**Effects of Aging**
+
+Aging skin becomes thin, wrinkled, less elastic, hyperpigmented with actinic changes as well as increased laxity of the orbicularis muscle and canthal tendons.
+
+With aging, there is gradual tissue atrophy, loss of adnexal structural support of the tarsus, canthal tendons, and orbicularis muscle, as well as thinning of the skin and loss of rete ridges, which leads to orbital fat prolapse, ptosis, and eyelid malposition. These changes lead to a more pronounced demarcation of the eyelid from the cheek, resulting in two convexities with a sulcus between them.
+
+The upper convexity is due to the prolapse of orbital fat in the lower lid precipitated by the laxity of the orbital septum and weakening of the suspensory ligament of Lockwood, which in turn leads to downward globe descent and pseudoherniation of fat through an intact but weakened orbital septum.
+
+The lower convexity is a result of the descent of malar fat as well as volume loss, causing the phenomenon known as 'skeletonization of inferior orbital rim,' which refers to the increased visual prominence due to surrounding tissue changes. The inferior displacement of this subcutaneous fat is due to age-related atrophy and gravity.
+
+The sulcus separates the superior bulge from the inferior. The sulcus is referred to as tear trough deformity medially and laterally as the lid-cheek junction. Medially the nasojugal groove, or tear trough, extends from the medial canthus to the mid pupillary line and is due to the dense connection between palpebral orbicularis muscle and maxilla. Similarly, malar sulcus or lid-cheek junction starts from malar prominence and extends until it blends with nasojugal sulcus in the subcutaneous plane. But in the sub-orbicularis plane, the orbicularis muscle is not directly attached to the bone; it is through a ligament (the ORL). Since both the nasojugal and malar grooves have a muscular and facial attachment to the periosteum of the inferior orbital rim, the superior bulge is accentuated at the sulcus. So, the release of these attachments is very important to blend this demarcation and correct the double convexity effectively.

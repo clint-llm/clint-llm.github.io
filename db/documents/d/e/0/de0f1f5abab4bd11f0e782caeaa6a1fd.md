@@ -1,0 +1,3 @@
+This is a disease that has its roots in genetics. The mutated huntingtin protein contains numerous glutamate residues due to the CAG repeats. It is thought that these mutated HTT proteins will aggregate instead of folding to form functional proteins. This is associated with cellular dysfunction.
+
+Neurotransmitters involved in chorea, include dopamine, acetylcholine, serotonin,  GABA substance P, and cannabinoids.

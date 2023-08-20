@@ -1,0 +1,1 @@
+IHE is considered a benign condition. Most patients fully recover with conservative treatment. The prognosis is excellent, and IHE resolves in 3 to 4 weeks.

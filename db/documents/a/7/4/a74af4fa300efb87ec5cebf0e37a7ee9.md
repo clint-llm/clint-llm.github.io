@@ -1,0 +1,1 @@
+Complications of IHE are mainly related to intraluminal bleeding secondary to rupture of hematoma in the esophageal lumen and expanding hematoma causing esophageal luminal obstruction. Increasing swallowing difficulty should raise suspicion for expanding hematoma. Endoscopic or surgical decompression may be needed in such a case.

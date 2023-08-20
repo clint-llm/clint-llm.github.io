@@ -1,0 +1,1 @@
+The medical team should consider a neurosurgical consultation early into the management of a patient with a subdural hematoma. A pediatric neurologist is also an important addition to the consulting physicians. An ophthalmology consultation with complete the assessment of the retina is essential to determine abusive trauma in children.

@@ -1,0 +1,9 @@
+Aflatoxins are metabolites produced by toxigenic strains of molds, mainly Aspergillus flavus and Aspergillus parasiticus, which grow in soil, hay, decaying vegetation, and grains. Aflatoxin toxicity occurs due to acute or chronic exposure to aflatoxin. The term "aflatoxin" is derived from the name Aspergillus flavus. It was named around 1960 after its discovery as the source of a disease in turkey called turkey X disease.
+
+Dietary exposure to aflatoxins may result in severe toxic and carcinogenic outcomes in humans and animals. The symptoms and biomarkers of exposure, production, and metabolism of aflatoxin and methods to reduce aflatoxin toxicity have been widely investigated over the last 50 years.
+
+Aflatoxins form one of the major groupings of mycotoxins. Aflatoxin is produced by fungal action during the production, harvest, storage, and processing of food and feed. The US Food and Drug Administration (FDA) considers it an unavoidable contaminant of foods. Aflatoxin exposure can cause nausea, vomiting, abdominal pain, and convulsions acutely, and its chronic exposure can also lead to complications like hepatotoxicity, immunotoxicity, and teratogenicity. Aflatoxin is one of the major causes of hepatocellular carcinoma in developing countries.
+
+Different types of aflatoxin, such as aflatoxin B1 (AFB1) and aflatoxin B2 (AFB2), are produced by both A. flavus and A. parasiticus. AFB1 is believed to be the most potent among all aflatoxins. Aflatoxin M1 (AFM1) is found in the fermentation broth of A. parasiticus, but it and aflatoxin M2 are also developed when an infected liver metabolizes AFB1 and AFB2. AFM1 can be transmitted by milk.
+
+AFB1 and AFM1 have been classified as group 1 and group 2B human carcinogens by the International Agency for Research on Cancer (IARC).

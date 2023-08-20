@@ -1,0 +1,7 @@
+Definitive diagnosis for Hodgkin lymphoma is through biopsy from a lymph node or suspected organ. It is important to note that fine-needle aspiration or core-needle biopsy frequently show non-specific findings because of the low ratio of malignant cells and loss of architectural information. So excisional biopsy should be pursued if suspicion of Hodgkin lymphoma is high. An RS cell or LP cell need to be identified within the biopsy specimen to establish a definitive diagnosis. Further workup is essential to determine the stage, which guides treatment and provide prognostic information.
+
+Laboratory tests include complete blood count (CBC), complete metabolic panel (CMP), erythrocyte sedimentation rate, Hepatitis B virus, hepatitis C virus, and HIV.
+
+LDH levels correlate with the bulk of disease. Elevated levels of alkaline phosphatase may suggest liver or bone involvement. Testing for HIV is recommended as the treatment of the infection can improve outcomes in HIV positive individuals.
+
+Chest x-ray, CT chest/abdomen/pelvis, and PET/CT scans can help with staging. PET-CT scanning has now become a standard test for assessment of treatment response in HL and most lymphomas. Overall, a comprehensive workup is essential for both diagnosis and staging of Hodgkin lymphoma.

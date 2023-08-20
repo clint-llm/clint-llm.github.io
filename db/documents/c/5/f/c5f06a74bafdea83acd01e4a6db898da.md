@@ -1,0 +1,1 @@
+There are no contraindications to blood gas temperature correction as blood gas correction poses no risk to the patient. The data is inconclusive regarding the definitive long-term benefits of a particular approach between alpha-stat and pH-stat. The approach should be tailored to the individual.

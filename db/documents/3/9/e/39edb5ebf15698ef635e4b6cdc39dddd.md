@@ -1,0 +1,3 @@
+Patients with hyperchloremic acidosis have no effects due to the hyperchloremia necessarily. However, acidosis can have many poor health effects. A headache, lack of energy, nausea, and vomiting are common complaints, however as acidosis worsens, stupor, coma, myocardial instability, or arrest may occur. It is expected to see an increase in respiratory rate as the body attempts to decrease carbon dioxide in compensation; however, in long-standing disease, this may lead to muscle fatigue and respiratory failure.
+
+A physical exam may show altered mental status, tachycardia, tachypnea, accessory muscle use with respiration, neurological deficits, muscular weakness, cardiac arrhythmias, cardiac murmurs, respiratory wheezing, rales, or rhonchi.

@@ -1,0 +1,3 @@
+The brain is one of the largest and most complex organs in our body; it is composed of billions of neurons that communicate together by forming numerous connections and synapses. The brain weight is different between men and women; The male brain weighs about 1336 grams, and the female comes in at about 1198 grams, but this difference in weight has shown no effect on function or intelligence.
+
+This review article will focus on the functions of the cerebral cortex.

@@ -1,0 +1,1 @@
+The term Transient loss of vision can be used for episodes of reversible visual loss lasting less than 24 hours.

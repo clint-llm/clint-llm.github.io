@@ -1,0 +1,9 @@
+There can be diagnostic and therapeutic indications for a D&C; these indications differ between pregnant and nonpregnant patients.
+
+Indications for a D&C in the pregnant patient include elective termination of pregnancy, early pregnancy failure, evacuation of a molar pregnancy, or suspected retention of products of conception. The pregnant D&C is usually performed with either manual or electric vacuum aspiration. In addition, a D&C may be used to evaluate the chorionic villi in a patient who has a pregnancy of unknown location.
+
+Many diagnostic indications for a D&C outside of pregnancy have been replaced with office-based endometrial biopsy (EMB). D&C and EMB have been shown to reveal similar cancer detection rates; however, there remain clinical scenarios where that is insufficient. Hysteroscopically-directed endometrial sampling followed by sharp curettage is recommended but not required.
+
+A patient's inability to tolerate an EMB or a failure to obtain a tissue sample sufficient for diagnosis would prompt further endometrial sampling; a D&C may be used in this circumstance. Likewise, cervical stenosis, persistent abnormal bleeding, or postmenopausal bleeding after a benign EMB may warrant a D&C. A D&C may be indicated to exclude endometrial cancer in a patient diagnosed with endometrial intraepithelial neoplasia via EMB.
+
+Therapeutically a D&C may be used in a nonpregnant patient with excessive uterine bleeding who has failed medical management or become hemodynamically unstable. In this circumstance, the D&C alone is inadequate as a complete evaluation of the uterine disorder but usually provides a temporary reduction in bleeding.

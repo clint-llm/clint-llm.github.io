@@ -1,0 +1,1 @@
+More than a disease, DON is itself the gravest complication of TED. Misdiagnosed or left untreated, it leads to permanent loss of visual function. It not only leads to visual disability but also results in major psychosocial trauma.

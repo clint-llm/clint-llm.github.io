@@ -1,0 +1,7 @@
+Uveitis glaucoma hyphema (UGH) syndrome or Ellingson syndrome is a complication of intraocular lens implantation where chafing from the implants leads to a spectrum of iris transillumination defects and hyphema with raised intraocular pressure and pigment dispersion.
+
+F T Ellingson described the UGH syndrome as a late complication of Choyce Mark VII and VIII rigid anterior chamber intraocular lens (ACIOL) implantation in 1978. It can also occur with the posterior chamber intraocular lenses placed in the sulcus causing posterior iris chafing by the loop or the optic. It occurs more commonly with planar loop design than with angulated loops.
+
+It can develop immediately or over the years, causing a decreased vision in the affected eye. It may present with transient vision loss or the gradual diminution of vision. The eye may appear congested with an increase in intraocular pressure. Blood/clotted blood in the inferior anterior chamber angle and anterior chamber reaction may be present. If untreated, it may lead to glaucomatous optic neuropathy.
+
+A careful history and examination, as well as appropriate investigations, can confirm the diagnosis. Ultrasound biomicroscopy is the most reliable investigation to label it as UGH Syndrome. Other evaluation methods include slit-lamp examination, gonioscopy for the visualization of the angles, intraocular pressure measurement, ultrasound brightness (B) scan to visualize the posterior segment in case of vitreous hemorrhage, and optical coherence tomography to visualize both anterior and posterior segments.

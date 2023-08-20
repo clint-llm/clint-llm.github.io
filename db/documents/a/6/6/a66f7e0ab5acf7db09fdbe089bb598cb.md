@@ -1,0 +1,1 @@
+Patients should be educated on the clinical course and potential complications of erosive lichen planus. Smoking cessation and HPV vaccination should be advised to minimize the risk of transformation to squamous cell carcinoma.

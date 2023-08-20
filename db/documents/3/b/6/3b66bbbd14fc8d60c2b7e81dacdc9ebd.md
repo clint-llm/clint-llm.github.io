@@ -1,0 +1,3 @@
+Traditionally, kernicterus is defined by neurologic damage due to excessive unconjugated bilirubin deposition in the brain tissue. However, there are cases where an infant has neurologic abnormalities with normal or mildly elevated bilirubin levels.
+
+Conversely, infants with dangerously high levels of unconjugated hyperbilirubinemia have been diagnosed as physiologic jaundice after ruling out other causes.

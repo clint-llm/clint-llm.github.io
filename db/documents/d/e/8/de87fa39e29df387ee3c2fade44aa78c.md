@@ -1,0 +1,1 @@
+Ocrelizumab is a second-generation anti-CD20 recombinant monoclonal antibody with a molecular mass of 145kDa. It is a follow-up to the anti-CD20 monoclonal antibody rituximab but with a humanized IgG1 tail.

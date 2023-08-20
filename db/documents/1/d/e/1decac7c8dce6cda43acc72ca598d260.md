@@ -1,0 +1,1 @@
+Solar urticaria is a chronic acquired photosensitivity disorder. It consists of recurrent episodes of urticaria rash developed on areas of the skin exposed to sunlight. Despite being usually a benign condition, it may be extremely disabling, thus limiting everyday activities and severely altering the quality of life of patients.

@@ -1,0 +1,3 @@
+Pneumonia is a lower respiratory tract infection, specifically involving the pulmonary parenchyma. Viruses, fungi, and bacteria can cause pneumonia. The severity of pneumonia can range from mild to life-threatening, with uncomplicated disease resolving with outpatient antibiotics and complicated cases progressing to septic shock, acute respiratory distress syndrome (ARDS) and death.
+
+While streptococcus pneumonia accounts for about 70% of cases, the rest are caused by atypical organisms.

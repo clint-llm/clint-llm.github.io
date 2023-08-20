@@ -1,0 +1,1 @@
+Patients who present with nephritic syndrome, nephrotic syndrome, hematuria, or rapidly worsening proteinuria should be urgently referred to a pediatric nephrologist.

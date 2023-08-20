@@ -1,0 +1,1 @@
+Meningeal branches of spinal nerves innervate all vertebrae.

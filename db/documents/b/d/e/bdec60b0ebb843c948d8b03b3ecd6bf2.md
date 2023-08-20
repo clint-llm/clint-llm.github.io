@@ -1,0 +1,5 @@
+Management of therapeutic drugs with the potential for extreme adverse effects requires an interprofessional team, including clinicians, pharmacists, nurses, and social workers. Likewise, the management of toxicities involved with such drugs requires various other healthcare providers, including clinicians, pharmacists, nurses, and laboratory technicians. Studies demonstrate improved treatment outcomes and healthcare costs when therapy incorporates such interprofessional teams.
+
+The most common adverse effects of thalidomide therapy include constipation, sedation, fatigue, and neuropathy.
+
+Moreover, thalidomide is associated with extreme teratogenicity. As such, patients must enroll in the STEPS program, which involves a multidisciplinary team incorporating various healthcare specialists and social workers.

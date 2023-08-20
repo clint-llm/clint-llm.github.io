@@ -1,0 +1,5 @@
+Malignant pleural mesothelioma incidence is approximately 2500 new cases per year in the United States. By comparison, lung cancer incidence is more than 160,000 new cases per year. Most malignant pleural mesothelioma cases in the United States have a history of asbestos exposure.
+
+Median survival is roughly 1 year, with long-term survival being extremely rare. Malignant pleural mesothelioma also predominantly affects males. It usually occurs after the fifth decade of life with an average age at diagnosis of 72 and a history of asbestos exposure of 2 to 4 decades before the diagnosis of disease. Cases have been reported in children, but these are not related to asbestos exposure.
+
+Malignant pleural mesothelioma occurs more frequently in some countries like China where asbestos is still widely used with little oversight. On the other hand, in other places like Hong Kong, asbestos exposure is still high, but malignant pleural mesothelioma rates are low. The reason for these differences remains unknown.

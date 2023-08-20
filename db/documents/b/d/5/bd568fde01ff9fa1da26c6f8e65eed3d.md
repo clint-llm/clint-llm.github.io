@@ -1,0 +1,3 @@
+Lipomas represent the most common mesenchymal tumors of the human body. About 1 in every thousand persons will have lipoma at some point in their lifetime. The majority of lipomas affect the trunk and upper extremity, but they can be anywhere on the body where adipocytes are present. The precise cause of lipomas is unknown. A potential link between trauma and lipoma formation has been postulated, hypothesizing trauma induces cytokine release that then triggers preadipocyte differentiation and maturation.
+
+Genetics may play a role in a minority of patients, as 2% to 3% of affected patients have multiple lesions inherited in a familial pattern.

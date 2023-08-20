@@ -1,0 +1,1 @@
+Hip pain is a common orthopedic problem. Greater trochanteric pain syndrome (GTPS), previously known as trochanteric bursitis, affects 1.8 per 1000 patients annually.

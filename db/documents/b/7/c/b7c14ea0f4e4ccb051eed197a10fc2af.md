@@ -1,0 +1,9 @@
+Key factors to consider in assessing patients with ingested foreign bodies include type and number of objects, location, time since ingestion, and presenting signs and symptoms. These factors will help determine if the object needs to be retrieved emergently, urgently or if the patient can be safely managed with observation and follow-up.
+
+Most adults and older children can give a history of foreign body ingestion and time of onset. The most common symptoms are foreign body sensation or difficulty swallowing (dysphagia). Symptoms typically develop in minutes to hours. Foreign bodies in the upper esophagus are more accurately localized by the patient. However, impactions in the mid or lower esophagus may be described as a vague discomfort, ache, or chest pain.  Other symptoms include hypersalivation, retrosternal fullness, regurgitation, gagging, choking, hiccups, and retching. If patients report painful swallowing (odynophagia), this may indicate more serious problems such as esophageal laceration or perforation.
+
+On exam, the patient may appear anxious and uncomfortable with swallowing. If the patient is unable to swallow saliva, this indicates a complete obstruction is needing more urgent treatment.
+
+Infants, younger children, the mentally impaired, or prisoners may be unable or unwilling to provide history. In these situations, a high index of suspicion is needed. For infants and young children, symptoms may include gagging, poor feeding, drooling, or irritability. An esophageal foreign body might also press on the trachea, causing respiratory symptoms such as wheezing, cough, dyspnea, or stridor. However, airway foreign bodies would also need to be considered.
+
+The physical exam should initially focus on airway patency, vital signs, patient’s ability to handle secretions, and looking for signs of complications such as hematemesis, abnormal breath sounds, tenderness in the neck, chest, or abdomen, or subcutaneous air.

@@ -1,0 +1,1 @@
+Unfortunately, trauma and/or accidental injury occurs not infrequently during pregnancy, with a known complication rate of six to seven percent of all pregnancies

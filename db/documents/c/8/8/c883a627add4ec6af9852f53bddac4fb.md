@@ -1,0 +1,1 @@
+CEA belongs to the immunoglobulin family called CEA-related cell adhesion molecules (CEACaMs). CEA is closely associated with various functions of endothelial cells, including adhesion, proliferation, and migration of cells both in vivo and in vitro.

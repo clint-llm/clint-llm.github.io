@@ -1,0 +1,1 @@
+Technetium-99m (Tc99m) is labeled as pregnancy category C, as there are not enough adequate studies in pregnant women. Breastfeeding is a contraindication to its use as 10% of the agent may be excreted in breast milk during lactation.

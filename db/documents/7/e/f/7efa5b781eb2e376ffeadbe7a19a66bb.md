@@ -1,0 +1,1 @@
+Pathologic myopia is defined as myopia of more than -6D or if the axial length is more than 26mm.

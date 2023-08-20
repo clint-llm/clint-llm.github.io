@@ -1,0 +1,1 @@
+Since Pythium keratitis clinically, morphologically, and histopathologically mimics fungal keratitis, it requires a high index of suspicion and expertise to diagnose this entity. Hence, it is advisable to consult a Cornea and External disease specialist for targeted and meticulous treatment.

@@ -1,0 +1,1 @@
+Werdnig-Hoffmann disease affects about one in every 10,000 live births.

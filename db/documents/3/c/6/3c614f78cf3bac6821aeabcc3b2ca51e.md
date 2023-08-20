@@ -1,0 +1,7 @@
+Carbonic anhydrase inhibitors are a medication used to manage and treat glaucoma, idiopathic intracranial hypertension, altitude sickness, congestive heart failure, and epilepsy, among other diseases. Carbonic anhydrase inhibitors are considered part of the diuretic class of medications. This article reviews the indications, action, and contraindications for carbonic anhydrase inhibitors as valuable agents in treating glaucoma, idiopathic intracranial hypertension, and other disorders. This activity will highlight the mechanism of action, adverse event profile, and other key factors, e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, and relevant interactions pertinent for members of the interprofessional healthcare team in the treatment of patients with glaucoma, idiopathic intracranial hypertension, and related conditions.
+
+**Objectives:**
+- Identify the mechanism of action of carbonic anhydrase inhibitors.
+- Describe the potential adverse effects of carbonic anhydrase inhibitors.
+- Review the appropriate monitoring necessary for carbonic anhydrase inhibitors.
+- Outline interprofessional team strategies for improving care coordination and communication to improve outcomes in patients receiving treatment with carbonic anhydrase inhibitors.

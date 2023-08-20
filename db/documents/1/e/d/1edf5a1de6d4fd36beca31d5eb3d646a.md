@@ -1,0 +1,3 @@
+Speech difficulty can have a significant impact on the patient’s psychosocial life. Patients report stigmatization, changes in self-identity, and social and emotional disturbances due to post-stroke dysarthria. In children, behavioral problems and lack of access to education can lead to decreased future employment opportunities. Tools such as the Dysarthria Impact Profile (DIP) are available to assess the psychosocial impact of dysarthria.
+
+Dysarthria Impact Profile is used to assess the psychosocial impact of dysarthria.

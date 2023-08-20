@@ -1,0 +1,1 @@
+The functional ryanodine receptor ion channel is formed by four monomers, each having more than 5000 residues that constitute the largest ion channel protein so far identified.

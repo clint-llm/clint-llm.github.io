@@ -1,0 +1,1 @@
+As with other forms of incisional surgery, the main risks include bleeding, scar formation, and infection. Other risks include damage to underlying structures such as nerves, aesthetic disfigurement, and functional impairment. Careful preparation and attention to detail minimize these risks.

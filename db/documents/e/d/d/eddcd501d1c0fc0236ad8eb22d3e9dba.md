@@ -1,0 +1,1 @@
+A Marjolin ulcer is a cutaneous malignancy that arises in the setting of previously injured skin, longstanding scars, and chronic wounds. Historically, Marjolin ulcers are named for French surgeon Jean Nicolas Marjolin and first described as ulcerations with dense villi arising within a burn cicatrix.

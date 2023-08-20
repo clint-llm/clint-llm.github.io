@@ -1,0 +1,1 @@
+Given its complicated regime, NAC has a high potential for iatrogenic errors, including overdose.

@@ -1,0 +1,5 @@
+The mandibular nerve is a mixed nerve containing afferent and efferent fibers and leaves the cranium through the foramen ovale
+
+The lingual nerve reaches the oral cavity passing below the inferior border of the superior constrictor muscle in close proximity to the pterygomandibular raphe's attachment in the mandible. It courses anteriorly and inferiorly adjacent to the medial aspect of the mandibular ramus traveling through the vicinity of the mandibular third molar's roots. This relation is important during wisdom tooth extraction.
+
+The lingual nerve continues to run anteriorly, but now it turns medially to reach the tongue, traveling between the hyoglossus and mylohyoid muscles. The nerve extends to the hyoglossus's lateral aspect and gets to its front border. The nerve loops under the submandibular duct as it passes toward the apex of the tongue

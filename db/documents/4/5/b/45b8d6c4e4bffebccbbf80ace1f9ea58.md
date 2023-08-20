@@ -1,0 +1,23 @@
+How Healthcare Workers Can Protect Their Practice and Reputation
+
+Patients today view the practice of medicine as a business, and thus, healthcare professionals should remember the adage "the customer is always right."
+
+- Regularly check out sites like Ratemds, Yelp, Facebook, and others to determine what is being posted about the clinic, the staff, and the service provides. Determine who is posting the material and their main complaint. On some websites like YouTube, Google, or Facebook, one can set up alerts so that one can get a notification of each posting or comment. This will counter the problem before it becomes widespread.
+
+- No matter how negative the comment is, do not reply immediately to the complaint. There are hundreds of instances where business owners have replied to their customers and regretted it. The best advice is to take a timeout, calm down and then decide on a response.
+
+- If the professional knows the person who is posting or circulating comments, communicating with the person privately to resolve the issue may be one of the ways to resolve the issue. Limit the interaction online because in general, the public may not be sympathetic to healthcare professionals.
+
+- If one chooses to reply, the tone should not be condescending, argumentive, or rude. Clarifying and summarizing the facts would be the first step. Offer to help the patient with a follow-up visit to clear up any misunderstanding or miscommunication. Do not post any medically-related information about the patient. This is a HIPAA violation that carries greater penalties than defamation.
+
+- If a person believes they have been unjustly defamed, it is best to get assistance from legal counsel. There are many rules and regulations for responding to defamation, but suing patients may create public animosity and can irreversibly harm a practice. In most cases where businesses resort to suing the customer for defamation, harmful publicity is generated. A great deal of thought must be given before resorting to litigation.
+
+- Legal Advice: There are many attorneys who specialize in dealing with defamation cases. In most states, the statute of limitations to sue for defamation is 12 months from the time of publication. A lawyer's advice is valuable when seriously contemplating legal action.
+
+- If the statement made by an individual is extremely negative or inflammatory, one should first follow the rules of the social network's platform on dispute resolution. For example, one may want to write to Facebook, Yelp, or Twitter to complain about the posting. In many cases, the social media site will not allow for defamatory statements to be posted on its platform. If this does not resolve the issue, then litigation may be the next step.
+
+- Educate employees: When someone posts negative comments about a medical worker or a practice, the first thought is to write back. However, all employees should be cautioned against writing back. Public opinion may support the patient. Keep calm and give it some thought. Discuss the plan of action with employees. Usually, a healthcare establishment can never fight customers and win online. All healthcare staff should know that the whole practice can be held responsible for any defamatory remarks made by any staff member, including non-healthcare staff. So educate your workers on how to communicate with patients and other healthcare workers. Always be mindful of HIPAA regulations.
+
+- Watch what you say: Healthcare workers may not be aware that even communication with a patient about other patients or other doctors can lead to a case of defamation. Be professional and limit any conversation to what is medically important. Do not degrade other healthcare workers in front of patients, and do not say negative things about patients to others.
+
+- Many times, healthcare workers are asked to write patient reports for referrals or consults. It is important to keep statements based on facts and refrain from making any other comments beyond the clinical issue of relevance. Problems are more likely to arise when a comment extends beyond objective clinical opinions and becomes critically judgmental of another healthcare worker. Because of the intense rivalry between healthcare workers for patients, there may also be ongoing personal or professional animosity. Thus, any negative comment fueled by animosity can quickly lead to escalation to a defamation lawsuit. When writing reports, read over the letter and omit anything that ridicules others.

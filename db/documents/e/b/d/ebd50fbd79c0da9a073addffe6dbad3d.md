@@ -1,0 +1,3 @@
+If left untreated, pellagra will progress and eventually lead to death. Death can result as a complication of continued severe malnutrition due to a lack of dietary intake or continual diarrhea, infections, or neurological factors. Death may occur within 4 to 5 years of continued non-treatment.
+
+Pellagra was a significant widespread cause of death till the early 20 century; however, fortifying flour with niacin practically led to eradicating niacin deficiency in developed countries. However, many recent reports indicate that pellagra may even be underdiagnosed.

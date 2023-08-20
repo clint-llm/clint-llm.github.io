@@ -1,0 +1,3 @@
+When healthcare providers, including the nurse practitioner, encounter patients with chronically dry and itchy skin lesions, they should refer these patients to a dermatologist. The differential is broad and the diagnosis of chronic lichen simplex requires elimination of many disorders. Besides symptomatic treatment of the skin lesions, many of these patients may benefit from psychological assesment. Some of these patients may benefit from antidepressants.
+
+The outcomes of the chronic lichen simplex depend on the primary cause; if the mental health disorder is not managed, the disorder is chronic and can lead to a poor quality of life.

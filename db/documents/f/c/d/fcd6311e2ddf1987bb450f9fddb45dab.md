@@ -1,0 +1,3 @@
+Complications from an injection of any type of material into the vocal fold are typically due to the inability to fully visualize the vocal folds and include excessive secretions, paraglottic hemorrhage, bleeding, postoperative hematoma, and edema. Airway compromise and aspiration are rare complications of vocal fold injections, reported to be less than 5%.
+
+Complications of laryngeal surgery such as procedures to medialize the vocal fold include postoperative hematoma, edema, infection, need for tracheostomy due to airway obstruction, implant migration or extrusion, failure to achieve adequate medialization, and need for revision surgery.

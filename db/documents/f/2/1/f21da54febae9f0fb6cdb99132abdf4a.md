@@ -1,0 +1,3 @@
+Nasolacrimal duct obstruction is a common problem, especially in children. Up to 1 in 9 newborns have a congenital nasolacrimal duct obstruction.
+
+It is also a potential site of infection termed dacryocystitis. This condition is more common in children, and in the most severe sequelae can lead to orbital cellulitis. Dacryocystitis can be acute or chronic; it can also be congenital or acquired. When present, there is medial canthal swelling of dacryocystitis, usually below the medial canthal tendon.

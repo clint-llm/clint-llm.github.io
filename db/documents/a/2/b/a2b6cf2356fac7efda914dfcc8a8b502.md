@@ -1,0 +1,1 @@
+The incidence of septic arthritis is between 2 to 6 cases per 100,000 people but varies based on the presence of risk factors.

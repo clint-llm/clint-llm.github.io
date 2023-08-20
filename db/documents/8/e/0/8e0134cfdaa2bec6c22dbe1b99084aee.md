@@ -1,0 +1,1 @@
+Small intestinal bacterial overgrowth (SIBO) is the presence of excess colonic bacteria in the small intestine. These excess organisms result in multiple intestinal symptoms like abdominal pain, bloating, diarrhea, and rarely malabsorption.

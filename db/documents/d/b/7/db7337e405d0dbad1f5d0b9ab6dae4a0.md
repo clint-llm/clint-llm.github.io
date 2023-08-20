@@ -1,0 +1,1 @@
+The prevalence of a pericardial rub in pericarditis varies widely among studies and is anywhere between 35% and 85%,

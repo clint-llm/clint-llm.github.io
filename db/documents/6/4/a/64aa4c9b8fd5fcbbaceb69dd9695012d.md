@@ -1,0 +1,7 @@
+Hallux rigidus is a condition that refers to degenerative arthritis of the first metatarsophalangeal (MTP) joint. Davies-Colley first described the condition in 1887, who coined the term as hallux flexus due to plantar-flexed position of the proximal phalanx in relation to the metatarsal head. Cotterill later described the term hallux rigidus to characterize the painful limitation of motion of the first MTP joint. Condition is associated with restriction of dorsiflexion. To emphasize the importance of the first MTP joint, approximately 119% of body weight is carried by it during the gait cycle with each step. In the early stages, the first MTP joint goes through osteophyte formation and degeneration of cartilage. This can progress to involve the entirety of the first MTP joint in the late stages. This activity reviews the evaluation and management of the hallux rigidus by an interprofessional team and reviews the treatment for each stage of the disease.
+
+**Objectives:**
+- Review the etiology first metatarsophalangeal arthritis.
+- Summarize the pathophysiology associated with hallux rigidus. 
+- Describe the evaluation of different stages of the hallux rigidus.
+- Outline the treatment options available to the interdisciplinary team for each of the stages of the hallux rigidus.

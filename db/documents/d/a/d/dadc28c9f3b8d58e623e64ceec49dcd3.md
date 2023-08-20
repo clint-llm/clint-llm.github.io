@@ -1,0 +1,5 @@
+Motion sickness is a clinical diagnosis made with a thorough history and physical.  Generally, further workup through laboratory or radiographic testing is not necessary if a patient has a typical presentation or a previous history of motion sickness.
+
+In a patient with an abrupt onset of motion sickness symptoms, workup for migraine headaches may be indicated, as they have shown to be closely associated.  The prophylactic treatment of migraines may not only decrease headaches but can improve associated dizziness and motion sickness symptoms.
+
+It is crucial to identify the life-threatening causes for motion sickness like basilar artery occlusion. Sometimes the initial presenting symptom for basilar artery occlusion is dizziness and motion sickness. Usually, these patients have other associated symptoms which are sudden in onset like diplopia, dysarthria, dysphagia and drop attacks. When suspecting basilar artery occlusion, it is vital to do CT angiography to rule out basilar artery occlusion. Once it is ruled out, then one can look for benign paroxysmal positional vertigo, vestibular migraine, vestibular neuritis, etc.

@@ -1,0 +1,1 @@
+PTLD is one of the severe complications of transplantation. The better understanding of the pathophysiology of PTLD, improvements in immunosuppressive strategies for solid organ transplantation, advances in the diagnosis and treatment of PTLD have led to improved clinical outcomes and overall prognosis for patients with PTLD.

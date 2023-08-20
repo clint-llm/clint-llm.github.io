@@ -1,0 +1,5 @@
+Adverse effects include deep vein thrombosis, arterial thrombosis, pulmonary embolism, ischemic stroke, acute myocardial infarction, and death. Other effects include cardiogenic shock, heart failure exacerbations, urinary tract infections, pneumonia, acute respiratory failure, and infusion-related reactions.
+
+In a 2018 interim report of the ANNEXA-4 clinical trial, 6 of 227 (2.6%) had experienced thrombosis within three days and 24 patients (11%) within 30 days. Twenty-seven of 227 (12%) patients died at 30 days. One hundred thirty-nine of 227 (61%) received andexanet alfa for intracranial hemorrhage, and 16 of these 139 patients (12%) died within 30 days. The mean age of patients in this trial was 77 years, and 78% of them had atrial fibrillation.
+
+It is crucial to re-initiate anticoagulation therapy as soon as clinically appropriate to reduce the risk of thrombosis after andexanet alfa therapy. Thrombosis may occur even after the re-initiation of anticoagulation.

@@ -1,0 +1,1 @@
+The etiology involves a disorder of the elastic fiber network. The disease can affect the skin as well as the internal organs. Autosomal dominant CL has been associated with mutations of the elastin gene resulting in quantitative or qualitative abnormalities in this protein.ATPA7 and abnormalities of copper transport.

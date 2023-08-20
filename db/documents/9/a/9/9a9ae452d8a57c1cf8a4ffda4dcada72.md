@@ -1,0 +1,3 @@
+Airway management is of paramount importance in the operating room and critical care settings. Patients who are in respiratory distress or require general anesthesia typically need an advanced airway such as an endotracheal tube (ETT) or laryngeal mask airway (LMA) so that ventilatory support can be given. Failure to secure the airway during intubation can lead to catastrophic, possibly fatal, outcomes for the patient. Several assessment tools have been devised for the proceduralist to use to anticipate challenges during airway management.
+
+In this article, we will focus on the Mallampati score, a simple and quick tool to help the proceduralist evaluate the patient’s airway anatomy to assess the likelihood of challenges during airway manipulation.

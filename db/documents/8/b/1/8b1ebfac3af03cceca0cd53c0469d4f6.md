@@ -1,0 +1,1 @@
+The heart carries out the vital function of pumping oxygenated blood around the body, for which it has to contract and relax in a coordinated fashion. This contraction process is preceded by electrical excitation, which under normal conditions is initiated by the SA node as an action potential.

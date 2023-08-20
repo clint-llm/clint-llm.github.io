@@ -1,0 +1,1 @@
+Glaucoma is not a benign disorder and if left untreated can lead to permanent vision loss. The higher the pressure, the greater the risk of damaging the optic nerve. However, with treatment, the prognosis is good for most patients.

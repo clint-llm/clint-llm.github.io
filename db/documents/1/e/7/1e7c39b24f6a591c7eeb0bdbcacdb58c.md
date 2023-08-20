@@ -1,0 +1,1 @@
+The prognosis for the patients with a localized abscess is good; it usually depends on the timely diagnosis, prompt management, and etiology of the collection of pus. The prognosis is poor with regards to infertility in women of the reproductive age group who have had a pelvic abscess.

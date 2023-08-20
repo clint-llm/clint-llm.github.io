@@ -1,0 +1,1 @@
+In the United States, the prevalence of porphyria is approximated to be one in 25,000 individuals.

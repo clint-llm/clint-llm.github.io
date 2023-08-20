@@ -1,0 +1,1 @@
+Nephrolithiasis, or kidney stones, is the most common condition affecting the urinary system, affecting about 12% of the world population, with a yearly incidence of 600,000 in America. It is the result of a crystal or crystalline concretion traveling from the kidney through the genitourinary system.

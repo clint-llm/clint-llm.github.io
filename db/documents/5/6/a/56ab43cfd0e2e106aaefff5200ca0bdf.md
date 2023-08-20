@@ -1,0 +1,9 @@
+Determining the cause and severity of interstitial lung disease can be difficult.  A clinician may be able to reach a diagnosis with a detailed history and supporting laboratory but might need to involve an interprofessional team for a higher diagnostic yield.
+
+Initial routine laboratory evaluation consists of complete blood count to check for evidence of hemolytic anemia for example, as can be seen in SLE, or eosinophilia, as can be seen in drug-induced. Laboratory testing should also include hepatic function, renal function, and serologic studies. In some cases may, infectious studies may be appropriate (HIV, hepatitis).
+
+Imaging workup starts with a routine chest radiograph. The most common radiographic feature observed is a reticular pattern, however nodular or mixed patterns can be seen.
+
+In some cases, it may show a classic radiological pattern of some disease like usual interstitial pneumonia (UIP). The classic radiological pattern of UIP on HRCT is subpleural and basilar predominant changes, reticular patterns, honeycomb changes with or without traction bronchiectasis. If the diagnosis remains unclear after combining history, laboratory results and radiological findings, invasive workup may be helpful. Bronchoalveolar lavage (BAL) gives nonspecific results, meaning there are no findings in a BAL that is proven pathognomonic for a particular type of ILD. BAL, however, can be helpful when it comes to narrowing down the options. For example, in patients suspected of hypersensitivity pneumonitis, BAL will show marked lymphocytosis.  The decision to pursue a lung biopsy should be individualized.  Not all cases require a lung biopsy. It is most helpful in diagnosing sarcoidosis and idiopathic interstitial pneumonia.
+
+Complete lung functions and oxymetry are necessary for all patients with ILD for prognostication and monitoring of the disease.

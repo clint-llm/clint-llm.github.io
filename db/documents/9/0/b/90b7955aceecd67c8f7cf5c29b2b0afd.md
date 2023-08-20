@@ -1,0 +1,1 @@
+Prognosis of acute pericarditis is very good in idiopathic or viral pericarditis. Most cases resolve with no reoccurrence. In purulent pericarditis, the underlying etiology and treatment will determine the prognosis.

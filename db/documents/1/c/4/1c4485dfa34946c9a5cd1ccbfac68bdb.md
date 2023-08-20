@@ -1,0 +1,3 @@
+The physical findings of the fetuses expected of this disease depend upon the stage of TTTS, but at the very least, must include oligohydramnios in one amniotic sac and polyhydramnios in the other amniotic sac. As mentioned above, in monoamniotic gestations, polyhydramnios is seen in the amniotic sac as well as differences in the fetal bladders.
+
+Mothers may experience no symptoms, symptoms before TTTS is diagnosed, and/or symptoms after TTTS is diagnosed.

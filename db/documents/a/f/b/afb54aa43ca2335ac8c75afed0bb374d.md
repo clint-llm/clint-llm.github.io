@@ -1,0 +1,1 @@
+Local complications with disfigurement are the most common complications of this disease. With untreated and advanced-stage disease, there is a risk of malignant transformation, which is the most feared complication. The current standard of care emphasizes treatment and primary prevention strategies, including vaccination, to prevent this devastating outcome.

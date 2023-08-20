@@ -1,0 +1,1 @@
+Embryologically, the tongue begins to develop approximately within the fourth gestational week, coinciding with the emergence of the pharyngeal arches. Each of the first four pharyngeal arches plays a role in the development of the tongue.

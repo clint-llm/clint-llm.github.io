@@ -1,0 +1,3 @@
+For the varied conditions of pelvic floor dysfunction, the greatest complication is treatment failure with the persistence of symptoms such as incontinence. Lifestyle modifications and physical therapy, including biofeedback, have no major defined complication risks. Neglected pessaries have the risks of erosions, incarceration, or fistula.
+
+Surgical revision is not uncommon for the device or lead failure or battery depletion.

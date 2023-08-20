@@ -1,0 +1,7 @@
+Gluten is a recent topic of significant interest and research. It has become a media darling over the past few years for a variety of medical and non-medical reasons, and interest has led to a vast body of literature and information that is occasionally confusing and misleading. This review categorizes the diseases associated with gluten based on confirmed medical facts. Gluten is significant for clinicians since it has a spectrum of illnesses associated with it, for example, gluten-sensitive enteropathy or celiac disease (CD), non-celiac gluten sensitivity (NCGS), wheat or grain allergy, gluten ataxia, and dermatitis herpetiformis (DH). This activity reviews the etiology, presentation, evaluation, and management of gluten-associated conditions, and reviews the role of the interprofessional team in evaluating, diagnosing, and managing the condition.
+
+**Objectives:**
+- Identify the conditions associated with gluten sensitivity. 
+- Describe the pathophysiology of gluten sensitivity in both celiac disease and non-celiac gluten sensitivity.
+- Review management strategies for addressing gluten-associated illness.
+- Explain possible interprofessional team strategies for improving care coordination and communication to advance the evaluation and treatment of gluten-related illnesses and improve outcomes.

@@ -1,0 +1,7 @@
+Cranial nerve testing is integral to the general neurologic exam to help identify and localize neurologic pathology. This testing is widely applicable to emergency and clinical situations and can be performed relatively quickly with equipment readily available in the hospital or ambulatory environment. Cranial nerve testing is helpful in monitoring for the progression or worsening of neurologic disease processes, particularly neurotrauma. However, patients suffering from strokes or other intracranial pathologies routinely require frequent monitoring for worsening function or condition. This activity describes cranial nerve testing and explains the role of the interprofessional team in utilizing this testing modality to evaluate and monitor patients for pathologic processes and disease progression.
+
+**Objectives:**
+- Identify indications for cranial nerve testing in the prehospital, outpatient, and inpatient settings.
+- Accurately and efficiently performe cranial nerve testing in prehospital, outpatient, or inpatient settings.
+- Correlate the typical physical exam findings of each cranial nerve palsy with potential underlying disease processes.
+- Effectively utilize interprofessional team strategies to implement cranial nerve testing to monitor the progression of underlying pathology.

@@ -1,0 +1,5 @@
+Preoperatively, identification of small aortic root can be made by echocardiography, either transthoracic or transoesophageal, computed tomography (CT), or magnetic resonance imaging (MRI).
+
+Pre-op imaging is used to measure intraoperative sizing to help try and avoid PPM at all costs. Imaging is also needed to review any signs of subaortic stenosis so that this can be addressed intraoperatively if needed. The patient should also be evaluated for any need for coronary artery bypass grafting with left heart cath and stress testing.
+
+A routine median sternotomy is performed. During the opening of the pericardium, the anterior portion may be excised and prepared with glutaraldehyde to use during the aortic root enlargement. This is followed by cannulation and left ventricle venting. The oblique incision in the ascending aorta (as described later) is done. Valve leaflets are excised, and measurement using the valve sizers comes after. If a sizer, matching the minimum valve according to the patient's BSA to avoid patient prosthesis mismatch, cannot be achieved, then an aortic root enlargement should be undertaken.

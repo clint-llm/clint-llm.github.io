@@ -1,0 +1,7 @@
+QL gets its vascular supply via the lumbar arteries and a lumbar branch of the iliolumbar artery. The lumbar arteries are four on each side, born from the posterior face of the aorta at the level of the first four lumbar vertebrae. They run posteriorly behind the sympathetic chain and under the arches tendon of the iliopsoas muscle to finally meet the QL muscle. The first three arteries pass posteriorly to the quadratus lumborum, while the fourth passes anteriorly.
+
+- The iliolumbar artery is the first tributary of the internal iliac artery (or hypogastric artery). It rises behind the psoas muscle and the iliacus muscle (iliac fossa), where the individual branches feed the iliac muscle. From it depart the branches that flow into the psoas muscle, the QL, the transverse muscle of the abdomen, and a branch of the spinal canal between the fifth lumbar vertebra and the sacrum.
+
+- The lumbar veins of each side are joined by longitudinal anastomotic vessels, which coalesce to form a small vertical trunk called the ascending lumbar vein. This vessel communicates, at the inferior end, with the iliolumbar vein and sometimes with the common iliac vein; at the superior aspect, it gives rise to the azygos vein on the right and the left hemizygous vein, thus constituting an essential anastomotic pathway between the inferior vena cava system and the superior vena cava system.
+
+- The lumbar lymph nodes of the abdominal cavity, which drain the lymph from the QL, are associated with the inferior vena cava and the abdominal aorta.

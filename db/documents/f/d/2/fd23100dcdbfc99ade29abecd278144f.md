@@ -1,0 +1,1 @@
+The precise epidemiology of hypotension is highly variable and depends on the exact etiology. In general, elderly patients are more prone to non-traumatic, symptomatic hypotensive episodes. Also, more physically active and healthy patients will have lesser resting asymptomatic blood pressures.

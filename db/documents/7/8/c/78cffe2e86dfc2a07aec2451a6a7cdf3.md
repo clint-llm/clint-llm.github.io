@@ -1,0 +1,1 @@
+For the majority of patients requiring repair of canalicular lacerations, develop cosmetic and functional success. This includes the lack of epiphora and otherwise functional lacrimal system. Success rates for injuries involving the lacrimal apparatus may be as high as 82%.

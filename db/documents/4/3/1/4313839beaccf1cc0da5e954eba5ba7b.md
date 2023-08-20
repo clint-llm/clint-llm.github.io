@@ -1,0 +1,1 @@
+Prevention of foreign body ingestion in children is a high priority. Caregivers should be educated about preventing small children from contact with small objects that may be harmful if swallowed, especially button/disc batteries, small magnets, and other high-risk objects. This includes items placed into a trash container that may be accessible to children.

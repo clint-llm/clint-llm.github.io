@@ -1,0 +1,1 @@
+There are several physiological and pathological conditions where the HCT may deviate from its normal range. New-born babies show a high HCT, and it gradually decreases during the neonatal period

@@ -1,0 +1,1 @@
+Preventing the spread of virulent infectious should be the main focus. Viral meningitis and many other infectious causes' spread can be prevented with strict isolation (usually droplet isolation) and frequent hand washing, especially after diaper changes in children to prevent the spread of enterovirus infections.

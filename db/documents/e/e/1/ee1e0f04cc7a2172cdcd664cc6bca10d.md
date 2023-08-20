@@ -1,0 +1,5 @@
+Antiretroviral therapy (ART) has become the mainstay treatment for patients living with human immunodeficiency virus (HIV). The nucleoside reverse transcriptase inhibitor (NRTI) emtricitabine is used in combination with other ART in the treatment of HIV-1, HIV-2, and hepatitis B virus (HBV).
+
+The FDA-approved, combined drug, containing emtricitabine and tenofovir is used as pre-exposure prophylaxis (PrEP) to prevent HIV infection.
+
+Another indication for emtricitabine is as post-exposure prophylaxis (PEP) after possible exposure to HIV infection. Potential sources of HIV transmission include receptive anal intercourse, insertive anal intercourse, receptive vaginal intercourse, insertive vaginal intercourse, blood transfusion, needlestick injury, sharing needles among intravenous drug users, and mucous membrane exposure.

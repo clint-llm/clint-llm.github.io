@@ -1,0 +1,1 @@
+Rigler sign is the second most common sign of pneumoperitoneum, the first being the right upper quadrant subdiaphragmatic free air. Study cases report the incidence of Rigler sign with a lower prevalence then right upper quadrant subdiaphragmatic free air (46% vs. 32%).

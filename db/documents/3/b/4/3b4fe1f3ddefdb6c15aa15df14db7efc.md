@@ -1,0 +1,1 @@
+The overall incidence of PKU in the United States is about 1/15,000. This incidence is greater for Caucasian and Native American populations and less for African American, Hispanic and Asian populations. There is a large worldwide variation in PKU incidence. In Turkey, the incidence is particularly high with 1/4000 live births.

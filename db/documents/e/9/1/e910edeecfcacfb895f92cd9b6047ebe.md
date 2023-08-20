@@ -1,0 +1,1 @@
+Mastoidectomy is a surgical procedure of the temporal bone that opens postauricular air cells by removing the thin bony partitions between them. Each mastoidectomy is unique because of the variable pneumatization patterns of the temporal bone. Pathology can also limit the pneumatization of the mastoid cells and further complicate the mastoidectomy procedure.

@@ -1,0 +1,1 @@
+The patient should receive education about the benign nature of this headache. However, they should be strongly encouraged to seek help if any focal neurologic signs appear, such as blurry or loss of vision, focal weakness, numbness, facial droop, slurring speech and loss of consciousness.

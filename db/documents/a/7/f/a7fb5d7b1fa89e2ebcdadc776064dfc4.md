@@ -1,0 +1,5 @@
+The upper eyelid gets most of its blood supply from the internal carotid artery. Blood flows from the internal carotid artery to the ophthalmic artery to the superior marginal arcade that traverses the lid just superior to the upper eyelid margin posterior to the orbicularis muscle and anterior to the tarsal plate.
+
+The inferior eyelid gets the majority of its blood from the external carotid artery. Blood flows from the external carotid artery to the facial artery to the angular artery and then to the inferior marginal artery. The upper and lower eyelids have rich vascular supply and have many anastomoses between the upper and lower lid circulations.
+
+The medial parts of the upper and lower eyelids have lymph circulation that drains to the submandibular lymph nodes. The lateral parts of the upper and lower eyelids drain to the pre-auricular lymph nodes.

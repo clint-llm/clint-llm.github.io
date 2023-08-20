@@ -1,0 +1,3 @@
+Horner syndrome is a mild, rare condition often presenting with unilateral ptosis, miotic, but a reactive pupil, and facial anhidrosis secondary to sympathetic nerve damage in the oculosympathetic pathway.
+
+Hyperhidrosis is a common disease characterized by excessive sweating, primarily of the face, palms, soles, and/or axilla. While the cause of primary hyperhidrosis is not fully understood, it has been attributed to increased cholinergic stimulation. Treatment can be either clinical or surgical.

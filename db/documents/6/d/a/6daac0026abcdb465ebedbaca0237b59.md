@@ -1,0 +1,1 @@
+The incidence of nail-patella syndrome has been reported as 1 in 50,000.

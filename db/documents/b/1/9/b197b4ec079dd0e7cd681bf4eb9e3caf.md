@@ -1,0 +1,1 @@
+Without treatment, the prognosis of Leriche Syndrome is poor. However, with modern medicine outcomes are good. In some cases with slow progression or onset of LS, collaterals may develop as a self-compensating mechanism.

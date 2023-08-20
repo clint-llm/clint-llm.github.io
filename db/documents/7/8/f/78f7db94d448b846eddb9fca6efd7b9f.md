@@ -1,0 +1,1 @@
+EEG is a standard procedure required to assess the patients presenting to the emergency department with altered mentation and changes in awareness. An interprofessional team of caregivers is necessary to investigate and appropriately treat patients with encephalopathy who present to the hospitals in acute situations to achieve the best outcomes.

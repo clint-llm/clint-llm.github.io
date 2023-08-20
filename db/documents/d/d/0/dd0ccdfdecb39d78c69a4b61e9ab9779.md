@@ -1,0 +1,7 @@
+Like most infectious diseases, geographical location, and socioeconomic status influence the prevalence and cause of FK. In the United States, warm places in southern locations like Florida have a higher incidence of FK compared to colder places in the north.Fusarium, Candida, and Aspergillus are the most frequently isolated species causing FK in the USA,Aspergillus is the most common cause.Fusarium is a particularly common cause of FK in warm climates such as Brazil,Candida may be more common in temperate climates.
+
+The overall incidence of FK seems to be markedly higher in certain parts of the world. In a study of FK in Hyderabad India, 1360 patients with FK were seen over a period of 10 years in a single institute, while in a study from central China, 2065 cases were documented over a 9 year period.
+
+An estimated 45 million residents in the USA use contact lenses.Fusarium keratitis across the USA and many other countries of the world between 2005 and 2006, however, cases were eventually traced back to a specific brand of multipurpose contact lens disinfecting solution, indicating the importance of the continuous monitoring of these products and their components to decrease the risk of future outbreaks of contact lens-associated eye infections.
+
+Several studies have shown a higher incidence of FK in young adult males, possibly due to more outdoor activities and higher incidence of trauma.

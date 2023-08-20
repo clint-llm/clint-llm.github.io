@@ -1,0 +1,1 @@
+Parents require education on the normal passage of meconium and its's importance. Furthermore, parents might need to look out for potential warning signs such as abdominal distension and refusal of feeds.

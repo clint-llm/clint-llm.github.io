@@ -1,0 +1,1 @@
+MHA is best managed by an interprofessional team that includes hematology nurses. The condition does not always require treatment. MHA can often be misdiagnosed as idiopathic thrombocytopenic purpura (ITP) if a thorough evaluation of blood smear and a detailed bleeding history including family history is not taken.

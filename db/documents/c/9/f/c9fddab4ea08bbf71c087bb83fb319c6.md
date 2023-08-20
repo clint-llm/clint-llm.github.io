@@ -1,0 +1,5 @@
+Atypical moles have an extensive geographic distribution globally and are slightly more common in males compared to females. Global prevalence is in the range of 2% to 18%, displaying a higher incidence in European populations (7% to 24%) and fair-skinned individuals. Some notable exceptions to this exist, including the Japanese population, where the incidence of atypical moles is low despite a light-skinned phenotype. Pediatric incidence is also low.
+
+Lifetime melanoma risk to individuals in the United States is less than 1% but is significantly greater in those with atypical moles, considered to be greater than 10%. The risk of malignant transformation in common moles to melanoma amongst the population of the United States is about 1:30,000 in males and 1:40,000 in females.
+
+Those at higher risk include patients with familial atypical multiple-mole melanoma syndrome (FAMMM) who have a near 100% lifetime risk of atypical mole transformation to melanoma in situ.

@@ -1,0 +1,5 @@
+Patients with CMT have a progressive clinical course and need periodic monitoring. Composite scoring systems are available to assess longitudinal changes in function/ disability, including natural history and outcome. The CMT Neuropathy Score (CMTNS) is a reliable composite of nine items that incorporate the motor and sensory symptoms and signs and electrophysiological parameters. The CMTNS score ranges from 0 (best) to 36 (worst) and is used for classifying patients as having mild (≤ 10), moderate (11 to 20), or severe (≥ 20) disability.
+
+A similar score exists for use in the pediatric population (CMTPedS).
+
+Alternate sensitive, reliable, reproducible, and clinically relevant markers that reflect degeneration of Schwann cells and/or axons and thereby act as measures of disease burden and progression, as well as target engagement of specific therapies, have also been developed. They include intramuscular fat accumulation (IMFA) in calf muscles, serum neurofilament light chain, transmembrane protease serine 5 (TMPRSS5), and cutaneous mRNA profiling.

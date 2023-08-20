@@ -1,0 +1,1 @@
+Patients must understand that new strides are being achieved in oncology with each passing day. Testicular cancer has an excellent prognosis. Any fear or query must be addressed bravely with the full faith of their clinician. The preexisting side effects of chemotherapy and radiotherapy are being dealt with now in better ways.

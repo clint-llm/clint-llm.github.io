@@ -1,0 +1,1 @@
+From clinicians on through nursing staff, pharmacists, and other ancillary staff, all healthcare practitioners should understand BNP values commensurate with their function in providing patient care. This is particularly true for those in emergent settings who may encounter patients in need of prompt intervention for cardiac-related events and conditions.

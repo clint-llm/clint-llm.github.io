@@ -1,0 +1,9 @@
+An inverted nipple is a clinical diagnosis. Investigations like mammography, ultrasound, or ductoscopic evaluation can be done when inverted nipples are associated with discharge/ ectasia/ malignancy. Findings may include treatable causes like underlying masses or infections.
+
+Inverted nipples can be either unilateral or bilateral; congenital or acquired. Schwanger classified them as ”umbilicated” if intermittently inverted and “invaginated” if permanently inverted.
+
+- Grade 1 inverted nipples - These are called “shy nipples.” They have minimal or no fibrosis and demonstrate a soft-tissue sufficiency. The lactiferous ducts are normal, even with the retraction. These nipples are very amenable to manipulation and maintain projection for a considerable time, thus enabling breastfeeding easily, although initiation may pose some difficulty.
+
+- Grade 2 inverted nipples – They demonstrate fibrosis of a moderate degree. On tissue examination, smooth muscle bundles are seen encasing the fibrous stroma. The milk ducts are retracted. The nipples can be pulled out but retract back soon after. Breastfeeding is possible, but the baby may have difficulty latching on to the nipple. The decision to lyse the fibrous bands surrounding the lactiferous ducts is individualized. Most of the cases do not need surgical correction.
+
+- Grade 3 inverted nipples – The fibrosis seen is remarkable, and there is severe soft tissue deficiency. Lactiferous ducts are tiny, constricted, and retracted to a considerable extent. Histologically, the terminal ductal units are fibrosed and atrophied. These nipples cannot be pulled out and often mandate surgical correction. Breastfeeding is nearly impossible. These patients do experience a wide variety of associated problems like rashes, sore nipples, and recurrent mastitis.

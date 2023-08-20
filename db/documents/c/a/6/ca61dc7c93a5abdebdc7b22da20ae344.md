@@ -1,0 +1,1 @@
+Brugada syndrome is a genetic disease that predisposes patients to fatal cardiac arrhythmias. It is named after Josep and Pedro Brugada who first described it in 1992. The syndrome is characterized by the ECG findings of a right bundle branch block and ST-segment elevations in the right precordial leads (V1-V3).

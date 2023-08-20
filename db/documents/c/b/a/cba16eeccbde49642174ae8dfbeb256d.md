@@ -1,0 +1,7 @@
+While breastfeeding is natural, it is not always easy. Breastfeeding is a learned skill that requires patience and practice, and for some women, the learning stages can be frustrating and uncomfortable. Like any other skill, it gets easier with practice.
+
+If a baby falls asleep at the breast within a couple of minutes, unwrap the baby or even undress the baby down to a diaper to wake him up again.
+
+Frequent breastfeeding helps eliminate bilirubin and helps establish the mother’s milk supply. If an infant is sleeping more than 3 hours at a time during the day, gently wake the baby by undressing and changing the diaper, then encourage the infant to breastfeed.
+
+If the mother’s nipples become sore from frequent breastfeeding, encourage her to expose her nipples to air as much as possible to avoid skin breakdown and further irritation. Also, encourage the mother to hold the infant in a different position for each feeding session so the mouth and tongue are not in the same spot on the breast at every feeding.  Observe the infant breastfeeding, and be sure the infant’s mouth is wide open and the lips curved around the breast tissue, and not only latched to the nipple tissue. A lactation consultant can help the mother with breastfeeding techniques, and is covered by many insurance companies.

@@ -1,0 +1,1 @@
+Many women do not receive the appropriate screening for diabetes mellitus before pregnancy, so in some cases, it is challenging to distinguish gestational diabetes from preexisting diabetes.

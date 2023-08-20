@@ -1,0 +1,1 @@
+Fetal growth restriction (FGR) is identified in about 3% to 7% of pregnancies.

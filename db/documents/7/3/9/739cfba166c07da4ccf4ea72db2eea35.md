@@ -1,0 +1,1 @@
+Implementation of lifestyle modification programs that improve outcomes among patients diagnosed with type 2 diabetes mellitus is supported by research.

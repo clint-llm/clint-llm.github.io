@@ -1,0 +1,3 @@
+Given the rarity of this condition and the nonspecific presentation, delays in diagnosing PVOD are common. Most patients are usually presumed to have congestive heart failure due to the findings of pulmonary congestion on the CT chest.
+
+Some patients may be misdiagnosed with CTEPH due to the mismatched perfusion defect from V/Q scanning. Suspicion of PVOD should be raised in patients with a history of familial PVOD, a history of underlying autoimmune disease, or a history of chemical/chemotherapeutic drug exposures.

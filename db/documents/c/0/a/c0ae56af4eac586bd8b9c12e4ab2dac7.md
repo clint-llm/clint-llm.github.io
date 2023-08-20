@@ -1,0 +1,1 @@
+Canaliculitis is a condition which is commonly misdiagnosed or diagnosed late. A high index of suspicion is required. An early diagnosis is vital for a complete cure, and chronic cases have more complications and a poorer prognosis.

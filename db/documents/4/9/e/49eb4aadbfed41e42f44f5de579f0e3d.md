@@ -1,0 +1,3 @@
+Limited studies have evaluated the incidence of subacute combined degeneration of the spinal cord. Not all patients with vitamin B12 deficiency will manifest subacute combined degeneration of the spinal cord. A magnetic resonance imaging (MRI) study correlated the abnormal spinal cord signal found in patients with vitamin B12 deficiency and estimated an incidence of subacute combined degeneration of the spinal cord in 14.8% of them.
+
+Vitamin B12 deficiency is the most prevalent cause of subacute combined degeneration of the spinal cord. It is more common among the elderly, particularly those residing in assisted facilities revealed by low serum vitamin B12 levels and high serum methylmalonic acid (MMA) levels.

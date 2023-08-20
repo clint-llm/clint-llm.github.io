@@ -1,0 +1,1 @@
+Ulnar collateral ligament injuries are observed more frequently in the male population, with a 60% predominance in this gender.

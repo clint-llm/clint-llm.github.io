@@ -1,0 +1,1 @@
+Traumatic injuries to the hand commonly result in damage to the common digital arteries. Surgeons have explored the technique of repairing the transected common digital arteries by transferring the superficial palmar arch more distally to reach the common digital artery for revascularization.

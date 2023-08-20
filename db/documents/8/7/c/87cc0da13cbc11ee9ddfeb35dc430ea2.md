@@ -1,0 +1,1 @@
+Small retrospective studies have shown high rate of stability and improvement in 70-80% of treated patients.

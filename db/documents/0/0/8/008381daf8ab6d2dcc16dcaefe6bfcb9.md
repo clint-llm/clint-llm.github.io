@@ -1,0 +1,1 @@
+Most children will 'outgrow' eczema, and their symptoms will be resolved by adulthood. However, children with the already persistent disease, later onset, and/or more severe disease have increased persistence.

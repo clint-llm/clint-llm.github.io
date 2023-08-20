@@ -1,0 +1,1 @@
+The nasal cavity is a roughly cylindrical, midline airway passage that extends from the nasal ala anteriorly to the choana posteriorly.

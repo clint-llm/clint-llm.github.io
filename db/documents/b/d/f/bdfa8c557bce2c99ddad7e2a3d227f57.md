@@ -1,0 +1,1 @@
+Conjoined twins are a rare condition that is uniquely identifiable on prenatal ultrasonography. However, the differential diagnosis might include conditions with aberrant ultrasonographic findings such as cystic hygroma, teratoma, and lymphangioma.

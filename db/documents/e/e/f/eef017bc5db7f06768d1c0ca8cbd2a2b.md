@@ -1,0 +1,3 @@
+A lung abscess is a microbial infection of the lung that results in necrosis of the pulmonary parenchyma. It is classified as acute (less than four weeks) or chronic (more than four weeks) depending on the duration. Based on their etiology, they can be classified as primary, if they occur in the absence of underlying pulmonary lesions or secondary if they occur in the presence of underlying pulmonary lesions.
+
+Primary lung abscesses occur in patients who are prone to aspiration or in otherwise healthy individuals.

@@ -1,0 +1,7 @@
+The axilla is an anatomical region under the shoulder joint where the arm connects to the shoulder. It contains a variety of neurovascular structures, including the axillary artery, axillary vein, brachial plexus, and lymph nodes. There are five anatomic borders of the axilla: the superior, anterior, posterior, lateral, and medial walls
+
+The medial wall is the serratus anterior and the first four ribs. The humerus, the coracobrachialis, and the short head of the biceps form the lateral wall. The pectoralis major and minor muscles make up the anterior wall. The clavicle, scapula, and first rib comprise the superior wall. The posterior wall is the teres major, subscapularis, and latissimus dorsi muscles.
+
+The primary blood supply to the axilla is the axillary artery, which branches directly off of the subclavian artery. The axillary artery is also a major blood supplier to the shoulder and upper arm. The brachial plexus, a network of nerves originating from the C5-T1 spinal roots, is the principal nervous structure in the axillary area.
+
+The axillary walls are used as landmarks by surgeons to prevent damage to the neurovascular structures within the axilla during surgery. Radical mastectomy, a surgery involving removal of the breast, the underlying chest muscles, and the axillary lymph nodes, is a common cause of injury to the long thoracic nerve, which can lead to a winged scapula.

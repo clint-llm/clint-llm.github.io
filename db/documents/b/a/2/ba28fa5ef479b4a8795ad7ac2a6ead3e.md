@@ -1,0 +1,1 @@
+Anyone that is performing an invasive procedure should use sterile technique.

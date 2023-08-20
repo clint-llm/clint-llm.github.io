@@ -1,0 +1,7 @@
+There are three classifications of retinal detachments: rhegmatogenous retinal detachment, tractional retinal detachment, and exudative retinal detachment.
+
+A rhegmatogenous retinal detachment is when a tear, break, or hole occurs in the retina. When a break occurs, this may allow vitreous to enter the space underneath the neurosensory retina, causing a detachment from the RPE. The fluid continues to enter underneath the retina so that it peels off from the RPE until the entire posterior retina is detached. This detachment can occur over hours to months, depending on the location of the detachment. A detachment of the retina can lead to severe vision loss, and often without surgical intervention, it can be a permanently blinding condition.
+
+Tractional retinal detachments do not include a break in the neurosensory retina. When there are proliferative membranes in the vitreous or on the retinal surface, these membranes can pull on the neurosensory retina. When the force is strong enough, it can separate the neurosensory retina from the underlying RPE.
+
+Exudative or serous retinal detachments also do not involve a break in the neurosensory retina. In these detachments, subretinal fluid accumulates due to fluid exudation from a large lesion, such as a tumor or inflammatory mediators.

@@ -1,0 +1,1 @@
+For complicated dental abscess, consult maxillofacial surgery or a dentist if there is one on staff.

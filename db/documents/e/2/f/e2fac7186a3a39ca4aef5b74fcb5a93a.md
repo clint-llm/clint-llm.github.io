@@ -1,0 +1,3 @@
+Survival in IBMFSs depends largely on the age at the time of transplant, disease severity, and response to initial therapy. 10-year survival rates for HSCT are 83%, 73%, 68%, and 51% in the 1, 2, 3, and 5 decades, respectively.
+
+Because HSCT only treats marrow disease, patients with IBMFSs are still susceptible to early-onset SCC. Secondary malignancies and complications from pancytopenia (hemorrhage and infections) are the most common causes of death in this population.

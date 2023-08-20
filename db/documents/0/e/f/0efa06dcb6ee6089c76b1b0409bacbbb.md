@@ -1,0 +1,1 @@
+The nursing, allied health staff, and interprofessional team help in patient management by counseling, recruiting the patients to contact lens clinics, and explaining the pros and cons of contact lens wear.

@@ -1,0 +1,7 @@
+A detailed longitudinal and in-depth family history, followed by a thorough mental status examination, is crucial for early diagnosis of mood disorders. Mood disorders secondary to substance abuse require a urine drug test. Specific rating scales are also available for the evaluation of mood disorders. Hamilton Rating Scale for Depression (HAM-D) and the Montgomery-Asberg Depression Rating Scale (MADRS) are for depression, and the Young Mania Rating Scale (YMRS) is for mania.
+
+- HAM-D is a 17 item depression rating scale administered by the clinician. It rates depressed mood, sleep difficulties, the ability to concentrate, guilt, suicidality, anxiety symptoms, and somatic symptoms on a 3 or 5 point scale. A score of 0 to 7 is considered normal, a score of more than 20 needs intervention.
+
+- MADRS is a questionnaire administered by the clinician for the diagnosis of depression. It assesses sadness, inner tension, appetite, sleep, thoughts of self-harm, and suicide on a scale of 0 to 60. Scores between 0 to 6 are considered normal, 7 to 19 as mild depression, 20 to 34 as moderate depression, and score more than 34 is categorized as severe depression.
+
+- YMRS is a clinician-administered scale for mania. It is an 11 item scale with 4 items (irritability, speech, thought content, and disruptive behavior) graded on a 0 to 8 scale and the remaining items (elevated mood, increase in motor activity, libido, sleep, appearance, and insight) are graded on a 0 to 4 scale. Scores less than 12 indicate remission, 13 to 25 as moderate, and 38 to 60 as severe mania.

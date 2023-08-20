@@ -1,0 +1,3 @@
+Creating dental impressions and the resulting dental casts is one of the best examples of collaborative work between dental clinicians, nurses, and laboratory technicians. The dentist selects the appropriate material and corresponding stock tray for the clinical case. The nurse usually mixes and loads the freshly made alginate into the tray. The nurses are also responsible for cleaning and disinfecting the impressions and either pouring them with gypsum or packing them to send to the laboratory. The package must contain documentation of adequate disinfection. The technician fabricates the impression if the impression arrives at the lab unpoured.
+
+Understanding the inherent properties of irreversible hydrocolloids reduces errors and improves patient outcomes.[Level 4]

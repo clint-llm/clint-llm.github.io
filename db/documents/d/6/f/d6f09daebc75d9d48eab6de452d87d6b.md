@@ -1,0 +1,23 @@
+**Blood Specimen**
+
+After identifying the patient, a phlebotomist takes a blood sample in a syringe from an appropriate vein (preferably antecubital). Blood is collected in properly labeled containers. Serological tests are performed on a clotted blood specimen. It should be protected from extreme temperatures during transport and refrigerated at -20 degrees celsius or lower and sent frozen to the laboratory. A serum for serology, on the other hand, is kept at 2 to 8 degrees celsius.
+
+For blood cultures, contact the laboratory staff for appropriate media, as it depends upon the type of pathogens. Change the syringe needle before injecting blood into the culture bottle. The rubber bung of the culture bottle needs to be cleaned with iodine solution before and after injecting blood into it. The quantity of blood injected is 10% of the liquid medium volume (for 30 mL medium, 3 mL of blood is required). If possible, specimens for culture are obtained before giving antibiotics. Specimens are placed in sterile containers, and sufficient quantities are obtained to allow complete examination. The site of material depends upon the nature of illness and the site where the likelihood of isolation of organism is high. Proper labeling of samples with the patient’s name, age, type of test, date, and site of the collection is an important prerequisite. The specimens for viral cultures are transported in a frozen state at -70 degrees celsius before culture initiation.
+
+**Throat and Nasal Swab**
+
+These swabs are taken under direct and good visibility and lighting. The preferred sites are areas of exudation, inflammatory membranes, or tonsillar crypts. For nasal specimens, make the patient sit up, bend head slightly backward facing the light source, and then insert and repeatedly rotate the swab into one of the nasal cavities. Spread the isolate on 2 or 3 evenly spread smears. Air-dry the slides and send them to the laboratory for examination.
+
+**Sputum Specimen**
+
+For certain diseases like mycobacterium tuberculosis (M. tuberculosis), a series of 3 early morning specimens, 8-10 mL in quantity, are collected and stored in a refrigerator. In uncooperative patients, M. tuberculosis can also be recovered from gastric contents by stomach aspiration.
+
+**Fecal Specimen**
+
+Feces are passed directly into a clean container with a tight cover. They are then transferred to another container. The sample should contain pus, mucus, blood, or any formed elements passed along with stool and include the representative of the first, last, and middle of the stool. Approximately 1 ml (10%) specimen is added to 10 ml alkaline peptone water in diarrhea with cholera suspicion. In viral cases, 1 ml feces are mixed with 9 ml sterile buffered saline and sedimented/centrifuged for half an hour. The supernatant is frozen and stored below – 40 degrees centigrade until further processed.
+
+Physical examination of feces comments on color, odor, consistency, parasites, and pH. Microscopically, we can see food residues, muscle fibers, fats, fatty acid crystals, starch particles, cellulose residues, cells (RBCs, leukocytes, and epithelial), crystals (triple phosphate, calcium oxalate, cholesterol), ova and cysts of parasites, motile amoeba (containing ingested RBC, pseudopodia), mucus, and foreign bodies (hair, wool, etc.).
+
+**Urine Specimen**
+
+Proper instructions are given to the patients who collect the specimen themselves in a sterile container. An uncontaminated mid-stream urine sample is the best for reporting purposes. Physical examination involves volume, odor, color, appearance, pH, and specific gravity estimation. Chemical examination of urine comments on quantities of normal or abnormal elements such as proteins, glucose, reducing sugars, bile pigments (bilirubin), bile salts, blood, nitrites, ketone bodies, urobilinogen, and Bence Jones proteins, etc. Microscopic examination is an important urinalysis component and can detect ova, parasites, red blood cells, leucocytes, casts, epithelial cells, and crystals. Many other cells can be seen with light-microscopy, like malignant cells, bacteria, yeast cells, trichomonas, filaria, spermatozoa, mucous threads, fat, and other artifacts. Automated equipment like Clinitek 100 and Urilux are used for routine urine examination. They are convenient, accurate, eliminates dependency on visual interpretation, allow compute readings, and decrease the need for re-testing.

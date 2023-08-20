@@ -1,0 +1,1 @@
+The scapulohumeral muscles are muscles that connect the scapula to the humerus.

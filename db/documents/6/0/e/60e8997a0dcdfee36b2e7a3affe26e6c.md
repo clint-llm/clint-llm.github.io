@@ -1,0 +1,5 @@
+Treatment recommendations for acute cocaine toxicity are based on an extensive systematic review from 2016.
+
+The best treatment for agitated patients is benzodiazepines, but antipsychotics such as haloperidol and olanzapine may also be useful. Combination treatment with benzodiazepines and antipsychotics has been demonstrated to be more efficacious than monotherapy.
+
+The phenomenon of “unopposed alpha-stimulation,” in which blood pressure increases or coronary artery vasoconstriction worsens after blockade of beta-2 vasodilation in cocaine-abusing patients, is controversial. This rarely-encountered adverse effect has resulted in some clinicians advocating for an absolute contraindication of the use of all beta-blockers, including specific, non-specific, and mixed. Many clinicians disregard this dogma and administer beta-blockers for cocaine-related chest pain and acute coronary syndrome, especially when there is demand ischemia from uncontrolled tachycardia

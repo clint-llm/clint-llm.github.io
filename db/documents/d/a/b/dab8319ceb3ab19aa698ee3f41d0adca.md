@@ -1,0 +1,1 @@
+Granuloma faciale has a progressive, chronic course with recurrent acute phases, rather than having a distinct acute and chronic phase. It is therefore difficult to comment on the chronicity based on histopathology as cases might show overlapping features of acute and chronic inflammation.

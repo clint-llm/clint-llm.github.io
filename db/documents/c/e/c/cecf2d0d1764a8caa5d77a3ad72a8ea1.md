@@ -1,0 +1,3 @@
+Prognosis is majorly determined by the histology, extent of distant tumor spread, and extent of tumor marker elevations. For men with disseminated seminomas, the main adverse prognostic variable is the presence of metastases to visceral organs other than the lungs. A tumor that originated in the mediastinum has a worse prognosis when compared to a tumor that originated within the testicle. Nonetheless, even patients with widespread metastases at presentation, including those with brain metastases, may have a curable disease and should be treated with this intent.
+
+Several studies have suggested that a larger tumor size (at least 3 to 4 cm) is predictive of recurrence for seminomas.

@@ -1,0 +1,3 @@
+An evidence-based team approach involving clinicians and nurses in MAST use is recommended.
+
+Resuscitation of the critically ill patient is a topic of constant scrutiny and frequent disagreement amongst leaders in the field with many studies published on this topic each year. The MAST device serves as an example of one of the many practices that were once the standard of care but expired as medical knowledge advanced. It is the responsibility of medical professionals to advance the knowledge and tools available to provide the best medical care available. As medical knowledge and technology advances, so too should the standard of care medical professionals provide to their patients.

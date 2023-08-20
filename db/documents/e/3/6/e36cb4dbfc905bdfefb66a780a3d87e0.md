@@ -1,0 +1,1 @@
+The tibialis anterior muscle, a lower limb muscle, arises from the myotome of the paraxial mesoderm (somites). At four gestational weeks, limb buds develop; by eight weeks, the bones and muscle groups within the limbs are well-established.

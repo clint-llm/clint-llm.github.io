@@ -1,0 +1,5 @@
+Asthma comprises a range of diseases and has a variety of heterogeneous phenotypes. The recognized factors that are associated with asthma are a genetic predisposition, specifically a personal or family history of atopy (propensity to allergy, usually seen as eczema, hay fever, and asthma).
+
+Asthma also is associated with exposure to tobacco smoke and other inflammatory gases or particulate matter.
+
+The overall etiology is complex and still not fully understood, especially when it comes to being able to say which children with pediatric asthma will carry on to have asthma as adults (up to 40% of children have a wheeze, only 1% of adults have asthma), but it is agreed that it is a multifactorial pathology, influenced by both genetics and environmental exposure.

@@ -1,0 +1,1 @@
+When managing diabetes and cardiovascular diseases using the latest guidelines, the most common issue encountered involves patients’ ability to afford therapies. Therapies like SGLT-2 inhibitors, ARNI, PCSK-9 inhibitors & GLP-1 agonists are expensive, and patients might not be able to afford them. Hence it is always a good idea to be aware of cost-effective alternatives.

@@ -1,0 +1,3 @@
+Because the majority of lung adenocarcinomas are incurable or advanced, chemotherapy is often used. Despite significant advances in chemotherapy, the survival of most patients with lung adenocarcinoma remains abysmal. Platinum-based regimens remain the mainstay of chemotherapy.
+
+For patients with metastatic disease, molecular targeted therapy is being offered, but the results are not spectacular. At best the survival is increased by a few months, but the medications can cost over $20,000 a month.

@@ -1,0 +1,3 @@
+Apart from benign congenital maldevelopment, inverted nipples are also seen with sagging breasts, traumatic fat necrosis, infections such as acute mastitis, duct ectasia, tuberculosis, sudden weight loss, following surgical procedures on the breast and in malignancy and Paget’s disease of the breast.
+
+Nipple inversion in malignancy is due to infiltration if the lactiferous ducts by the malignant cells. These must be accurately identified via a thorough physical examination and oncologic workup, as nipple-plasty or other surgical correction are contraindicated in these situations and may complicate or delay a crucial breast cancer diagnosis. Congenital and benign causes of inverted nipple can be repaired surgically.

@@ -1,0 +1,1 @@
+Usually, pinguecula is asymptomatic. Surgical excision should be a consideration if the patient is symptomatic or has recurrent episodes of pingueculitis. Complications may arise after the excision of the pinguecula. The complications include the recurrence of pinguecula and pigmentary changes at the site of removal.

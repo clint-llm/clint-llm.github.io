@@ -1,0 +1,1 @@
+From a surgical point of view, standard sterile gowning and draping procedures should be standard procedure when performing an amputation in the operating room setting

@@ -1,0 +1,3 @@
+Four-handed dentistry can be utilized to maximize efficiency during oral surgical procedures. The dental nurse recognizes the instrument required next or is instructed by the dental practitioner and then provides this to them.
+
+A sound understanding of oral surgical instruments is imperative as there are usually many instruments on the tray, and delays in treatment can result if the assistant cannot identify each instrument and pass it to the operator in good time. Additionally, the wider team needs to be aware of various instruments to identify faulty pieces and report and replace them.

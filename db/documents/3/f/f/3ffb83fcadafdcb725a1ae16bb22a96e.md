@@ -1,0 +1,1 @@
+CT scans have shown what appears to be pockets of air located in the deep superior conjunctival fornices. Authors have postulated that this may be another sign of giant fornix syndrome. CT can also rule out foreign bodies and frontal sinusitis.

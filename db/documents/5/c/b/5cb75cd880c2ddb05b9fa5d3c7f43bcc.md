@@ -1,0 +1,3 @@
+Arsenical keratosis is an early cutaneous marker of CAT, which is a multisystem disorder with complications that can develop years after arsenic exposure.
+
+Smoking and nutritional deficiencies increase the chances of developing arsenical keratosis, and measures should be taken to mitigate the same. Patients should be taught to identify the features of malignant transformation of arsenical keratosis and seek medical care early on.

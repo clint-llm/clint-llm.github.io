@@ -1,0 +1,1 @@
+If the patient has had significant blood loss, the patient should undergo volume resuscitation. Patients may require a blood transfusion if a significant amount of blood is lost. The treatment of symptomatic Meckel diverticulum is surgical excision. The diverticulum can be removed via laparoscopic or open technique.

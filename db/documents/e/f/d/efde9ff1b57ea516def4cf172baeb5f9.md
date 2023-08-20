@@ -1,0 +1,1 @@
+Primary congenital tracheomalacia is rare, and the exact disease incidence and prevalence are uncertain. A proportion of the disease likely goes undiagnosed as often it may resolve spontaneously. A single-center retrospective study where 512 bronchoscopies were analyzed found the estimated incidence of disease to be at least 1 in 2100 children.

@@ -1,0 +1,11 @@
+Whether one is a seasoned clinician or a medical student, dizziness can be difficult to diagnose and treat. It affects people of all age ranges with varying degrees of symptoms and severity. Additionally, dizziness can be difficult for patients to describe, as it can mean different things to different people. When a patient complains of “dizziness,” they could be describing vertigo, pre-syncope, balance issues, or giddiness. This difficulty in communication can result in frustration for both the patient and the provider; however, differentiating these symptoms is critical for the provider to treat the patient effectively. One critical step for providers is to characterize dizziness as “central vs. peripheral.” Dizziness can account for approximately 5% of walk-in clinics and roughly 4% of emergency department visits.
+
+The differential diagnosis for dizziness encompasses numerous body systems, such as neurological, cardiovascular, or hematologic. Some studies have shown up to 15% of cases of dizziness in the emergency department are life-threatening.
+
+Symptoms and disease definitions are essential for professional communication between providers, whether they treat patients in the clinic, emergency department, or inpatient setting. The language utilized to describe terms such as ”dizziness” or ”vertigo” can often mean many different things based on one’s interpretations. Therefore, a committee was formed to promote the classification of vestibular disorders. Below are several definitions from the Committee for Classification of Vestibular Disorders to clarify these symptoms:
+
+- Vertigo: A sensation of self-motion when in reality, there is no motion occurring or a perceived sense of motion during a normal head movement.
+
+- Dizziness: A sensation of an impaired or distorted sense of motion relative to spatial orientation.
+
+The canalith repositioning maneuver (CRP) was coined by Dr. John Epley in response to the need for non-invasive treatment for benign paroxysmal positional vertigo (BPPV).

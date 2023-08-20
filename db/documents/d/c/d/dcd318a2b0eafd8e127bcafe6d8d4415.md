@@ -1,0 +1,7 @@
+Hungry bone syndrome is an often-forgotten etiology of postoperative hypocalcemia after parathyroidectomy or thyroidectomy. The interprofessional healthcare team should work diligently to monitor the patients for hypocalcemia in the post-operative period and to further investigate the cause of it with the assistance of parathyroid hormone level, phosphorous, and magnesium levels.
+
+In being more aware of the syndrome, its diagnosis, and management, the healthcare team can help the patients by avoiding a missed diagnosis.
+
+To avoid the morbidity of HBS, patients undergoing thyroidectomy or parathyroidectomy require monitoring for symptoms in the postoperative period. The team members should be familiar with the syndrome and refer the patient to an endocrinologist for more definitive management.
+
+Nursing will play a role in pre-, intra-, and postoperative care, and should be alert to the signs and symptoms of HBS following the procedure so that they can alert the clinician. Once the clinician has diagnosed HBS and wants to initiate therapy, a pharmacist should work closely on the case providing assistance in agent selection, verifying dosing, performing medication reconciliation, and counseling the patient on proper dosing and administration in collaboration with the nursing staff. These examples of interprofessional teamwork demonstrate how such an approach can lead to better patient outcomes. [Level V]

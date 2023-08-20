@@ -1,0 +1,1 @@
+There is limited information regarding the prognosis of Albright hereditary osteodystrophy. Life expectancy is usually normal in patients with AHO. Severe-morbid obesity with associated complications such as obstructive sleep apnea, neuropsychiatric disorders, seizures, and cataracts are more common in AHO associated with PHP1A.

@@ -1,0 +1,3 @@
+Herophilus and Erasistratus were the first to provide the anatomical depiction of the ventricular system inside the brain. Later, Domenico Felice Antonio Cotugno described the presence of cerebrospinal fluid (CSF) within this interconnecting system.
+
+The ventricular system develops from the cavities within the developing brain vesicles. The cavity of the rhombencephalon later forms the fourth ventricle, whereas the cavity of the diencephalon forms the third ventricle, and those of the telencephalon develop into the lateral ventricles. The cavity within the mesencephalon forms the aqueduct connecting the third to the fourth ventricles.

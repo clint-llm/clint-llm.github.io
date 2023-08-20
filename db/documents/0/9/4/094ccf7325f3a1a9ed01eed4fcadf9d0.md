@@ -1,0 +1,1 @@
+The exact etiology of dextrocardia is unknown. However, it is thought to be secondary to the abnormal position of the organs during embryonic development. Kartagener syndrome is an inherited disorder of ciliary motility that is caused by autosomal recessive mutation and is associated with chronic sinusitis, bronchiectasis, and dextrocardia.

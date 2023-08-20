@@ -1,0 +1,1 @@
+All patients with myasthenia gravis should have a screening CT scan of the chest looking for thymomas or thymic hyperplasia. Thymectomy has been shown to lead to symptom improvement in these patients.

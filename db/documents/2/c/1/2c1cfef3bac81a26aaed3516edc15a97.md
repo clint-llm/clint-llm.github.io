@@ -1,0 +1,1 @@
+Cheiralgia paresthetica is a relatively rare condition when compared to other nerve compression syndromes. Carpal tunnel syndrome has an annual incidence rate between 0.1 and 0.35%; while, ulnar nerve compression syndromes have a rate of 0.02%. Radial nerve compression syndromes have a rate of 0.003%.

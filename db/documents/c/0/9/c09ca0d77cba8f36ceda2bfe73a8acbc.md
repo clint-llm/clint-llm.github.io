@@ -1,0 +1,1 @@
+Most cases of hypertension are idiopathic which is also known as essential hypertension.  It has long been suggested that an increase in salt intake increases the risk of developing hypertension.

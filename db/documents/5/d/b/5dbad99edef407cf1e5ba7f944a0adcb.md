@@ -1,0 +1,5 @@
+The physiology of brain death is similar regardless of the etiology. Inadequate tissue oxygenation leads to a progressive cascade of further edema, increasing intracranial pressure, a further decrease in cerebral perfusion and eventual herniation, or complete cessation of blood flow and aseptic necrosis of brain tissue.
+
+In anoxic brain injuries, mainly inadequate cardiopulmonary resuscitation following a cardiopulmonary arrest, tissue hypoxia leads to the release of cytotoxic material that leads to progressive cerebral edema and, eventually, the cascade described above.
+
+For traumatic brain injuries or other intracranial injuries, the presence of increasing intracranial pressure as a result of injury beyond the mean arterial pressure will prevent adequate oxygenation of neuronal tissues. This situation will result in further injury, edema, and, eventually, the process initially described above.

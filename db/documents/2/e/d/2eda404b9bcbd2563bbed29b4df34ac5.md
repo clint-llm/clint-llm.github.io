@@ -1,0 +1,1 @@
+The prognosis for most white dot syndromes (ARPE, MEWDS, APMPPE, AZOOR) is good, with most patients experiencing a benign and self-limited course with an eventual return to or near baseline vision.

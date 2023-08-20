@@ -1,0 +1,1 @@
+The nurse should ensure that the patient has not ingested any caffeinated beverages or colas for at least 12 hours prior to the procedure. In addition, the nurse must ensure that the patient did not take theophylline for 24 hours prior to the test. The labs should be checked for renal function and any allergy to the contrast dye should be documented.

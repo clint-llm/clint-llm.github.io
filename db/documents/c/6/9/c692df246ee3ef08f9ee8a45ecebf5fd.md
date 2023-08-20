@@ -1,0 +1,1 @@
+Common causes of nerve root compression treated with ESIs are an intervertebral herniated disc, spondylosis, spondylolisthesis, and ligamentum flavum hypertrophy which can result in neuroforaminal stenosis.

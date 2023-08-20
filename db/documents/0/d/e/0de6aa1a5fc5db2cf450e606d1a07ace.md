@@ -1,0 +1,1 @@
+A pelvic ultrasound is the ideal imaging technique in pregnant women as it does not entail use of contrast or x-rays. The technique can be done at the bedside and is cost effective.

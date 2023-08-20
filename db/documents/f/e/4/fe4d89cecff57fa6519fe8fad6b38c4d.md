@@ -1,0 +1,1 @@
+With the initial injection, patients should be monitored for hypersensitivity reaction at the injection site as well as for mental status changes.

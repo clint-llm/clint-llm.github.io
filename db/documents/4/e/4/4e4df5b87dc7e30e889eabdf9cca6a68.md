@@ -1,0 +1,1 @@
+A proper understanding of the diagnosis, indications, and surgical techniques will lead to positive outcomes in otoplasty.

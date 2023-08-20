@@ -1,0 +1,5 @@
+Upon completion of a thorough history and physical exam, radiographic evaluation aids in diagnosis. Conventional radiographs should be obtained in multiple orthogonal views as tolerated, including posteroanterior (PA), lateral, oblique, and scaphoid.
+
+The lunate can appear triangular in appearance when it rotates, an appearance known as the “piece-of-pie sign.”
+
+Computerized tomography (CT) can be helpful to further appreciate the personality of the fracture patterns in PLFDs. CT can also aid in preoperative planning, and 3D reconstruction of CT films has become an evolving technology for surgeons. Magnetic resonance imaging (MRI) is both sensitive and specific for detecting ligamentous injuries and occult fractures that are missed on conventional radiographs and CT scans. Advanced imaging should be obtained after closed reduction.

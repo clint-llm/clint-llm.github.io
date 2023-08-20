@@ -1,0 +1,1 @@
+Patients with ehrlichiosis cannot pass the disease on to other humans, but the presence of an infected individual indicates the potential for others to contract tick-borne diseases. Therefore patients need to be taught the best practices for tick avoidance as well as tick control measures.

@@ -1,0 +1,5 @@
+As previously noted, osteitis condensans ilii (OCI) most commonly presents without lab value abnormality. Therefore laboratory studies are most helpful in ruling out other causes of sacroiliac disease. Inflammatory markers such as erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) are negative and should be obtained to rule out an inflammatory arthropathy such as rheumatoid or psoriatic arthritis, or infectious sacroiliitis. Rheumatoid factor is also negative and may, therefore, offer some diagnostic discriminatory value as well. HLA-B27 is rarely positive,
+
+Classic radiographic findings of OSI include sclerosis arising along the subcortical articular surface of the iliac bone extending into the adjacent medullary space, a pattern that classically appears as a triangular area of increased density/sclerosis with apex cephalad.
+
+CT scan demonstrates the same findings as radiographs but to greater advantage and detail. Additionally, the axial nature of the exam may show an anterior predilection for sclerosis.

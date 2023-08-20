@@ -1,0 +1,3 @@
+Although the majority of frontotemporal dementia presentations are sporadic, the disease is highly heritable, and a family history of dementia has been reported in up to forty percent of cases.
+
+Few studies have evaluated modifiable risk factors for frontotemporal dementia; however, research has identified diabetes mellitus, history of head injury, and autoimmune disorders as potentially contributing to the development of frontotemporal dementia.

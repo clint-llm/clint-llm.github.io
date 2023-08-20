@@ -1,0 +1,1 @@
+The procedure may be performed by a single surgeon, although a team approach ensures optimal patient outcomes. Perioperative nursing team, anesthesia team, and a radiology technician are also required. Post-procedure evaluation by physical therapy can assist in achieving patient long term pain relief and functional goals.

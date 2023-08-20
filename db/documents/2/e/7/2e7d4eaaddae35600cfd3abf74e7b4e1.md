@@ -1,0 +1,1 @@
+While traumatic muscular hematomas can occur in patients of all demographics, spontaneous muscle hematomas have a significantly increased incidence in the elderly receiving treatment with anticoagulants and occurring in approximately 5% of such patients with an annual mortality rate of 0.65%.

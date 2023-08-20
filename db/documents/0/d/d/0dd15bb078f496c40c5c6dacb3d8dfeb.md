@@ -1,0 +1,5 @@
+Mastitis is inflammation of the breast tissue and can be broken down into lactational and non-lactational mastitis. Lactational mastitis is the most common form of mastitis. Two types of non-lactational mastitis include periductal mastitis, and idiopathic granulomatous mastitis (IGM).
+
+Lactational mastitis, also known as puerperal mastitis, is typically due to prolonged engorgement of milk ducts, with infectious components from the entry of bacteria through skin breaks. Patients can develop a focal area of erythema, pain, and swelling, and can have associated systemic symptoms, including fever. This occurs most commonly in the first six weeks of breastfeeding but can occur at any time during lactation, with most cases falling off after 3 months.[1]
+
+Periductal mastitis is a benign inflammatory condition affecting the subareolar ducts and occurs most commonly in reproductive-aged women. Idiopathic granulomatous mastitis is a rare and benign inflammatory condition that can clinically mimic breast cancer.

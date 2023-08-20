@@ -1,0 +1,7 @@
+Two conditions that can lead to angina symptoms include coronary artery spasm and microembolization. Coronary artery spasm can cause partial or complete occlusion of the arterial lumen, resulting in limited blood flow to the myocardium. This can result in anginal symptoms and more deleterious effects like myocardial ischemia, infarction, arrhythmias, and even sudden cardiac death. Microembolisation usually occurs in the setting of existing coronary artery disease when shards of fragments of disturbed plaque progress to micro-circulation and clog up the small arterioles and capillaries. This leads to increased resistance to flow across the coronary bed, which raises intra-coronary pressure, impairs nutrient exchange, and causes endothelial dysfunction, which results in ischemia. This activity reviews the evaluation and management of coronary spasm and micro-embolization and highlights the role of the interprofessional team in caring for affected patients.
+
+**Objectives:**
+- Identify the etiology of coronary artery spasm.
+- Identify the etiology of microembolization.
+- Explain how to treat patients with coronary artery spasm.
+- Employ interprofessional team strategies to improve care coordination and communication to advance the diagnosis and management of coronary artery spasm and microembolization.

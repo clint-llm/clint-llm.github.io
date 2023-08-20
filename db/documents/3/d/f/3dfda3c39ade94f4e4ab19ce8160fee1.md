@@ -1,0 +1,3 @@
+The use of venous stenting is increasing to improve symptoms due to venous outflow obstruction. Patient selection involves the assessment of the patient's clinical and anatomic presentation. Work up may involve the use of a multimodality imaging approach. Venous stenting for venous outflow disease can improve the quality of life and improve symptoms of pain, edema, and venous stasis ulcer healing rates.
+
+If criteria are met, prior infrainguinal procedures that fail to address the symptoms should be considered for venous stent placement.

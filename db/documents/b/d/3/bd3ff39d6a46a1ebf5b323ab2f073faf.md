@@ -1,0 +1,3 @@
+Renal infarction is the major complication that may result from an untreated renal artery thrombosis. Hypertension, sometimes refractory to medical management, is another serious sequela that clinicians need to be aware of and manage. Renal infarction could lead to significant renal impairment that, in some cases, may be irreversible. Dialysis therapy may need to be pursued should the patient already have chronic kidney disease or have major impairment in kidney function post-diagnosis.
+
+It has been recently reported that the COVID-19, which usually is associated with thromboembolism in major blood vessels and stroke, can even present secondarily with renal artery thrombosis.

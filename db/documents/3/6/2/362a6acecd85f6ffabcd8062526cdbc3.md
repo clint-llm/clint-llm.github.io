@@ -1,0 +1,3 @@
+Other specialists need to be involved regarding the cessation of blood loss, whether from bleeding, hemolysis, or failure of production. Reported adjunctive therapies include PEGylated carboxyhemoglobin bovine, hemoglobin-based oxygen carriers, erythropoietin, steroids, and hematinics such as iron, folate, and B12/cyanocobalamin.
+
+Many hospitals have Hospital Liaison Committees (HLC). These can utilize community-based volunteer Jehovah’s Witness clergy that assist hospitalized Jehovah’s Witnesses. These volunteers visit patients, help coordinate care plans that reflect the spiritual beliefs of the patients, and advocate for such patients in a nonconfrontational fashion.

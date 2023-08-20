@@ -1,0 +1,1 @@
+Tears of the middle meningeal artery resulting in a significant epidural hematoma are often treated surgically with overwhelming success in non-comatose patients.

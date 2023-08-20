@@ -1,0 +1,3 @@
+Staphylococcal Scalded Skin Syndrome, also known as Ritter disease is a disease characterized by denudation of the skin caused by exotoxin producing strains of the Staphylococcus species, typically from a distant site. It usually presents 48 hours after birth and is rare in children older than six years. It may also present in immunocompromised adults or those with severe renal disease.
+
+The disorder is characterized by significant exfoliation of skin following cellulitis. The severity may vary from a few blisters to system exfoliation leading to marked hypothermia and hemodynamic instability.

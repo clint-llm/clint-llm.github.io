@@ -1,0 +1,1 @@
+If hypoglycemia is confirmed, the focus should be on correcting the hypoglycemia and identifying the underlying cause. In the workup of hypoglycemia, history should include medication and dietary adherence, medication changes, suspicion for acute kidney injury, or intentional/unintentional weight changes, especially weight loss.

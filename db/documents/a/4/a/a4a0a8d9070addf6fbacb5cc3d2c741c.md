@@ -1,0 +1,1 @@
+Epidemiological data on syringomyelia is limited. Some studies have found the prevalence of syringomyelia to be from 8.4/100,000 to 0.9/10,000 with ethnic and geographic variation.

@@ -1,0 +1,37 @@
+**Bladder**
+
+Bladder contusions can be observed clinically.
+
+Patients undergoing exploratory laparotomy for other injuries should have the extraperitoneal bladder injury repaired at the same time. The bladder is entered via an anterior cystotomy. It is very important to avoid entering a retropubic hematoma. The laceration can be repaired intravesically with absorbable suture. A large-bore Foley catheter is used to drain the bladder, and a cystography is performed 7 days post-repair to ensure the bladder is healing well.
+
+Intra-peritoneal injuries require operative repair.
+
+**Urethra**
+
+Grade one urethral injuries do not require treatment. Grades 2 and 3 are typically treated non-operatively with catheterization.
+
+Urethral injuries associated with pelvic fractures are best treated with suprapubic cystotomy or primary urethral realignment. Traditionally suprapubic drainage was the standard approach. This can be performed percutaneously quite easily as the bladder is already distended. Alternatively, the catheter can be placed via an open approach at the same time as laparotomy. Suprapubic drainage is followed by 3 to 6 months of observation while the anatomy stabilizes and the pelvic hematoma resolves. Repeat antegrade and retrograde urethrograms are obtained, and definitive reconstruction is performed. Suprapubic catheters do not increase hardware infection when pelvic fractures are treated with internal fixation. Primary realignment is an option if the patient is hemodynamically stable, and an experienced urologist is available. This involves passing instruments in an antegrade and retrograde fashion through the urethra. Ultimately it results in a wire from the urethra meatus to the bladder. A Council-tip catheter is then advanced over the wire. Primary realignment does significantly decrease stricture rate and, thus, may be beneficial if situationally appropriate.
+
+Surgical reconstruction is recommended for penetrating injuries to the anterior urethra. It is also recommended for urethral injury associated with penile fracture. Local exploration is typically sufficient. Limited debridement may be necessary. The urethra is then primarily anastomosed with a spatulate technique. If the patient cannot undergo immediate repair due to other injuries, urinary diversion with a suprapubic catheter is indicated. Extensive urethral damage with associated tissue loss may require a staged repair.
+
+Blunt trauma causing complete anterior urethral division is best managed with suprapubic diversion with delayed repair 3 to 6 months later. This gives perineal hematomas a chance to resolve and allows an end-to-end urethroplasty. Straddle injuries should be treated with a suprapubic catheter for urinary diversion. After a recovery period, anastomotic urethroplasty is the treatment of choice for obliterated bulbar urethra after a straddle injury.
+
+Female urethral injuries in the proximal or mid urethra should be repaired. Repair over a catheter is the treatment of choice. If a vaginal injury coexists, it should be repaired at the same time to help prevent urethrovaginal fistulas. Suprapubic catheters are generally reserved for hemodynamically unstable female patients.
+
+**Female Organs**
+
+Perineal lacerations can be treated in the emergency department if there is no associated urinary or rectal injury. Lacerations to the vulva should be irrigated and debrided of devascularized tissue. It can then be repaired primarily with interrupted absorbable suture. Large perineal hematomas may require incision and drainage with ligation of the bleeding vessel. The area can then be packed or closed loosely with a drain.
+
+Vaginal and cervical lacerations have the potential for significant bleeding from the pudendal vessels. If bleeding is minimal, a speculum exam with laceration repair can be done under local anesthesia in the emergency department. Exam under anesthesia is indicated for large hematomas or significant bleeding obstructing a thorough exam. Simple lacerations can be repaired with absorbable suture in either a running or interrupted fashion. Vaginal or cervical lacerations associated with pelvic fractures are more complex and require a team of multiple specialty surgeons. These are repaired in the operating room. The urinary system and rectum should be examined for injury and diversion performed as indicated. Vaginal lacerations are still repaired with absorbable suture, incorporating both the mucosa and muscular layer in the repair. Vaginal packing should be placed for 24 hours after repair. Sexual assault victims require extensive psychological support, prophylactic antibiotics, and if desired, emergency contraceptive options.
+
+As mentioned above, injury to a non-gravid uterus is exceedingly rare. Most occur due to penetrating trauma, and thus generally necessitate laparotomy for other injuries. Blunt trauma can cause uterine injury. The uterus should be repaired with a two-layer closure using absorbable suture. Blast injury to the uterus may require a hysterectomy. Hysterectomy may also be required if the uterine artery is damaged. Uterine artery damage has also been treated with oxytocin. Fallopian tube or ovarian lacerations are repaired primarily with absorbable suture. If the damage is too extensive, then salpingo-oophorectomy should be performed.
+
+**Male Organs**
+
+Penile trauma is most often managed surgically as early operative repair provides the best results.
+
+Traumatic penile amputation is very rare. Reimplantation is possible up to 6 hours of warm ischemic time and 16 hours of cold ischemic time. The amputated penis should be irrigated, wrapped in saline-soaked gauze, put in a bag, then placed in another bag with cold slush. Direct contact with ice should be avoided, as this can cause hypothermic injury to the penis. Reconstruction involves anastomosis of the urethra, corporeal bodies, and neuromuscular bundles. Therefore, the patient should be transferred to a facility with microsurgery capabilities. If the amputated penis is unavailable, the stump should be irrigated, the corpus closed, and a neomeatus should be created.
+
+Early testis exploration is associated with higher rates of salvage. A vertical scrotal incision is typically used for exploration. Clots are removed, and any extruding seminiferous tubules are debrided to allow the tunica albuginea to close. The tunica albuginea, even small defects, should be closed with slowly absorbing suture. If it is not closed, any swelling over time will cause further extrusion of seminiferous tubules. If there is extensive capsular loss, more parenchyma can be removed, or the tunica vaginalis can be used to create a tunica albuginea flap.
+
+Scrotal lacerations should be explored to ensure the testicle is not injured. In the absence of testicular injury, the wound can generally be closed primarily. The tunica dartos and skin should be closed in two separate layers. Skin avulsion can occur without damage to underlying structures; however, the wound should be explored to ensure surrounding structures are uninjured. Scrotal tissue loss can be treated with debridement of devascularized tissue followed by repair or split-thickness skin grafting.

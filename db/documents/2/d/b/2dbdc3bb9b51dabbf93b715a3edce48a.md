@@ -1,0 +1,1 @@
+There are no specific antidotes for an overdose of ixekizumab.

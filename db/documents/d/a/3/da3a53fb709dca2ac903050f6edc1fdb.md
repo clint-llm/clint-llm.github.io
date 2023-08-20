@@ -1,0 +1,1 @@
+As laryngeal surgery is an aerosol-generating procedure, the use of PPE to prevent infection control is paramount. A previous investigation analyzing communication in the pediatric operating theater during airway surgery has shown detrimental effects on communication among OR staff as a result.

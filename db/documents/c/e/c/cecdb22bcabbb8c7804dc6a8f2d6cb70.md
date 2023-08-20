@@ -1,0 +1,1 @@
+The etiology of mixed connective tissue disease is unclear. No clear risk factor has been identified so far. Immune activation due to environmental factors in people with genetic predisposition is thought to play a role. Certain viruses and chemicals have been found to correlate with the disease.

@@ -1,0 +1,1 @@
+A basic oculoplasty instrument set, local anesthetic containing epinephrine, a skin marking pen and measuring scale is all that is needed to perform a successful ptosis surgery.

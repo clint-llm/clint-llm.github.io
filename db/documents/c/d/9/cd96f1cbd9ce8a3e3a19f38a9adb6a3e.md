@@ -1,0 +1,3 @@
+Dofetilide contraindications include patients with long QT syndrome. It is also contraindicated in patients on kidney dialysis or with renal diseases.
+
+Dofetilide is contraindicated in patients with a low potassium level in the blood, vomiting and/or diarrhea, sweating, loss of appetite, decreased thirst, and whether the patients have ever had heart or liver disease. Dofetilide is contraindicated in patients planning to become pregnant, pregnant, or breastfeeding.

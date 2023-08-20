@@ -1,0 +1,7 @@
+There are multiple routes of administration of insulin. Insulin is most commonly injected using an insulin syringe. These are plastic disposable syringes available in sizes that hold 30, 50, and 100 units of insulin. They come equipped with a fine gauge needle (up to 31 gauge) with short needle lengths of 3/16 inch for infants up o 1/2 inch or greater for adults. The most frequent administration method is a subcutaneous injection. In rare instances, insulin may be injected into a muscle, but this should only be under close medical supervision, as in a hospital or other facility.
+
+Because of their convenience, insulin pens have gained greater popularity in recent years; these can be disposable or re-usable, the latter utilizing disposable insulin cartridges. Another option is continuous subcutaneous insulin infusion (CSII) devices or insulin pumps. These small computerized devices are programmed to deliver subcutaneous insulin.
+
+Regular insulin and rapid-acting insulins can also be delivered intravenously, but this is only possible under close medical supervision in a clinical setting.
+
+Administration can be as a bolus as an intravenous injection or as a continuous intravenous infusion. Typically, glycemic control is achieved by using basal and prandial insulin administration or by continuous subcutaneous insulin infusion. Recently, the inhalational route for the administration of insulin is available for clinical use.

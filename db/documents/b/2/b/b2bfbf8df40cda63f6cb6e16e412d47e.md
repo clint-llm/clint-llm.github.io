@@ -1,0 +1,3 @@
+Vasculitis refers to inflammation of the blood vessels leading to tissue destruction with or without organ damage. Vasculitis is classified as small vessel, medium vessel or large vessel vasculitis
+
+Leukocytoclastic vasculitis is a small vessel vasculitis characterized histopathologically by immune complex-mediated vasculitis of the dermal capillaries and venules. Cutaneous leukocytoclastic vasculitis is usually confined to skin with rare extracutaneous manifestations in less than 30% of the cases. Key clinical features of cutaneous leukocytoclastic angiitis include palpable purpura, lower extremity location, small vessel involvement.

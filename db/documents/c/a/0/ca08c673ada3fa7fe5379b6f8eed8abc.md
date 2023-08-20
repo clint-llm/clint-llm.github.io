@@ -1,0 +1,3 @@
+All patients must be educated regarding the need for regular follow-up. The patients should be explained the need to seek urgent health care if the patient develops acute redness/pain/colored haloes/sudden deterioration of vision. They should be stressed about the need for timely screening for refractive error, intraocular pressures and might need a change of glasses from time to time.
+
+Surgical intervention might be planned as per the assessment on subsequent visits. Patient counseling is essential to understand that microspherophakia has an overall favorable prognosis, and good visual acuity can be achieved with timely intervention.

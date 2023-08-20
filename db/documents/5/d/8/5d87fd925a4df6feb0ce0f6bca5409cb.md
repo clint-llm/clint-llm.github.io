@@ -1,0 +1,1 @@
+Only trained healthcare providers should perform external pacing.

@@ -1,0 +1,7 @@
+Coenzyme Q10 (CoQ10) is not FDA-approved to treat any medical condition, although it is widely available over-the-counter as a dietary supplement and recommended by primary care providers and specialists alike. Diseases such as neurodegenerative diseases, fibromyalgia, diabetes, cancer, mitochondrial diseases, muscular diseases, and heart failure are associated with decreased circulating levels of CoQ10. Statin drugs, of note, block the production of an intermediate in the mevalonate pathway, a biochemical pathway that leads to the production of CoQ10. Therefore, researchers hypothesize that statin drugs may deplete the body of CoQ10. As muscle pain and cramping are such a common adverse effect of statins, they believe this depletion of CoQ10 is the culprit. This activity will highlight the mechanism of action, adverse event profile, latest research, and relevant interactions pertinent to CoQ10 for members of the interprofessional team to treat patients with potentially relevant conditions.
+
+**Objectives:**
+- Identify the purported indications for supplementing with coenzyme Q10.
+- Describe the mechanism of action of CoQ10.
+- Outline the potential benefit of CoQ10 in patients receiving statin therapy.
+- Explain the importance of improving care coordination among the interprofessional team to enhance care delivery for patients with CoQ10 use.

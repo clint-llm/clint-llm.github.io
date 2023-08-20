@@ -1,0 +1,9 @@
+The best treatment for acute Q fever is doxycycline 100 mg orally twice daily for 14 days.
+
+In pregnancy, acute non-life-threatening Q fever should be treated with trimethoprim-sulfamethoxazole (160 mg TMP and 800 mg SMX, orally twice a day, in patients with normal renal function) from diagnosis till 32 weeks of pregnancy (high risk of hyperbilirubinemia in the last eight weeks), despite being a pregnancy category C drug because the risk of untreated Q fever (stillbirth or miscarriage) is higher for the fetus than the adverse effects of trimethoprim-sulfamethoxazole (intra-uterine growth retardation and premature delivery).
+
+Pregnant patients with persistent, localized infections are managed with trimethoprim-sulfamethoxazole (TMP-SMX). Chronic Q fever that occurs during pregnancy is treated with doxycycline 100 mg twice daily and hydroxychloroquine 200 mg three times daily for a year post-delivery.
+
+For Q fever endocarditis, the therapeutic regimen includes doxycycline and hydroxychloroquine, given for 18 months in native valve endocarditis and 24 months for prosthetic valve endocarditis. A fourfold decrease in IgG antibody levels implies treatment completion. Hydroxychloroquine enhances the antibacterial action of doxycycline as it increases the pH of the phagolysosome. Ciprofloxacin or rifampin can substitute hydroxychloroquine in cases of intolerance or contraindication. Valve surgery is a must in prosthetic valve involvement. Antibiotic treatment is not effective for QFFS.
+
+An effective whole-cell vaccine for Q fever has been developed and is administered to humans with occupational risk in Australia. It is not recommended in the United States.

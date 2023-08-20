@@ -1,0 +1,3 @@
+Molecular studies have been instrumental in highlighting the role of E-cadherin inactivation in the development of lobular lesions and in supporting the notion that lobular carcinoma in situ and atypical lobular hyperplasia are, nonobligate precursors for the development of invasive cancer, rather than being simply risk indicators for invasive disease.
+
+Germline CDH1 mutations and the role of genes of the phosphatidylinositol 3-kinase pathway, PIK3CA in the development of lobular breast cancer, is considered important.

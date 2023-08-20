@@ -1,0 +1,1 @@
+Despite aggressive treatment, this disorder carries a very high mortality.

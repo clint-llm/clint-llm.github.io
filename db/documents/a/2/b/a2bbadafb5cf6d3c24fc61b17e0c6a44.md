@@ -1,0 +1,1 @@
+The prognosis ultimately depends upon the etiology. Those that suffer from hyperacusis have varying levels of distress. Patients with hyperacusis are often more impaired than those with tinnitus. Patient forums suggest that for some, hyperacusis is a long-term condition (although it is worth noting that those who no longer suffer are unlikely to continue posting on forums).

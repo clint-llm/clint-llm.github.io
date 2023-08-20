@@ -1,0 +1,1 @@
+PACs are prevalent amongst young and old patients, independent of many risk factors and previously known medical conditions.

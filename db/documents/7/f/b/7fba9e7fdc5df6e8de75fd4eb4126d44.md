@@ -1,0 +1,1 @@
+The prognosis of metabolic acidosis is dependent upon the etiology and the acid-base derangement. The prognosis is poor if derangements are large and vitals are unstable.

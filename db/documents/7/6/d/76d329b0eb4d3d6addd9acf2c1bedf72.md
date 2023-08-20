@@ -1,0 +1,1 @@
+Prognosis and complications are directly related to access to care and treatment.

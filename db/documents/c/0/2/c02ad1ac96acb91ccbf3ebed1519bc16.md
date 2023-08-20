@@ -1,0 +1,1 @@
+The main differential diagnosis includes congenital maldevelopment of the skull bones and basal encephaloceles which can present with CSF leak.

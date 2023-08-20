@@ -1,0 +1,1 @@
+The pathogen was referred to as Corynebacterium equi for several decades until 1980 when it was reclassified as the genus Rhodococcus. R. equi is a gram-positive obligate aerobic coccobacillus that is non-motile. It characteristically produces a red pigment, especially in older cultures, but younger cultures tend to have a pale salmon pink color on solid media.

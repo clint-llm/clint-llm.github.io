@@ -1,0 +1,1 @@
+Clinicians need to understand the concept of BMI due to its wide clinical use as a stratification measure in many treatment guidelines.

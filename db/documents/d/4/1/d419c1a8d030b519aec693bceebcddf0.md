@@ -1,0 +1,1 @@
+Patient awareness of HTLV-1 and knowledge of viral transmission and infection is evidenced to be lacking even in populations with a high prevalence of the virus.

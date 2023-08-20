@@ -1,0 +1,1 @@
+Smaller congenital melanocytic nevi can be excised by primary excision, whereas larger lesions may require more complex surgery, including serial excision, tissue expansion surgery, skin grafts or flaps.

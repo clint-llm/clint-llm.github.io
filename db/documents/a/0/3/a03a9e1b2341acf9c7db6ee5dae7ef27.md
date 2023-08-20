@@ -1,0 +1,1 @@
+Complications depend on the size, location, and relationship with other ocular structures. Recognized complications include but are not limited to obstruction of the visual axis, mechanical corneal decompensation, glaucoma (both open and closed-angle), recurrent iritis, and cataract.

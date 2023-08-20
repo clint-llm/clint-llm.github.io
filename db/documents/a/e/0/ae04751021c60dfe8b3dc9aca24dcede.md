@@ -1,0 +1,9 @@
+When screening for Chapman's points, it is important to note that there are both anterior and posterior points. In general, anterior Chapman's points are found in the intercostal space between segmentally related ribs, near the sternocostal or costochondral junctions. Posterior points typically appear between the spinous and transverse processes of vertebrae of the same numbered ribs as the anterior points. For example, innervation to and from the heart is routed via the gray matter of spinal cord levels T1-T5. The anterior point is found in the intercostal space between ribs 2 and 3 at the sternocostal junction, and the posterior point is present midway between the transverse and spinous processes of T2 and T3.
+
+Osteopathic physicians that include Chapman's points in their development of differential diagnoses often use a 30- or 45-second screen, in which they systematically screen for positive Chapman's points related to common pathologies. Studies have shown that including a Chapman's screen increases the credibility of a diagnosis.
+
+It is necessary clinically to differentiate Chapman's points from myofascial trigger points, Jones' strain-counterstrain tender points, and fibromyalgia points, which can all present similarly. Myofascial trigger points are present within taut bands of skeletal muscle or the muscle fascia. Trigger points elicit pain that radiates in specific, reproducible patterns when compressed.
+
+To diagnose a positive Chapman's point, the anterior and corresponding posterior point both need to be present, despite the general use of posterior points for treatment. Furthermore, a reference chart, similar to those included at the conclusion of this article, should be used when screening.
+
+While diagnostically valuable, the presence of Chapman's points should be considered in light of all information gleaned from a full structural exam, history, and physical.

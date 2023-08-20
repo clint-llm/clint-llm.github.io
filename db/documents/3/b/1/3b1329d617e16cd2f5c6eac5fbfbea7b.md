@@ -1,0 +1,9 @@
+Obesity hypoventilation syndrome results from the mechanical load on the respiratory pump leading to low tidal volumes and blunting of the chemoreflex to CO2, leading to inappropriate central respiratory effort in individuals with obesity. This situation manifests from a complex interaction between multifactorial mechanisms, which are as follows:
+
+- Sleep-disordered breathing: Obesity-related mechanisms like altered upper airway mechanics and impaired ventilatory control play a significant role in promoting hypoventilation during wakefulness and sleep. In obese individuals, particularly those with narrow airways or increased upper airway resistance is associated with increased end-tidal CO2 (PCO2), as illustrated in the figure below. Following the apneic phase in patients with only OSA, the hyperventilation phase eliminates the retained carbon dioxide (CO2). If CO2 accumulates beyond the ventilatory capacity to be cleared, the kidney starts to retain bicarbonate to compensate for respiratory acidosis. This chronic accumulation of CO leads to chronic hypercapnia and compensated respiratory acidosis.
+
+- Impaired pulmonary mechanics: Although unclear about the role in the pathogenesis of OHS, patients with OHS are found to have a higher upper airway resistance in sitting and supine positions compared with individuals with OSA who are eucapnic.
+
+- Blunted respiratory drive: In individuals with OSA without hypercapnia, PaCO levels do not increase due to the ventilatory compensation, which allows the clearance of excessive amounts of CO2. However, in patients with OHS, the compensatory mechanism is compromised, causing hypercapnia. Research has shown that patients with OHS do not augment their minute ventilation when forced to breathe hypoxic ambient air and when rebreathing CO2.
+
+- Leptin resistance: Leptin is a satiety hormone produced by adipose tissues, which stimulates hyperventilation

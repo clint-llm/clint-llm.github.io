@@ -1,0 +1,1 @@
+If a patient has sudden vision loss, an immediate referral to an ophthalmologist or visit to the emergency department is warranted. It is important to educate patients that any sudden vision loss is not normal and they should consult a medical professional immediately.

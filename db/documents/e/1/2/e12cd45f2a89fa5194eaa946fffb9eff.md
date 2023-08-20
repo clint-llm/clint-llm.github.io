@@ -1,0 +1,1 @@
+There is limited data on the therapeutic index of ursodeoxycholic acid. However, most data suggest that UDCA in doses of 5 to 25 mg/kg appears safe and well-tolerated. In patients with PBC, a dose of 13 to 15 mg/kg is preferred. The dose of 10 to 15 mg/kg used in most large trials was mostly for gallstone dissolution.

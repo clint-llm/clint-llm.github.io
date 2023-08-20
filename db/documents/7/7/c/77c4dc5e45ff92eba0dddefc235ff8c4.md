@@ -1,0 +1,1 @@
+Most cases have an excellent prognosis and follow an indolent clinical course with a 5-year overall survival rate of 85% to 91%

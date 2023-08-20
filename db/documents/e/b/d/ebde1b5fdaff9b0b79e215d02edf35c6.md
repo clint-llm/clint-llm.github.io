@@ -1,0 +1,9 @@
+Cholera usually occurs in epidemics and thus is best managed by an interprofessional team. Many guidelines have been established to manage cholera outbreaks. The most important feature of cholera outbreaks is to be aggressive and proactive in rehydration. This infectious disorder can quickly lead to death if not diagnosed early. Rapid identification of the infected patient is vital as prompt treatment will prevent further cases.
+
+Patient education is key. Water should be boiled before consumption. Since contamination via food is common, all foods and fruits should be washed with clean water. Personal hygiene should be improved and hand washing is essential. In many countries, there are now established surveillance and prompt reporting systems set up to contain the cholera epidemic. There is usually a team of nurses and other healthcare workers who provide an alert to outbreaks so that a coordinated response is initiated. The key feature to prevent outbreaks is to modify human behavior and control environmental conditions. Education is key. [Level 5]
+
+For travelers to the tropics where cholera outbreaks have occurred, the pharmacist should educate them on basic hygiene, washing food with clean water, and only drinking bottled water. Even though vaccines are available, the risk of a traveler acquiring cholera is low. The pharmacist should be aware of the recommendations for use of the cholera vaccine and who should not receive it. [Level 5]
+
+**Outcomes**
+
+Today the morbidity and mortality of cholera are much lower than in past eras. The key reason is that healthcare workers are aware of the importance of hydration and replenishing electrolytes. In the past, without hydration, the mortality was close to 50%, but today the mortality rates are less than 5%. The key element of treatment is to start rehydration at the onset of symptoms. [Level 5]

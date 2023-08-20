@@ -1,0 +1,5 @@
+Hemoglobinopathy refers to genetic disorders which are characterized by the inheritance of either an abnormal hemoglobin as in sickle cell disease or an insufficient production of hemoglobin chains as in thalassemia.
+
+James Herrick first described sickle cell disease from observing the peripheral smear of a West Indian patient. The ocular manifestations of sickle cell disease were described by Cook in 1930 when he noticed retinal hemorrhages in a patient who died of subarachnoid hemorrhage.
+
+A Detroit physician who was studying Italian children with severe anemia, poor growth, and early death first discovered thalassemia in 1925. Ocular involvement in beta thalassemia can occur because of the disease itself, because of the iron overload as a result of blood transfusions, or because of desferrioxamine used to treat the iron overload.

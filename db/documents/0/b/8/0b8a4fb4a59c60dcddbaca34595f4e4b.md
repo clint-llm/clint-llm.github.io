@@ -1,0 +1,3 @@
+In the developing embryo, the upper extremity derives from a collection of structures termed the limb bud that first appears 26 days after fertilization.
+
+Within each of these zones, cartilage precursors accumulate centrally. The radius and ulna develop via endochondral ossification in a proximal to distal manner. Chondrification is first seen in these bones at 36 days of fertilization, with ossification starting from 6 to 8 embryonic weeks.

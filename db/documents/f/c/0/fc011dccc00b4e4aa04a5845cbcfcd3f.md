@@ -1,0 +1,19 @@
+**CD**
+
+Testing for celiac is recommended in certain groups of people. GI symptoms such as chronic diarrhea, malabsorption, weight loss, flatulence, and bloating are clear reasons. Some irritable bowel syndrome and lactose intolerance patients will need testing to find an alternative or concomitant diagnosis. Some problems that are not gastrointestinal such as anemia, vitamin deficiencies, liver function abnormalities, growth retardation, recurrent fetal loss, aphthous stomatitis, peripheral neuropathy, or ataxia need to be evaluated as well. First-degree relatives of celiac patients are also in need of testing.
+
+All tests need to be done while the patient is on a gluten-rich diet. IgA anti-tissue transglutaminase (TTG) is the serologic test of choice after the age of 2, although IgA endomysial assay is an alternative. Endomysial antibodies bind to connective tissue surrounding smooth muscle cells and work against antigens in that tissue called tissue transglutaminase 2 (TTG). Antigliadin test has low predictive value and should not be performed. If IgA deficiency exists (and it is more common in celiac compared to the normal population), IgG-deaminated gliadin peptides (DPGs) should be tested. Antibodies might be negative on a gluten-free diet and necessitate intestinal biopsy or genetic testing.
+
+Positive serology and a high probability of celiac (regardless of serology) will necessitate a small bowel biopsy. Pathology is varied, and staining methods can identify areas of villous atrophy. Video capsules sometimes reveal classic features of the disease and alleviate the need for biopsy. This is especially true in more distal disease. The disease is confirmed when serology and pathology are compatible, and there is the resolution of symptoms and pathology with a gluten-free diet. In case there is still a diagnostic dilemma after all these steps, genetic testing for susceptibility with HLA DQ2/DQ8 check is required. A negative test will rule out celiac. Occasionally a gluten challenge is needed, and serology/pathology response to gluten challenge will yield the diagnosis.
+
+**NCGS**
+
+Diagnosis of non-celiac gluten sensitivity is a clinical one of exclusion by means of negative laboratory and endoscopic findings in the setting of symptoms that are relieved with the cessation of ingestion of gluten-containing products. While laboratory findings may show positive or negative results for HLA-DQ2 and HLA-DQ8 testing, anti-tissue transglutaminase, anti-endomysial antibodies, and endoscopic visualization and biopsies are negative in this subset of patients.  However, by having patients use a symptom severity scale and food diary, clinicians will see improvement of symptoms when gluten is eliminated from the diet.
+
+**Wheat Allergy**
+
+The gold standard for diagnosis is a clinician-supervised double-blind, placebo-controlled oral food challenge, although an open challenge will often suffice. Measurement of grain-specific IgE can aid in the diagnosis of IgE-mediated allergy and may eliminate the need for oral food challenges. Skin prick tests and/or in vitro tests for IgE are usually performed in the beginning, followed by food challenges that should be done by an allergy specialist with enough training and experience in dealing with such reactions.
+
+**DH**
+
+Clinicians can diagnose DH via symptoms and signs, serology and labs, tissue pathology, and direct immunofluorescence microscopy (DIF). DIF is the gold standard with a 92% positivity in DH and with granular IgA deposition in dermal papillae. Serology has a role in diagnosis but, more importantly, can be checked to assess the success of treatments. The biopsy should be taken from perilesional skin (normal-appearing skin adjacent to a lesion) because biopsies taken from the lesional skin are more likely to yield falsely negative findings.

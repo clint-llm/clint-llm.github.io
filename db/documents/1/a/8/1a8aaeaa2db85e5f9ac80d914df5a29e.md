@@ -1,0 +1,3 @@
+Because of the variable genetic mechanisms of sensorineural hearing loss, the best prevention is achievable by appropriately screening potential parents with familial history of hearing loss.  As discussed, autosomal recessive forms of hearing loss are generally from asymptomatic parents, thus, a thorough genetic screening of couples with a history of familial hereditary hearing impairment is warranted.
+
+The timing of initiation of rehabilitation is also critical. Hearing amplification should be instituted as soon as possible. The Joint Committee on Infant Hearing recommended in 2007 the initiation of rehabilitation no later than six months of age to minimize the impact on language development.

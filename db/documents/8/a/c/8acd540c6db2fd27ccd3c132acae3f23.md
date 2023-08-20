@@ -1,0 +1,1 @@
+Infected puncture wounds should be cultured, utilizing selective media like sodium-enriched media for Vibrio species, and stained for acid-fast aquatic mycobacteria. Further, wounds should be cleaned with warm, sterile saline and diligently searched under local anesthesia for foreign bodies, specifically spines.

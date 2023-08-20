@@ -1,0 +1,1 @@
+Fenoldopam is used primarily for the lowering of blood pressure during episodes of severe hypertension. Fenoldopam is used as an antihypertensive agent postoperatively and also intravenously to treat hypertensive crises. Since fenoldopam is the only intravenous agent that improves renal perfusion, it may be beneficial in hypertensive patients with chronic kidney disease.

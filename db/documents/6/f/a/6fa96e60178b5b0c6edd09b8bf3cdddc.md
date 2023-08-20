@@ -1,0 +1,1 @@
+The pathophysiology for the formation and growth of cerebral and aortic saccular aneurysms is believed to be a multifactorial process that leads to degenerative changes in the blood vessel wall.

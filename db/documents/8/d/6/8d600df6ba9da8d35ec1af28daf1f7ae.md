@@ -1,0 +1,1 @@
+Surgical management remains the mainstay for treating Stage T4 laryngeal cancers and select Stage T3 cancers where the larynx is nonfunctional.

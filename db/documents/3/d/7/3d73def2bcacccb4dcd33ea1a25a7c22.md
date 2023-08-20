@@ -1,0 +1,3 @@
+Resection of a part of the subterminal ileum for the construction of an ileal conduit can lead to patients developing vitamin B12 deficiency. This is because the terminal ileum is the predominant site of absorption of micronutrients such as B12 and magnesium.
+
+Another complication is metabolic hyperchloraemic acidosis, which can occur in up to 15% of patients, especially in those patients with impaired renal function.

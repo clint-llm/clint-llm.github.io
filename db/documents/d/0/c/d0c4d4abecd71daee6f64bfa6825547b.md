@@ -1,0 +1,1 @@
+The patient’s blood is drawn in a vial and then placed in a centrifuge. This process will separate the plasma from red blood cells. It is essential to ensure that an anticoagulant such as heparin or acid citrate dextrose is used in the collection tube to prevent the blood from clotting.

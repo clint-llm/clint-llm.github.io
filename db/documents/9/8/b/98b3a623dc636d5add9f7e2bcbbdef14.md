@@ -1,0 +1,3 @@
+Many patients may choose natural family planning. For some patients, religion may play a part in the decision to utilize natural family planning.
+
+Lack of awareness and education may impact the utilization of natural family planning. In one survey of physicians in the United States, a third did not even mention natural family planning to patients and 40% only discussed natural family planning with select women.

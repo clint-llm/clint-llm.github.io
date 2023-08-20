@@ -1,0 +1,1 @@
+The brachial plexus is intimately related to the vascular structures of the axilla, as the divisions emerge from beneath the clavicle to form the medial, lateral, and posterior cords around the axillary artery.

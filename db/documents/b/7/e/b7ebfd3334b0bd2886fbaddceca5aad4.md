@@ -1,0 +1,1 @@
+Literature has shown that closed management of fifth metacarpal neck fractures with less than 60-70 degrees of angulation have high functional capabilities as indicated by quickDASH scores at four months

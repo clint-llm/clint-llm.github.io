@@ -1,0 +1,1 @@
+The ascending palatine artery arises in between the mylohyoid nerve and the hypoglossal nerve. The vagus nerve is the primary innervation of the soft palate where the ascending palatine artery is known for being the main blood supply.

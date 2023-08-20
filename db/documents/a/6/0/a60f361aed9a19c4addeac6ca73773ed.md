@@ -1,0 +1,7 @@
+Drug-induced pemphigus vulgaris and pemphigus foliaceus are most frequently associated with the use of d-penicillamine. A thorough history consisting of medications and exposure time is important to help identify the offending agent. Identification of flaccid or erosion lesions should include inspection of oral and vaginal mucosa and a full body scan of the skin.
+
+Pemphigus vulgaris traditionally presents with flaccid, easily ruptured bulla on the surface of oral mucosa and skin. The fluid-filled vesicles and bulla are serous-filled and are easily ruptured. Small solitary vesicles appear initially on the scalp, face, chest, axillae, groin, or back. The lesions can progress to a widespread confluence of flaccid blisters and erosions. Intact bullae are rarely seen in the erosions of the oropharynx, larynx, or vagina. The lesions are non-pruritic but can be very painful as the blisters can rupture and erode the superficial skin.
+
+Pemphigus foliaceous typically has no mucosal involvement and begins with scaly crusted lesions with an erythematous base. Initial solitary well-demarcated lesions may appear on seborrheic regions of the face, scalp, chest, back, and abdomen and can progress to a generalized exfoliative disease.
+
+There is a positive Nikolsky sign with pemphigus where gentle pressure with a finger on the patient's affected skin can produce a disruption of the superficial skin layer. This differentiates tense bullous lesions seen in pemphigoid, which do not rupture with the slight pressure of a finger.

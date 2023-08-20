@@ -1,0 +1,1 @@
+A trained provider can perform first-trimester pregnancy ultrasound. Emergency physicians are required to correctly perform and interpret a minimum of 25 to 50 cardiac ultrasound exams upon residency graduation.

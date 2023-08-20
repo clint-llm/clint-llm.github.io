@@ -1,0 +1,3 @@
+Edema is believed to be the outward filtration predominating the arterial end of the capillary, and as hydrostatic pressures fall, fluid reverts to the capillary from the interstitium driven by the oncotic pressure gradient. However, further investigation shows that in most capillary beds, there is a net filtration that continues throughout the capillary length, and many Starling relationships are invalid.
+
+The capillary is lined with glycocalyx with a complex network of GAG molecules and other glycoproteins, creating a filtration barrier that contains clefs where capillary filtration occurs.

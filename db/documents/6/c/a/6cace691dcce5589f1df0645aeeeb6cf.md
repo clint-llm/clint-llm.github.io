@@ -1,0 +1,1 @@
+It is important to recognize idiopathic guttate hypomelanosis to avoid unnecessary treatments. The interprofessional team consists of primary care providers, dermatologists, and specialty trained nurses. If there is doubt about the diagnosis, patients should be referred to dermatology. Dermatology nurses can assist with patient education. [Level 5]

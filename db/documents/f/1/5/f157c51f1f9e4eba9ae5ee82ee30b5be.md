@@ -1,0 +1,1 @@
+The composition of normal pleural fluid consists of total white blood cell count of 1.716 x 10(3) cells mL(-1). Differential cell counts: 75% macrophages, 23% lymphocytes, and marginally present mesothelial cells (1% to 2%), neutrophils (1%), and eosinophils (0%). Of note, there is a slight increase in the percent of neutrophils found in smokers over nonsmokers.

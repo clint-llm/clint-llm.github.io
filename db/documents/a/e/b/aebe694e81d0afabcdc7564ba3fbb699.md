@@ -1,0 +1,3 @@
+Discussing the anatomic role exacerbating mechanisms have on either non-operative or operative management can help give understanding as to the importance of avoiding those maneuvers. Discussing the goals of the patient is also critical as the recovery time between various procedures is vastly different. Understanding the rigorous rehabilitation required from advanced procedures helps the patient understand what is expected on their road to recovery.
+
+To reduce the risk of injury, especially in overhead athletes, there should be a focus on flexibility, periscapular, and shoulder girdle strengthening as well as proper mechanics. This can help avoid stressing the dynamic and static stabilizers of the shoulder in hopes of limiting stress at the glenoid-labrum interface.

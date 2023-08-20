@@ -1,0 +1,1 @@
+Most interactions with humans are harmless and are limited to minor skin irritation or hyperpigmentation that lasts for a few days to a month.

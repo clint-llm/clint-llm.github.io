@@ -1,0 +1,1 @@
+Agitation increases the risk of injury to patients and staff. Other complications include falls, removal of indwelling catheters and tubes, and restraint-related injuries.

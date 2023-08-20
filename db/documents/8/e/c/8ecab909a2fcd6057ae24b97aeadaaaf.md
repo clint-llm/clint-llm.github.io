@@ -1,0 +1,1 @@
+Gastric ulcers are most commonly located on the lesser curvature, whereas duodenal ulcers are most common at the duodenal bulb. The ulcer is round to oval with a smooth base. Acute ulcers have regular borders, while chronic ulcers have elevated borders with inflammation. An ulcer extends beyond the muscularis mucosa.

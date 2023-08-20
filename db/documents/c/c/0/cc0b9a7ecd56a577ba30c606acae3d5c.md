@@ -1,0 +1,1 @@
+The implementation of the BI-RADS lexicon has had a positive impact on education, quality assurance, and research.

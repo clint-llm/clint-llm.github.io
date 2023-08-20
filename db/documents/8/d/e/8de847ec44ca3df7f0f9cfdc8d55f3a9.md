@@ -1,0 +1,7 @@
+Pamidronate is a medication used in the management and treatment of moderate or severe hypercalcemia of malignancy, moderate to severe Paget disease of bone, osteolytic bone metastases of breast cancer, and osteolytic lesions of multiple myeloma. It is in the bisphosphonate class of medications. This activity describes the indications, action, and contraindications for pamidronate as a valuable agent in treating hypercalcemia of malignancy, Paget disease of bone, osteolytic bone metastases of breast cancer, and osteolytic lesions of multiple myeloma). This activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent for members of the healthcare team in the treatment of patients with conditions for which this drug is indicated.
+
+**Objectives:**
+- Identify the mechanism of action of pamidronate.
+- Describe the potential adverse effects of pamidronate.
+- Explain the appropriate monitoring required to evaluate the toxicity of pamidronate.
+- Review interprofessional team strategies for improving care coordination and communication to advance pamidronate and improve outcomes.

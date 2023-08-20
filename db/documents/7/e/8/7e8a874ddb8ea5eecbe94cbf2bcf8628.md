@@ -1,0 +1,3 @@
+Clinical presentation can be multifactorial and varies based on underlying comorbidities, the timing of clinical presentation, and the causative microorganism. Patients with empyema generally present late in the clinical course with untreated pneumonia or mismanaged complicated pleural effusions. Common clinical features of empyema are nonspecific and similar to that of bacterial pneumonia. Symptoms include cough, dyspnea, fever, and/or pleuritic chest pain.
+
+On physical exam, dullness to percussion and decreased breath sounds can be appreciated but are not particularly diagnostic of empyema. Therefore, imaging may be necessary in any patient with suspected parapneumonic effusion.

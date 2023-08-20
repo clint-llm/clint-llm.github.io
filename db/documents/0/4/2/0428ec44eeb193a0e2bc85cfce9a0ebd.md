@@ -1,0 +1,1 @@
+Cardiac rhabdomyomas are comprised of cells resembling embryonic cardiac muscle cells. The histopathology reveals abnormal myocyte architecture, vacuolization, and spider cells (pathognomic).

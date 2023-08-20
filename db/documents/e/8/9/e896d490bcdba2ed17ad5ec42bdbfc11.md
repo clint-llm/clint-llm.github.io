@@ -1,0 +1,1 @@
+Complications related to primary cancer growth and invasion of local organs include airway obstruction, dysphagia, and hoarseness. Postoperative complications include failed anastomotic healing, infections, cancer recurrence, and reduced quality of life, especially with resectioning large segments of the trachea leading to a significant limitation in neck extension.

@@ -1,0 +1,3 @@
+Imaging is generally not warranted for simple nasal bone fractures. Plain film X-rays are not typically useful. A CT scan without intravenous contrast of the facial bones is the gold standard for evaluating bony trauma of the maxillofacial area if there is a concern for more extensive facial injuries.
+
+Laboratory evaluation is generally not required in the case of a simple nasal bone fracture or septal hematoma. Complete blood count and coagulation studies may be a consideration in patients with epistaxis who have lost a considerable amount of blood or take anticoagulant medication. Patients with persistent clear rhinorrhea can have the fluid collected and sent for beta-2-transferrin, which can be used to help confirm or rule out the presence of a CSF leak.

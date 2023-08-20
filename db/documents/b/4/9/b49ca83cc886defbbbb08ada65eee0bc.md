@@ -1,0 +1,5 @@
+Medical anti-shock trousers (MAST), also known as military anti-shock trousers or pneumatic anti-shock garments (PASG), are medical devices made of synthetic inflatable air bladders which are applied to a patient’s abdomen, pelvis, and lower extremities.
+
+Medical anti-shock trousers were first described in 1903 by surgeon G.W. Crile as he tried to augment blood pressure with a "pneumatic rubber suit" during neurosurgical procedures. Decades later the term military anti-shock trouser was coined during the Vietnam War where medics applied the device in the field before airlifting soldiers out of a combat zone to a hospital for definitive care.
+
+Despite a period of widespread use, MAST devices have been the subject of much debate and research and are currently rarely used. Initial studies in the 1970s suggested that as much as 20% of a patient's total blood volume was auto-transfused to the upper body by application of the MAST device.

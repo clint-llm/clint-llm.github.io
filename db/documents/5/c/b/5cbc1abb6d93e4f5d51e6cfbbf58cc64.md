@@ -1,0 +1,5 @@
+Patients with exocrine pancreatic insufficiency usually present to their general practitioner with non-specific symptoms. Diagnosis requires a high index of suspicion with a careful medical history and clinical examination, and early intervention for borderline patients.
+
+Management of this condition requires an interprofessional team approach to care. This interprofessional team will include clinicians, mid-level practitioners (PAs and NPs), nurses, and pharmacists. and is shown to improve patient outcomes. [Level 5] The pharmacist has to educate patients with EPI about the importance of compliance with enzyme replacement therapy. The proper use of medications as administration and doses might affect response significantly and management outcomes. Nurses can educate patients about the nature of the disease, complications, and potential sources for information. Meanwhile, nurses can help with monitoring the response to treatment and the need for further interventions.
+
+The interprofessional team approach should also include dietician support and specialist advice according to etiology; for example, EPI associated with cystic fibrosis or diabetes mellitus.

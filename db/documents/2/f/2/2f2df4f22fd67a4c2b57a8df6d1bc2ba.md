@@ -1,0 +1,3 @@
+Patients that have drug resistance epilepsy may benefit from surgical removal of the epileptogenic area — determining where the epileptogenic zone is the first important step. If the zone is in proximity to any the crucial area of the brain that is key to everyday life such Broca or Wernicke area, further consideration and planning is needed to determine if the zone is safe for resection.
+
+Similar things pertain to brain tumors. Determine the location and deciding it is safe to remove it.

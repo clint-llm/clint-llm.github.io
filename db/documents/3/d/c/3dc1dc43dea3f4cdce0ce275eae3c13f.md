@@ -1,0 +1,1 @@
+The required quantity of specimen is added to the reagents per the assay protocol provided by the diagnostic kit manufacturer. After the prescribed incubation period, the absorbance at 340 nm is taken, and concentration is calculated using sample blank, reagent blank, and calibration data.

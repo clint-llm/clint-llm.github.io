@@ -1,0 +1,7 @@
+Bilateral or bitemporal ECT causes more cognitive impairment than unilateral ECT, although this effect is transient. A meta-analysis of 1415 depressed patients treated with ECT revealed that global cognition, verbal memory, and autobiographical memory were worse with bilateral treatment three days after treatment.
+
+According to the American Psychiatric Association, patients receiving ECT are at higher risk if they show evidence of unstable or severe cardiovascular disease, a space-occupying intracranial lesion with evidence of elevated intracranial pressure, history of an acute cerebral hemorrhage or stroke, an unstable vascular aneurysm, severe pulmonary disease, or qualify as American Society of Anesthesiologists (ASA) Class 4 or 5.
+
+Physiologically, during the tonic phase of the seizure, a 15- to 20-second parasympathetic discharge occurs, which can lead to bradyarrhythmias including premature atrial and ventricular contractions, atrioventricular block, and asystole. Patients with subconvulsive seizures are at higher risk for asystole.
+
+Although patients with cardiac disease at baseline are at higher risk following treatment, ejection fraction can decrease following ECT in healthy patients as well.

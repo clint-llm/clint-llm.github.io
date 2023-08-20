@@ -1,0 +1,3 @@
+Patients should be notified of the diagnosis of hypercarbia, instructed on possible symptoms of recurrence, and counseled when to seek care in the future. Follow-up should be scheduled with an appropriate specialist: neurologist for strokes, pulmonologists for lung disease, psychiatrists for substance abuse, etc.
+
+For patients with significant lung disease as the cause of hypercarbia, a repeat blood gas should be obtained after recovery from acute illness. If the CO2 remains elevated, they could be offered a non-invasive positive pressure ventilation device for home use at night. For this same set of patients, they should know that they do have an increased risk for mortality compared to other patients with chronic lung disease without hypercarbia.

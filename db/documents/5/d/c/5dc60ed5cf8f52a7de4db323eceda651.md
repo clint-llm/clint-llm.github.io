@@ -1,0 +1,1 @@
+Unfortunately, it can be quite difficult to obtain an accurate measurement of SVR in the clinic. Still, SVR may be estimated if one can get an accurate blood pressure reading and the patient's cardiac output, which can be estimated using ultrasound data.

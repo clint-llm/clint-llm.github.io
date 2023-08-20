@@ -1,0 +1,1 @@
+Tyramine exerts its vasopressor response as it is an indirectly acting sympathomimetic agent. Taken up by the NET- Norepinephrine reuptake transporter and precipitating the release of large quantities of norepinephrine into circulation

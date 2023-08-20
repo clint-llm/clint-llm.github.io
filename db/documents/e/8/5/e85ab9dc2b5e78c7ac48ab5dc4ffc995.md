@@ -1,0 +1,1 @@
+With these injuries always being a result of trauma, deterrence must be focused on the safe use of equipment (from the kitchen to the workplace). Once the injury is present, patient education must focus on following the chosen rehabilitation protocol to ensure the optimal outcome.

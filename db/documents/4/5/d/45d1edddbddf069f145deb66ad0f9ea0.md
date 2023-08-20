@@ -1,0 +1,9 @@
+GnRH neurons are found in the olfactory pit at post-conception week six, then migrate via the forebrain to the hypothalamus by week nine. The pituitary begins to secrete luteinizing hormone (LH) and follicle-stimulating hormone (FSH) into the fetal circulation by week 12, with LH and FSH reaching peak levels at midgestation, around 20-24 weeks. LH and FSH levels are low at birth but begin to increase upon withdrawal of placental estrogens.
+
+Menarche occurs 2-3 years after thelarche and six months after peak height velocity (PHV) is achieved. PHV is defined as the highest velocity observed during the pubertal growth spurt.
+
+By 15 years of age, approximately 98% of females will have undergone menarche, signaling the maturation of the adolescent female body. Menarche is commonly associated with the ability to ovulate and reproduce; the onset of menarche does not guarantee either ovulation or fertility. Menstrual cycles are frequently irregular during adolescence, particularly during the interval from the first to the second cycle.
+
+Menarche is considered early if it occurs at or before ten years of age and late if it occurs at or later than 15 years of age.
+
+The age at which a female experiences menarche is variable, with both genetic and environmental factors such as socioeconomic status, family life, ethnicity, exercise, and dietary factors involved. Several studies have shown there to be an ethnic-racial difference in menarche onset. In one study, Black females experienced menarche three months earlier than White females. This finding may reflect genetic factors, as Black females presented with higher insulin responses to glucose challenges and increased free IGF-1, which are associated with skeletal and sexual maturation.

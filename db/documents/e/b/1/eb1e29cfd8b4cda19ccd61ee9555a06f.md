@@ -1,0 +1,7 @@
+Laparoscopic surgery has gained increasing popularity in clinical practice. As part of laparoscopic surgeries, gas insufflation is usually adopted to increase operative space and visualization for surgeons. The abdomen is the most common location for these laparoscopic interventions, particularly in general and gynecologic surgeries. Carbon dioxide (CO2) is the most commonly used gas for insufflation during laparoscopic surgery because it is colorless, inexpensive, nonflammable, and has higher blood solubility than air, which reduces the risk of complications if venous embolism occurs. The use of CO2 gas for insufflation presents some risk. Among the most common complications associated with CO2 insufflation is CO2 embolism. Although CO2 microembolism commonly occurs during laparoscopy, clinically significant emboli are rare and potentially fatal. The clinical sign of CO2 embolism depends on embolized gas volume and ranges from asymptomatic to cardiovascular collapse or even death. This activity reviews the epidemiology, pathophysiology, clinical presentation, treatment, and prevention of CO2 embolisms and the medical team's role in managing this condition.
+
+**Objectives:**
+- Describe the pathophysiology of carbon dioxide embolism.
+- Outline the presentation of a patient with carbon dioxide embolism.
+- Summarize the treatment options for carbon dioxide embolism.
+- Discuss the role of the medical team in managing patients with a carbon dioxide embolism.

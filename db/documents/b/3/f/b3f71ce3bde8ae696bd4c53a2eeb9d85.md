@@ -1,0 +1,1 @@
+The pathophysiology of substance-induced disorders remains a topic of ongoing discussion. Drug-induced mood symptoms precipitate changes in cerebral structures, such as the frontal cortex, nucleus accumbens, olfactory tubercle, hippocampus, amygdala, and hypothalamus.

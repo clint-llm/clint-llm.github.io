@@ -1,0 +1,5 @@
+Muscle and myocutaneous flaps get organized according to the pattern of vascular supply. Mathes and Nahai developed a classification system recognizing five basic patterns of muscle circulation.
+
+While muscle flaps can fill dead space and serve as a vascularized graft surface, a well-executed myocutaneous flap can bring bulk to a recipient site and obviate the need for a skin graft. When planning myocutaneous flaps, a fundamental knowledge of the vascular territories of each source artery, or angiosome, allows for the proper design of the skin island.
+
+Once a pedicled or free-tissue transfer is performed, the newly transferred flap begins to incorporate into the surrounding tissue. Assuming a well-vascularized wound bed, vascular ingrowth is seen by four to five days though sufficient vascular ingrowth to supply a flap independent of its blood supply requires weeks.

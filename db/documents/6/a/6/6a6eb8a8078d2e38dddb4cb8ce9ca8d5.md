@@ -1,0 +1,1 @@
+Although cases have been reported in women before their third decade, Meigs syndrome is extremely rare in women younger than 30 years old. The syndrome is much more common in postmenopausal women, especially those around 50 years, and its peak incidence is in women in their seven-decade.

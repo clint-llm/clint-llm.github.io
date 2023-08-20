@@ -1,0 +1,7 @@
+Heterotopic ossification is the formation of mature, lamellar bone in soft tissues where bone does not normally exist. It is commonly seen following trauma or surgical intervention of periarticular soft tissue and is commonly associated with injury to the hip. The three primary causes can be grouped into traumatic, neurogenic and genetic etiologies. Heterotopic ossification from trauma can occur following fractures, dislocations, and operative procedures such as open reduction-internal fixation or total hip arthroplasties. The most commonly involved compartment of the hip is the abductor compartment. The elbow is the next most commonly involved joint, and heterotopic ossification of the elbow often occurs following burns or elbow replacements. This activity describes the causes, pathophysiology, and presentation of heterotopic ossification and highlights the role of the inter-professional team in its management.
+
+**Objectives:**
+- Identify the causes of heterotopic ossification.
+- Describe the presentation of a patient with heterotopic ossification.
+- Outline the treatment options for heterotopic ossification. 
+- Explain the importance of improving coordination amongst the inter-professional team to enhance care for patients affected by heterotopic ossification.

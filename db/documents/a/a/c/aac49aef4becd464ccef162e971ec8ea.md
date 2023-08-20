@@ -1,0 +1,3 @@
+Prevention of GBS infection during pregnancy requires an interprofessional team effort. All healthcare workers who look after pregnant women should screen these patients for GBS. This may include physicians, physician's assistants, nurse practioners, midwives and/or nurses.
+
+Since the initiation of universal screening for GBS colonization and intrapartum antibiotic prophylaxis, the incidence of early-onset GBS infection has decreased approximately 80%

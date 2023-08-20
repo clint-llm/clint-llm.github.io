@@ -1,0 +1,1 @@
+Carbamazepine is a commonly prescribed agent for focal epilepsy and other nonepileptic conditions such as neuropathic pain, schizophrenia and bipolar disorder in the pediatric and adult patients. The first overdose was reported in 1967, and significant toxicity occurs at levels higher than 40 mg/L (usual therapeutic levels are 4 to 12 mg/L).

@@ -1,0 +1,3 @@
+Hepatic hemangiomas are best managed by an interprofessional team that also includes the nurse practitioner. Today, there are several other options for treatment besides surgery. Embolization is fast becoming an effective option as it avoids the morbidity of the surgery.
+
+For asymptomatic patients, close follow up is required. For symptomatic patients, treatment is needed. Whenever a hemangioma starts to grow, there is a risk of rupture, leading to death; hence patients who are non-compliant with follow-up should be referred to a surgeon or radiologist.

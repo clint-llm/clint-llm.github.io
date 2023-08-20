@@ -1,0 +1,3 @@
+The Lenke Classification scheme best categorizes staging. The purpose of this classification scheme is to create a uniform approach to naming and described curves. The overall intent at an advanced level is also to give some preference for the operative treatment protocol.
+
+The Lenke Classification takes into account the coronal curve (1-6), the sagittal deformity (-, N, or +), and the lumbar spine modifier (A, B, C). This creates a descriptor such as 3C+ or  1B-.  Formal education of the Lenke classification and memorization of the criteria is beyond the scope of this text. However, it is the preferred method for spinal deformity surgeons to communicate about AIS.

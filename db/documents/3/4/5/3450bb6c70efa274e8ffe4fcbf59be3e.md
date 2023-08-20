@@ -1,0 +1,1 @@
+There are no direct contraindications to hyperbaric oxygen in acute traumatic peripheral ischemia unless use delays emergency, limb-saving operations such as revascularization or established compartment syndrome. There are few absolute contraindications to hyperbaric oxygen, such as an unrelieved tension pneumothorax.

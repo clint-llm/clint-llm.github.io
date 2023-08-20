@@ -1,0 +1,3 @@
+No evaluation other than a thorough history and physical is necessary to diagnose or treat trombiculiasis. As previously described, a history of outdoor exposure during the summer or early fall, along with a pattern of scattered urticarial papules, can establish trombiculiasis as the presumed diagnosis.
+
+Similarly, there is no laboratory test that reliably identifies scrub typhus in the early phase of the infection. Clinical assessment is the key to the diagnosis of this infection. When suspected, serologic testing can be used to confirm the diagnosis. A fourfold increase in titers drawn at least two weeks apart using an indirect fluorescent antibody (IFA) confirms the diagnosis of acute scrub typhus.

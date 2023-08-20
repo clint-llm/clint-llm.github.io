@@ -1,0 +1,1 @@
+Any patient likely to develop increased intracranial pressure should be educated regarding the warning symptoms of the same including persistent headaches and vomiting.

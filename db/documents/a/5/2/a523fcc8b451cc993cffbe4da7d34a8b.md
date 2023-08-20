@@ -1,0 +1,5 @@
+A chest x-ray is mandatory in all cases. A chronic cough with a normal chest x-ray occurs with ACE inhibitor therapy, postnasal drip, GERD, and asthma.
+
+Sputum examination is essential, whenever possible. Bacterial culture is needed if the sputum is purulent.
+
+Bronchial provocation testing with methacholine or histamine is positive in bronchial asthma. Bronchoscopy should be performed after excluding all common causes if foreign body inhalation is suspected. Bronchoscopy is also indicated whenever there are abnormal chest x-ray, hemoptysis, obstructive lesions, and infiltrates, that otherwise elude diagnosis. Echocardiography for cardiac ailments. Twenty-four-hour ambulatory oesophageal pH or oesophageal manometry for diagnosing GERD. Radiology of the sinuses. HRCT–when no other diagnosis can be made.

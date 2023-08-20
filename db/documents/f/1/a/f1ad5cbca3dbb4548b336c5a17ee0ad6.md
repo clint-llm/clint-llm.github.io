@@ -1,0 +1,1 @@
+The etiology of breast cysts is unknown. However, most breast cysts are associated with the aberration of normal development and involution (ANDI). ANDI is based on the fact that most benign disorders of the breast are due to some minor abnormalities in the usual physiological processes of development of the breast following cyclical normal growth response and involution.

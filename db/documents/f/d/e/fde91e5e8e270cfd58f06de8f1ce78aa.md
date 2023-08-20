@@ -1,0 +1,1 @@
+The natural history of this disease is uncomplicated with complete resolution in most cases. Some can have incomplete resolution and with a study showing 15% with persistent symptoms at one year.

@@ -1,0 +1,1 @@
+Providers should follow an essential physical examination and laboratory studies, including a complete blood count (CBC), comprehensive metabolic panel (CMP), and a CA 19-9. They should also order a computed tomography (CT) or magnetic resonance (MR) scans

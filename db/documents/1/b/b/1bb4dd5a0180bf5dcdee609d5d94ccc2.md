@@ -1,0 +1,1 @@
+The main management and treatment of atopic dermatitis include hydration and topical anti-inflammatory medications for flare-ups. The priority in treatment is focusing on a daily skin moisturizing regimen with a fragrance-free ointment that has limited preservatives.

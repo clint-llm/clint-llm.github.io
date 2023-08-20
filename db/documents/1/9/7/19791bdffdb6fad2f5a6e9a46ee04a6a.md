@@ -1,0 +1,1 @@
+Adequately trained EEG technicians are essential for proper electrode placement and appropriate recording.

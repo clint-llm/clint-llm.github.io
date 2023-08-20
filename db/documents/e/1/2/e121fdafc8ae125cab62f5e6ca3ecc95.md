@@ -1,0 +1,1 @@
+The management of CVS is difficult. The syndrome has no cure and the diagnosis is often delayed. The condition is best managed by an interprofessional team that includes mental health nurses. After ruling out organic causes, the patient should be referred for psychiatric evaluation.

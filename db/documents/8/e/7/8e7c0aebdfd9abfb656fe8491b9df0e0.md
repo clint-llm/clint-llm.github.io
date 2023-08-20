@@ -1,0 +1,1 @@
+HHT affects 1 in 5,000-8,000 individuals and can affect both genders and people of all races.

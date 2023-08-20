@@ -1,0 +1,9 @@
+When thermal, mechanical, or chemical stimuli reach a noxious intensity suggestive of injury, they become detected by nociceptors, which are a subpopulation of peripheral nerve fibers found in the skin, joints, viscera, bone, and muscle.
+
+The damaged tissue releases and produces numerous factors which in turn activate nerve endings. These factors include globulin, protein kinases, arachidonic acid, histamine, nerve growth factor (NGF), substance P (SP), calcitonin gene-related peptide (CGRP), among others. These factors stimulate transducer channels, with transient receptor potential (TRP) channels being the primary example.
+
+The two major classes of nociceptors include medium diameter myelinated (A-delta) afferents which convey an acute, well-localized fast pain and small diameter unmyelinated “C” fibers that convey a poorly localized, slow pain.
+
+Based on electrophysiological studies, A-delta nociceptors may be further subdivided into Type I and Type II A-delta classes. Type I A-delta nociceptors function to respond to mechanical and chemical stimuli but generally detect heat only at higher thresholds (over 50 degrees C). By contrast, Type II A-delta nociceptors have a much greater sensitivity to heat but possess a very high mechanical threshold. Thus, in situations of direct mechanical stimuli (e.g., pinprick), Type I A-delta nociceptors are provoked first, whereas, in instances of acute noxious heat, the activity of Type II A-delta nociceptors are likely first triggered.
+
+Similar to the A-delta nociceptors, most unmyelinated C fibers are polymodal and thus respond to both mechanical and thermal noxious stimuli. Silent nociceptors also fall under this class of nociceptors. These afferents respond more sensitively to chemical stimuli (e.g., capsaicin and histamine) but are mechanically unresponsive unless preceded by tissue injury.

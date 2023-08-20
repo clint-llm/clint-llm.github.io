@@ -1,0 +1,1 @@
+A nursing team for chemotherapy infusion and administration/monitoring is necessary. Also, patients that experience complications of extravasation of vesicants require nursing management as outlined in the 'other issues' section.

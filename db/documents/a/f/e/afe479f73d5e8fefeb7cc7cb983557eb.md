@@ -1,0 +1,3 @@
+Palliative care is a vital part of the medical curriculum. Palliative care has found an important role in the modern age as early utilization of palliative care correlates with improved quality of life, mood, and survival.
+
+Palliative care simulation plays an important role in the eyes of medical trainees. An internal survey among Internal Medicine Program Directors found that 87.5% of respondents felt that having training in palliative care was "very important."

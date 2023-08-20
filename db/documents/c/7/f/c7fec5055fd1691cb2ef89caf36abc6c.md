@@ -1,0 +1,1 @@
+Agranulocytosis is a rare condition and occurs in all age groups, with a reported incidence ranging from 6 to 8 cases per million population per year.

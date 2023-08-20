@@ -1,0 +1,3 @@
+Blood urea nitrogen to creatinine ratio, complete blood count, platelets, and electrolytes should be examined at baseline before initiating acetazolamide and methazolamide and monitored periodically. Potassium and sodium bicarbonate levels, in particular, should be monitored.
+
+A rare adverse effect of this drug is hepatotoxicity. Liver injury is precipitated by cross-reactivity of acetazolamide to sulfonamide reactions, indicated by elevation of liver enzymes days to weeks after the initiation of the drug. Monitoring liver enzymes may be necessary upon initiation of systemic carbonic anhydrase inhibitors.

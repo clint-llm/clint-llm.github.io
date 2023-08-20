@@ -1,0 +1,1 @@
+The invasive nature of performing a resuscitative thoracotomy may damage surrounding nerves, blood vessels, lungs, and the heart. Specific nearby nerves include the phrenic and intercostal nerves.

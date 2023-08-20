@@ -1,0 +1,3 @@
+Specific statistics on worldwide rates of recurrent pyogenic cholangitis are scarce. It is rare in the United States and West (prevalence < 2%) and the incidence is highest in immigrant populations from East and Southeast Asia. Disease prevalence is reported as high as 30% in East Asian and Southeast Asian regions with endemic helminthic infection.
+
+Data from Taiwan suggest that the presence of intrahepatic bile duct stones could be higher than 50%.

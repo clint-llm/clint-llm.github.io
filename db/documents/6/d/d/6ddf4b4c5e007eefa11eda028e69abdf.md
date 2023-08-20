@@ -1,0 +1,128 @@
+**Chronic Pain Assessment**
+
+Standard blood work and imaging are not indicated for chronic pain, but the clinician can order it when specific causes of pain are suspected. This can be on a case-by-case basis. In some cases, urine toxicology is ordered to monitor compliance and exclude nonprescription drugs.
+
+Psychiatric disorders can amplify pain signaling making symptoms of pain worse.
+
+Simultaneously screening for depression is recommended for patients with chronic pain. The Minnesota Multiphasic Personality Inventory-II (MMPI-2) or Beck's Depression Scale are the two most commonly used tools. The MMPI-2 has been used more frequently for patients with chronic pain.
+
+**Addiction Risk Assessment**
+
+The clinician should consider information from the history and physical, family members, the state prescription monitoring program, and screening tools to assess the risk of developing an untoward behavioral response to opioids. Patients can be stratified to three risk levels:
+
+- **Low-risk: standard monitoring, vigilance, and care**
+- Objective signs and symptoms, localizable physical pathology
+- Confirmatory testing such as physical exam findings, CT, MRI, etc.
+- No individual or family history of substance abuse
+- At most, mild medical or psychologic comorbidity
+- Age < 45
+- High pain tolerance
+- Active coping strategies
+- Willingness to participate in multimodal therapy
+- Attempting to function at normal levels
+
+- **Moderate-risk: additional level of monitoring and more frequent provider contact**
+- Significant pain
+- Defined pathology with objective signs and symptoms
+- Confirmatory testing such as physical exam findings, CT, MRI, etc.
+- Moderate psychologic problems controlled by therapy
+- Moderate comorbidities are well controlled by medical therapy and are not affected by opioids.
+- Mild opioid tolerance but not hyperalgesia without addiction or physical dependence
+- Individual or family history of substance abuse
+- Pain involving more than three regions of the body
+- Moderate levels of pain acceptance
+- Active coping strategies
+- Willing to participate in multimodal therapy
+- Attempting to function at normal levels
+
+- **High-risk: intensive and structured monitoring, frequent follow-up contact, consultation with addiction psychiatrist, and limited monthly prescription of short-acting opioids**
+- Significant widespread pain
+- No objective signs and symptoms
+- Pain involves more than 3 body regions.
+- Divergent drug-related behavior
+- Individual or family history of addiction, dependency, diversion, hyperalgesia, substance abuse, or tolerance
+- Major psychologic problems
+- Age >45
+- HIV-related pain
+- High levels of pain exacerbation
+- Poor coping strategies
+- Unwilling to participate in multimodal therapy
+- Not functioning at a normal lifestyle.
+
+**Prescribing Opioids**
+
+Before prescribing opioids, complete a detailed patient history that includes:
+
+- Indication requested for pain relief.
+
+- Location, nature, and intensity of pain
+
+- Prior pain treatments and response
+
+- Comorbid conditions
+
+- Potential physical and psychologic pain impact on the function
+
+- Family support, employment, and housing
+
+- Leisure activities, mood, sleep, substance use, and work
+
+- Emotional, physical, or sexual abuse
+
+When considering opioids, weigh the risks of abuse, addiction, adverse drug reactions, overdose, and physical dependence. If there are any special concerns, such as a history of substance abuse, consult a psychiatrist or addiction specialist. If current substance abuse, withhold prescribing until the patient is involved in an addiction treatment and monitoring program.
+
+**Assessment Tools**
+
+Screening tools assist in determining the risk level and degree of monitoring and structure required for a treatment plan; however, their validity is not yet supported in the literature. Some examples of opioid tools include:
+
+**Brief Intervention Tool**
+
+Brief Intervention Tool is a 26-item "yes-no" questionnaire used to identify signs of opioid addiction or abuse. The items assess for problems related to drug use-related functional impairment.
+
+**CAGE, CAGE-AID, and CAGE-Opioid**
+
+CAGE (Cut down, Annoyed, Guilty, and Eye-opener) Questionnaire consists of four questions designed to assess alcohol abuse. CAGE-AID and CAGE-OPIOID are revised versions to assess the likelihood of current substance abuse.
+
+**Current Opioid Misuse Measure (COMM)**
+
+The Current Opioid Misuse Measure is a 17-item patient self-report assessment designed to identify abuse in chronic pain patients. It identifies aberrant behaviors associated with opioid misuse in patients already receiving long-term opioid therapy.
+
+**Diagnosis, Intractability, Risk, and Efficacy (DIRE) Tool**
+
+The Diagnosis, Intractability, Risk, and Efficacy is a clinician-rated questionnaire used to predict patient compliance with long-term opioid therapy. Patients scoring low are poor candidates for long-term opioids.
+
+**Mental Health Screening Tool**
+
+The Mental Health Screening Tool is a five-item screen that evaluates feelings of calmness, depression, happiness, peacefulness, and nervousness in the past month. A low is an indicator that the patient should be referred to a pain management specialist.
+
+**Opioid Risk Tool**
+
+The Opioid Risk Tool is a five-item assessment to evaluate for aberrant drug-related behavior. It categorizes the patient into low, medium, or high levels of risk for aberrant drug-related behaviors based on question responses concerning previous alcohol, drug abuse, psychologic disorders, and other risk factors.
+
+**Pain Assessment and Documentation Tool (PADT)**
+
+Guidelines by the CDC, the Federation of State Medical Boards, and Joint Commission stress documentation from both a quality and medicolegal perspective. The Pain Assessment and Documentation Tool (PADT) was designed to help the clinician document appropriate information.
+
+**Screener and Opioid Assessment for Patients with Pain-Revised (SOAPP-R)**
+
+The Screener and Opioid Assessment for Patients with Pain-Revised (SOAPP-R) is a screen with questions addressing the history of alcohol or substance use, cravings, mood psychologic status, and stress. The SOAPP-R helps assess the risk level of aberrant drug-related behaviors and the monitoring level needed.
+
+**VIGIL**
+
+- Verification: Is this a responsible opioid user?
+
+- Identification: Is the identity of this patient verifiable?
+
+- Generalization: Do we agree on mutual responsibilities and expectations?
+
+- Interpretation: Do I feel comfortable allowing this person to have controlled substances?
+
+- Legalization: Am I acting legally and responsibly?****
+
+**Urine Drug Tests (UDT)**
+
+Urine drug tests evaluate the use of the medication prescribed and detect unsanctioned drug use. The CDC recommends drug testing before starting opioid therapy and at least annually.
+
+One study suggests monitoring frequency based on risk level.
+
+Testing is usually done with class-specific immunoassay drug panels; however, this may be followed with gas chromatography/mass spectrometry for specific metabolite detection. The test should identify the specific drug. If urine test results suggest aberrant opioid use, discuss the issue in a positive, supportive approach, and document the discussion.

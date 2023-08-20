@@ -1,0 +1,5 @@
+Acute EP often presents clinically like acute respiratory distress syndrome; however, with corticosteroids recovery is rapid with no significant clinical or imaging sequelae and no relapse after stopping corticosteroid treatment. In contrast, relapse is common with chronic EP, often requiring prolonged steroid courses.
+
+In CEP, most patients require a prolonged steroid course and frequently relapse when steroid doses are decreased. Similarly, in EGPA, relapses are common, and asthma often persists. Patients with cardiac involvement due to EGPA have a poorer prognosis.
+
+The survival for HES used to be limited, but now it has significantly improved up to 70% to 80% in 10 years. ABPA is variable and can recur after treatment. In some who have very frequent exacerbations, long-term steroids may be needed.

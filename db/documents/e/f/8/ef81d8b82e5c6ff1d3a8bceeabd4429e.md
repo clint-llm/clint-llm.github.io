@@ -1,0 +1,7 @@
+A glucose tolerance test is typically ordered by a medical doctor, advanced nurse practitioner, or physician assistant. Interprofessional collaboration is required for the correct administration of the test.
+
+The actual glucose tolerance test itself can be administered in several settings. The test may be administered in a clinical office with appropriate equipment and staffing. The glucose tolerance test can also be administered in a laboratory. Although the inpatient side is an atypical site for glucose tolerance tests, a hospital may have an outpatient or clinical research department where staff may have additional time to complete the test.
+
+Nurses, medical assistants, or phlebotomists may perform the test. There must be clear communication on order from the provider on the type of test, the length of time, and the number of samples ordered. The personnel administering the test should be aware of the requirements of the test, including the fasting requirement and the pre-test dietary carbohydrate requirement. It is vital to collaborate with laboratory personnel to ensure the timely processing of the specimens and proper storage and shipping (if necessary).
+
+Laboratory personnel should work closely with providers to provide accurate results quickly.

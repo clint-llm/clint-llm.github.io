@@ -1,0 +1,1 @@
+Functioning as vital cells in the bone matrix that maintains adequate bone mineral density through stimulating bone turnover and maintaining plasma calcium levels, osteoclasts are multinucleate cells that arise from hematopoietic stem cells.

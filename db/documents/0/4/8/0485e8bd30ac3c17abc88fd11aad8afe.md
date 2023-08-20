@@ -1,0 +1,1 @@
+Histology review of patients diagnosed with pancreatic abscesses revealed that 65% were due to chronic pancreatitis, 22% from biliary tract disease, 5% were from duodenal diseases, and the remainder was from other causes.

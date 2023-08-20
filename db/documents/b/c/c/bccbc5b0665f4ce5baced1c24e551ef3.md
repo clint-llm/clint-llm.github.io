@@ -1,0 +1,1 @@
+Radiation-induced fractures are rare but can occur secondary to altered skeletal physiology. They most frequently occur in association with radiotherapy for soft tissue sarcomas. These fractures can occur at any time in life, and thus a patient must undergo surveillance for the remainder of her/his life postoperatively.

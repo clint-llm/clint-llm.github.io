@@ -1,0 +1,3 @@
+Primary treatment of this tumor involves a treatment strategy that aims at cure. When possible, complete resection is the preferred treatment and this appears to have a favorable effect on the outcome.
+
+Chemotherapy has served as a treatment tool before and following surgical resection. Due to the limited incidence of FL-HCC, no RCT has elucidated the most efficacious chemotherapeutic regimen. Of note, there are no neoadjuvant/adjuvant systemic therapies yet reported that have shown an improved survival benefit in patients with resectable FL-HCC.

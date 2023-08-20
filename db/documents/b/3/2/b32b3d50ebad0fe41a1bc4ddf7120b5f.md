@@ -1,0 +1,1 @@
+Fever is due to cytokines like IL1, IL6, and TNFα produced by the white cells due to exogenous stimuli.

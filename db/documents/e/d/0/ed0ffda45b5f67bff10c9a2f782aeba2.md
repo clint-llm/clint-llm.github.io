@@ -1,0 +1,1 @@
+Bowenoid papulosis (BP) is an uncommon sexually transmitted condition. It was first described in 1977 by Kopf and Bart as penile papules. However, it occurs at both sexes. It tends to affect young sexually active people. This condition was also termed “vulvar intraepithelial neoplasia (VIN)” in the vulva and termed penile intraepithelial neoplasia (PIN) in the penis.

@@ -1,0 +1,1 @@
+Persistent sinus tachycardia at rest requires an evaluation by a medical professional. Early identification and intervention may result in favorable patient outcomes depending on the underlying etiology.

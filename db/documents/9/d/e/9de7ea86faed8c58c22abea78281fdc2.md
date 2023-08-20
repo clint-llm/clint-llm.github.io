@@ -1,0 +1,1 @@
+Following the repair of a blowout fracture, the outcomes are not always guaranteed, and the recovery is often prolonged. Some patients may have neuralgia of the infraorbital nerve for 6-9 months. Others may have diplopia, which may require REDO surgery. Finally, enophthalmos may worsen with time.

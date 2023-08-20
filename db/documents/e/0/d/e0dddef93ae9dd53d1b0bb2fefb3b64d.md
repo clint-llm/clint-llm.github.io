@@ -1,0 +1,3 @@
+Vibrio vulnificus is a member of the Vibrionaceae family, whose pathogenic species include V. cholera, V. parahaemolyticus, and V. vulnificus. Vibrio is from the Latin ‘to wiggle or vibrate’ and vulnificus from the Latin ‘to wound.’
+
+The bacillus is found worldwide and can cause gastrointestinal disease, wound infections, and highly fatal septicemia. V. vulnificus, though the incidence of infection is low, it has the highest number of seafood-related deaths in the United States.

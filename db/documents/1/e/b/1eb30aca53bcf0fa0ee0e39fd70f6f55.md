@@ -1,0 +1,1 @@
+Proximal humerus and shaft fractures have favorable outcomes with a high union rate and low infection rate after operative and nonoperative management. Distal humerus fractures have less favorable outcomes. Approximately 75% of patients regain elbow motion and strength with the goal of a range of motion to between 30 and 130 degrees.

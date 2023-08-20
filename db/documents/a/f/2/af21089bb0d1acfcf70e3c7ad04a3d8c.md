@@ -1,0 +1,1 @@
+Other than an allergic reaction to gel, a transthoracic echocardiogram has no significant complications. A transesophageal echocardiogram is rarely associated with trauma to the teeth, oral mucosa, and esophagus. Esophageal rupture, vasovagal reflex, and aspiration pneumonia are the other rare complications associated with a transesophageal echocardiogram.

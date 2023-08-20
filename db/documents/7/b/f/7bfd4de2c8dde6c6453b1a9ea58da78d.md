@@ -1,0 +1,1 @@
+The femoral sheath is a fascial structure formed anteriorly by a continuation of the transversalis fascia and posteriorly by a continuation of the iliopsoas fascia. Both of these fascia layers are part of the thoracolumbar fascia, which is key to maintaining posture and the transmission of force between the scapular and pelvic girdles.

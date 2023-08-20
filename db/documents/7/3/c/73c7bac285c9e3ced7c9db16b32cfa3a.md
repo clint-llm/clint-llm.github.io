@@ -1,0 +1,1 @@
+Resected necrotic bone from BRONJ patients does not demonstrate any unique features of the disease.Actinomyces, Veillonella, Eikenella, and Moraxella species - penicillin-sensitive organisms. The presence of sulfur granules in deeper tissue and drainage areas supports the diagnosis of actinomycosis and requires appropriate treatment.

@@ -1,0 +1,1 @@
+Initial left lower extremity venous duplex ultrasound (US) revealed normal flow and compressibility of the left lower extremity veins and was negative for deep or superficial venous thrombosis.

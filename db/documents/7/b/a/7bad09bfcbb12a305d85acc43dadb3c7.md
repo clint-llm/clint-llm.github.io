@@ -1,0 +1,3 @@
+There are numerous anatomical sites that can be used in cupping therapy and are chosen based on the ailment being treated. Areas where muscle tissue is abundant are the most common location for cup placement, including the back, chest, abdomen, and buttocks.
+
+Anatomical sites avoided are those with abundant hair, those that have little muscle tissue, and those that do not have enough surface area to place the cups.

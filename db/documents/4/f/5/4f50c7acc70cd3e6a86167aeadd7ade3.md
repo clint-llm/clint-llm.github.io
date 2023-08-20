@@ -1,0 +1,5 @@
+Transient inhibition of adrenal steroid synthesis is considered etomidate's most significant adverse effect. A single bolus dose causes a dose-dependent inhibition of 11-beta-hydroxylase lasting 6 to 12 hours. This enzyme is responsible for converting 11-deoxycortisol to cortisol, which results in adrenocortical suppression. Hence, it poses a theoretical risk of impairing a patient's ability to produce an adequate stress response. 80% of patients were found to have etomidate-induced adrenal inhibition at 12 hours, and most patients' suppression had resolved by 48 hours.
+
+The most common adverse reaction associated with etomidate use is transient intravenous pain on injection.
+
+Postoperative nausea and vomiting with etomidate are comparable to the general frequency of PONV. The incidence of PONV was higher when etomidate was used for both induction and maintenance of anesthesia in short procedures such as dilation and curettage or when analgesia was insufficient.

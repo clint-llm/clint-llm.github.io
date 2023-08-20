@@ -1,0 +1,1 @@
+The management of GUTB should involve a multi-disciplinary approach including the Infectious diseases specialist, the urologist in case of any complications related to the urinary tract, and or the gynecologist if the patient has infertility or involvement of the female reproductive organs, a radiologist, a public health clinician, and an infectious diseases pharmacist.

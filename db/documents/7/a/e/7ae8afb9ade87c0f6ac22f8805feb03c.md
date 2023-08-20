@@ -1,0 +1,1 @@
+Some degree of postoperative ileus is nearly universal after abdominal surgery. Up to 25% of patients will develop postoperative ileus after elective abdominal surgery.

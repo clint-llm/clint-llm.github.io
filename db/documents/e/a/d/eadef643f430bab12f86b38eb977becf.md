@@ -1,0 +1,3 @@
+Hemolytic disease of the fetus and newborn should be considered in the differential diagnosis of newborns with jaundice/hyperbilirubinemia and certainly in the case of neonatal anemia. Diagnosis of HDFN can be made by identifying the presence of maternal RBC antibodies (agglutination in an indirect antibody test) and/or a positive direct antibody test (DAT) in the infant's serum.
+
+According to the American Academy of Pediatrics (AAP), "if a mother has not had prenatal blood grouping or is Rh-negative, a direct antibody test (or Coombs' test), blood type, and an Rh (D) type on the infant's (cord) blood are strongly recommended."

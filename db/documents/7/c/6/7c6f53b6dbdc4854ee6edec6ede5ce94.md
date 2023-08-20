@@ -1,0 +1,7 @@
+Pleural effusions are common; in the United States, nearly 1.5 million pleural effusions are diagnosed each year. Congestive heart failure is the most common cause, followed by pneumonia. Traditionally, pleural effusions are divided into transudate and exudate. Transudate implies an intact capillary membrane but increases hydrostatic pressure due to fluid overload. Exudative effusion is a result of capillary damage secondary to an inflammatory process. Pleural effusions can be treated with thoracentesis. However, a significant number of effusions do not resolve or, even if treated, quickly recur. These types of effusions are very uncomfortable for the patient and difficult for caregivers, and lead to a significant healthcare burden. However, in some cases, intrapleural catheters can be placed to allow for continued drainage while allowing the patient to maintain mobility. This activity reviews the causes of pleural effusions, the indications and contraindications to the placement of intrapleural catheters, and highlights the role of the interprofessional team in the management of patients with recurrent effusion.
+
+**Objectives:**
+- Describe the causes of pleural effusions.
+- Outline the indications for intrapleural catheters.
+- Review the technique involved in the insertion of an intrapleural catheter.
+- Explain the importance of optimizing care coordination among the interprofessional team to enhance the safe use of intrapleural catheters for drainage of pleural fluid.

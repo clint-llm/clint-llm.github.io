@@ -1,0 +1,1 @@
+School refusal is not an emotional disorder but can be a symptom of an anxiety disorder. Assessment and management of school refusal often require a synergistic approach includes the health care provider, parents, school staff, and other mental health professionals.

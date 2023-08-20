@@ -1,0 +1,111 @@
+# Definition/Introduction
+
+Assisting patients with basic hygiene not only creates a personal connection between the health care provider and the patient but also is vital to maintaining the patient’s health. It is the responsibility of the health care professional to balance the proper amount of grooming. Both too much grooming, as well as too little grooming, can have negative effects. There are various health care settings and a variety of patients; thus, it is necessary to determine how much assistance is necessary for each patient on a case by case scenario. Patients should be allowed to assist with their hygiene to the best of their ability. Assistance may be needed for tasks such as eliminating, shaving, brushing and styling hair, oral care, and bathing.
+
+# Issues of Concern
+
+Preventing the spread of contamination from the medical provider to the patient and vice versa is essential. When first approaching the patient, the medical professional must verify the patient's identity and review their chart. This process will allow the provider to give the proper treatments and make changes based on the individual's needs. To maintain cleanliness, health care providers should always disinfect their hands before touching the patient. If needed, the provider can wear gloves for various procedures.
+
+A clear and strong line of communication is needed between the health care provider and the patient. Patients can be embarrassed to discuss their hygiene needs, particularly when it comes to discussing elimination. Openly discussing these topics with patients can help them feel more comfortable and give the health care provider a detailed view of their needs.
+
+A lack of hygiene can result in a multitude of adverse effects, such as hospital-acquired infections.
+
+Besides the physical act of assisting with hygiene, the medical provider's attitude can influence a patient's hygiene behaviors. A study found that a caregiver's attitude towards the elderly's ability to eliminate using a toilet had a substantial effect on the patient's ability to complete toilet elimination.
+
+# Clinical Significance
+
+Basic hygiene for adults includes oral hygiene, bathing, eliminating, shaving, brushing, and styling hair. These may seem like basic procedures, but they are vital to maintaining the patient’s health. To be effective at assisting the patient, it is important to stay up to date with the nursing literature.
+
+The inability to properly maintain hygienic conditions for patients can lead to a multitude of adverse effects. Patients who have suffered a stroke need assistance maintaining proper oral hygiene to prevent outcomes like aspiration pneumonia or opportunistic infections.Clostridium difficile infections.
+
+# Nursing, Allied Health, and Interprofessional Team Interventions
+
+Before any personal hygiene procedure, the health care professional must decontaminate their hands and identify the patient they are treating.
+
+**Bathing**
+
+Assisting patients with bathing is a fundamental aspect of maintaining the patient's hygiene. Bathing not only helps the patient to feel clean and gain a sense of normalcy, but bathing also removes dirt, perspiration, bacteria, and dead skin as well as promotes blood circulation. Bathing practices may vary from patient to patient based on their personal, religious, and individual needs.
+
+There are a few types of baths that patients may require. The first type is bathing in a bathroom, which consists of a typical shower or bath. This process is for patients who are ambulatory enough to reach the bathroom and need minimal assistance bathing themselves. Next is a self-wash in bed; this is for patients who can bathe themselves but are not able to get out of bed. This approach may also require minimal assistance. Lastly would be a bed bath; this is for patients who cannot get out of bed and cannot bathe themselves.
+
+Bathing in a bed can either use a washbasin filled with water or with pre-packaged cloths that do not require water. The wipes that do not require water are known as bag baths. If using a wash bin and cloths, ensure they are single-use items to prevent the spread of bacteria. In 2017, a systematic review found that patients preferred a standard water and soap bath, but the bag bath was a useful alternative.
+
+**Bathing in a Bathroom**
+
+With this type of bath, assistance may be given to
+
+- Help the patient reach the bathroom.
+
+- Check to see if the patient needs to use the restroom before showering.
+
+- Keep the bathroom warm.
+
+- Run the water. Make sure to start the water off cool to prevent large amounts of steam. Once the water is warmed up, check the temperature with an elbow to assess for an appropriate and comfortable temperature. Recommended temperatures for bathing are 115 degrees F. Ask the patient to test the water to see if the temperature is comfortable to them.
+
+- Provide a shower chair, if necessary.
+
+- Place all necessary toiletries in an easily accessible spot.
+
+- Remain nearby in case the patient needs more help.
+
+**Self-Wash in Bed**
+
+Equipment needed includes clean bed linen, washcloths, clean clothes, disposable washbasin, disposable apron, bath towels, toiletries, linen skip, disposable wipes, a plastic bag to dispose of wipes, and non-sterile gloves if needed for protection or patient preference.
+
+With this type of bath, assistance may be given to
+
+- Ensure the patient has privacy while bathing.
+
+- Warm the room and provide sheets to prevent the patient from becoming cold while bathing.
+
+- Explain the procedure of using a water basin to clean oneself.
+
+- Specify that the patient should wash their genitals last. When washing the genitals, provide disposable wipes and ask that the patient disposes of them in a plastic waste bag that you have provided.
+
+- Warm water may stimulate the need to urinate. Provide a bedpan and explain to the patient that it may be needed.
+
+- Provide a washbasin filled three-fourths of the way with warm water, make sure the water is a comfortable temperature by placing your elbow under the running water before filling the pan.
+
+- Ensure that all necessary toiletries are available such as the washbasin of water, cloths, soap, bath towel, disposable wipes, and a plastic bag to dispose of wipes.
+
+- If needed, help undress the patient and cover the patient with a blanket.
+
+If the patient needs help cleaning their back or anal area, they must first clean their front by themselves. Once the patient has completed cleaning their front, instruct the patient to turn on their side and place a towel under them. Wash, rinse, and dry the back. After finishing the back, move on the buttock. Use disposable wipes and immediately place used wipes into a plastic waste bin. If disposable wipes are not available, fill the wash bin with clean water, and use fresh cloths. Be sure to clean from front to back to avoid fecal matter entering the genitals. For male patients, hold the penis with one hand and wash the penis from the meatus to the base with the other. If the patient has foreskin around their penis, retract the foreskin and repeat washing the penis from meatus to base. Wash the scrotum and pat the area dry. Finish by cleaning the rectum last.
+
+**Bed Bath**
+
+This type of bath requires the most assistance. Allow the patient to help as much as they are able to. First, ensure that the room is warm and there is privacy by shutting windows, closing doors, or drawing a curtain closed. Secure all the necessary toiletries, clean bed linen, washcloths, clean clothes, disposable washbasin, disposable apron, bath towels, patient toiletries, linen skip, disposable wipes, a plastic bag to dispose of wipes, and non-sterile gloves if needed for protection or patient preference. Have a urinal or bedpan on hand, as warm water may cause the patient to need to urinate. Ensure that the patient's bed is at the proper height.
+
+There are two options for performing a bed bath. One is using disposable wipes, and the other is traditional soap in water.
+
+If using the traditional water and soap method, fill a single-use wash bin ¾ of the way full of warm water. Confirm that the water is a comfortable temperature by placing your elbow under the running water before filling the pan. Wash your hands and put on a disposable apron. First, explain the procedure to the patient and ask whether they prefer to use soap on their face. Remove any glasses or hearing aids from the patient. Place a towel under the patient's chins and proceed to wash the patient's neck, face, and ears. Clean the patient's glasses and/or hearing aids and return them to the patient. Use a patting motion when drying to prevent excess friction.
+
+Remove the patient's shirt and cover them with a blanket. Only expose the area that is being cleaned. Wash cephalad to caudal and from contralateral to ipsilateral. Using this method, start with the contralateral arm and clean from proximal to distal. Make sure to separate the skin folds and clean in-between. Use the same procedure for the caudal half of the patient. When cleaning the genital area of a patient, roll the patient onto their side. Make sure to use disposable wipes and wipe from front to back when cleaning the genitals. This process will prevent urinary tract infections. Immediately dispose of used wipes into the plastic waste bag. If disposable wipes are not available, fill the basin with clean water, and use new cloths. Once the patient is entirely clean, help the patient to dress and place new sheets on the bed.
+
+**Dental Care**
+
+Dental care can be a relatively simple procedure to maintain the patient's hygiene. Let the patient contribute to this routine as much as they can. First, put on gloves and explain to the patient what you are going to do. If the patient is NPO, ensure that they do not swallow anything. Place a towel across the patient's chest to keep them dry and prop the patient's head up to a 45-degree angle or greater. If the patient is conscious, provide mouthwash in a cup. Instruct the patient to rinse their mouth and spit. Place a dime-sized amount of toothpaste on a toothbrush and brush all surfaces of the teeth. Provide more mouthwash and have the patient rinse and spit. Floss the teeth by pressing the floss between the teeth up to the gums. Cup the floss in a "C" shape and pull down. Repeat for every surface between teeth. Have the patient rinse and spit one more time.
+
+If the patient is unconscious, the head will need to be propped up to 45 degrees or more and turned to the side. Place a towel on the side of the patient's head to catch drool and place an emesis basin under the patient's chin. Pull the mouth open by pressing down on the patient's chin, taking care not to place fingers into the patient's mouth. Brush and floss the patient's teeth in a similar manner to the conscious patient. Use a wet mouth swab to wipe the patient's mouth and tongue. Apply moisturizer to the patient's lips.
+
+If the patient has dentures, these will need cleaning. First, line the sink where the dentures will be cleaned with a towel. The towel is to protect the dentures if they are accidentally dropped. If the dentures suffer damage, they are expensive to replace, and the patient will not be able to eat. Next, place on gloves and remove the dentures from the patient's mouth into an emesis bin lined by a paper towel. Bring the dentures over to the sink and use toothpaste or denture cleaner to clean the dentures thoroughly. After cleaning, rinse the dentures with cool water and place them into a denture cup filled with water, denture solution, or mouthwash. Return the dentures to the patient. Denture training for nursing home staff results in improved denture care. Thus, educating health care providers will benefit the patient's oral care.
+
+**Hair Care**
+
+Haircare is a vital part of the hygiene routine. While hair does not need washing every day, brushing the patient's hair can boost their self-esteem and prevent knots from forming. Before touching the patient, sanitize your hands and use disposable gloves. Warm the water to about 115 degrees F and check the temperature with your elbow to ensure it is comfortable. Fill a pitcher with the warm water and bring it over to the patient. Bring the patient's head as close to the top of the bed as is safe. Place a towel under the patient's shoulder blades and a waterproof bed protector under the head. Bring the edges of the bed protector up on the sides, so water does not spill over the bed. Wrap another towel around the patient's neck. Underneath the patient's head, place a water basin to collect any excess water. Submerge a washcloth in the warm water and wring the washcloth out until it is damp. Set the damp washcloth over the patient's eyes. Some hospitals will require cotton balls to be placed in the patient's ears; check with your facility to see their hair washing procedures. Use a cup to pour water gently over the patient's hair. Use shampoo and massage it into the patient's scalp. Thoroughly wash out the shampoo. Repeat the shampoo and rinse as many times as needed. Repeat the same procedure with conditioner if needed. Remove all of the washing equipment and place a clean, dry towel under the patient's head. Bring the pillow back underneath the patient's head. Dry the patient's hair by rubbing it with a dry towel. Assist the patient with brushing and styling their hair.
+
+Washing a patient's hair does not need to be done every day, but daily brushing can prevent it from tangling. Brushing will also distribute oils evenly along the hair shaft. To brush hair, begin brushing gently towards the ends and slowly progress towards the roots. If there is a particularly difficult section of hair to comb, hold the hair near the scalp to prevent excess pulling. If there is an extremely difficult tangle, petroleum jelly may be helpful by applying a small amount and massaging it into the hair tangle. Help the patient style their hair in the manner they prefer. Disinfect the combing materials and return them to their proper area.
+
+**Nail Care**
+
+Nail care gives the patient a neat appearance and helps prevent them from scratching themselves. Regular nail care can remove bacteria from underneath the fingernails to help prevent infections. Take the time to observe the patient's nails, fingers, and toes. Note and report any swelling, thick or brittle nails, changes in nail texture, changes in nail color, exquisite tenderness, or foot ulcers. Special care is necessary for a patient who has diabetes.
+
+Before beginning nail care, wash your hands. Nail care is possible after a bath or after soaking the nails in warm soapy water for 10 minutes. Once the nails are done soaking, place the hands on a towel. Use an orange stick to remove dirt that is underneath the nails. Clean the orange stick with a paper towel before moving to the next nail. Once the nails are clean, proceed to use nail clippers and trim the nails if necessary. Trim the nail straight and close to the nailbed but leave some room, so you do not cut the patient. Smooth nails with a file if the cut edges are rough. Rub lotion on the patient's hands. Repeat the same steps for the patient's feet. If the patient has diabetes, is it of utmost importance to maintain proper foot hygiene. When trimming the toenails of a diabetic patient, ensure there is proper lighting, and take special care to trim the nails in a straight line to avoid cutting the patient's foot.
+
+# Nursing, Allied Health, and Interprofessional Team Monitoring
+
+Patients should receive continuous monitoring for proper hygiene. The frequency of assisting patients will depend on the patient’s medical status and the patient’s cultural and personal beliefs. Some patients may have a preference for when to perform specific hygienic tasks. For example, patients who follow the Islamic religion may prefer to wash their bodies before praying and may prefer to use water over hand sanitizer when washing their hands.
+
+It is also essential to monitor the patient when assisting with hygienic tasks. For example, bathing the patient is an opportunity to check for lesions or bed sores. Helping patients with elimination is an opportunity to monitor for signs of a Clostridium difficile infection. If a patient is suspected of having infectious diarrhea, they should undergo evaluation for the cause of infection and isolated to prevent infecting other patients. While assisting patients with hygienic tasks in the perineal area, the provider should wear a gown and gloves.
+
+Using a combination of current evidenced-based practices, open communication with the patient to discover their preferences, and frequent monitoring will allow for the best care possible for the patient.

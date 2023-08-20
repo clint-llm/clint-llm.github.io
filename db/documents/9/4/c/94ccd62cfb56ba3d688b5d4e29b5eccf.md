@@ -1,0 +1,1 @@
+Sentinel lymph node biopsy is a less morbid procedure than formal axillary dissection. Risks of the procedure include bleeding, infection, nerve injury, lymphedema, and the need for additional surgery in the case of extensive nodal involvement or recurrent axillary disease. It is considered a low-risk procedure.

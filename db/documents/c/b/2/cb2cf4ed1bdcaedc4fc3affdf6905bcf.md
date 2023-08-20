@@ -1,0 +1,1 @@
+The frequency of cysts is difficult to determine given the varied etiologies of the cysts across age groups. The cysts may also be asymptomatic and never diagnosed. For example, per Lunardi et al.,

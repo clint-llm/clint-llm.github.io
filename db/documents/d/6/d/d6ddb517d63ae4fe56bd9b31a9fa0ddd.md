@@ -1,0 +1,3 @@
+Adult female mites dig burrow tunnels 1 to 10 millimeters long within the superficial layers of the epidermis and lay 2 to 3 eggs daily. The mites die 30 to 60 days later, and the eggs hatch after approximately 2 to 3 weeks. It merits mentioning that not all treatment options can penetrate the eggs stored within the skin
+
+If an infestation occurs, papules may present within 2 to 5 weeks. These papules are tunnel or comma-shaped with length ranging from a few millimeters to 1 centimeter. Typically, infestations occur under thin skin in areas such as interdigital folds, areolae, navel region, and the shaft of the penis in men

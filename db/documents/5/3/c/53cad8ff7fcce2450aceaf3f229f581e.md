@@ -1,0 +1,1 @@
+Glaucomatous damage to the optic nerve may lead to visual field loss, decreased visual acuity, and complete blindness. Damage to the corneal endothelium may occur, leading to corneal decompensation. Blind eyes with end-stage glaucoma may also become phthisical. Aqueous misdirection syndrome may develop more frequently in eyes with chronic angle-closure glaucoma following surgery.

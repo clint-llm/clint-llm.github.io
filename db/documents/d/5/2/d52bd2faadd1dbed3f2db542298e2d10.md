@@ -1,0 +1,1 @@
+The combination of fibrate and statin therapy is associated with an increased risk of myopathies. In Dysbetalipoproteinemia benefits of combined statin-fibrate therapy would outweigh the risks associated with these medications. Patient education of potential side-effects of combination therapy is essential.

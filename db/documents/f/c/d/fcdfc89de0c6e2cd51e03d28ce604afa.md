@@ -1,0 +1,1 @@
+Fluorescein has no known significant drug interactions. Under ophthalmic examination, contact lens removal is necessary with the use of fluorescein to avoid unnecessary staining.

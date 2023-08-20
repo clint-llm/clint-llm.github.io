@@ -1,0 +1,1 @@
+As mentioned above, patients in adrenal crisis manifest nonspecific symptoms and therefore, can be difficult to diagnose. Those physicians who prescribe the glucocorticoids such as prednisone must also be aware of the need to limit the length of time the patient is on the medication and taper when discontinuing.

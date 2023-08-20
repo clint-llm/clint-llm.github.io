@@ -1,0 +1,5 @@
+An interdisciplinary team is required for a successful transplant. The team includes organ donor, UNOS and local organ procurement organization, transportation team of an organ from donor to recipient, transplant anesthesiologists, transplant surgeons, operating room members, transplant pharmacists, transplant physicians, radiologist, physical therapist, occupational therapist, nutritionist, social worker, and strong social support.
+
+For a successful transplant surgery and survival of graft, it involves tremendous coordination between the team members due to the complexity of care involved, extending beyond the perioperative period.
+
+If the patient has to undergo coronary revascularization, then evaluation by a cardiology consultant is required. The consultant will determine the time and type of intervention required. [Level 1]

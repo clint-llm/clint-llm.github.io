@@ -1,0 +1,1 @@
+Hemolytic disease of the fetus and newborn (HDFN) is an immune-mediated red blood cell (RBC) disorder in which maternal antibodies attack fetal or newborn RBCs.

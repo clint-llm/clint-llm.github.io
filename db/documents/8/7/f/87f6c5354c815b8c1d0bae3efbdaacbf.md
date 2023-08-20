@@ -1,0 +1,1 @@
+Prognosis is variable. There is no cure for this condition. The prognosis worsens if there is a delay in diagnosis and treatment during the early stages of the disease and if comorbid conditions of smoking and obesity (if present) are not addressed and improved.

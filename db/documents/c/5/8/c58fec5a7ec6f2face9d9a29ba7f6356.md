@@ -1,0 +1,5 @@
+There are abundant symptom overlaps between frontotemporal dementia and other neuropsychological disorders. Psychiatric conditions such as depression, bipolar disorder, and, most significantly, schizophrenia can mimic behavioral variant frontotemporal dementia and are often misdiagnosed during early presentations of frontotemporal disease.
+
+Distinguishing other dementia syndromes from frontotemporal dementia can also be challenging. A predominance of memory and visuospatial deficits suggests the more prevalent Alzheimer's dementia variant. Lewy body dementia should be considered in the setting of visual hallucinations and parkinsonism.
+
+Several miscellaneous conditions can present with neuropsychiatric and behavioral symptoms similar to frontotemporal dementia including, infections, toxins, neoplasms, trauma, paraneoplastic disease, autoimmune disorders, thyroid syndromes, hepatic encephalopathy, and various genetic pathologies.

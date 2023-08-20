@@ -1,0 +1,7 @@
+Acoustic Neuroma: The auditory nerve is located at the junction between the pons, medulla, and cerebellum (Figure 1D). This is the locus of a tumor called an acoustic neuroma. Acoustic neuromas grow slowly.
+
+Tinnitus: Tinnitus is the perception of a sound (typically a ringing or buzzing) that is not present in the environment. The perception is induced by a hyper-excitation within a specific frequency region of the auditory cortex.
+
+Tinnitus typically presents after several years of repeated exposure to loud noises. It commonly has a gradual onset caused by repeated damage or stress to cochlear hair cells. However, a lack of input from the cochlear cells does not necessitate a lack of input to the cortex. Because neurons within the auditory system have multiple inputs, the central auditory regions receive input from other neurons about frequency, attenuation, and location in space of other sounds. They transmit these other signals to the auditory cortex within the affected denervation frequency range, thus producing a phantom perception.
+
+There is no cure for tinnitus. Biofeedback therapies have helped in some cases, however, they do not eliminate the tinnitus perception. The biofeedback therapy uses one or more sounds played at or near the tinnitus perception of a patient. This form of feedback uses inhibitory limbic circuits to help depress the aberrant cortical excitation.

@@ -1,0 +1,1 @@
+A pediatrician usually detects and diagnoses the condition of brachycephaly in infants. Specialist consultation with a craniofacial team, traditionally led by a pediatric neurosurgeon in concert with a craniofacial plastic surgeon and occasionally a geneticist, is necessary in cases of synostotic brachycephaly.

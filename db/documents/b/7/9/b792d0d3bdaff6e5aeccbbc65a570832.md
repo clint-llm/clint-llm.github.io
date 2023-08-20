@@ -1,0 +1,1 @@
+Patients with vascular risk factors should be identified early and counseled on lifestyle changes as well as control of comorbid conditions. Self-monitoring of blood pressure and blood sugar, dietary modifications, weight reduction, and improving physical fitness has proven to decrease the progression of white matter lesions.

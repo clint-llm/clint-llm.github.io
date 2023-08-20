@@ -1,0 +1,3 @@
+The patient should be on a cardiac monitor with a continuous pulse oximeter, and blood pressure readings cycled frequently. Reliable IV access should be in place.
+
+Should the maneuver fail after 2 or 3 attempts, the provider should have an appropriate antiarrhythmic medication available as the next step in treatment.  In addition to this, the provider should consider having procedural sedation medications bedside if electrical cardioversion or intubation is necessary as a result of a worsening dysrhythmia or if the patient becomes unstable.

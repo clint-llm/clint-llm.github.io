@@ -1,0 +1,1 @@
+The most common cause of small bowel obstruction is an incarcerated hernia. A patient who presents with bowel obstruction should be evaluated for hernias. Any skin changes noted with a concomitant hernia should raise suspicion for a strangulated hernia. An emergent surgical consultation should be obtained before attempting to reduce a strangulated hernia.

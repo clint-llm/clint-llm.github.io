@@ -1,0 +1,3 @@
+A Dieulafoy lesion is an enlarged submucosal blood vessel that bleeds in the absence of any abnormality such as ulcers or erosions. The majority of the lesions arise in the stomach at the lesser curvature, within 6 cm of the gastroesophageal junction, as this region receives its arterial blood supply directly from the branches of the left gastric artery.
+
+Less commonly, extra-gastric lesions may also arise in the duodenum, colon, jejunum, esophagus, or surgical anastomosis site.

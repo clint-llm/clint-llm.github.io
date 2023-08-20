@@ -1,0 +1,5 @@
+Several studies have tried to demonstrate the efficacy of vitamin supplementation to reduce cardiovascular and thromboembolic risk. The American Heart Association explained that folic acid supplementation (0.2 to 15 mg/d) could lower homocysteine levels. However, randomized control trials have been controversial in showing cardiovascular risk reduction with folic acid supplementation unless a patient has homocystinuria.
+
+In patients with homocystinuria with severe hyperhomocysteinemia, homocysteine-lowering treatments with pyridoxine, folic acid, and hydroxocobalamin did reduce cardiovascular risk.
+
+In patients who have hyperhomocysteinemia without homocystinuria, treatment remains controversial. Randomized control trials have not been able to show a reduction in cardiovascular risk for those who lower homocysteine levels using homocysteine-lowering therapies.

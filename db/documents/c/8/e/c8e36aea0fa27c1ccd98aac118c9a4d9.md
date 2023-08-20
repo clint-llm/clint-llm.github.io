@@ -1,0 +1,1 @@
+Patients should be aware of chronic pain and the loss of grip strength as consequences of delayed management of jersey finger injuries. Although the nonunion rate in bony-avulsion type jersey finger injuries is low, smoking cessation is a recommendation for fracture healing.

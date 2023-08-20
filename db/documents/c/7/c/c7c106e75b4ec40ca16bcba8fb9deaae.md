@@ -1,0 +1,5 @@
+The main indication for performing a septoplasty is a nasal septal deformity. This is usually a deviation of the cartilaginous and/or bony parts of the septum into one or both of the nasal passages, reducing the cross-sectional area, hindering airflow, and causing a sensation of nasal blockage. Patients may particularly complain of symptoms of obstruction on exertion or while exercising. The most common cause of the deviation is trauma. Patients must be symptomatic with nasal blockage to warrant functional surgery.
+
+Several scoring systems are available to grade nasal obstructive symptoms. The Nasal Obstruction Symptom Evaluation (NOSE) scale is a validated instrument used to evaluate the degree of obstruction. Those with low scores are unlikely to benefit from surgery.
+
+Other indications for septoplasty include recurrent epistaxis, obstructive sleep apnea, sinusitis, and facial pain and/or headaches due to septal spurs that contact a turbinate (Sluder's syndrome).

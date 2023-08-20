@@ -1,0 +1,3 @@
+In any acute adrenal crisis, immediate first-line treatment is to give IVF with glucocorticoids. Studies suggest a 100mg IV bolus of hydrocortisone is the first line for glucocorticoid replacement. If that is not available, another glucocorticoid such as dexamethasone can be substituted, but dexamethasone does not have a secondary mineralocorticoid action as hydrocortisone does. Oral glucocorticoids are not recommended, as patients are too acutely ill, not able to eat or drink, have nausea and vomiting, or are obtunded and cannot swallow.
+
+Upon discharge, the patient will need to have a prescription for long-term glucocorticoid therapy, as well as close follow-up with a primary care provider or endocrinologist.

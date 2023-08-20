@@ -1,0 +1,9 @@
+Ectodermal dysplasias (EDs) have broad differentials, few are discussed below.
+
+- Hypohidrotic ED: Sjogren syndrome should be ruled out in oligosymptomatic patients. In full-blown disease, other EDs should be differentiated. Early neonatal hyperthermia worsening on incubation and neonatal phototherapy should be differentiated from other causes of pyrexia of unknown origin.
+
+- Hydrotic ED: The typical nail involvement, along with palmoplantar keratoderma and oral leukoplakia, should be differentiated from pachyonychia congenita. The presence of hair abnormalities in hydrotic ED is the differentiating feature. Hydrotic ED closely resembles the pure hair-nail type of ED.
+
+- AEC Syndrome: Neonatal erythroderma of AEC syndrome is typically confused with epidermolysis bullosa or bullous congenital ichthyosis. Rapp Hodgkin syndrome, which is now considered a part of the AEC spectrum, has an absence of ankyloblepharon. AEC's clinical features also resemble those of CHANDS syndrome (curly hair, ankyloblepharon, and nail dysplasia).
+
+- EEC Syndrome: The main differentials of EEC are limb mammary syndrome and ADULT syndrome (Acro-Dermato-Ungual-Lacrimal-Tooth). The presence of normal scalp hair and mild hypohidrosis with a decreased incidence of cleft palate and absence of cleft lip is characteristic of limb mammary syndrome. ADULT is characterized by prominent frontal alopecia, absence of clefting, and additional photosensitivity. Other ectodermal dysplasias that feature digital abnormalities include ectodermal dysplasia, ectrodactyly maculo-dystrophy syndrome, Goltz syndrome, and popliteal pterygium syndrome.

@@ -1,0 +1,1 @@
+Since the superior alveolar nerves are branches of the maxillary nerve, and the inferior alveolar nerve is a branch of the mandibular nerve. Any injury to the maxillary nerve, the mandibular nerve, or the trigeminal nerve can result in damage or loss of function in the alveolar nerves.

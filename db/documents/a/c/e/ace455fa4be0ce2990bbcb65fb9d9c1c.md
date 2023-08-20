@@ -1,0 +1,9 @@
+Cells of the immune system are trained early to differentiate between "self" cells and "non-self" cells. The ability to recognize "non-self" cells depends on a set of genes knows as the histocompatibility genes that provide instructions for making a group of related proteins known as major histocompatibility complex (MHC proteins) or human leukocyte antigens (HLA). The histocompatibility genes code for MHC class I proteins that are present on all nucleated cells in the body and MHC class II molecules that are expressed only on antigen-presenting cells. During transplantation, the donor tissue is usually obtained from a genetically different individual known as an "allograft". Immune cells in the graft recognize the  MHC proteins of the recipient tissue as "non-self" and triggers an immune response between the donor and the recipient.
+
+Donor cytotoxic CD-8 t cells recognize host tissue as foreign and proliferate to cause severe organ damage (type IV cytotoxic T cell hypersensitivity reaction). Donor allograft T-cells are the main effector cells for GvHD and its pathogenesis can be divided into three phases (Figure 1)
+
+- **Phase 1**(afferent phase): Radiation or chemotherapy prior to bone marrow transplantation causes recipient tissue damage. This leads to increased levels of inflammatory cytokines (IL-1, IL-6, TNF alpha) and expression of MHC antigens that enhance APCs (antigen-presenting cells) to present alloantigens to the donor T cells.
+
+- **Phase 2**(efferent phase): This phase is characterized by the interaction of donor T cells with host APCs that proliferate and differentiate into activated T cells which then release additional inflammatory cytokines (IL-2, INF-γ).
+
+- **Phase 3**(effector phase): The third phase is characterized by the migration of cytotoxic T lymphocytes and natural killer cells migrate to target organs and cause tissue damage leading to multiorgan failure.

@@ -1,0 +1,1 @@
+Patients diagnosed with pulmonary arteriovenous malformations should receive education on their diagnosis as well as on the different management options available for them. Patients should also be made aware of possible underlying comorbid conditions such as hereditary hemorrhagic telangiectasia, for which they should undergo screening when deemed appropriate.

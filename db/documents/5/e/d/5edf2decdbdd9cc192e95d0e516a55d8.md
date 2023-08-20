@@ -1,0 +1,1 @@
+Due to the intrinsic weakness of the false aneurysm sac, the dyskinetic movement of the heart can result in arrhythmias, clot formation, and even heart failure.

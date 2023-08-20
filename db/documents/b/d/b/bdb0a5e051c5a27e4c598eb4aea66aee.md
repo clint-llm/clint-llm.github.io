@@ -1,0 +1,3 @@
+Most patients with IH remain stable; approximately 1 in 10 experience spontaneous improvement, which is more common than narcolepsy.
+
+Daytime naps longer than an hour have been linked to a higher rate of stroke and hypertension after adjusting for risk factors for cardiovascular disease and stroke. For individuals younger than 60 years of age, napping most days raises the risk of developing high blood pressure by 20% compared with people who never or rarely nap.

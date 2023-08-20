@@ -1,0 +1,1 @@
+Serotonin toxicity should not be confused with the neuroleptic malignant syndrome (NMS) which usually has an insidious onset of bradykinesia, "lead pipe" rigidity and other extrapyramidal symptoms.

@@ -1,0 +1,3 @@
+At birth, around 80-90% of term male infants possess a patent processus vaginalis. This figure declines steadily to settle at approximately 25-40% at two years of age.
+
+Autopsy data indicates that processus vaginalis tends to remain patent at a frequency of 20% until later in adult life. However, only 6% of these become clinically evident beyond the newborn period. Risk factors of hydrocele include breech presentation, low birth weight, and gestational progestin use.

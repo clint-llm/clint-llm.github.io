@@ -1,0 +1,3 @@
+The parathyroid glands originate from the third and fourth pharyngeal pouches of the endoderm, with contributions from the neural crest and the ectoderm.  At six weeks in which there is an elongation of the pouch.  The pouch is initially hollow, but with further development, cell proliferation occurs allowing for solidification and subsequent migration.
+
+The inferior parathyroids originate from the third pharyngeal pouch, and the superior parathyroid arises from the fourth pharyngeal pouch. The fetal parathyroid hormone cells respond to calcium levels; fetal calcium levels are higher than maternal calcium levels.

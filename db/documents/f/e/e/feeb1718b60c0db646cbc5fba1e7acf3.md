@@ -1,0 +1,3 @@
+The clinical outcomes of CAP range from mild illness to a fulminant course with fatal complications. The severity of CAP is also correlated with the immune status and the cardiopulmonary status of the host.C. pneumonia to be 9.8%, which was less than the overall mortality of 13.7% due to CAP in the same study.
+
+Overall, the prognosis is good if treatment is started early. The patient with mild symptoms usually recovers within 7-10 days after starting the treatment. The dry cough and general weakness can persist after the disease, slowing the complete remission up to 1 week to 2 months. If neglected, the disease can get worse, leading to complications and even mortality.

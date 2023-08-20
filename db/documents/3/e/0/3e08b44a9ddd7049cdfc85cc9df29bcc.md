@@ -1,0 +1,5 @@
+Prior to undergoing endovascular catheter-based repair or replacement of the tricuspid valve, the patient should undergo echocardiography to examine the TV. The recommended view of the TV is through 2D transthoracic echocardiography with color doppler to examine the severity of the TV pathology or any associated right ventricular dysfunction. Two-dimensional echocardiography can identify 80% to 90% of patients even with trivial TV disorders.
+
+If the valve cannot be seen adequately with 2D echo, real-time 3D echocardiogram or cardiac magnetic resonance can be done to fully assess right ventricular dysfunction, annular dilation, and leaflet tethering without limitation.
+
+A cardiac structural specialist may need to review the imaging regardless of whether it be a 2D or 3D echo. In addition to proper imaging, it is imperative that this procedure is performed under sterile conditions and that everyone involved at the cath lab table is properly scrubbed and wearing sterile gowns, gloves, eyewear, and scrub caps. The lead should be worn by everyone in the room. The area of access should be sterilely prepped and draped prior to starting the procedure.

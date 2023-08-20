@@ -1,0 +1,1 @@
+A cross-sectional survey of outpatient visits showed female patients with cancer have unmet sexual and vaginal health needs. Preferences for receiving sexual health information vary by age. Improved physician-patient communication, awareness, and educational resources using proven sexual health promotion strategies can help women cope with treatment side effects.

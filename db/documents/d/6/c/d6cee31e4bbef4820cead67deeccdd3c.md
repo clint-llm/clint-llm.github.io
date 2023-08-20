@@ -1,0 +1,1 @@
+Emphysema, or the broader term COPD, which also includes chronic bronchitis, is a widely prevalent condition and has affected close to 250 million people around the world.

@@ -1,0 +1,1 @@
+Ophthalmology consultation may be warranted if symptoms of conjunctivitis, such as burning, itching, or tearing, are present.

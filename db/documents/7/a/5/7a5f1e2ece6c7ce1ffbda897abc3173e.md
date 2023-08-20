@@ -1,0 +1,1 @@
+In the United States, about 13000 patients die because of aortic disease each year, and TAA is the 18 most common causes of death among all individuals.

@@ -1,0 +1,3 @@
+Heterochromia is a rare yet fascinating sign found in some patients, and it may cause unnecessary worries for the patients and families. These patients are usually first seen by their primary care doctors. Interprofessional care and communications between the primary care physician, ophthalmologist, and neurologist will be most effective in determining the cause of the patient's heterochromia and appropriate management or reassurance.
+
+Making the final common diagnosis of benign heterochromia or congenital Horner syndrome by the healthcare team also helps the patient and family to understand the benign nature of the problem and reassurance about it being a non-inherited problem.

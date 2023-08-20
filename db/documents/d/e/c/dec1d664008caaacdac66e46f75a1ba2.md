@@ -1,0 +1,3 @@
+Vaginal bleeding before twenty weeks of gestation occurs in up to 20% of pregnancies, and 50% of these cases will have a spontaneous abortion.
+
+Complications of early pregnancy loss include hypovolemic shock due to excessive hemorrhage and septic abortion due to infection of retained conception products. Fortunately, these complications are rare, and complication rates are similar for expectant, medical, and surgical management.

@@ -1,0 +1,3 @@
+Treatment should be initiated as early as possible, especially if there is a concern of progression to seizures. Initial treatment entails primarily supportive care with close attention to fluid and electrolyte balance.  Liver function tests, blood urea nitrogen, and serum creatinine should be monitored daily.
+
+Specific treatment for any CNS symptoms is the replacement of the vitamin B6 depleted by MMH. Pyridoxine at 25 mg/kg IV can be given either to control or prevent seizures. Benzodiazepines are also suggested if a patient is seizing despite administration of pyridoxine. Other first-line anticonvulsants such as phenytoin are usually ineffective. Most patients recover uneventfully within 6 days with good supportive care and pyridoxine.

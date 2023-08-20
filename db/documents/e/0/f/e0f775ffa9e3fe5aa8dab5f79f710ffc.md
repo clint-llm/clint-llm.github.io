@@ -1,0 +1,1 @@
+Differential diagnoses for central pontine myelinolysis include hypertensive encephalopathy, multiple sclerosis, brainstem infarct, pontine neoplasms such as astrocytomas, CNS lymphoma, brainstem metastasis, progressive multifocal leukoencephalopathy, acute autoimmune or infectious encephalitis, mitochondrial encephalopathies, and CNS vasculitis

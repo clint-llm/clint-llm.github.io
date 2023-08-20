@@ -1,0 +1,1 @@
+Macroglossia is a rare condition. A thorough history, including a family tree of three generations, physical exam, and relevant investigations based on suspicion, helps in identifying the underlying etiology of macroglossia.

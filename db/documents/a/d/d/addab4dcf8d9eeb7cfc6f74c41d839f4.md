@@ -1,0 +1,1 @@
+An otolaryngologist or another experienced surgeon should be consulted for parathyroidectomy. Endocrinology consultation may be needed to manage hypercalcemia due to its complexity in parathyroid carcinoma. Interventional radiology consultation may be necessary for percutaneous ablation of metastatic lesions for palliative care.

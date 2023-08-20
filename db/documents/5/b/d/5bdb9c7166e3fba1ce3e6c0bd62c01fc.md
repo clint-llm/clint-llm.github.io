@@ -1,0 +1,7 @@
+Overall, macrolides are a safe group of antibiotics to take, but relative contraindications exist due to the adverse effects profile and their ability to interact with other drugs. Patients with prolonged QT intervals on electrocardiograms should avoid macrolides due to their arrhythmogenic characteristics. Further, patients with congenital conditions like long QT syndrome type 2 should also avoid these drugs. Patients taking Class Ia and Class III antiarrhythmic agents should also avoid macrolides as both of these drug classes cause an increase in QT interval and induce arrhythmias.
+
+Macrolides can exhibit adverse interactions with some commonly used drugs. Carbamazepine, cyclosporin, terfenadine, astemizole, and theophylline interactions are the most frequently encountered with macrolide antibiotics. As a CYP3A4 inhibitor, erythromycin is more prone to drug-drug interactions mediated by CYP3A4; clarithromycin is much less apt to interact in this manner azithromycin does not participate in these interactions.
+
+Pregnant women should also try to avoid using macrolides, specifically erythromycin, due to possible side effects affecting the mother or the newborn.
+
+Due to the increasing rate of antibiotic resistance, macrolides should be prescribed with caution, and the prescriber should take into account the local resistance status of common pathogens.

@@ -1,0 +1,1 @@
+Nowadays, the exact pathophysiology of MPS is still unknown. Many researchers try to find scientific evidence and formulate hypotheses. One of the most accepted theory is energy crisis of muscle fibers

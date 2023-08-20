@@ -1,0 +1,7 @@
+The ability to perform a suprapubic aspiration can be a valuable skill to the clinician, especially in a febrile non-toilet trained patient where the exclusion of UTI is indicated. It allows the clinician to obtain a sterile urine sample when a urinary catheter cannot be placed. Often patients present with fever or sepsis of unknown origin, and obtaining a sterile urine sample is of utmost importance but not feasible without suprapubic aspiration.
+
+In an observational cohort study of urine cultures of 599 children less than 24 months old, the rates of contamination were 1%, 12%, and 26% in urine samples obtained by suprapubic aspiration, catheter specimen, and clean catch urine respectively.
+
+Of note, decreased bladder volume secondary to dehydration has been found to result in the decreased success of suprapubic aspiration.
+
+After the procedure is performed, the patient’s abdomen should be examined and palpated to evaluate for signs of peritonitis. If the patient is discharged home, the patient should be instructed to return to the emergency department or follow-up with the performing clinician for fever and erythema of the procedure site, severe abdominal pain, as well as inconsolability of a child. Some patients may require nonsteroidal anti-inflammatory drugs (NSAIDs) or acetaminophen for pain control post-procedure.

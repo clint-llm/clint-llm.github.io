@@ -1,0 +1,3 @@
+Grossly, these cysts show a thin membrane with multiple ridges within the inner surface of the cyst and contain serous fluid or serosanguinous fluid.
+
+Microscopically, the unicameral bone cysts demonstrate connective tissue within the inner lining of the cyst and may also contain hemosiderin, giant cells, and reactive new bone. The lining may also contain cementum-like material. Fracture callus or blood products within the cyst might be seen if a fracture was present.

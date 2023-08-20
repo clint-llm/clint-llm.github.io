@@ -1,0 +1,1 @@
+Often, splinting can be performed by one person. An assistant, however, is generally helpful.

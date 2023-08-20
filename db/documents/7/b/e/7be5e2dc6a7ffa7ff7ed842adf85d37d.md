@@ -1,0 +1,1 @@
+"The refusal of transfusion is not equivalent to refusing medical treatment, and numerous options are available to manage care without transfusions effectively."  Bloodless Medicine and Surgery use concepts and techniques to decrease blood loss, tolerate anemia, correct deficiencies, and otherwise manage patients without transfusions for anemia.

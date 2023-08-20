@@ -1,0 +1,9 @@
+A recent review paper by Kornhall and colleagues reviewed the available evidence on open, very closed chest compressions and proposed prior evidence that may support improved physiology and outcomes from open cardiac massage.
+
+One of the primary human studies performed by Boczar and colleagues in 1995 showed that coronary perfusion pressure increased from an average of 7.3 mm Hg to 32.6 mm Hg when converting from closed-chest compressions to open chest direct cardiac compressions.
+
+Very few human trials studying outcomes of open cardiac massage have been published. Most recently, in 2011, a study of 76 patients who experienced cardiac arrest after coronary artery bypass grafting surgery demonstrated a survival rate of 82% after immediate resternotomy with open cardiac massage.
+
+Despite these reassuring findings, these data must be interpreted with caution as the intervention of chest compression may be performed too late, and many include a unique population of patients who underwent recent cardiac surgery.
+
+Due to the complexity and rapidity of the required procedure, the interprofessional team must be familiar with the procedure and be prepared to act quickly. Generally, the surgeon will open the chest and gain access. The nurse may be asked to assist by performing cardiac massage, getting the paddles ready, and obtaining medications for intracardiac injection. In addition, IV fluids may need to be quickly pushed. In addition, the nurse must document the time involved, the number of shocks, the amount of medications given, and the patient's response. Even with a coordinated interprofessional approach, survival is low; however, if all members of the team are ready to act quickly, outcomes will be improved. [Level 5]

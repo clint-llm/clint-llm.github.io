@@ -1,0 +1,5 @@
+Trichosporonosis resembles other invasive fungal infections such as invasive candidiasis, aspergillosis, and cryptococcosis. It also is important to consider that, in the immunocompromised patient, Trichosporon infection can coexist with other fungal, bacterial, or viral infections. Therefore, the differentiation between these organisms will then mainly rely on laboratory testing instead of a clinical scenario.
+
+Diagnosis is usually confirmed by positive blood culture. In a study, using Grocott's method, Trichosporon can be easily differentiated from Candida with periodic acid methenamine silver (PAS) as Trichosporon will clearly enhance. Other stains that strongly react with Trichosporon are colloidal iron and alcian blue.
+
+Histopathological staining patterns and electron microscopic findings also can facilitate the diagnosis of trichosporonosis. One main difference in electron microscopy is the variance of their hypha and granules. Candida shows equal pseudohyphae with fine granules, and Trichosporon presents with different sizes and silver granules.

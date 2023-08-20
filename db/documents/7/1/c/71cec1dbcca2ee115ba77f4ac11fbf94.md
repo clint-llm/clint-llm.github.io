@@ -1,0 +1,1 @@
+Vaginal complaints are common. Vulvovaginitis, or inflammation of the vulva and vagina, is most commonly secondary to infectious agents in reproductive-aged women. Candidal vulvovaginitis is responsible for about one-third of cases.

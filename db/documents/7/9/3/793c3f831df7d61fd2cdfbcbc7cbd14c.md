@@ -1,0 +1,1 @@
+The tibial nerve, composed of spinal roots L4, L5, S1, S2, and S3, innervates the flexor hallucis longus; it receives most of its nerve supply from the S1 and S2 but also receives innervation from L5 as well via the muscular branch of the tibial nerve.

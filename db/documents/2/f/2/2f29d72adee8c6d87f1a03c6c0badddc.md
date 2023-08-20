@@ -1,0 +1,1 @@
+Physical examination of the breast lymphatics occurs during the breast exam. The examiner can best palpate the axillary nodes with the patient sitting up and the examiner supporting the arms to the side, or the hands resting on the hips. The examiner should palpate the supraclavicular and infraclavicular lymph nodes as well.

@@ -1,0 +1,3 @@
+A pre-existing pituitary adenoma is usually found in cases of pituitary apoplexy. In the majority of the cases, the patients are unaware of the tumor.
+
+Sheehan syndrome occurs in postpartum women in which there is necrosis of the pituitary gland secondary to ischemia after significant bleeding during childbirth. It will present with adrenal insufficiency, hypothyroidism, and hypopituitarism, but rarely with visual changes. Most of the time, this entity is not included as a pituitary apoplexy as the gland did not have a pre-existing tumor, and visual symptoms are extremely rare.

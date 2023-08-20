@@ -1,0 +1,1 @@
+Thyroglossal duct cysts are cystic structures lined by respiratory epithelium, squamous epithelium, or a combination of both. Due to a high frequency of infection, inflammatory infiltrates can be present. These can appear as granulation tissue or giant cells. In about 70% of cases, microscopic foci of ectopic thyroid gland tissue can be found, usually within the cyst wall.

@@ -1,0 +1,3 @@
+Like osteoid osteomas, osteoblastoma demonstrates marked new bone formation, although this process is generally more exuberant in osteoblastoma, which also tends to be more vascularized lesions.
+
+The lack of prostaglandin production likely accounts for the variation in clinical presentation between osteoid osteoma and osteoblastoma, mainly the nighttime pain relieved by salicylates, which are pathognomonic for osteoid osteoma. In contrast, osteoblastoma is more often asymptomatic incidental lesions or presents as dull, localized pain, which rarely interferes with sleep.

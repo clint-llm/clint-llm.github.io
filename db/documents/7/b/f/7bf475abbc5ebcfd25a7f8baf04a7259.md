@@ -1,0 +1,1 @@
+Randomized trials are still under process for the efficacy and safety of more medicines.

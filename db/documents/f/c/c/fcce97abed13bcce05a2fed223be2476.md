@@ -1,0 +1,5 @@
+The management of hypertension in pregnancy is best done in an interprofessional team that consists of a cardiologist, obstetrician, dietitian, physical therapist, and nurse. The key is to prevent hypertension in the first place. While there is no one absolute way to prevent hypertension during pregnancy, it should encourage the patient to change lifestyle and become more physically active. The patient should eat healthy and avoid excess gain in weight. Regular follow up with the obstetrician is recommended and the patient should be taught how to monitor blood pressure at home. Smoking and alcohol should be avoided and the patient should try and avoid eating too many sugary foods.
+
+**Outcomes**
+
+Development of hypertension during pregnancy is associated with high maternal and fetal morbidity and mortality. In the US, hypertension during pregnancy results in maternal mortality rates of 2-7% each year. Transient hypertension during pregnancy can lead to chronic hypertension development after pregnancy. Data also indicate that hypertension during pregnancy is associated with fetal growth restriction and placental abruption.

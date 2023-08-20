@@ -1,0 +1,1 @@
+For supporting functions crucial to life and homeostasis like breathing, heart rate, sleep, and consciousness, the brainstem is of critical importance. The brainstem also is the most primitive portion of our brains. It is highly conserved with few differences in basic structure between vertebrates.

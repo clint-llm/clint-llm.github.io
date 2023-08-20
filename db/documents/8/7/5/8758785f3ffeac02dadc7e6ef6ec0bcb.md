@@ -1,0 +1,9 @@
+**Inferior Olive**
+
+As a significant source of training inputs for the cerebellum, the inferior olive is essential to the development of fine motor control and coordination. Though it is rare for the inferior olive to be solely affected by a disease process, such a lesion would eventually lead to diffuse cell loss in the cerebellum due to the intense connections between the two parts. The reverse is also true, with cerebellar cell loss eventually leading to atrophy of the inferior olive. Multiple system atrophy, one of the Parkinsonian diseases that also affect the cerebellar system and the autonomic system, is an example of a condition that causes lesions to the inferior olive.
+
+**Superior Olive**
+
+Defects in the synaptic junction in the superior olive may not present with frank hearing difficulties but tend to produce subtler symptoms. An auditory brainstem response (ABR), like that used in routine hearing testing for newborns, can detect superior olive dysfunction by a decreased amplitude of wave V.
+
+The superior olive is crucial in certain auditory processing disorders. A link between autism and a dysmorphic superior olive has been noted in several studies, although the mechanism, if any, by which this causes symptoms, is unclear. However, it is worth noting that autism can present with auditory processing abnormalities, as well as language difficulties, which could plausibly have links to problems in higher-level auditory processing. It is unclear whether there is any non-auditory contribution of the superior olive changes to symptoms, which would imply further roles of the superior olive in cognition.

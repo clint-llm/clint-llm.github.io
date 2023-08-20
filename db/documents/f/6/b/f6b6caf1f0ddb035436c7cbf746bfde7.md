@@ -1,0 +1,1 @@
+The pathophysiology of BPD is not known, especially given the extremely low incidence of the disorder. Its higher prevalence among patients with personality or mood disorders may suggest underlying biological or psychological susceptibility which may some genetic influence.

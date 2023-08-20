@@ -1,0 +1,1 @@
+To help prevent a recurrence of their condition, patients are advised to consume a high-fiber diet, drink 6 to 8 glasses of water daily, exercise, monitor any changes in their bowel movements, and use a stool softener if they become constipated.

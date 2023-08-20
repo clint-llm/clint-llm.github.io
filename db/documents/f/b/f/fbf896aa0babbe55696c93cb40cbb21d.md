@@ -1,0 +1,1 @@
+Insufficient sleep can result in industrial or motor vehicle accidents, decreased work performance, and cognitive dysfunction. The prognosis of sleep disorders depends widely on the cause of the sleep disorder. Insomnia due to OSA generally resolves with treatment, whereas patients with chronic insomnia have an increased risk of depression, anxiety, and reduced quality of life.

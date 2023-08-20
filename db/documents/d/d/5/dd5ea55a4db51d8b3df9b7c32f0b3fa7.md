@@ -1,0 +1,1 @@
+GLPLS is an illness that mainly affects middle-aged Caucasian women with an average age of onset varying from 30 to 70 years old.

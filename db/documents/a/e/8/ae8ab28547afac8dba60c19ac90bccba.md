@@ -1,0 +1,7 @@
+Nasolacrimal duct obstruction (NLDO) or dacryostenosis is the most common disorder of the lacrimal system, and approximately 6 to 20 percent of newborns exhibit symptoms of this condition. Typically, NLDO presents in the first weeks or months of life with symptoms that begin when normal tear production starts, presenting with excessive tearing and ocular discharge. Erythema of the periorbital skin, upper and lower eyelids may result from irritation from tears and discharge due to inadequate drainage. As a result, the condition may mimic chronic unilateral conjunctivitis. This activity examines the presentation, evaluation, and management of nasolacrimal duct obstruction and stresses the role of an interprofessional team approach to the care of affected patients.
+
+**Objectives:**
+- Describe the typical exam findings in a patient with nasolacrimal duct obstruction.
+- Review how to properly evaluate for nasolacrimal duct obstruction.
+- Identify treatment considerations for patients with nasolacrimal duct obstruction.
+- Explain the importance of improving coordination amongst the interprofessional team to enhance the delivery of care for patients affected by nasolacrimal duct obstruction.

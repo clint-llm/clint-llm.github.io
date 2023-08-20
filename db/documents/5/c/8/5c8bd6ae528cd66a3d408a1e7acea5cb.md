@@ -1,0 +1,3 @@
+There is limited data on the treatment of autoimmune pancreatitis, and most of it is based on observational studies. Most patients are seen to respond to corticosteroid therapy, which leads to improvement of symptoms as well as a reduction in complications of AIP.
+
+Relapse of AIP or failure to wean steroids may occur in up to half of the patients, especially in IgG4-related AIP requiring long-term steroids or use of steroid-sparing agents. Azathioprine has been shown to be effective in patients to help in weaning steroid therapy.

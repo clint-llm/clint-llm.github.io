@@ -1,0 +1,1 @@
+A nuclear medicine technologist performs GES exams under the supervision of a nuclear medicine physician or nuclear radiologist.

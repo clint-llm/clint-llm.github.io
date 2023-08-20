@@ -1,0 +1,1 @@
+Most patients with gastric perforation present to the emergency department. Once the diagnosis is made, an immediate general surgery consultation should be obtained. These patients may also need a bed in the intensive care unit depending on the condition in which they present.

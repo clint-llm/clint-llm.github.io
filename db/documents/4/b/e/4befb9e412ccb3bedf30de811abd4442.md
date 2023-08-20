@@ -1,0 +1,7 @@
+Skin biopsy with routine histology and immunophenotype is an essential diagnostic step in evaluating blastic plasmacytoid dendritic cell neoplasm in any patient with skin lesions. However, the absence of skin lesions does not preclude the diagnosis, as a subset of cases could present without skin involvement. As a result, a blastic plasmacytoid dendritic cell neoplasm diagnosis should be considered in any patient with poorly differentiated leukemia and an uncertain immunophenotype.
+
+The diagnosis of blastic plasmacytoid dendritic cell neoplasm necessitates a biopsy and morphologic evaluation of the affected tissue and immunophenotypic tests by flow cytometry or immunohistochemistry. In addition, patients with leukemic dissemination should undergo a bone marrow biopsy to rule out the presence of other hematological malignancies.
+
+Immunohistochemistry or flow cytometry can be used to confirm the immunophenotype of blastic plasmacytoid dendritic cell neoplasm. The tumor cells are positive for CD4, CD56, CD123 (alpha-chain of interleukin-3) (figure 2), BDCA-2/CD303 (blood dendritic cell antigen-2), TCF4, TCL1, and SPIB.
+
+Terminal deoxynucleotidyl transferase (TdT) expression is seen in up to 40% of cases and is expressed in 10 to 80% of tumor cells. In the Golgi zone, CD68 expression is reflected by a dot-like positivity.

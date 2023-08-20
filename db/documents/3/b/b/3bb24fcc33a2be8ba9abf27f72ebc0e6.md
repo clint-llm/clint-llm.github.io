@@ -1,0 +1,5 @@
+The initial intervention for a patient with myelomeningocele includes intravenous antibiotics, neurosurgical closure of the defect within 24 to 48 hours of birth to prevent infections and later complications, and ventriculoperitoneal shunt placement if the patient develops hydrocephalus. If the infant is in a critical status secondary to respiratory failure, sepsis, or other gross congenital organ anomalies causing life-threatening problems, initial supportive care is recommended.
+
+Occult spina bifida usually does not require surgery. Closed neural tube defects may require surgery if the patient presents symptoms. Untethering surgery is performed if the patient develops new or progressive symptoms. Some surgeons recommend doing prophylactic surgery for the tethered cord to prevent irreversible urinary problems when they occur.
+
+Many children with hydrocephalus will require shunt revisions throughout their lifetime. Patients with symptomatic Chiari II malformations will require suboccipital decompression. If they have a ventricular shunt, it must be checked to assure it is working adequately before doing a suboccipital decompression.

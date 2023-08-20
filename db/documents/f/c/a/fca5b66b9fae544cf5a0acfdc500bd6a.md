@@ -1,0 +1,1 @@
+FL is the second most common form of NHL. The prognosis is overall favorable. FL needs an interprofessional management approach with a medical oncologist, pathologist, infectious disease physician, pharmacist, and oncology nurse all playing a role in management. Drug interventions have shown better outcomes than wait and watch in the treatment of follicular lymphoma

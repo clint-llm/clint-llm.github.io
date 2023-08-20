@@ -1,0 +1,3 @@
+With iatrogenic and traumatic causes of tracheal injury predominating, there are areas where both patients and providers can work to decrease the incidence of this condition. Utilization of low-pressure cuffs on endotracheal tubes, correct endotracheal tube size, avoidance of over inflation, and appropriate use of stylets and bougies are a few of the things providers can do to avoid tracheal injury. For difficult intubations and suspected tracheal injury use of flexible bronchoscopes allow visualization of potential injury and avoidance of creating false passages and/or worsening of tracheal injury.
+
+Continued training and utilization of advanced trauma life support by healthcare providers will continue to reduce the mortality of tracheal injuries.

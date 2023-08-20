@@ -1,0 +1,5 @@
+The Gleason score is essential in determining the prognosis of prostatic malignancies; however, it is not absolute. The Gleason score is subject to interpretation and individual pathologists vary in their evaluations and assessments. Artificial intelligence programs have been developed to assist in more accurate, reliable, and consistent prostate cancer grading but these are not yet in widespread use.
+
+Other factors are also important in establishing the prognosis of prostate cancer. A rapidly increasing PSA is generally indicative of a poorer prognosis as is osteopontin expression.
+
+Physical exam findings indicating a very hard, extensive prostate, may also indicate more advanced disease and a poorer prognosis. Tumor staging is based on radiographic assessment (evidence of nodal or metastatic disease) and is also used to assess the prognosis.

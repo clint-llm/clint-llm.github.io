@@ -1,0 +1,3 @@
+Phenytoin is a hydantoin derivative, a first-generation anti-convulsant drug that is effective in the treatment of generalized tonic-clonic seizures, complex partial seizures, and status epilepticus without significantly impairing neurological function.
+
+Phenytoin works by blockade of voltage-dependent membrane sodium channels responsible for increasing the action potential. Through this action, it obstructs the positive feedback that sustains high-frequency repetitive firing, thus preventing the spread of the seizure focal point.

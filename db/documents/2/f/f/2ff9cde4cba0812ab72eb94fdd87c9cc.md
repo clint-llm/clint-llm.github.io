@@ -1,0 +1,7 @@
+In 1952, Dr. Virginia Apgar, an anesthesiologist at Columbia University, developed the Apgar score. Serendipitously, APGAR is also a useful mnemonic to describe the components of the score: appearance, pulse, grimace, activity, and respiration. The score is a rapid method for evaluating neonates immediately after birth and in response to resuscitation. Apgar scoring remains the accepted method of assessment and is endorsed by both the American College of Obstetricians and Gynecologists (ACOG) and the American Academy of Pediatrics (AAP). While originally designed to assess the need for intervention to establish breathing at 1 minute, the guidelines for the Neonatal Resuscitation Program (NRP) state that Apgar scores do not determine the initial need for intervention as resuscitation must be initiated before the 1-minute Apgar score is assigned. This activity reviews the Apgar score and its clinical relevance and highlights the role of the interprofessional team in the evaluation and management of newborns.
+
+**Objectives:**
+- Identify the physiological criteria used for calculating the Apgar score.
+- Describe the clinical relevance of the Apgar score.
+- Outline the limitations of the Apgar score.
+- Explain the importance of coordinated collaboration and effective communication among the interprofessional team members involved in the evaluation and management of newborns using the APGAR score in fostering the best possible standard of care to newborns and their families.

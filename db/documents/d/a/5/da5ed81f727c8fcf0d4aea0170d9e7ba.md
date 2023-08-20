@@ -1,0 +1,3 @@
+Diagnosis of acrodynia can be difficult for clinicians due to the nonspecific systematic manifestations of mercury toxicity and the rarity of the disease in the present times. The dermatological findings can be confused with other skin conditions like postviral acral desquamation, Kawasaki disease, juvenile plantar dermatosis, erythromelalgia, etc.
+
+The involvement of other systems like the nervous, gastrointestinal, cardiovascular, and respiratory systems can complicate the diagnosis of acrodynia. The common systemic diseases confused with the diagnosis of acrodynia are pheochromocytoma, idiopathic hypertension in the pediatric age group, and Kawasaki disease.

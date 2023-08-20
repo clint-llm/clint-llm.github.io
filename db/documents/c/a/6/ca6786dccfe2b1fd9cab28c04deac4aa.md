@@ -1,0 +1,1 @@
+Ideally, the scrub team should receive training at the hospital where these procedures are performed. The surgical or gynecological oncology team and the reconstructive team should be present at a time out. While in the hospital, nursing staff familiar with flap monitoring should be utilized. Appropriate training for staff is imperative for optimal outcomes.

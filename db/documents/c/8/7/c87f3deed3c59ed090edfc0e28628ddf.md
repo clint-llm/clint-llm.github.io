@@ -1,0 +1,3 @@
+Many important blood vessels lie in the abdomen and travel through. These include the aorta, inferior vena cava and the branches that come off of them. The abdominal aorta gives rise to the celiac trunk, which separates the left gastric artery, common hepatic artery, and the splenic artery. Next, the left and right renal arteries branch off laterally. The superior and inferior mesenteric artery come off the abdominal aorta anteriorly while the gonadal arteries branch off laterally.
+
+In the pelvis, the common iliac artery separates into the internal and external iliac arteries.

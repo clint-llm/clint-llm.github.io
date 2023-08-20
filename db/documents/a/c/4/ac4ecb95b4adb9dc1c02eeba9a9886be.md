@@ -1,0 +1,1 @@
+The incidence of subjects with cerebral palsy has remained stable or slightly increased over the last 50 years.

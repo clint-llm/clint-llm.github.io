@@ -1,0 +1,7 @@
+Diabetic amyotrophy, better known as diabetic lumbosacral radiculoplexus neuropathy (DLRPN), is a rare disorder englobed in the diabetic neuropathy spectrum. This disease consists of a monophasic, asymmetrical progression of pain, motor weakness, proximal muscle atrophy, weight loss, areflexia, progression to paraplegia, and recent diagnosis of diabetes. Diagnosis is mostly based on clinically suggestive findings in a recently diagnosed patient with diabetes. In cases were other likely etiologies need to be excluded, laboratory analysis (e.g., CBC, CMP, HbA1C, ESR, CRP, etc.) and other diagnostic studies may be warranted (CT, MRI, EMG, biopsy, etc.). Early use of immunomodulators (e.g., steroids, IVIG, etc.) has been proposed as a superior therapy, but symptomatic treatment to improve quality of life may suffice, as this disease is self-limited in most cases, with a variable degree of impairment. This activity describes the recognition, evaluation, and management of diabetic amyotrophy and highlights the role of the healthcare team in evaluating, identifying, and improving patient care for this condition.
+
+**Objectives:**
+- Describe the pathophysiology of diabetic amyotrophy. 
+- Outline the typical presentation of a patient with diabetic amyotrophy. 
+- Summarize the various management options available for diabetic amyotrophy. 
+- Explain the importance of improving care coordination amongst the interprofessional team to enhance the delivery of care for patients with diabetic amyotrophy.

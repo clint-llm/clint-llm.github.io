@@ -1,0 +1,7 @@
+As intensive care unit (ICU) mortality rates have fallen in recent decades, there is increasing recognition that ICU survivors often face debilitating physical, cognitive, and mental health impairments that persist for months to years following critical illness recovery. This phenomenon, referred to as Post-Intensive Care Syndrome (PICS), may be mitigated by the adoption of certain clinical practices during hospitalization while treatment often requires continued outpatient management. Even being a witness to the stress and trauma of the ICU experience can have long-lasting impacts on family members, manifesting as adverse mental health outcomes referred to as PICS-family (PICS-f). This activity describes the etiology, diagnosis, prevention, and management of PICS and PICS-f and highlights the role of the multidisciplinary team in treating patients with these conditions.
+
+**Objectives:**
+- Describe the etiology and risk factors of PICS and PICS-family (PICS-f).
+- Explain the evaluation and diagnosis of patients experiencing impairments of PICS and PICS-f.
+- Summarize the ICU practices that may prevent the development of PICS and PICS-f.
+- Review the prognosis and potential long-lasting complications of PICS and PICS-f.

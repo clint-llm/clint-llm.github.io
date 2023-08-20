@@ -1,0 +1,1 @@
+Vitamin E supplementation is contraindicated in persons with known allergies to the vitamin or components of the formulation.

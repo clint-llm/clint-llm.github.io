@@ -1,0 +1,3 @@
+The most important predisposing factor for diaper dermatitis is the increased moist that results from wearing diapers, which leads to increased friction and maceration, which makes the skin more susceptible to damage and penetration by skin microorganisms and other irritants.
+
+Changes in skin pH also play an essential role; an increase in pH around the diaper area from the breakdown of urinary urea can, in turn, increase fecal enzyme activity that can further damage the skin.Staphylococcus aureus, Streptococcus pyogenes, and Candida albicans.

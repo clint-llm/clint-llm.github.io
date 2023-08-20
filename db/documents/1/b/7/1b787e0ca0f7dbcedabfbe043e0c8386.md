@@ -1,0 +1,1 @@
+There is no universal gold-standard treatment for IPH, however, high-dose steroids are frequently used to control symptoms, with good results.

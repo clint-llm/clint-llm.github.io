@@ -1,0 +1,17 @@
+The evidence-based management of rectal trauma is formulated based on the patient’s physiology and anatomy. Physiologically the patient is either hemodynamically stable or unstable with massive blood loss, acidosis, hypothermia, and coagulopathy. These patients would go straight to the operating room and have a damage control operation performed. This scenario is not uncommon for rectal trauma since the etiology is 85% gunshot wounds and blunt injuries are usually secondary to open-book pelvic fractures.
+
+For the hemodynamically stable patient, the rectal injury is repaired based on the anatomy of the wound.
+
+Over the last several decades, there have been multiple studies showing that fecal diversion is not necessary, except in the setting of various transfusion requirements or hypotension. In 1979 Stone and Fabian performed a randomized prospective trial comparing primary repair of colon injuries versus colostomy creation and found equivalent infection (48% vs. 57% p>0.05) and mortality rates (1.5% vs. 1.4% p>50). This historical study revolutionized the management of colorectal trauma. In 2001, the American Association for the Surgery of Trauma conducted a prospective multicenter study on penetrating colon injuries, comparing diversion or primary repair. This study demonstrated lower mortality in the primary repair arm (0% vs. 1.3%).
+
+When considering diversion, one must take into account all of the complications of ostomies. There is a 35 to 55% complication incidence from forming an ostomy itself. The readmission rate is as high as 17% secondary to multiple potential complications, including parastomal hernias, stenosis, retraction, and metabolic imbalance.
+
+In 2006, Gonzalez did a trial of 14 patients with nondestructive rectal trauma without fecal diversion and had no complications or mortality.
+
+For destructive extraperitoneal rectal trauma (greater than 50% circumferential involvement), associated pelvic fractures, or concomitant vascular injuries that can compromise the blood supply to the rectum causing anastomotic failure; fecal diversion would be a safe alternative. With regards to presacral drainage and distal washout, these procedures were established during the Vietnam Conflict and published in 1971 by Lavenson and Cohen. Over the past several decades, there have been numerous studies demonstrating no benefit in presacral drainage or distal rectal washout. For extraperitoneal rectal injuries, there is controversy over fecal diversion, presacral drainage, and distal rectal washout. The Eastern Association of the Surgery of Trauma (EAST) recently published guidelines on fecal diversion for extraperitoneal rectal trauma despite finding the quality of evidence to be weak, and conditionally recommended proximal diversion.
+
+The exception to this is wartime related injuries, where there is severe presacral destruction with large soft tissue injury or those associated with pelvic fractures. The patient with severe presacral destruction and large soft tissue injuries associated with pelvic fractures are much more commonly seen in war-related injuries.
+
+Blunt trauma accounts for 1 to 2% of rectal trauma and is usually secondary to an anterior-posterior compression mechanism causing an open book pelvic fracture.
+
+Concomitant bladder injury with rectal trauma does not increase the rate of abdominal complication nor mortality. Fecal diversion does not change the outcome of concomitant traumatic bladder injuries.

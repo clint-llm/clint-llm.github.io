@@ -1,0 +1,1 @@
+Over 30% of individuals who are over the age of 65 fall every year. In approximately half of the cases, the falls are recurrent. This percentage increases to around 40% in individuals aged 85 years and above.

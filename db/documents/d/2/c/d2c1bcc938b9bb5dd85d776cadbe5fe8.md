@@ -1,0 +1,3 @@
+Current spectral-domain optical coherence tomography (OCT) images are reminiscent of histopathology of the retina.
+
+Tractional retinoschisis is characterized by intraretinal splitting and intraretinal hyporeflective spaces with vertical tissue septae without the evidence of subretinal fluid in OCT, though some cases may also have subretinal fluid or RTD. Faulborn J et al. studied the histopathological findings of four eyes with PDR and tractional retinoschisis. All eye showed adherence of the vitreous to the retina and traction over the retina. All the four eyes had retinoschisis, and two eyes had an additional detachment of the retina.

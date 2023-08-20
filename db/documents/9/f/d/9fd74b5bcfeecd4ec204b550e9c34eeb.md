@@ -1,0 +1,1 @@
+GIP is secreted by the enteroendocrine K-cells that are present in high density in the duodenum and upper jejunum but are present throughout the small intestine.

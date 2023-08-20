@@ -1,0 +1,3 @@
+It is critical to set age-appropriate blood pressure goals for patients and motivate them to comply with their medications. Counseling regarding modifiable risk factors such as smoking, excessive alcohol consumption, and high-fat diets must be pursued as appropriate.
+
+Since the initial symptoms of a stroke are non-specific, patients (and caregivers) might delay getting medical attention, limiting their treatment options. Ischemia greater than 4 to 6 hours can produce permanent damage to the neurovascular tissue. Yet, a study found only half the patients present within the first 24 hours of the onset of stroke.

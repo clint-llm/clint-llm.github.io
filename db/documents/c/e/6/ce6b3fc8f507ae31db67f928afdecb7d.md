@@ -1,0 +1,1 @@
+Evaluation is usually limited to a detailed psychiatric assessment along with an elaborate psychosocial history to determine the chronicity of the symptomatology.

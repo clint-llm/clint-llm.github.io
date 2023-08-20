@@ -1,0 +1,1 @@
+Patients usually present with B symptoms: fevers, weight loss, and night sweats. Since the oral cavity and the gastrointestinal (GI) tract are the most common sites of disease, weight loss is the most common presenting symptom. Lymphadenopathy is not commonly seen in these patients.

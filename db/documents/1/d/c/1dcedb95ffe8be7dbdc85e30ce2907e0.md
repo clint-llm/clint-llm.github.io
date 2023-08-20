@@ -1,0 +1,3 @@
+Lung torsion is a diagnosis that can be made from chest X-ray, CT scan, or bronchoscopy. It is confirmed with a CT scan. It is a life-threatening pathology. It causes bronchovascular and airway compromise. If not treated in a timely fashion, then necrosis of the lung can occur. It is treated through detorsion of the lung or lobectomy.
+
+If a thoracic procedure occurs, pneumopexy of the lung lobe should be completed to prevent lung torsion. After lobectomy or segmentectomy, the remaining lobe should be stabled or sutured, so it stays fixed; this, however, is not commonly practiced as prophylactic treatment. Post-care followup would require monitoring for air leaks. Practitioners should consider heparin drip for prophylactic prevention of pulmonary embolism.

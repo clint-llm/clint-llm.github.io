@@ -1,0 +1,1 @@
+Pneumoconiosis can lead to more severe complications. Asbestosis is also related to benign pleural effusion and plaques, malignant mesothelioma, and bronchogenic carcinoma.

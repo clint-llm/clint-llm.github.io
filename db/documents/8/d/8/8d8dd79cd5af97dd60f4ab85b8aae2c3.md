@@ -1,0 +1,1 @@
+In patients with chronic pancreatitis who undergo angiography, the incidence may be as high as 10%. There is a reported incidence of 5% to 10% occurrence of bleeding due to arterial causes in pancreatitis. When there is an associated pseudocyst formation in pancreatitis the frequency of bleeding due to arterial lesions rises to 15% to 20%.

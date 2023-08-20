@@ -1,0 +1,1 @@
+Siphonaptera, more commonly known as fleas, are an order of wingless arthropods with more than 2000 species. Though fleas survive in a multitude of environments, they are rare in low humidity environments and at elevations over 1500 ft.

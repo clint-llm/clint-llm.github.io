@@ -1,0 +1,3 @@
+As previously mentioned, Gilbert syndrome is generally thought to be inherited in an autosomal recessive manner. Uridine diphosphoglucuronate-glucuronosyltransferase 1A1 (UG1A1) is important for converting unconjugated to conjugated bilirubin.
+
+Homozygosity for a defect in the TATAA box within the promoter region of the gene for UG1A1 leads to a mutation of UG1A1 called UG1A1*28. The molecular defect inserts an additional dinucleotide sequence (TA) into the transcription initiation sequence: A(TA)6TAA to A(TA)7TAA.

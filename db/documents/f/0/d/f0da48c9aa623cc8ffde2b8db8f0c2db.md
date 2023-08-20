@@ -1,0 +1,1 @@
+The prognosis of benign Rolandic epilepsy (BRE) is excellent irrespective of treatment. Seizures occur for only 2 to 4 years and spontaneously resolve by the age of 15 to 16 years (in more than 95% of children).

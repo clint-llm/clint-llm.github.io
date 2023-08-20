@@ -1,0 +1,1 @@
+Bacteria and viruses can cause direct invasion of the pharyngeal mucosa. Certain viruses like rhinovirus can cause irritation secondary to nasal secretions. In almost all cases, there is a local invasion of the pharyngeal mucosa which also results in excess secretion and edema.

@@ -1,0 +1,3 @@
+Treatment of DPN is not necessary and is generally performed for cosmetic purposes. Due to the tendency of darker skin types to heal with dyspigmentation, caution should be used when choosing treatment modalities, and all patients should be counseled that removal of DPN lesions may result in dyspigmentation. Initial treatment should be limited to a small number of lesions to allow for the evaluation of post-inflammatory dyspigmentation. Aggressive treatment should be avoided to minimize scarring and pigmentation problems.
+
+The most common treatment modalities include snip excision with scissors, light curettage with or without anesthesia, and light electrodesiccation, which are generally effective for smaller lesions.

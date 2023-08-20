@@ -1,0 +1,5 @@
+The complications of anoxic encephalopathy most commonly present as seizures, myoclonus, or permanent disability. Other complications may be due to the inability to treat effectively, such as difficulty maintaining temperature management or therapeutic hypothermia, or iatrogenic, such as rapid rewarming, infusion of excessive crystalloid causing metabolic abnormalities, or edema.
+
+Therapeutic hypothermia is known to cause changes in coagulation and hemostasis; therefore, there is a risk of bleeding due to decreased platelet function and coagulation factor activity.
+
+In contrast, rapid rewarming can occur with inadequate monitoring of temperature, particularly a core temperature. The consequences of rapid rewarming include seizures, cerebral edema, and electrolyte disturbances, particularly hyperkalemia. The ideal core temperature monitor is with the use of a central venous probe. However, surrogate temperature monitoring is available using esophageal, rectal, or bladder probes.

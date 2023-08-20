@@ -1,0 +1,1 @@
+Acquired flatfoot was historically attributed to posterior tibial tendon deficiency, although now the understanding is that the ligamentous structures of the ankle play a role in adult-acquired flatfoot development.

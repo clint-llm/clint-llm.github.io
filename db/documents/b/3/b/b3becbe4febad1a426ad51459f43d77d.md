@@ -1,0 +1,1 @@
+It is essential to monitor for possible signs of anaphylactic reaction as well as allergic reactions such as hives, itching, and swelling. Physicians and pharmacists also need to monitor renal function periodically because that could potentially warrant a change in the dose and/or dosing frequency of the cephalosporin (except for ceftriaxone).

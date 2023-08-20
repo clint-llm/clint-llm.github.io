@@ -1,0 +1,7 @@
+As mentioned previously, the RN is subdivided into the RNp and the RNm. Both of these neurons are arranged in a somatotopic distribution, with the upper limb corresponding with the dorsomedial region, and the lower limb correlating with the ventrolateral portion.
+
+It is important to distinguish the subsections of the red nuclei because each possesses a unique neuronal pathway, and therefore dictates a separate neurologic function. For example, among quadrupedal animals, the RNm closely mirrors the pyramidal tract when animals navigate through obstacles and perform various coordinated extremity movements.****As mentioned previously, the RNm is largely rudimentary in adult humans (and therefore bears a lesser neurologic role), most likely due to the development (and functional redundancy) of the corticospinal tract as well as the pyramidal system.
+
+In contrast, the RNp provides an important connection between the motor and premotor cortices as well as the cerebellum, and inputs directly into the inferior olivary nucleus.
+
+In summary, the parvocellular division of the RN is particularly prominent in the adult human brain and may play a role in cognitive-motor function, while the magnocellular RN only demonstrates functional relevance in early development through primitive movements, and becomes less functionally significant with aging.

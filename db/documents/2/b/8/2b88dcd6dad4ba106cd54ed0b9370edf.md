@@ -1,0 +1,1 @@
+In recognition that the majority of the cases of postpartum hemorrhage are due to uterine atony, implementation of a systemic approach in birthing units is advocated by all leading professional bodies.

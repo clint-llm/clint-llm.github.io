@@ -1,0 +1,5 @@
+Since the function of the superior tarsal muscle is to maintain the elevation of the eyelid, it is then easy to understand that damage to this muscle will result in ptosis of the affected eye. In addition, after recognizing that the innervation of the muscle is through the sympathetic nervous system, it is then clear to see that damage to the sympathetic nervous system will also cause ptosis.
+
+One clinical situation in which the sympathetic nervous system innervating the superior tarsal muscle is affected is Horner syndrome. This is a condition in which a structural lesion in the cervical sympathetic chain causes specific symptoms such as upper eyelid ptosis, miosis, and anhidrosis on the ipsilateral side of the lesion. There is paralysis of the superior tarsal muscle in this pathology.
+
+One condition in which the superior tarsal muscle is hyperactive is exophthalmia, a condition associated with hyperthyroidism.

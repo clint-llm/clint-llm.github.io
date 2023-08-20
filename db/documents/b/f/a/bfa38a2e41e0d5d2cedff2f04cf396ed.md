@@ -1,0 +1,1 @@
+Anderson first reported a small case series of 18 talar neck fracture-dislocations in 1919 and coined the term “aviator astragalus” to describe this injury pattern.

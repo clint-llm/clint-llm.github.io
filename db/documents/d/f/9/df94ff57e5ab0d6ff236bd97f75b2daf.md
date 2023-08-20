@@ -1,0 +1,3 @@
+SRS is gaining importance in the management of the BM in Melanoma. Compared to Whole Brain Radiotherapy (WBRT), SRS has better long-term safety and a decline in the neurocognitive function.
+
+SRS is often given as a single fraction SRS or given over two – five fractions. Usually, SRS is limited to patients with 3 -5 lesions, but recently some clinicians are using the SRS in patients with a higher number of lesions.

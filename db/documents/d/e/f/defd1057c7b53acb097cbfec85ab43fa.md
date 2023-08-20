@@ -1,0 +1,1 @@
+Tabes dorsalis was more prevalent in the pre-antibiotic era. Although the rates of primary and secondary syphilis are increasing, the true incidence of neurosyphilis in general and tabes dorsalis specifically is difficult to determine. Syphilis is more common among homosexual males than in females and is more prevalent in the mid-age population.

@@ -1,0 +1,1 @@
+The patient will require long-term cardiovascular rehabilitation and should be enrolled in a supervised exercise program.

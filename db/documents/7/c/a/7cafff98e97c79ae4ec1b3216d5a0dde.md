@@ -1,0 +1,3 @@
+Caution and periodic monitoring are recommended in patients taking antiplatelet and anticoagulant medication due to the ability of omega-3 fatty acids to reduce platelet activity.
+
+EPA and DHA can act as alternative substrates for CYP450 metabolism and are partially metabolized by the CYP450 metabolic pathway, however significant inhibition of CYP450 enzymes by DHA or EPA has not been observed and no drug-drug interactions have been established with medications that use the CYP450 metabolic pathway. EPA exclusive supplements have shown to have no drug-drug interactions with other medications that may use the P450 metabolic pathway, such as omeprazole, warfarin, atorvastatin, and rosiglitazone. DHA has shown to have no interactions with other statin drugs.

@@ -1,0 +1,3 @@
+Intussusception is not usually immediately life-threatening. It is usually successfully treated with barium, water-soluble, or an air-contrast enema, which confirms the diagnosis and successfully reduces it. The success rate is more than 80%. However, up to 10% may reoccur within 24 hours.
+
+Cases that cannot be reduced non-surgically require surgical reduction. In surgical reduction, the surgeon manually squeezes the part that has been telescoped. If the surgeon cannot successfully reduce it, the affected section is surgically removed. The intussusception may also be reduced by laparoscopy, pulling the segments of the intestine apart with forceps.

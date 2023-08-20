@@ -1,0 +1,3 @@
+All health care providers involved with the medical care of minors should learn more about their state’s laws regarding emancipated minors, mature minor exceptions, and specific medical services that do not require parental permission to best serve their adolescent patients.
+
+Furthermore, health care providers are urged by the American Medical Association and AAP to make all efforts to respect the adolescent’s privacy from their parents or legal guardians with a clear explanation that confidentiality is conditional in certain circumstances.

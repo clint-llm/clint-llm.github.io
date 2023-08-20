@@ -1,0 +1,3 @@
+Malabsorption syndromes typically are not life-threatening. However, the severity and duration of some malabsorption syndromes can be life-threatening or even fatal. Examples include severe malnutrition from prolonged pancreatic exocrine insufficiency, life-threatening electrolyte disturbances from prolonged, intractable diarrhea, and bowel perforation.
+
+Meanwhile, other malabsorption syndromes such as lactose intolerance are unlikely to deteriorate a patient’s health significantly. That is partly due to disease progression and partly due to the efficacy of disease management (e.g., avoidance, supplementation, supportive care).

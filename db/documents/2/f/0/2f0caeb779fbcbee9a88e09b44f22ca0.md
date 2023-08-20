@@ -1,0 +1,3 @@
+Given the current opioid epidemic, physicians are encouraged to avoid overprescribing opioids for pain management. However, patients who develop an opioid dependence may resort to alternatives, like kratom, as their opioid prescriptions become more difficult to obtain. Kratom has been used by some patients wishing to self-medicate for health conditions associated with chronic pain, where it has been seen as an inexpensive, legal option.
+
+When ingested orally, there appears to be linear pharmacokinetics with biphasic elimination.

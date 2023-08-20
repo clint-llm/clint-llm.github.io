@@ -1,0 +1,3 @@
+Osteoporosis is a disorder of bone microarchitecture resulting in increased bone fragility that can result in fractures with minimal or no trauma.
+
+Secondary causes for bone loss can involve any underlying process and medical problem as well as the use of certain medications that can either affect achieving peak bone mass as a young adult or result in excessive bone resorption affecting bone health and quality.

@@ -1,0 +1,25 @@
+So far, the treatment of trinucleotide repeat disorders has been mainly complication-oriented, with no actual treatment for the disorder itself. The following are the upcoming treatment modalities being studied at length, to tackle this.
+
+**Limiting expression of trinucleotide repeats:**Several promising clinical trials are being conducted to find an effective way of blocking the translation of the aberrant protein**.**The proposed pharmacological treatment of Trinucleotide repeats target three fronts of genetic expression- DNA, RNA, and protein.
+
+A common pathogenic mechanism for TRDs is protein or RNA toxicity that creates neuronal dysfunction and death. The therapy aims to lower the expression of this mutated gene by inhibiting the messenger RNA (mRNA) using either antisense oligonucleotide (ASO) or RNA interference (RNAi).
+
+Polyglutamate related disorders mainly include Huntington's disease and spinocerebellar ataxias. The forefront of research in polyglutamate related trinucleotide repeat disorder treatment involves a reduction in expression of the target mRNA levels in a non-specific or allele-specific manner. The expression of the target ligand, the mRNA, is inhibited by engaging with therapeutic agents like microRNA (miRNA), also called ASO. The CAG repeat antisense oligonucleotides bind to the CUG repeat RNA and to block pathogenic RNA–protein interactions. The release of the expanded CUG transcripts from nuclear foci presumably facilitates their transport to the cytoplasm, where they undergo rapid decay. This reduces the translation and aberrant protein formation and subsequently reducing cytotoxicity.
+
+With regard to DNA, the ongoing research for treatment is to prevent pathological DNA repeat expansion. This can be achieved by inhibiting DNA repair proteins that promote expansion. This is a possible strategy to regulate the repeat length. Research is underway for the same. The challenge would be to preserve normal mutation repair.
+
+**Other pathways implicated in limiting neuronal loss:**These include three major pathways: molecular chaperones, the ubiquitin-proteasome degradation, and autophagy. All three pathways have been implicated in the polyQ disorders and hence its treatment. The target molecules in each pathway are interrelated. For example, a quality control protein recently shown to modulate polyQ toxicity is carboxy-terminus of Hsc70 interacting protein (CHIP). CHIP functions both as a co-chaperone and as a ubiquitin ligase, thereby linking the chaperone and proteasome pathways. Numerous molecular chaperones, including Hsp70, Hsp40, and the cytosolic chaperonin TRiC, have been shown to suppress polyQ aggregation and or toxicity in various model systems.
+
+**The proposed treatment for Friedrich ataxia apart from****antioxidants:**These include-
+
+1. Deferiprone, an iron chelator, is a small molecule that preferentially binds iron, and prevents a build-up of reactive oxygen species, thereby reducing oxidative stress.
+
+2. Erythropoietin (EPO), its biological functions also include playing an important part in the brain's response to neuronal injury and in the wound healing process.
+
+3. Histone deacetylase inhibitors (HDACis) modulate the level of acetylation of chromosomal proteins and other cellular targets and can revert the silent heterochromatin to an active chromatin conformation and restore the normal function of the silenced gene.
+
+4. Interferon-gamma 1b has been found to increase frataxin expression in dorsal root ganglion neurons in treated mouse models, and these models also had improved sensorimotor performance.
+
+**Treatment for normal aging in patients with FXS:**FXAP is a protein required in the normal aging process in all individuals. In patients with FXS, this normal process is hampered. New targeted treatments for FXS, including mGluR5 antagonists, GABA A and B agonists, minocycline, and others, are being studied to that effect.
+
+**Stem cell therapy:**Marrow stromal cells (MSCs) are being studied for treating neurodegenerative trinucleotide repeat disorders that are almost always fatal, in particular, Huntington's disease (HD). They are currently being tested in FDA-approved Phase I to III clinical trials for many disorders since extensive pre-clinical studies for neurodegenerative disorders were found to be promising. The potential benefits arise from the innate trophic support from MSC or from augmented growth factor support, such as delivering brain-derived neurotrophic factor (BDNF) or glial-derived neurotrophic factor (GDNF) into the brain to support, decrease free radical damage through their paracrine actions, and promote synaptic connections among the afflicted neurons. This is done by using marrow stromal cells as a mode of delivery for these factors. This ultimately induces the survival and regeneration of host neurons. The current protocols are provided in support of applying MSC-based cellular therapies to the treatment of trinucleotide repeat disorders.

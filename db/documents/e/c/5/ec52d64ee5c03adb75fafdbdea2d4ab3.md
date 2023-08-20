@@ -1,0 +1,3 @@
+Dissociative identity disorder (DID) is a rare disorder associated with severe behavioral health symptoms. DID was previously known as Multiple Personality Disorder until 1994. Approximately 1.5% of the population internationally has been diagnosed with a dissociative identity disorder.
+
+Of note, DID has been observed and described in several countries and has been associated with terms such as "outer world possession" and "possession by demons."

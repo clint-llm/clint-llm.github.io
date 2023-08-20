@@ -1,0 +1,3 @@
+According to the American Association of Poison Control Center reports, acute ingestion of valproate has increased from 2717 exposures in 1994 to 8705 in 2005.
+
+Children having concurrent medical illnesses and who are on chronic valproate therapy are at increased risk of valproate toxicity. In children less than two years, there is a risk of fulminant and fatal hepatotoxicity with valproate exposure.

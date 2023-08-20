@@ -1,0 +1,11 @@
+Hypercalcemia is not an uncommon presentation in patients admitted to the hospital. The severity of the symptoms is related to the speed of development and the concentration of calcium. This metabolic problem can present in many ways, and only an interprofessional approach can help reduce the morbidity and mortality of the disorder. Without treatment, the condition carries a very high morbidity.
+
+Besides physicians, pharmacists and nurses play a vital role in the management of patients with hypercalcemia. The nurse plays a vital role in patient hydration and monitoring of vital signs. The pharmacist has to educate the patient on the different drugs available to reduce calcium and their adverse effects.  The pharmacist should check the medications to ensure that the cause is not due to a drug. In addition. The patient should be educated about compliance with the bisphosphonates.
+
+All clinicians and nurses should educate the patients on maintaining hydration, changes in diet and limiting calcium intake. The patient and family should be told about the symptoms of hypercalcemia and when to seek assistance. Physical therapy should be involved to ensure that the patient remains mobile and active. If the patient has a metastatic disease associated with hypercalcemia, the hospice, palliative care, and pain teams should be involved to ensure that the quality of life is not compromised.
+
+Finally, a dietitian should be consulted to educate the patient on what type of foods to avoid.
+
+**Outcomes**
+
+The outcomes depend on the cause of hypercalcemia. When the condition is due to hyperparathyroidism, symptoms tend to be mild but are prolonged. The highest morbidity is due to bone wasting. Mild hypercalcemia does not lead to mortality. However, hypercalcemia from a malignant cause carries a grave prognosis. These patients need aggressive treatment and also require frequent admissions to the hospital. Finally, the morbidity from the malignancy-associated hypercalcemia can be severe leading to many symptoms and a very poor quality of life.

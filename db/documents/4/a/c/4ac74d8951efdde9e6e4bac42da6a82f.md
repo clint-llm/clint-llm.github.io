@@ -1,0 +1,5 @@
+The diagnosis of typhoid fever should be suspected in those living in endemic areas or those who have traveled to an endemic area and are presenting with a febrile illness. Basic laboratory data can aid the clinician in the diagnosis, but no single laboratory value is pathognomonic for typhoid fever. A complete blood count may show either leukocytosis or leukopenia with a left shift depending on the patient’s age.
+
+To confirm the diagnosis, the clinician should obtain blood and stool cultures whenever possible. Blood cultures are positive in 40% to 80% of individuals and stool cultures in 30% to 40%.Salmonella enterica serotype typhi and can stay positive for days after initiation of antimicrobial therapy.
+
+The Widal test measures agglutinating antibodies against the lipopolysaccharide O and flagellar H antigens. Ideally, a positive test requires a four-fold increase in antibody titers taken 10 days apart, but many clinicians use a single acute-phase sample to guide care. Using this method, false-negative and positive results may occur.

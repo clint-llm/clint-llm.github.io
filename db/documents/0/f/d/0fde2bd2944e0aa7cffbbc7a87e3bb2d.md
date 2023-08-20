@@ -1,0 +1,9 @@
+The uterus sits in the center of the female pelvic cavity (Figure 2.) The most common position of the uterus in the pelvic cavity is anteverted and anteflexed.
+
+"Flexion" is the term for the angle between the cervix and uterine body. Anteflexed means the uterus is bent forward. Retroflexed means the uterus bends backward. Occasionally, retroflexion is seen after cesarean section and may be due to scar tissue that attaches the uterine body to the abdominal wall, causing the fundus to bend posteriorly.
+
+Anterior to the uterus is the bladder, with rectum located posteriorly. Between the uterus and the rectum is the recto-uterine space, also known as the posterior cul-de-sac. It is a potential space prone to fluid collection. Small amounts of physiologic fluid accumulate during ovulation and menses. Pathologic causes of fluid collection in the recto-uterine pouch include pelvic abscesses, drop metastasis from gastrointestinal malignancies, and endometriosis. In certain situations, if fluid accumulation is severe, this space can be drained by performing a culdocentesis, which is accomplished by inserting a needle through the posterior fornix of the upper vagina to access the posterior cul-de-sac.
+
+The posterior cul-de-sac communicates with the retroperitoneal space of the abdomen via the right and left epiploic gutters. The right gutter leads to the hepatorenal space, also known as Morrison's pouch. The right epiploic gutter also allows the spread of pelvic pathogens into the subphrenic space. Occasionally infection of the subphrenic space can occur, leading to adhesions on the capsule of the liver. This pathology is known as Fitz-Curtis-Hugh syndrome or gonococcal perihepatitis.
+
+The left epiploic gutter leads to the splenorenal pouch. Due to the leftward position of the rectum, pelvic pathology is less likely to spread to the abdomen via the left epiploic communication.

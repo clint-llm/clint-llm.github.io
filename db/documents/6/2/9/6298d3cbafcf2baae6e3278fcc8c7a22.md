@@ -1,0 +1,3 @@
+The iris is a light-transmitting diaphragm that controls the amount of light entering the pupil inside the eye.
+
+In 1917, Key first addressed his efforts over iris reconstruction by repairing an iridodialysis. He sutured the iris to the adjacent sclera. Emmerich initially put forward the concept of iris to iris repair in 1957. Due to a lack of infrastructures like microscopes and instruments, these techniques took time to gain a wider acceptance. Traumatic iris damage can be sphincter tear, iris chaffing, tear at the root of the iris, iridodialysis, iris transillumination defects, and aniridia. Various non-surgical and surgical approaches have been proposed to manage iris reconstruction, which is discussed further in this activity.

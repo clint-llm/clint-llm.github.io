@@ -1,0 +1,1 @@
+The principal differential diagnoses of an osteoid osteoma include chondroblastoma, bone infarction, Brodie’s abscess, stress fracture, chronic osteomyelitis, focal cortical bone abscess, glomus tumor, sclerosing osteitis, solitary enostosis, and an early stage of Ewing's sarcoma.

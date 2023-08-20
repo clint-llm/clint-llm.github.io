@@ -1,0 +1,3 @@
+Skeletal scintigraphy uses ionizing radiation in the form of gamma rays produced from the radiotracer Tc99m. The effective whole body dose of radiation for adults from this examination is 0.0057 millisieverts (mSv) per MBq which translates to approximately 4 mSv for a 20 mCi dose of Tc99m-MDP.
+
+A small amount of Tc99m-pertechnetate is secreted in breast milk, but the estimated fetal dose is below 1 mSv (100 mrem).

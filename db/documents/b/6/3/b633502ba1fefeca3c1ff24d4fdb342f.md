@@ -1,0 +1,1 @@
+Once the breast abscess is drained, the pain will quickly subside. However, some patients may need NSAIDs for pain. In addition, one can apply a warm compress to soothe the inflammation and use moisturizer to prevent cracking of the nipples.

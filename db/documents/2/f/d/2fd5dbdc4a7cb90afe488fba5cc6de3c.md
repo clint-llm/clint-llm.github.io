@@ -1,0 +1,3 @@
+Although the exact mechanisms of sudden unexpected death in epilepsy are unclear, multiple mechanisms have been proposed, including electroencephalographic suppression (arousal dysfunction) after a generalized seizure and secondary cardiac arrhythmias (bradycardia and asystole) postictal apnea.
+
+Various hypotheses have been proposed which implicate postictal dysfunction of arousal centers in the brainstem, leading to secondary hypoventilation. The combination of hypercapnia and hypoxia accompanying postictal hypoventilation would potentially contribute to cardiac dysfunction and death.

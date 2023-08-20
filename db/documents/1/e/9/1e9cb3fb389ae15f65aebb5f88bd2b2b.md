@@ -1,0 +1,1 @@
+TS is caused by mutations in the genes tuberous sclerosis complex 1 (TSC 1) that encodes the protein hamartin and tuberous sclerosis complex 2 (TSC 2) that encodes the protein tuberin. MEN-1 is due to a mutation in the MEN1 gene which encodes menin. Birt-Hogg-Dube syndrome is caused by a mutation in the FLCN gene which encodes folliculin.

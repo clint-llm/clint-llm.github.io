@@ -1,0 +1,1 @@
+Skin biopsies show perivascular lymphohistiocytic inflammation around small cutaneous blood vessels with endothelial cell swelling. Leukocytoclastic vasculitis is not observed.

@@ -1,0 +1,3 @@
+Serological testing is currently the primary method of diagnosing syphilis. The two types of serological tests are non-treponemal (non-specific) and treponemal (specific). Non-treponemal tests include RPR, VDRL, and toluidine red unheated serum test (TRUST). RPR and VDRL are most commonly used. Treponemal tests include TPPA, CLIA, and TP-EIA. Syphilis can also be diagnosed using dark ground microscopy of samples of genital lesions in those with primary and secondary syphilis.
+
+The Centers for Disease Control and Prevention (CDC) recommends using non-treponemal reagin tests as the first-line for screening for syphilis infection. The two main non-treponemal tests used are RPR and VDRL.

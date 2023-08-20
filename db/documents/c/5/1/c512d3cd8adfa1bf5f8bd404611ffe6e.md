@@ -1,0 +1,3 @@
+La Crosse encephalitis is a relatively uncommon disease, with most cases occurring during the summertime and in children, with roughly 75% of all cases being pediatric. Geographically endemic areas include the rural areas of the central and midwestern states, and most cases are reported to occur between the months of July and September. Over the last several years, on average, there are sixty to eighty annual cases of La Crosse encephalitis reported in the United States.
+
+A study found a total of 665 La Crosse encephalitis cases between 2003 and 2012.

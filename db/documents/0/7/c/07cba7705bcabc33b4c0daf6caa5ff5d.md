@@ -1,0 +1,1 @@
+The embryological devolvement of the carotid vascular system is very interesting. AS the pharyngeal arches begin to form during weeks 4 to 5 of gestation, the common carotid arteries (CCAs) and proximal ICAs derive from the third pharyngeal arch. While the distal ICA derives from the dorsal aorta. Interestingly, the ECA derives from the CCA via angiogenesis.

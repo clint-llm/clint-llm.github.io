@@ -1,0 +1,3 @@
+The prognosis largely depends on the type and cause of ataxia. Patients with progressive ataxia may suffer from worsening symptoms over the years and require symptomatic treatment. Hereditary ataxia has a shorter life expectancy; however, some people live up to the fifth or sixth decade. Severe forms may lead to death in childhood or the early years.
+
+If the cause is acquired, for example, alcohol or drug-induced ataxia, the underlying cause needs to be treated, and triggering factors removed to improve prognosis.

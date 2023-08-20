@@ -1,0 +1,3 @@
+CoQ10 also referred to as ubiquinone, is a fat-soluble, vitamin-like molecule found naturally in every cellular membrane in our bodies. It is a normal part of our diet but is also endogenously synthesized. It is essential for the proper transfer of electrons within the mitochondrial oxidative respiratory chain and adenosine triphosphate (ATP) production.
+
+Supplements offer CoQ10 in either the oxidized form (ubiquinone) or the reduced form (ubiquinol). The bioavailability of a given CoQ10 supplement depends on the lipid carrier it is immersed in, and any preservatives added.

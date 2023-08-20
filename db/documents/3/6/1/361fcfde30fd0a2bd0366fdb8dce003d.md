@@ -1,0 +1,3 @@
+It is difficult to obtain accurate values for the true prevalence of erectile dysfunction, as many patients fail to seek any medical attention and many physicians are reluctant to ask patients about their sexual health. The best available data indicates that 52% of men in the US between 40 and 70 years of age suffer from erectile dysfunction.
+
+It is known that the prevalence of erectile dysfunction is closely related to age and the presence of other co-morbidities such as diabetes, hypogonadism, and cardiovascular disease.

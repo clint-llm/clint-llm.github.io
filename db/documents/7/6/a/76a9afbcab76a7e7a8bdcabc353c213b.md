@@ -1,0 +1,5 @@
+Human herpesvirus 6 replicates most commonly in the leukocytes and the salivary glands during the primary infection and will, therefore, be present in saliva. Research has shown that high levels of metalloproteinase 9 and tissue inhibitor of metalloproteinases 1 in the serum of infants infected with HHV-6 can lead to blood-brain barrier dysfunction which in return can aid in causing febrile seizures
+
+Roseola infantum is most commonly caused by human herpesvirus 6 and less commonly, human herpesvirus 7. Human herpesvirus 6 has two variants: A and B. The primary variant that causes roseola infantum is HHV-6B. HHV-6A has not yet been linked to any disease. Both variants enter the cell via interaction with CD46
+
+HHV-6 remains latent in lymphocytes and monocytes after an acute primary infection with the salivary glands and brain tissue harboring persistent HHV-6 infection

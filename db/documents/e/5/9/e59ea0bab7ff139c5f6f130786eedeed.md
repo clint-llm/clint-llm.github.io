@@ -1,0 +1,1 @@
+The patient should be educated regarding the need for surveillance if the aneurysm is managed conservatively. They should be made aware of all the complications that can occur due to aneurysm rupture and with surgical repair of the aneurysm.

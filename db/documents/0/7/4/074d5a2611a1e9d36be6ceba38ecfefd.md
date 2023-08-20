@@ -1,0 +1,9 @@
+Cheyne-Stokes respiration is a specific form of periodic breathing (waxing and waning amplitude of flow or tidal volume) characterized by a crescendo-decrescendo pattern of respiration between central apneas or central hypopneas. The American Academy of Sleep Medicine (AASM) recommends to score a respiratory event as Cheyne-Stokes breathing if both of the following criteria are met:
+
+- There are episodes of at least three consecutive central apneas and/or central hypopneas separated by a crescendo and decrescendo change in breathing amplitude with a cycle length of at least 40 seconds (typically 45 to 90 seconds).
+
+- There are five or more central apneas and/or central hypopneas per hour associated with the crescendo/decrescendo breathing pattern recorded over a minimum of two hours of monitoring.
+
+Cheyne-Stokes respiration should be differentiated from other central sleep apneas like idiopathic central sleep apnea wherein there is no waxing and the waning pattern of ventilation. The ventilation length in patients with Cheyne-Stokes respiration is more than 40 seconds compared to less than 40 seconds in central sleep apnea. Also, the relative duration of hyperventilation is more than apnea duration in Cheyne-Stokes respiration. In central apneas, the duration of apnea is more than the duration of hyperventilation.
+
+Cheyne-Stokes respiration is well-studied in patients with heart failure and stroke. In patients with heart failure, male gender, older age, sedentary lifestyle, diagnosis of atrial fibrillation, increased ventricular filling pressure, and more advanced cardiac remodeling are known to predispose to Cheyne-Stokes respiration. Up to 20% of patients with stroke can exhibit Cheyne-Stokes respiration.

@@ -1,0 +1,1 @@
+Proper training of all staff who may be involved in providing cricoid pressure is highly recommended. Studies have demonstrated a training gap regarding consistently and appropriately applied pressure and knowledge of the anatomical location of the cricoid.

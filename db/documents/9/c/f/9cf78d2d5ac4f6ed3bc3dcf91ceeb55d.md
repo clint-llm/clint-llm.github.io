@@ -1,0 +1,1 @@
+In the United States, approximately 5800 adult patients are treated annually in emergency departments for adverse effects from FGAs, a rate of 26 emergency department visits per 10,000 outpatient prescription visits.

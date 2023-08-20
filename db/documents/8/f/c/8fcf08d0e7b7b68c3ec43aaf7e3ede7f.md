@@ -1,0 +1,3 @@
+Depending on the cannabinoid, the route of administration will vary. Medical cannabinoids are generally administered orally as a capsule or liquid suspension. Dronabinol is available as a capsule in 2.5mg, 5mg, and 10mg strengths in addition to an oral 5mg/mL formulation. The medication is generally taken twice daily an hour before meals with titration from the initial dose performed gradually based on tolerability and response.
+
+Cannabinoids may also be administered orally via incorporation in consumed food products such as infused teas or oils or via inhalation by smoking cannabis or marijuana.

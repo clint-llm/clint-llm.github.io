@@ -1,0 +1,7 @@
+Ethylene glycol (C2H6O2) is a toxic alcohol that is found in various household and industrial agents. Ethylene glycol exposure can be extremely dangerous, with significant morbidity and mortality if left untreated. Ethylene glycol is a colorless, sweet-tasting liquid most commonly found in antifreeze, but occasionally used for other purposes, such as industrial solvents. Exposures are generally observed due to accidental or intentional ingestions, with its sweet taste lending to accidental toxic exposures, whereas intentional exposures may be motivated by a suicide attempt or desire for inebriation in the absence of ethanol. Ethylene glycol exposures can cause varying degrees of toxicity and management generally requires supportive care, close laboratory monitoring, and antidotal therapy. This activity reviews the etiology, presentation, evaluation, and management/prevention of ethylene glycol toxicity, and reviews the role of the interprofessional team in evaluating, diagnosing, and managing the condition.
+
+**Objectives:**
+- Describe the basic pathophysiology and toxicokinetics of ethylene glycol toxicity.
+- Review the examination and evaluation procedures for diagnosing ethylene glycol toxicity, including any applicable laboratory testing.
+- Summarize the treatment and management strategy for ethylene glycol toxicity.
+- Explain interprofessional team strategies for improving care coordination and collaboration in order to employ better identification, screening, and treatment of ethylene glycol toxicity and improve patient outcomes.

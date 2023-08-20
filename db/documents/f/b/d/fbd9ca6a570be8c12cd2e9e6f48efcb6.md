@@ -1,0 +1,1 @@
+The incidence of transtentorial herniation is not documented, due to it being a physiological response to various underlying pathologies. The most common cause is traumatic brain injury (TBI).

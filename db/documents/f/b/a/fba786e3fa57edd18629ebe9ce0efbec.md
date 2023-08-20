@@ -1,0 +1,3 @@
+Hepatic granulomas have a wide range of etiologies that may be infectious or non-infectious in nature. The most common causes of granulomatous hepatitis include sarcoidosis, primary biliary cholangitis (PBC), tuberculosis, and drug-induced liver injury.
+
+Talc, barium, and silicone from therapeutic and diagnostic procedures have also been found to be associated with this condition. Other causes include chronic hepatitis B and C infection, Bacille Calmette-Guerin (BCG) therapy, brucellosis, leprosy, histoplasmosis, coccidioidomycosis, schistosomiasis, amebic liver abscess, lymphoma, and malignant granuloma. It may also be idiopathic.

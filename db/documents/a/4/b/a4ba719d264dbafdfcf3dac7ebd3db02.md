@@ -1,0 +1,1 @@
+Recurrences can occur following all the procedures mentioned above. They result from incomplete matricectomy and regrowth of a spicule from the lateral horn. Simple nail avulsion has the highest recurrence rate (70%). Chemical matricectomy and laser matricectomy showed lower recurrence rates than mechanical matricectomy.

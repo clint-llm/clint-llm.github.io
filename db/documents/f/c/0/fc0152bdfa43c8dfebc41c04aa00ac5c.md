@@ -1,0 +1,5 @@
+Once the primary care provider, obstetrician, pediatrician or nurse practitioner identifies hypospadias, the patient must be referred to a urologist. The condition should generally be treated within the first few weeks of life. In some cases, the infant may have other congenital anomalies that may need workup. The outlook for hypospadias after surgical correction is good. Most infants have function use of the penis and the deformity is reversed. However, repeat surgery is also needed in a number of infants.
+
+It is also recommended that the patient who underwent hypospadias repair in prepubertal age be seen after puberty to assess overall genital development.
+
+A significant number of adults continue to have emotional conflicts regarding the cosmesis and functionality of the penis, especially during sex. Thus, a mental health nurse should counsel these patients. Finally, hypospadias is best repaired by a dedicated team of urologist with experience in managing this anomaly. A team approach is vital to help improve outcomes.

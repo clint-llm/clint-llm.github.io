@@ -1,0 +1,1 @@
+Brexanolone is a drug indicated for the treatment of postpartum depression in adult women. Brexanolone received FDA approval in March 2019. It is the first drug to be specifically approved for postpartum depression. Postpartum depression is a severe condition that affects 10 to 20% of women worldwide.

@@ -1,0 +1,1 @@
+Complications are secondary to underrecognition, undertreatment, or untreated underlying cause of the lung abscess. They include rupture into pleural space, pleural fibrosis, trapped lung, respiratory failure, bronchopleural fistula, and pleurocutaneous fistula.

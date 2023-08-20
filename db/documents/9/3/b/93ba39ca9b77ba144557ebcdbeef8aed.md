@@ -1,0 +1,1 @@
+The femur, like most long bones, is formed via endochondral ossification. The head of the femur ossifies at age 1 and fuses at age 18.

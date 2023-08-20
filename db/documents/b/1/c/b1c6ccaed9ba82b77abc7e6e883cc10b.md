@@ -1,0 +1,1 @@
+Ludwig angina does not show a significant gender predilection. Airway compromise is the leading cause of mortality.

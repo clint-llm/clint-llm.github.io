@@ -1,0 +1,1 @@
+The prognosis of roseola infantum is excellent. It is a self-limited disease with few long term adverse events.

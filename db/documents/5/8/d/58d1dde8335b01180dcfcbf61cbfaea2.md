@@ -1,0 +1,1 @@
+Post-inflammatory hypopigmentation or hyperpigmentation may occur in darker skin phenotypes and persist for up to 6 months. Permanent scarring is uncommon. Complications may arise in relation to the underlying viral etiology.

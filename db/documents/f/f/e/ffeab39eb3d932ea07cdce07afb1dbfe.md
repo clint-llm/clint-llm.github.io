@@ -1,0 +1,1 @@
+Prune belly syndrome, also referred to as Eagle-Barrett syndrome or the triad syndrome, is a rare congenital disorder characterized by the triad of deficient abdominal musculature, cryptorchidism, and urinary tract abnormalities.

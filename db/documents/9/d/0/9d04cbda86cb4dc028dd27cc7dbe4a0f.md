@@ -1,0 +1,1 @@
+Volkmann ischemic contracture is a relatively rare condition. It most commonly presents after pediatric upper limb trauma. In one study, the incidence of Volkmann contracture was 0.105% of all orthopedic cases, with the majority of cases being males in their second and third decade of life.

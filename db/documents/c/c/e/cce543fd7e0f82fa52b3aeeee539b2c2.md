@@ -1,0 +1,1 @@
+Neutrophilic specific granules are barely resolvable by light microscopy, whereas those of eosinophils and basophils are larger and stain red/pink and purple/blue, respectively.

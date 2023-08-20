@@ -1,0 +1,5 @@
+An arched foot is characteristic of humans, distinguishing it from other primates. Arches of the foot helps in providing upright posture and weight bearing. The human foot has two longitudinal (medial and lateral) and two transverse arches (anterior and posterior transverse arches).
+
+These arches are formed by the shapes of tarsals and metatarsals and are supported by ligaments and extrinsic and intrinsic muscles of the foot. Among the longitudinal arches, the medial arch has more height, while among the transverse arches, the anterior arch is complete, while the posterior arch is half dome-shaped and incomplete. These arches make the sole concave so that our footprint is incomplete. It is present since birth but is masked by the presence of the fat pad in children.
+
+These arches of the foot provide a flexible platform to support body weight, and it also acts as a multisegmented lever for propulsion in walking, running, and jumping. An arched foot has the capability of shock absorption and adaptation to uneven surfaces. Foot has to suffer from many deformities due to either congenital anomalies or acquired injury by improper shoewear or high heels.

@@ -1,0 +1,1 @@
+A calcified nodule (CN) is an eruptive accumulation of small nodular calcifications with a thick calcified plate and overlying thrombus that correlate with an acute coronary syndrome.

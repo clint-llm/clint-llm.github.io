@@ -1,0 +1,9 @@
+Due to the enigmatic nature of PLEVA, misdiagnosis is a common complication. Lymphomatoid papulosis, for example, is a skin disease that mimics PLEVA, but the separation of the two must be emphasized because of differences in prognosis. Lymphomatoid papulosis has a significant risk of transforming into a cutaneous malignant lymphoma. Pityriasis Lichenoides (PL)-like mycosis fungoides (MF), is a rare form of MF that also appears similarly to PL during the clinical inspection.
+
+Although, the histopathological features of PL-like MF are more representative of typical MF, including but not limited to Pautrier’s microabscess, haloed lymphocytes, and epidermotropism.
+
+Additionally, extensive studies may be warranted if the course of PLEVA has progressed to PLC and is unresponsive to treatment. Although rare, there have been cases reported of CTCL discovered after PLC diagnosis.
+
+In one specific case, a pediatric patient was histologically diagnosed with PLC at eight months and went untreated. He presented to the clinic again at two years of age with the development of an indurated plaque which was confirmed as lymphomatoid papulosis after a second biopsy. The patient again went untreated with the assumption that the rash would spontaneously resolve. With no resolution of the skin disease, the patient was re-evaluated at four years old with an additional biopsy, immunostaining, and polymerase chain reaction analysis for clonal TCR gene rearrangement, which confirmed CTCL involvement.
+
+Concerning outward appearance, the ulceronecrotic lesions in PLEVA may lead to alteration in pigmentation of the skin or heal with varioliform scarring. PLEVA can progress into PLC or present in the more fulminant form, FUMHD. The psychological component of PLEVA must not be overlooked due to its diffuse involvement in exposed skin areas.

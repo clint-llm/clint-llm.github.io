@@ -1,0 +1,9 @@
+After conservative management of thoracic outlet syndrome due to cervical rib fails, surgical intervention is necessary. The mainstay of therapy is complete resection of the rib; the surgical approach is what varies. The most common approaches are the supraclavicular and transaxillary approaches with or without a first rib excision or scalenectomy
+
+The supraclavicular approach is primarily the preferred approach for arterial compression. It allows easy access to the proximal subclavian artery for visualization and control in the event of arterial aneurysm or stenosis along with the cervical rib compression. The supraclavicular approach limits the muscles and facial structures that have to be dissected to reach the cervical rib. Also, scalenectomy and removal of osseous and myofascial abnormalities are simplified — functional recovery results in almost all patients.
+
+The transaxillary approach is the most common approach used but is reserved for subclavian/axillary venous occlusion or neurological compression. The advantage of using this approach is there is less manipulation of the brachial plexus and associated nerves, thus reducing perioperative complications
+
+The posterior approach is the choice during re-operation for decompression of the brachial plexus and vascular structures. The rib is removed posteriorly behind the nerve root with the arm adducted, thus limiting any contact between the rib and the nerve.
+
+Resection of cervical ribs for thoracic outlet syndrome is considered a safe and effective procedure. The majority of short-term and long-term outcomes are promising, and the recurrence of symptoms is almost non-existent

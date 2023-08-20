@@ -1,0 +1,3 @@
+Lipodystrophy associated with insulin treatment can result in unpredictable blood glucose concentrations and an unexplained episode of hypoglycemia. Patients should be advised to rotate injection sites and not inject in areas directly involved with lipodystrophy. Patients should also be advised against the frequent use of the same insulin needle.
+
+Patients with lipodystrophy are at an increased risk of metabolic syndrome. Hence aggressive medical management and lifestyle interventions must be pursued.

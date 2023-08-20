@@ -1,0 +1,1 @@
+Knowledge of the location of the vallecula is crucial for anesthesiologists and all healthcare workers who perform intubation. The vallecula serves as an important anatomical landmark during oral intubation of the trachea. For direct laryngoscopy, an anesthesiology provider may use different blade options.

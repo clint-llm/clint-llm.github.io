@@ -1,0 +1,1 @@
+Increased endoneurial fluid leading to intraneural microvascular congestion is the currently understood mechanism of compression-related nerve injuries. Continued damage can result in infarction and fibrosis of the nerve.

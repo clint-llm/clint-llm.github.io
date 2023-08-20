@@ -1,0 +1,3 @@
+Patients typically present complaining of acute chest pain with no history of trauma. Due to the younger population in which Tietze syndrome tends to occur, it is not uncommon for the patients to be otherwise healthy. The pain is sharp and stabbing over the swollen area and can radiate to the shoulder and proximal arm. Heat and erythema are not usually associated with the swelling. The patient's discomfort can be made worse with the movement of the ipsilateral arm, movement of the torso, coughing, sneezing, and deep breathing.
+
+Cardiac, pulmonary, and neurological exams are typically benign in connection with Tietze syndrome, and any underlying cardiopulmonary problems discovered upon exam should receive further attention.

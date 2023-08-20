@@ -1,0 +1,1 @@
+Kuru is an acquired infectious disease linked with the ritualistic practice of feeding upon the corpses of relatives as part of mourning (endocannibalism).

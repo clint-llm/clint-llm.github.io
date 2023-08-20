@@ -1,0 +1,5 @@
+CMV can infect a large variety of cell types.
+
+In the immunocompetent, CMV replication is kept under control through antibodies against key viral surface glycoproteins and cell-mediated immune response carried out by NK cell, CD4, and CD8 T cells. Disease in the immunocompromised can result from reactivation of the latent virus, newly acquired infection, or reinfection with a new strain. Reactivation in immunocompromised patients is the result of dysfunction in cell-mediated immunity rather than humoral immunity. Patients typically have enough anti-CMV antibodies.
+
+Mucosal infection by CMV leads to inflammation and tissue necrosis, vascular endothelial involvement, and, ultimately, ischemic mucosal injury. The occlusion of vasculature contributes largely to the cause of tissue injury and ulcer formation.

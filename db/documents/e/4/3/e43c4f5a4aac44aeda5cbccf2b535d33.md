@@ -1,0 +1,5 @@
+This condition will present with ipsilateral symptoms affecting multiple systems and organs. All patients with CHILD syndrome will have congenital ichthyosiform erythroderma. The right side of the body is twice as likely to be affected than the left side. It presents as a unilateral erythematous skin plaque with a midline demarcation usually present at birth. The patient’s face is often spared. Multiple other dermatologic findings are also common such as unilateral ptychotropism, verruciform xanthomas, and scaling alopecia.
+
+The musculoskeletal system can also be affected. Patients present with unilateral limb defects that can range from hypoplasia to agenesis.
+
+Multiple organ abnormalities such as cardiovascular malformations have also been accounted for and are usually the most common cause of death.

@@ -1,0 +1,1 @@
+Reconstructive surgery with a prosthetic testicle is an option that may be exercised with the primary operation delayed until active treatment is done or completely declined.

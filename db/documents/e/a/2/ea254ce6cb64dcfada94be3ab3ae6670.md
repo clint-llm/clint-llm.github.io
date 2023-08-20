@@ -1,0 +1,3 @@
+Many symptoms and diseases have historically been attributed to cysts of the CSP - mental disturbances, ataxia, disordered speech, epilepsy, and bilateral pyramidal signs. But these are now being questioned because of a lack of proper evidence.
+
+CSP cysts may also cause acute or chronic headaches, papilledema, emesis, syncope, cognitive impairment, emotional and behavioral disturbances, and visual and sensorimotor findings.

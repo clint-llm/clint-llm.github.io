@@ -1,0 +1,1 @@
+Of the five known most frequent causes for individuals to call for emergency services, three of them are pain-related ("wounds, fractures, minor injuries," "accidents," "chest pain/heart disease").

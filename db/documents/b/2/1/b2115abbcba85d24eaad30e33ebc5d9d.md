@@ -1,0 +1,1 @@
+The primary complication of torsion of a testicular appendage is a misdiagnosis resulting in the loss of testis due to a missed testicular torsion. Ultrasonography can help avoid such misdiagnosis and is, therefore, the recommended diagnostic approach in all cases of acute scrotal emergencies.

@@ -1,0 +1,1 @@
+Delusions of parasitosis is a fixed false belief that the patient has an infection with an organism such as parasites or other nonvisible organisms.

@@ -1,0 +1,1 @@
+While an experienced provider can place a tube by themselves, having an assistant nearby can be helpful in case extra supplies need to be obtained during the placement procedure, such as a basin if the patient begins to have emesis.

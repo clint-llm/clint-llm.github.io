@@ -1,0 +1,3 @@
+The three primary nerves of the forearm are the median, ulnar, and radial nerves. The median and ulnar nerves travel through the anterior compartment while the radial nerve presents in the posterior (extensor) compartment. The median nerve gives rise to the anterior interosseous nerve and is responsible for innervating all of the muscles of the anterior compartment other than the flexor carpi ulnaris and the ulnar portion of the flexor digitorum profundus, which are innervated by the ulnar nerve.
+
+The radial nerve gives rise to the posterior interosseous nerve, also known as the deep branch of the radial nerve, and is responsible for innervating muscles in the posterior compartment.

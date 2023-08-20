@@ -1,0 +1,1 @@
+In some patients, the pterygoid canal superior to the level of the anterior genu of the petrous internal carotid artery. This variant is significant for surgeons who normally take an inferior medial approach for pterygoid canal and vidian nerve procedures.

@@ -1,0 +1,5 @@
+Exploding head syndrome (EHS) is a benign parasomnia characterized by the perception of a loud sound while asleep, which leads to abrupt awakening. These events occur during the wake-sleep/sleep-wake transition period and generally last less than a second.
+
+EHS was first described in medical literature in 1876 by American neurologist Silas Weir Mitchell. He reported a case study of two patients, who experienced the nocturnal sensation of loud sounds he described as “sensory shocks.”
+
+The phenomenon is often frightening to those who are unaware of its benign nature. Patients may initially fear a more ominous cause is responsible for the sounds, such as a stroke, brain tumor, or brain hemorrhage. These concerns are the reasons many seek medical evaluations. It is an underdiagnosed and under-reported syndrome because patients may feel embarrassed about their symptoms, and healthcare providers may not be familiar with the diagnosis.

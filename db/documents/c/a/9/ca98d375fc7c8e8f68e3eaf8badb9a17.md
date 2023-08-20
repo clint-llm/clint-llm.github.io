@@ -1,0 +1,1 @@
+Although diffuse intramural esophageal diverticulosis is a rare condition, physicians should keep it in the back of their minds when evaluating a patient with dysphagia. On the other hand, patients should be educated that dysphagia is never normal, and they should seek help as soon as possible.

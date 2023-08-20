@@ -1,0 +1,3 @@
+Deterrence and patient education on CBS mainly relate to inquiring about visual hallucinations in those experiencing vision loss. Additionally, providing education on the condition from a primary prevention standpoint is also vital, given that many patients fail to report hallucinations due to the fear of being seen as mentally ill.
+
+Studies have shown that education on CBS before the onset of hallucinations reduces negative symptoms such as fear or stress-related hallucinations impacting daily activities. For those who report hallucinations and meet diagnostic criteria, it is crucial to provide reassurance that CBS is primarily a transient condition unrelated to dementia or being mentally ill.

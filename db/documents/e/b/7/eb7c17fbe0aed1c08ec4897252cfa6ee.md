@@ -1,0 +1,3 @@
+The management of hyperpituitarism is best done with an interprofessional team, including the endocrine nurses. To improve patient outcomes in patients with hyperpituitarism, it should never be assumed that there is excess secretion of only one hormone. While the initial tests should be directed at the suspected excess hormone, possible problems of other pituitary hormones (most commonly deficiencies) should also be considered, and relevant testing performed. Leaving untreated hormonal excess is associated with high morbidity.
+
+The outcomes of patients with hyperpituitarism depend on the size of the lesion, presence of any neurological deficit, response to treatment, comorbidity, and patient age. Most patients with microadenoma have good outcomes.

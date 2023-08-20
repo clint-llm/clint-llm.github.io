@@ -1,0 +1,23 @@
+A careful history and physical exam can help identify the likely cause of foot drop.
+
+Standard musculoskeletal testing asking the patient to toe stand, heel stand, and do a deep knee bend should be observed. MRC scale rating 0-5 for the major muscle groups to the lower extremities, including ankle plantarflexion, ankle dorsiflexion, ankle inversion, ankle eversion, knee extension, knee flexion, and hip flexion, should be performed and graded. A neurosensory exam for pinprick should be performed in the distribution, looking for both peripheral nerves and lumbar dermatomes. Muscle mass with the side-to-side comparison observing the major muscle group bulk areas can be done well doing manual motor testing. Side-to-side circumference measurements can be made and documented to note progression or recovery of mass further down the road. The ASIA  (American Spinal Cord Injury Association) point and motor groups are a standardization convenient for communication between professionals; however, it does not include evaluation of specific peripheral sensory nerves.
+
+A formal electrodiagnostic medicine consult, including EMG and nerve conduction studies, is considered to be an extension of the physical examination and may need to be obtained from the subspecialist who is not commonly the first clinician to be involved in the care of the patient.
+
+Any damage affecting the neuraxis from the roots to the peripheral nerve can weaken the muscles supplied by that nerve.
+
+A lesion of the L5 root, lumbar plexus, sciatic nerve, common peroneal, or the deep peroneal nerve can potentially lead to foot drop due to the weakness of the anterior compartment musculature. The presenting symptom is the inability to ambulate as before. More specifically, weakness of the muscles in the foot that assist in dorsiflexion. There may or may not be a pain. The person will be unable to dorsiflex during the heel strike. The foot remains flat on the ground. Sometimes can also cause toe drag and inability to clear the foot. This can potentially lead to falls.
+
+Radiculopathy affecting the fifth lumbar nerve root typically results in neuropathic pain starting in the lumbar region and radiating down the posterior thigh, anterolateral leg to the foot down to the big toe.  Sensory symptoms include the medial aspect of the foot, including the first webspace. Motor symptoms include weakness of dorsiflexors and evertors of the foot.
+
+Lumbosacral plexopathies can present with similar sensory and motor deficits that are similar to sciatic neuropathy. Weakness may also affect hip girdle muscles, including hip abduction (gluteus medius) and hip extension (gluteus maximus).
+
+Sciatic neuropathy classically presents with sensory loss of the whole foot and weakness of ankle plantar flexors (gastrocnemius, soleus) and ankle inversion. It can result in a 'flail foot.' Hamstring muscles may also be involved resulting in knee flexion weakness. It is not uncommon for an incomplete sciatic neuropathy to present as a common peroneal neuropathy. Often, the peroneal fascicles in the sciatic nerve are more susceptible to injury than the tibial fascicles.
+
+In common fibular neuropathy, the patient presents with sensory and motor deficits. History may include leg crossing, prolonged kneeling, immobility, or trauma. Sensory loss or paresthesias affect the lateral leg below the knee and the anterolateral foot. Muscle weakness affects both ankle dorsiflexion (tibialis anterior), toe extension (e.g., extensor hallucis longus), and ankle evertors (peroneus longus and brevis).
+
+If only the deep fibular portion is affected, only minimal sensory deficits (limited to the web space between the first two digits) and isolated weakness of toe and ankle extensors are seen. Ankle eversion and inversion are normal.
+
+Isolated superficial fibular neuropathy is rare and presents as the sensory deficit of the foot except for the first webspace. Only ankle eversion/inversion may be affected.
+
+60% of the normal gait cycle consists of the stance phase and 40% of the swing phase. When one foot is in the swing phase, the other is in the stance phase. The gait cycle starts with a heel strike and ends with a heel strike on the same side. During the stance phase, the foot remains flat on the ground. The foot is in dorsiflexion in the heel strike, preparing for gradual lowering before the stance phase. In the absence of dorsiflexors, the foot remains in plantar flexion during the stance phase. This prevents the ability to clear the ground and prepare for the next phase of the gait cycle. The patient either drags their toes or lifts the foot high to clear the ground.

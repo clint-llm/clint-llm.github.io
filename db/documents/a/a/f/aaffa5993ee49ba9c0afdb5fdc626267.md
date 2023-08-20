@@ -1,0 +1,1 @@
+Pravastatin is an FDA-approved HMG Co-A reductase inhibitor indicated for the treatment of primary hypercholesterolemia, hyperlipidemia, and mixed dyslipidemia.

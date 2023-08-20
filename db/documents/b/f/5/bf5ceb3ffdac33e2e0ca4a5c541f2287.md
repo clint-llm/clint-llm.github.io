@@ -1,0 +1,3 @@
+As the suprascapular nerve block is an optional procedure to treat pain, patient refusal is an absolute contraindication. Inability to cooperate during the procedure is a relative contraindication, as most peripheral nerve blocks are done in awake patients to receive patient feedback that may alter needle positioning. However, performing otherwise indicated peripheral nerve blocks under general anesthesia is considered safe, specifically when using ultrasound guidance.
+
+Patients with proven allergies to all local anesthetics will not be able to receive peripheral nerve blocks, although this is exceedingly rare.

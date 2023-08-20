@@ -1,0 +1,1 @@
+Ledderhose disease can be treated in the first instance with conservative treatment, with surgery reserved for patients with lesions that do not respond to medical treatments or those with lesions that interfere with their lives, such as the ability to wear shoes or with walking. There is a high rate of recurrence with non-operative and operative treatment options.

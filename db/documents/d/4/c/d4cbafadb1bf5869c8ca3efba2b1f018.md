@@ -1,0 +1,1 @@
+Cervical myelopathy is a condition describing a compression of the spinal cord at the cervical level of the spinal column resulting in spasticity (sustained muscle contractions), hyperreflexia, pathologic reflexes, digit/hand clumsiness, and/or gait disturbance.

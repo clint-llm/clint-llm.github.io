@@ -1,0 +1,3 @@
+The most important artery is the internal pudendal artery. It originates from the internal iliac artery, then divides into the lower rectal arteries and perineal arteries. Anteriorly, we find the urethral artery, the arteries of the penis (for the man), the arteries of the bulb of the vestibule and the arteries of the clitoris (for the woman). Internal pudendal veins connect to the internal iliac vein in the pelvis. The external pudendal veins, anteriorly, connect to the femoral vein of the thigh.
+
+The deep lymphatic vessels flow mainly into the internal iliac lymph nodes in the pelvis. Lymphatic vessels from the genitals flow into the superficial inguinal lymph nodes.

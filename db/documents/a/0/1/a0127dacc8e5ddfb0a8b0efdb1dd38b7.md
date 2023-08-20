@@ -1,0 +1,13 @@
+Treatment of anticonvulsant toxicity depends on the agent and quantity ingested and is primarily supportive, with respiratory and hemodynamic support and intravenous hydration. Other treatments may include activated charcoal, benzodiazepines, hemodialysis, charcoal hemoperfusion, sodium bicarbonate, and specific antidotes. Many patients who overdose recover uneventfully, particularly in the setting of toxicity from gabapentin and levetiracetam.
+
+Activated charcoal may be given early if the mental status is normal.
+
+Benzodiazepines are the primary treatment for seizures and other autonomic instability. Benzodiazepines should be dosed until seizures or subside, or autonomic instability improves.
+
+For antiepileptic agents associated with sodium channel blockade, sodium bicarbonate should be administered at 50-100 mEq PRN for QRS interval greater than 100-120 milliseconds on serial electrocardiograms. QRS prolongation is associated with seizures when greater than 100 milliseconds and dysrhythmias when greater than 160 milliseconds. When administering sodium bicarbonate in this scenario, gaol pH should be 7.45-7.55, and goal sodium is 145-155 mEq/L. Each administration of sodium bicarbonate should be followed by a repeat ECG to assess response, with venous or arterial blood gas and basic metabolic panel to assess goal parameters. Hyperventilation in the intubated patient may also be utilized to alkalinize serum further. Hypertonic sodium can be used adjunctively if serum pH is at goal. If both pH and sodium are at maximum goal and QRS is still prolonged in the ill patient, lidocaine may be utilized for additional therapy as its sodium channel inhibition is fast-acting and may serve to facilitate displacement of the toxin.
+
+While not truly an antidote, levocarnitine is used in valproic acid toxicity in the setting of encephalopathy, significant hyperammonemia or hepatotoxicity. Dosing is 100 mg/kg (maximum of 6 g) IV loading dose over 30 minutes, followed by maintenance dosing of 50 mg/kg (maximum 3 g) IV over 10-15 minutes every 6 hours
+
+Enhanced elimination techniques may be considered in the severely ill patient although they are rarely necessary. Hemodialysis and hemoperfusion may prove effective treatment options but are seldom indicated.
+
+Hemodialysis is more efficacious than MDAC for carbamazepine toxicity. The most likely indication for dialysis is severe valproic acid toxicity with a serum concentration greater than 850 mg/L, in which significant morbidity and mortality may occur. Over 850 mg/L, protein-binding is saturated, and valproic acid is amenable to dialysis.

@@ -1,0 +1,1 @@
+The characteristic dried prune-like wrinkled appearance of the abdominal wall is the most notable physical finding and is the reason for the name, prune belly syndrome. This abdominal finding appears to be attributable to either deficient or absent abdominal musculature.

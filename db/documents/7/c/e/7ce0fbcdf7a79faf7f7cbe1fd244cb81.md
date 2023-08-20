@@ -1,0 +1,1 @@
+Generally, antibiotics are not indicated in clean head and neck cases.

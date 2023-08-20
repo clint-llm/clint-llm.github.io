@@ -1,0 +1,5 @@
+Trauma remains a leading cause of death worldwide, with approximately half of these attributed to hemorrhage. In the United States in 2001, trauma was the third leading cause of death overall and the leading cause of death in those aged 1 to 44. While trauma spans all demographics, it disproportionately affects the young, with 40% of injuries occurring in ages 20 to 39 years by one country’s account. Of this 40%, the greatest incidence was in the 20 to 24-year-old range.
+
+The preponderance of hemorrhagic shock cases resulting from trauma is high. During one year, one trauma center reported 62.2% of massive transfusions occur in the setting of trauma. The remaining cases are divided among cardiovascular surgery, critical care, cardiology, obstetrics, and general surgery, with trauma utilizing over 75% of the blood products.
+
+As patients age, physiological reserves decrease, the likelihood of anticoagulant use increases, and the number of comorbidities increases. Due to this, elderly patients are less likely to handle the physiological stresses of hemorrhagic shock and may decompensate more quickly.

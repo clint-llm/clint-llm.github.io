@@ -1,0 +1,1 @@
+The anion gap is used to identify errors in the measurement of electrolytes (sodium, chloride, bicarbonate, and potassium most notably), detect paraproteins (IgG for example), and evaluate for suspected acid-base disorders – the latter being the most common and essential use.

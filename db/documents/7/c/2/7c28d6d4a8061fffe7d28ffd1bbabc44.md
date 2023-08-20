@@ -1,0 +1,63 @@
+Anesthesia breathing systems function to deliver inhaled gases to patients. These most often include a mixture of fresh gas (oxygen, air) and anesthetic gases, both volatile agents (e.g., isoflurane) and non-volatile agents (nitrous oxide). Anesthesia breathing systems also function to eliminate exhaled gases (including carbon dioxide) from the patient. One method of classifying anesthesia breathing systems is based on the presence or absence of specific physical and functional characteristics of each system. However, it is important to note that this is not the only method of classifying breathing systems.
+
+- Open breathing systems have no reservoir breathing bag, no functional rebreathing of exhaled gases, no tubing, and no valves. These systems include insufflation and open-drop anesthesia.
+
+- Semi-open breathing systems have a reservoir breathing bag, no functional re-breathing of exhaled gases, and have high fresh gas flows. These include Mapleson breathing systems.
+
+- Semi-closed breathing systems have a reservoir breathing bag, partial re-breathing of exhaled gases, unidirectional valves, neutralizing carbon dioxide, and low fresh gas flows. These include circle systems with an adjustable pressure-limiting valve (APL valve) that is at least partially open.
+
+- Closed breathing systems have a reservoir breathing bag, total rebreathing of exhaled gases, unidirectional valves, and neutralize carbon dioxide. These include circle systems with the APL valve closed.
+
+**Open-Drop Anesthesia**
+
+The open-drop anesthesia breathing system is no longer used in modern medicine but is of historical significance and maybe occasionally used in developing countries.
+
+**Insufflation**
+
+The insufflation breathing system is a technique used to blow anesthetic gases through a mask across a patient’s face without the mask being in direct contact with the patient. This breathing system is most commonly used with pediatric patients when placing a face mask directly on the child’s face may be difficult or resisted by the patient.
+
+**Mapleson Circuits**
+
+In 1954, William Mapleson designated varying arrangements of breathing system components (masks, breathing tubes, fresh gas flow inlets, adjustable pressure-limiting valves, and reservoir bags) as Mapleson A-E circuits.
+
+A mask is placed over a patient’s face to connect the patient to the system in these systems. These systems can also be connected to laryngeal mask airways or endotracheal tubes. The system typically has corrugated tubing that connects the mask or airway to the other system components, including a reservoir bag used to generate positive-pressure ventilation. Mixed gases are delivered to the system by a fresh gas flow (FGF) inlet. As anesthetic and fresh gases are delivered to the system, pressure will build if the gas inflow is greater than inspired volumes. Thus, the system also contains an adjustable pressure-limiting valve (APL valve) which allows gases to exit the breathing system. An open APL valve is utilized during spontaneous ventilation to prevent pressure buildup and allow all expired gases to exit the system. As the valve is partially closed, gas is limited from exiting the system, permitting positive-pressure ventilation generated within the reservoir bag. Assuming fresh-gas inflow is adequate, an open APL valve will vent exhaled gas before inspiration to prevent rebreathing in these systems.
+
+The varying arrangements of Mapleson circuits are discussed briefly here.
+
+Mapleson A: Arranged as FGF inlet, reservoir bag, APL valve, mask.
+
+- In this circuit, because the reservoir bag is between the FGF inlet valve and the APL valve, expired gas from the patient may re-enter the system and fill the reservoir bag during controlled ventilation (i.e., when the APL valve is partially closed) if the fresh gas inflow is not adequate (defined as two to three times minute ventilation in this system). However, this is the most efficient system for spontaneous breathing as the FGF must only be equal to a patient’s minute ventilation to prevent rebreathing.
+
+Mapleson B: Arranged as reservoir bag, FGF inlet, APL valve, mask.
+
+- In this circuit, the FGF inlet is closer to the APL valve, which helps prevent the rebreathing concern in the Mapleson A circuit as above during controlled ventilation.
+
+Mapleson C: Arranged as reservoir bag, FGF inlet, APL valve, mask.
+
+- In this circuit, the arrangement is the same as the Mapleson B circuit. However, this circuit is shorter as it does not contain elongated corrugated tubing. This circuit also has the FGF inlet close to the APL valve to aid in preventing rebreathing.
+
+Mapleson D: Arranged as reservoir bag, APL valve, FGF inlet, and mask.
+
+- In this circuit, the arrangement interchanges the FGF inlet and APL valve of the Mapleson A circuit. This system prevents rebreathing by directing FGF towards the APL valve rather than towards the patient during exhalation. Therefore, in this circuit, which is also true for circuits E and F, two to three times minute ventilation must be used to prevent rebreathing during spontaneously breathing. In contrast, only one to two times the minute ventilation flow is required during controlled breathing. Note that this is the opposite of the Mapleson A circuit.
+
+Mapleson E: Arranged as corrugated tubing, FGF inlet, and mask.
+
+- In this circuit, there is no reservoir bag and no APL valve. Given the inability to alter the pressure of the circuit, this is ideal for spontaneously ventilating neonates or pediatric patients where low-pressure ventilation is desired.
+
+Mapleson F: Arranged as APL valve directly connected to reservoir bag, corrugated tubing, FGF inlet, and mask.
+
+- The system prevents rebreathing similarly to Mapleson D by directing FGF towards the APL valve.
+
+**The Circle System**
+
+The circle system (Figure 2) is the most clinically relevant breathing system in developed countries. This system has more components than a Mapleson circuit that are arranged in a circular apparatus, and the system has a greater capacity to prevent rebreathing. In addition to a reservoir bag, tubing, APL valve, and FGF inlet, this system also has a carbon dioxide (CO2) absorber, unidirectional expiratory and inspiratory valves, and a Y-piece connector.
+
+The circle system is arranged so that the FGF inlet delivers gas to the inspiratory breathing tubing (containing a unidirectional valve), which is connected to a Y-piece. Unidirectional valves are placed near the patient to prevent backflow in the circuit, and the Y-piece is connected to the patient’s mask. As the patient exhales, exhaled gas goes through the mask, into the Y-piece, and out through the expiratory breathing tubing (which also contains a unidirectional valve). This expiratory breathing tubing is connected to a reservoir bag and APL valve. Beyond these components is a carbon dioxide (CO2) absorber.
+
+When using a circle system, a patient will rebreathe expired alveolar gas. This gas, which has been heated and humidified by airway structures during respiration, also contains expired anesthetic and CO2. Thus, a benefit of a circle system is that it conserves heat, humidity, and anesthetic. However, the expired CO2 must be removed from the system. This is the function of the CO2 absorber. Exhaled CO2 from a patient combines with water to form carbonic acid. The CO2 absorber contains hydroxide salts (strong bases) that neutralize carbonic acid through a chemical reaction that produces additional heat, humidification, and calcium carbonate. Soda-lime is one of the most common types of hydroxide salt absorbents and contains water, calcium hydroxide, sodium hydroxide, and potassium hydroxide.
+
+Absorbents contain salt granules (sizes of approximately 4 to 8 mesh) that undergo a color change from the chemical reaction between these compounds and CO2. When approximately 50 to 70% of absorbent granules have changed color (a pH indicator dye that is typically a purple color known as ethyl violet but may vary based on the manufacturer of the absorbent) may indicate absorbent exhaustion requiring canister replacement to avoid rebreathing.
+
+**Resuscitation Breathing Systems**
+
+Resuscitation breathing systems (including brand-name AMBU bags or bag-mask units) are simple and portable systems used in emergency scenarios or when transporting patients in need of ventilation.

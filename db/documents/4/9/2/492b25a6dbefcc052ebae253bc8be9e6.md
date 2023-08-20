@@ -1,0 +1,1 @@
+The common side effects are nausea and vomiting.

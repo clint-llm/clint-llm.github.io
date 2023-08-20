@@ -1,0 +1,3 @@
+Acute severe pancreatitis can result in peripancreatic fluid collection leading to a pseudocyst. If the cyst becomes necrosed it might cause pancreatic duct injury subsequently leading to fluid that might leak through a fistula and cause ascites. Keeping in mind that the most common causes of pancreatitis are modifiable causes: Alcohol use disorder and gallstones. Limiting alcohol intake and leading a healthy lifestyle might prevent the development of pancreatitis and its complications.
+
+Eating a healthy diet, exercising might prevent the development of gallstones and limiting the intake/abstaining of alcohol can limit the development of pancreatitis and its complications.

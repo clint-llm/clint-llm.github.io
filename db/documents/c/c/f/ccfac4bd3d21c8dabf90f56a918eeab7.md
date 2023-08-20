@@ -1,0 +1,7 @@
+The cornerstone of treatment for papillary muscle rupture includes emergency surgical treatment. Initial medical therapy can be instituted with diuretics, afterload reduction, and oxygen therapy (bilevel positive airway pressure or mechanical ventilation may be necessary). Intra-aortic balloon counter-pulsation may be necessary for severely unstable patients. Previous intraoperative mortality associated with mitral valve repair in these patients was estimated to be 20% to 25%. More recently, a study from 2008 identified a decrease in operative mortality from mitral surgery (previous overall mortality of 18.5%) to be decreased to 8.7% when associated with coronary artery bypass grafting. However, the small sizes in these studies analyzing the surgical effectiveness of treating papillary muscle rupture leave this a controversial topic.
+
+Another treatment controversy is whether mitral valve repair is more beneficial than valve replacement. At the time of this writing, repair over replacement is currently preferred unless necrotic papillary muscle tissue is present.
+
+Concomitant coronary artery bypass has been shown to improve outcomes and should be done.
+
+Suboptimal outcomes following valve repair have been linked to prolonged cross-clamp times, suturing into friable necrotic tissue, and tissue remodeling after infarction. Partial papillary muscle rupture may be delayed by surgeons up to 6 to 8 weeks post-infarction to allow for necrotic tissue to resolve. This depends on the stability of the patient and may need to be surgically corrected sooner.

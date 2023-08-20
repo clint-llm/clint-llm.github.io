@@ -1,0 +1,3 @@
+Nausea and vomiting can occur due to gastric irritation. Patients can experience metallic taste and complications of sialadenitis that may rarely progress to xerostomia. A high RAI dose can cause transient bone marrow suppression, particularly with widespread bone metastases or altered renal function, or low baseline blood counts.
+
+Transient infertility and dry eye are yet other complications. Although rare, long-term side effects can occur, especially with a very high therapeutic dose. Pulmonary fibrosis may occur in patients with lung metastases treated with multiple high doses (cumulative dose of 600 mCi). A small risk of leukemia, other secondary cancers, and permanent marrow suppression is reported in patients receiving a very high cumulative dose of RAI.

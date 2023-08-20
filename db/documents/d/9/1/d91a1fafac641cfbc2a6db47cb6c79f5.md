@@ -1,0 +1,7 @@
+Cribriform plate fracture arises as a complication of facial trauma. Fractures can be missed on CT, and CSF rhinorrhea may be difficult to distinguish from epistaxis or mucus secretions immediately post-injury.
+
+Morbidity associated with meningitis and continuous loss of CSF is high. Cribriform plate fractures and associated dural fistulas can be missed. Proper imaging and laboratory studies are critical in the diagnosis. Endoscopic repair of a cribriform plate fracture has shown to be highly effective, with the repair being successful 97% of the time and postoperative adjunct medication being needed only 12% of the time for symptomatic idiopathic intracranial hypertension.
+
+While otolaryngology is almost always involved in the care of patients with cribriform plate fractures, it is important to involve an interprofessional team of specialists, such as neurosurgery, for the care of complicated or persistent leaks lasting more than 7 days. Nurses are a vital part of the interprofessional group as they monitor routine rounding and can identify and quantify persistent rhinorrhea due to leakage of CSF. In the event a patient with a cribriform plate fracture does require surgery, the pharmacist will ensure patients are on proper analgesics and antibiotics if necessary.
+
+The outcomes of cribriform plate fracture depend on consciousness at presentation and any additional intracranial injury. Prompt consultation with an interprofessional group of specialists is recommended to improve outcomes.

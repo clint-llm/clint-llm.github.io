@@ -1,0 +1,3 @@
+The procedure was initially described employing an assistant's hand. It is possible to attain adequate technique and pressure using only the fingers; however, devices have also been introduced to minimize the equivocal effectiveness of the classicly described approach.
+
+For example, a tactile feedback device using the same finger placement as Sellick originally instructed has been found to most consistently provide the appropriate pressure and also decrease upward bias in applied force.

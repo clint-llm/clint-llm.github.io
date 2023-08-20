@@ -1,0 +1,1 @@
+Genomes of bacteria exist on a single double-stranded circular DNA molecule that contains approximately 4000 kb of DNA and are regulated by operons. A mutation is a change in the nucleotide sequence and can create new cellular functionalities or lead to the dysfunction of others. Mutations can occur spontaneously or be caused by exposure to mutation-inducing agents.

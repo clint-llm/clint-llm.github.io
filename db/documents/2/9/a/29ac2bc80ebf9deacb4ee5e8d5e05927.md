@@ -1,0 +1,1 @@
+Pathogenic bacteria ascend from the perineum, causing UTI. Women have shorter urethras than men and therefore are more susceptible to UTI. Very few uncomplicated UTIs are caused by blood-borne bacteria. Escherichia coli is the most common organism in uncomplicated UTI by a large margin.

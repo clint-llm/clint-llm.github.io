@@ -1,0 +1,1 @@
+SD is caused by a hypersensitivity humoral response that is triggered by an infection with group A beta-hemolytic streptococci. The subsequent immune response attacks and destroys cells of the basal ganglia.

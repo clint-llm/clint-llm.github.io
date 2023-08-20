@@ -1,0 +1,1 @@
+The primary etiology is an accumulation of cerebrospinal fluid (CSF) either through decreased resorption and/or increased production; this leads to an elevated intracranial pressure, the source of the associated symptoms and signs.idiopathic intracranial hypertension); however, descriptions of the proposed mechanisms are under the pathophysiology section.

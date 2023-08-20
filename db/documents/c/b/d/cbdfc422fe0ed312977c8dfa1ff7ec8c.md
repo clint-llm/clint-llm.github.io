@@ -1,0 +1,21 @@
+**Implantation of the device**
+
+Percutaneous LAA closure is generally performed with general anesthesia guided by TEE and fluoroscopy. Prior to the procedure, antibiotic prophylaxis is usually given. Vascular access is achieved via a femoral vein, and transseptal puncture using a standard transseptal needle and sheath is done for the delivery system. The puncture site in the fossa is preferably inferior and posterior to have a good alignment with the LAA axis. Furthermore, there are different curves of sheaths available for accessing LAA. A bolus of unfractionated heparin should be provided after the puncture to obtain an activated clotting time (ACT) of more than 250 s. The size of the device is chosen based on LAA dimensions (ostium, neck width, depth) with the help of TEE and contrast angiography (right anterior oblique 30°/ cranial 30°). The desired implantation angulation of the C-arm may vary greatly from patient to patient. TEE and fluoroscopy ensure the location of the device in the LAA. The sheath over the device reduces the risk of perforation, and the device is subsequently deployed. A ‘tug test’ is performed once the device is in position to confirm device stability. Color Doppler imaging verifies complete sealing. The device is finally released from the delivery cable, and potential complications (e.g., pericardial effusion) are ruled out. The individual steps differ from one device to another and are described below.
+
+**Watchman**
+
+The device is selected by determining LAA size by the combination of TEE and fluoroscopic measurements. TEE excludes the presence of LAA thrombus before the procedure. However, cardiac CT can also be used for pre-procedural planning.
+
+**Amplatzer Cardiac Plug and Amulet**
+
+The landing zone is estimated between 12 mm to 15 mm from the LAA orifice both for ACP and Amulet.
+
+**Lariat**
+
+Cardiac CT determines the anatomic eligibility for the procedure. A second-generation device is larger and allows appendages up to 45 mm in diameter. The procedure requires an intact pericardium; hence it cannot be performed in patients with prior cardiac surgery. It is also discouraged in patients with prior pericarditis as the pericardial adhesions may prevent manipulation in the pericardial space and impede procedural success. Using an epidural or micropuncture needle under fluoroscopic guidance, a 14-Fr, slightly curved, and the soft-tipped sheath is advanced into the anterior pericardial space. Using the standard technique, after pericardial access is achieved, a transseptal sheath of 8.5-Fr is inserted into the LA from the right femoral vein; an inferoposterior location is usually favored in the interatrial septum. Through the transseptal sheath, a magnet-tipped guidewire is progressed into the anterior portion of the LAA, and a complementary magnet-tipped guidewire is progressed through the pericardial sheath and attached to the magnet-tipped wire in the LAA, forming a rail upon which the snare is delivered.
+
+TEE and fluoroscopy guide the snare advancement into the pericardial sheath and over LAA, and LAA ostium is closed later. The snare is composed of a preloaded and tied surgical suture. Using a suture-tensioning device, the operator releases the suture with a proximal actuator and then tightens the prettied knot, after which the snare is withdrawn, and the suture is cut using a suture cutter. The pericardial sheath is substituted for a drain and remains in place for 4 to 6 hours, at least. The procedure can be summarized into four steps: Pericardial and transseptal puncture, endocardial magnet-tipped wire advancement into LAA apex, endocardial and epicardial magnet-tipped guidewires connection over which the Lariat snare is advanced, and the snare positioning and LAA ostium capture with the help of TEE-guided placement of inflated EndoCATH balloon catheter, and subsequently LAA suture ligation.
+
+**WaveCrest**
+
+The WaveCrest is positioned to occlude the LAA, and its position is tested to confirm adequate seal and lack of a peri-device leak. The anchors are subsequently deployed to the distal edge of the device in a separate step. The "tug test" is subsequently performed to confirm the stability of the device before the device is released. Advantages include more flexibility while closing the LAA regardless of its depth and less traumatic deployment.

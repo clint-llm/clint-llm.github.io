@@ -1,0 +1,1 @@
+Adenoidectomy can be performed with the support of a scrub nurse and an anesthetist, a surgical assistant is not required.

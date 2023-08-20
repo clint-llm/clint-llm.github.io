@@ -1,0 +1,1 @@
+The clinical significance of endometrial hyperplasia is that it can be a precursor to endometrial adenocarcinoma. The presence of atypia/ EIN has a higher risk of progression to invasive malignancy- as high as 27.5% if not treated.

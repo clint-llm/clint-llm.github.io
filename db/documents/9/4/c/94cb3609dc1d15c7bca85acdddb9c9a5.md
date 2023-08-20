@@ -1,0 +1,1 @@
+Epilepsy surgery is indicated in 30% to 40% of patients with refractory seizure disorders despite being on one year of therapy with an adequate dosage of two antiepileptic therapy.

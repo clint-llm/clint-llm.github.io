@@ -1,0 +1,1 @@
+The most significant concern related to vibration sensation is the peripheral neuropathy of diabetes mellitus, which affects the peripheral nerves and results in the loss of pain, temperature, and vibration sensations. Better glycemic control is the only way to prevent this pathology.

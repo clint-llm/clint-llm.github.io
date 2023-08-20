@@ -1,0 +1,3 @@
+A thorough diagnostic workup needs to be completed to make the diagnosis of gallbladder disease. This workup includes a gallbladder ultrasound and possibly, an abdominal CT scan, Hida scan, and blood work. The decision to perform a scheduled open cholecystectomy needs to be made by the surgeon. A laparoscopic procedure can always be converted to an open procedure if needed
+
+Part of the workup needs to include a thorough history and physical exam. Other specialties may be involved, such as gastroenterology or interventional radiology, to help in the workup and preparation in cases where preop endoscopic retrograde cholangiopancreatography or cholecystostomy tube is needed.

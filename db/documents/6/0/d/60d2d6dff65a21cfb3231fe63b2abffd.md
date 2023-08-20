@@ -1,0 +1,1 @@
+Minimum alveolar concentration can be used to titrate the level of volatile anesthetic to achieve and maintain a safe level of anesthesia. It is a concept used routinely by all anesthesia providers and is imperative when it comes to patient safety, decreased awareness, and patient comfort.

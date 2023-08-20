@@ -1,0 +1,7 @@
+Free flap reconstruction is a long, highly technical operation compared with a pedicled flap and requires a surgeon who has experience with microsurgery to re-attach blood vessels. Microsurgical equipment includes micro sutures (8-0 - 10-0), jeweler’s forceps, microscissors, a vessel dilator, a microneedle holder, microvascular clamps, microsurgical hemoclips, and a micro-instrument wipe.
+
+To assess the blood supply to the abdominal wall and recognize the path of the most favorable perforators, Preoperative multi-dimensional computed tomography (CT) perforator mapping of the lower abdominal wall and three-dimensional reconstruction of the CT findings can complete the preoperative evaluation. Medical imaging has thus made it possible to reduce operative time and the rate of postoperative complications.
+
+A duplex Doppler scan may be beneficial before reconstructive surgery. It collects detailed data and information regarding the location, size, and flow of perforating vessels, as well as information regarding the thickness and richness of adipose tissue. it can also give information about healing, the unusual trajectory of the vessel, and obstruction of the pedicle.
+
+A hand-held Doppler and other options for bedside free flap monitoring are also necessary.  This includes the need for bedside staff experienced in free flap monitoring.

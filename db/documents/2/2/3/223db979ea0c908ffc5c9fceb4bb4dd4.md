@@ -1,0 +1,3 @@
+Cutaneous T cell lymphomas are best managed by an interprofessional team that includes oncology nurses. Clinicians looking after patients with cutaneous T cell malignancies should not forget that improve the quality of life. These patients have severe pruitus, which can be disabling. Thus, the patient should be educated on how to moisturize the skin and prescribed medications to relieve the itch. During treatment of the malignancy, the patient's quality of life should be a consideration.
+
+The outlook for most patient is guarded.

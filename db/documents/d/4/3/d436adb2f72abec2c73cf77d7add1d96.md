@@ -1,0 +1,1 @@
+The differential diagnosis for histrionic personality disorder includes narcissistic personality disorder, borderline personality disorder, dependent personality disorder, somatic symptom disorder, and illness anxiety disorder.

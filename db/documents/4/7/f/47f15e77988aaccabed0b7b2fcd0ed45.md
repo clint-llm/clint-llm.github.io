@@ -1,0 +1,1 @@
+Patients with ischial bursitis should not continue with activities that aggravate their pain or exacerbate it. These activities cause increased friction on the bursa, resulting in further irritation and inflammation, and potentially delaying recovery.

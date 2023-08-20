@@ -1,0 +1,1 @@
+Commonly identified as a heritable disorder, practices to obviate and prevent the disorder are not lacking. Once the disorder is identified, the clinician should educate the family regarding the nature of the disorder, and ask for patience along with unconditional positive regard, for the best possible outcomes.

@@ -1,0 +1,5 @@
+Anhidrosis is a clinical finding and not a distinct entity. The exact epidemiology will depend on the underlying etiology. In the majority of anhidrosis cases, men and women are equally affected, with a few exceptions. The age of presentation will vary based on the underlying etiology. Horner syndrome is one of the causes of anhidrosis and is an uncommon condition, occurring with a frequency of approximately 1 per 6,000. It may occur at any age or with any ethnic group.
+
+Another cause of hypohidrosis/anhidrosis is hypohidrotic ectodermal dysplasia, in which patients either do not have eccrine sweat glands or are sparse and rudimentary. In the US, the prevalence of hypohidrotic ectodermal dysplasia is estimated to be 1 per 100,000 births. Internationally, the prevalence is reported at 7 cases per 10,000 births.
+
+Naegeli-Franceschetti-Jadassohn (NFJ) syndrome is also a rare cause of anhidrosis and is reported to have an international prevalence of around 1 case in 2-4 million population.

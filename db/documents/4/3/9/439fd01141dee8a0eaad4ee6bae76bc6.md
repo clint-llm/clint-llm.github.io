@@ -1,0 +1,1 @@
+Urination or micturition primarily functions in the excretion of metabolic products and toxic wastes. The urinary tract also serves as a storage vessel of the waste filtered from the kidneys. Urine stored in the bladder is released from the bladder through the urethra upon a complex network of neurological function.

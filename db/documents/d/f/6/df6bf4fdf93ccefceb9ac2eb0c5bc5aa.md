@@ -1,0 +1,19 @@
+Physical examination reveals some characteristic findings. Clubbing with a "drumstick" appearance of the nailbeds is identifiable by a meticulous digital exam. Convex nail with shiny overlying skin and loss of normal crease renders the characteristic appearance to both fingers and toes, although toes are more difficult to appreciate due to normal splaying of toe tips.
+
+Clubbing may be the only clinical manifestation, although secondary hypertrophic osteoarthropathy may present with cylindrical swelling of the legs known as "elephant" legs. The thickening of long bones may be evident in nonmuscular locations like ankles and wrists.
+
+Large joint effusion is more common in the knee and wrists. Arthrocentesis yields a pauci-inflammatory fluid with less than 500 WBC but with a tendency to clot spontaneously. Effusions are considered to be a sympathetic response to periostosis in the vicinity.
+
+Clinical diagnosis is often challenging as the symptom complex on presentation can be very similar to connective tissue diseases. To complicate things further, there are reports of HPOA associated with lung malignancy, which presented with elevated ANA and anti-Sm antibody levels. There are reported cases of positive ANCA serology as well. There are no specific serological markers of HOA. However, there is indirect evidence of increased circulating bone formation markers like bone alkaline phosphatase, osteocalcin, or amino-terminal propeptide of type 1 procollagen. With a limited scope of this marker in routine clinical practice, the diagnosis of HPOA is often delayed, although HPOA appears early in the course of lung malignancy.
+
+Imaging is the mainstay of diagnosis. Symmetrical periostosis, in the absence of cortical destruction or fracture, is the hallmark of radiological findings. It characteristically involves shafts of tubular bones, initially limited to diaphysis (epiphyseal involvement is more common in primary HOA). With progression, metaphysis is also involved. There is an initial monolayer circumferential widening without transformation of bone shape, followed by multilayered, laminated, centripetal thickening with an irregular appearance in advanced stages. Tibia, fibula, radius, and ulna are most commonly affected, followed by phalanges.
+
+Long-standing clubbing can cause osseous resorption at terminal phalanges. Also, tuftal overgrowth is seen in malignancy-associated HOA, first in the toes and then in the fingers.
+
+MR imaging usually shows a low to intermediate signal intensity on T1 and T2 weighted images, highlighting periosteal elevation and reaction. MRI also helps in identifying synovial effusions.
+
+There are reports of hypertrophic pulmonary osteoarthropathy diagnosis based on PET scan findings of irregular bilateral periosteal new bone formation with increased fluorodeoxyglucose (FDG) uptake. For the same reason, there is a possibility of an erroneous diagnosis of metastatic disease based on FDG avidity.
+
+Bone scintigraphy with technetium 99m (99mTc) methylene diphosphonate (MDP) is the gold standard and is a more sensitive test. In fact, early suspicion based on radiographs should prompt a radionuclide bone scan along with a search for primary etiology with thoracic imaging.
+
+Enhanced tracer uptake in a symmetric distribution along cortical margins of tubular bones in the bone scan is described by a “double stripe" or "tramline" sign. Digital clubbing also results in prominent tracer uptake. There is an immense utility of radionuclide scan as a marker of treatment response, as scintigraphic findings resolve with successful treatment of underlying etiology.

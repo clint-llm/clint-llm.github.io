@@ -1,0 +1,1 @@
+A combination of history and imaging increases diagnostic accuracy. Detailed information to rule out pancreatitis is of utmost importance since MCNs can present with abdominal pain, recurrent pancreatitis, gastric outlet obstruction, jaundice, or weight loss. However, cystic neoplasms, by and large, are diagnosed incidentally.

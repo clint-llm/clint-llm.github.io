@@ -1,0 +1,3 @@
+To reduce the incidence of chloroquine and hydroxychloroquine toxicity, health care providers (HCP's) that prescribe these medications and those that screen for ocular toxicity have developed clear dosing and screening protocols that have reduced the risk of end-stage disease; bull's eye maculopathy and central vision loss (Level I).
+
+The best approach to maintaining excellent patient care and minimizing risk is a team approach involving nurses, nurse practitioners, physician assistants, and physicians. [Level V]

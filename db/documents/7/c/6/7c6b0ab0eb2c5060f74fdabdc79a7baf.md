@@ -1,0 +1,7 @@
+Recurrent migraines can be functionally disabling and can impair quality of life. After treating acute migraines, all migraine patients should be evaluated for preventive therapy. Preventive therapy aims to decrease the frequency, severity, and duration of migraine attacks. Furthermore, preventative therapy can increase responsiveness to acute migraine therapy and improve the quality of life. Prophylactic treatment is not curative, and most patients will still need abortive medications for acute migraine. Before starting prophylactic medications, it is imperative to evaluate if patients are using proper and adequate abortive therapies. Overuse of abortive medications can cause rebound headaches. This activity reviews the evaluation and treatment of migraine prophylaxis and highlights the role of the interprofessional team in evaluating and treating patients with this condition.
+
+**Objectives:**
+- Review the frequency of migraine headaches.
+- Describe the appropriate history that should be taken in the evaluation of migraine headaches.
+- Outline the prophylactic treatment options for migraine headaches.
+- Summarize simple education strategies the interprofessional team can use to help to identify patients needing prophylactic migraine treatment.

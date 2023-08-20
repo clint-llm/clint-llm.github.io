@@ -1,0 +1,5 @@
+Mebendazole is a typical, broad-spectrum benzimidazole used for more than 40 years in humans to treat various parasitic infestations. It has FDA approval for the treatment of patients greater than two years of age with gastrointestinal infections caused by Necator americanus or Ancylostoma duodenale (hookworms),  Ascaris lumbricoides (roundworms),  Enterobius vermicularis (pinworms), and Trichuris trichiura (whipworms) in single or mixed infections.
+
+It also has several off-label uses for adult intestinal nematode infection caused by**c**apillariasis; echinococcosis, cystic (Echinococcus granulosus); toxocariasis; trichinellosis (Trichinella spiralis); trichostrongyliasis.
+
+Mebendazole is a new purposed drug in oncology with a focus on cells resistant to approved therapies. Mebendazole exhibits cytotoxic activity, which synergizes with ionizing radiations and different chemotherapeutic agents and stimulating an antitumoral immune response.

@@ -1,0 +1,1 @@
+The development of EG lesions in individuals with sepsis is associated with a poor prognosis and is fatal in 20% to 77% of patients.

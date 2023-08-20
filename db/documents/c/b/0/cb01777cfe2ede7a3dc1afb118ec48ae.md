@@ -1,0 +1,1 @@
+Endocrinology should be consulted if there is any question as to the diagnosis or other issues.

@@ -1,0 +1,1 @@
+Depth is the major variant seen between patients who have a Harrison groove. The assumption is that the depth is proportional to the severity of the early childhood disease that caused the Harrison groove to form. Increased depth may also indicate multiple respiratory illnesses during infancy and/or early childhood.

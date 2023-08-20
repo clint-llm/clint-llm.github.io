@@ -1,0 +1,3 @@
+Trauma is the most frequent cause of intrinsic contractures and intrinsic palsy. Nerve injuries may be isolated ulnar or median nerve injuries or a combination of both. Nerve Injuries are a very important cause of morbidity in young active patients causing sensory and motor sequel.  Traumatic etiology of hand deformity is more common in men than women. Approximately 22% of nerve injuries involving the volar forearm present a combined injury.
+
+Carpal tunnel syndrome (CTS) is the most common entrapment neuropathy with an incidence of 1 to 3 persons per 1000 person-years. Compressive neuropathy of the ulnar nerve is the second most common entrapment neuropathy after the CTS, with a reported incidence of 25-28 cases per 100,00 person-years.

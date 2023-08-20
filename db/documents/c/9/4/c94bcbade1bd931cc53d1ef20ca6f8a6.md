@@ -1,0 +1,7 @@
+Idioventricular rhythm is a slow regular ventricular rhythm with a rate of less than 50 bpm, absence of P waves, and a prolonged QRS interval. When the sinoatrial node is blocked or depressed, latent pacemakers become active to conduct rhythm secondary to enhanced activity and generate escape beats that can be atrial itself, junctional or ventricular. When ventricular rhythm takes over, it is essentially called Idioventricular rhythm. Idioventricular rhythm is very similar to ventricular tachycardia, except the rate is less than 60 bpm and is alternatively called a "slow ventricular tachycardia." When the rate is between 50 to 100 bpm, it is called accelerated idioventricular rhythm. This topic reviews the evaluation and management of idioventricular rhythm. This activity highlights important etiologies and correlating factors contributing to idioventricular rhythms and their management by an interprofessional team.
+
+**Objectives:**
+- Identify the characteristic features of an idioventricular rhythm.
+- Review the clinical context leading to idioventricular rhythm and differentiate from ventricular tachycardia and other similar etiologies.
+- Describe the management principles and treatment modalities.
+- Summarize how the interprofessional team can improve outcomes for patients with idioventricular rhythms.

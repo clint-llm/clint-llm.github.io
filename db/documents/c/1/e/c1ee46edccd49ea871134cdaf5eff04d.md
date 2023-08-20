@@ -1,0 +1,1 @@
+The most common subset of the population affected by papuloerythroderma of Ofuji consists of the following demographic; 55 years of age or older, Asian or Caucasian descent, and a predilection for males to females with a ratio of 4 to 1. Epidemiologic factors including age and gender comprise two of the five minor criteria used in diagnosing PEO.

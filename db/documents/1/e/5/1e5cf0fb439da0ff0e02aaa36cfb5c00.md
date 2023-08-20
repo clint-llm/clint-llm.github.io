@@ -1,0 +1,5 @@
+EAH stems from both increased consumption of hypotonic fluids and inappropriate water retention. Before and throughout strenuous physical activity, athletes often over hydrate with hypotonic fluids (water, sports drinks). When intake exceeds that of water lost via urine, sweat, and insensible respiratory and gastrointestinal losses (often greater than 1.5 liters), athletes may retain free water, resulting in dilutional hyponatremia.
+
+It is postulated that stimuli related to physical exertion may result in sympathetic activation of the hypothalamus, which stimulates ADH secretion from the posterior pituitary inappropriately during low osmolar states. These stimuli include pain, emotional stress, nausea, emesis, hypoglycemia, heat exposure, and medication use (particularly NSAIDs).
+
+Subsequent hyponatremia results in an osmotic gradient that favors free water movement from the vascular space to the extravascular and intracellular spaces, leading to tissue edema (particularly brain and lung), which drives the most severe symptoms of EAH.

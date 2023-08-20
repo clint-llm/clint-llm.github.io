@@ -1,0 +1,1 @@
+Monitoring parameters for this medication include renal function, hepatic function, heart rate, blood pressure, blood glucose, mental status, worsening depression, suicidality, or unusual behavioral changes. It is essential to prescribe this medication to only those patients who can be monitored closely and frequently.

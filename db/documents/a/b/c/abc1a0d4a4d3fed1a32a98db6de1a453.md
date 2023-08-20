@@ -1,0 +1,9 @@
+Unlike other ventral hernias, Spigelian hernias are not amenable to conservative treatment, including watchful waiting. Due to the high incarceration rate and subsequent strangulation, operative repair is recommended and has become the mainstay of treatment. There are several options regarding surgical management of Spigelian hernias. Repair of Spigelian hernias may be done in an open, laparoscopic, or even robotic approach.
+
+Conventional open surgical technique has been well described and repair may be performed with either primary fascial closure or with mesh. This procedure is typically carried out via a transverse incision or even left paramedian incision. Classically, a Gridiron's or McBurney's incision is made at a right angle to a line joining the anterior superior iliac spine and the umbilicus, centered on McBurney's point. As dissection proceeds posteriorly, the hernia sac is identified and isolated. Depending on the contents of the sac and presence or absence of bowel strangulation, the hernia may be easily reduced with herniotomy or may require omentectomy or bowel resection. Some surgeons may elect to place non-absorbable sutures when closing the fascial defect, while others may choose a synthetic mesh or a biologic mesh.
+
+Laparoscopic surgical management is superior in terms of morbidity and length of stay compared to open techniques.
+
+Robotic techniques have recently been described and are carried out similarly to IPOM laparoscopic approach.
+
+If there is a concern for intra-abdominal infection and/or strangulation of the hernia contents necessitates a concomitant bowel resection, a synthetic mesh should not be utilized in the repair. There is no evidence-based consensus on the repair of a Spigelian hernia in the setting of contamination. Still, laparoscopic suture repair, biologic mesh repair, synthetic mesh placed in the preperitoneal space, or staged mesh repair all remain viable options.

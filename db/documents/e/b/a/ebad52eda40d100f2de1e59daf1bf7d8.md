@@ -1,0 +1,1 @@
+As described above, initial revascularization followed by secondary prevention should be performed in BAO patients.

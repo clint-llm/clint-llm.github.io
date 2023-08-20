@@ -1,0 +1,3 @@
+The limb buds of the embryo begin to form about five weeks after fertilization as the lateral plate mesoderm migrates into the limb bud region and condenses along the central axis to eventually form the vasculature and skeletal components of the lower limb.
+
+Retinoic acid is a global organizing gradient that initiates the production of transcription factors that specify regional differentiation and limb polarization. The apical ectodermal ridge (AER) produces a fibroblast growth factor (Fgf), promoting the outgrowth of the limb buds by stimulating mitosis.

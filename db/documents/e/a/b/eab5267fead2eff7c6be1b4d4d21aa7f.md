@@ -1,0 +1,1 @@
+Early initiation of immunomodulatory therapy is key for improving visual outcomes in patients with sympathetic ophthalmia. Studies show initiation of treatment within 15 days of symptom onset allowed over 85% of sympathizing eyes to achieve visual acuity of 20/40 or better and over 20% of inciting eyes to reach at least 20/80.

@@ -1,0 +1,7 @@
+Decreasing or eradicating exacerbating factors can play an important role in treating acute attacks of hepatic porphyrias and in preventing future attacks. Some patients have predictable triggers for acute attacks; these should be avoided or reduced as much as possible.
+
+During an acute attack, potentially harmful medications should be discontinued whenever possible. It is strongly advised for clinicians to consult the websites of the American Porphyria Foundation and the European Porphyria Network (EPNET), which list many medications, including those that are not classified with certainty; provide evidence for these classifications, and are regularly updated. Also, these websites should be consulted to avoid prescribing harmful medications in treating concurrent illnesses or symptoms.
+
+Potentially harmful lifestyle factors include smoking and alcohol use. Patients should be counseled to avoid or discontinue smoking, including the use of marijuana, and to avoid alcohol intake. Smoking and alcohol use can both exacerbate acute hepatic porphyrias via induction of hepatic cytochrome P450 enzymes (CYPs), which, in turn, can diminish the pool of hepatic heme and directly induce enzymes in the porphyrin pathway, leading to increased synthesis of toxic heme precursors.
+
+Acute attacks are also associated with sex hormones (e.g., progesterone), decreased caloric or carbohydrate intake (especially fasting), and metabolic stress due to infections or other illnesses.

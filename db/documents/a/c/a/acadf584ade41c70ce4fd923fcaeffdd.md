@@ -1,0 +1,5 @@
+Lofgren syndrome is a constellation of the following findings: erythema nodosum, bilateral hilar lymphadenopathy, fever, and migratory polyarthritis.
+
+The arthritis of Lofgren syndrome occurs more often in men, and with periarticular inflammation involving soft tissue and tenosynovitis rather than true arthritis. It typically involves ankles symmetrically but can also involve knees, wrists, and elbow.
+
+Erythema nodosum presents as painful, bright red, subcutaneous nodules that are typically symmetric on the anterior shins, in contrast to macular/papular sarcoidosis which has a predilection for sites of repetitive trauma. These lesions along with the fever typically remit spontaneously within 6 weeks and may resolve with post-inflammatory hyperpigmentation but without scarring or atrophy. Resolution of lymphadenopathy may delay, taking up to one year, but does resolve completely in 90% of cases.

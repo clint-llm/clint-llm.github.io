@@ -1,0 +1,5 @@
+The bronchial arteries predominantly supply the visceral pleura. Blood returns to the heart via the pulmonary system. The parietal pleura, however, receives supply by the systemic arteries that overlie it (internal thoracic, intercostal, and phrenic arteries). Venous return for the parietal pleura occurs similarly.
+
+Lymphatic drainage from the pleural cavity occurs through mostly parietal pleura involvement. The parietal pleura contains several openings (stomata) that allow fluid drainage to the subpleural lymphatic system. These drain to the diaphragmatic, internal mammary, retrosternal, paraesophageal, and celiac lymph node stations.
+
+The visceral pleura does have a significant role in draining fluid from the interstitium of the lung parenchyma. The lymphatic channels run through the basement membrane and mostly drain to the infralobar and hilar lymph nodes.

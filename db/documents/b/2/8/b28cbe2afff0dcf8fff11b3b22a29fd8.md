@@ -1,0 +1,1 @@
+Most radicular arteries disappear before birth; however, several dominant radiculomedullary ones remain, including the artery of Adamkiewicz. They also result in important collateral vessels for the spinal cord by forming anastomoses with the anterior and two posterior spinal arteries resulting in their common name of booster/feeder vessels.

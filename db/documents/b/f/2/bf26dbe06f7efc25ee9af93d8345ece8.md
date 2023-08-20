@@ -1,0 +1,3 @@
+In the dermis, two vascular plexuses lie parallel to the surface of the skin. These superficial and deep plexuses lie in the superficial and deep aspects of the reticular dermis, respectively. Capillaries run perpendicular to and connect these plexuses and envelop different adnexa of the skin, including both eccrine and apocrine glands.
+
+Lymphatics lie parallel to the skin blood supply. Close-ended lymphatic capillaries begin in the dermal papillae and drain into underlying deep dermal and subdermal plexuses. These plexuses then combine into larger lymphatic channels that eventually drain into the venous system.

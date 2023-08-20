@@ -1,0 +1,1 @@
+Morbidity and mortality of traumatic hemothorax correlate with the severity of the injury and those at risk of late complications, namely empyema and fibrothorax/trapped lung. Patients with retained hemothorax are at risk of developing empyema resulting in a prolonged ICU/hospital stay.

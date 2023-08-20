@@ -1,0 +1,1 @@
+According to the manufacturer’s labeling information, the oral LD50 of dexamethasone in female mice is 6.5 g/kg. The intravenous formulation of dexamethasone has an LD50 of 794 mg/kg in female mice. In the case of overdosage, no specific antidote is available. Therefore, treatment is supportive and symptomatic.

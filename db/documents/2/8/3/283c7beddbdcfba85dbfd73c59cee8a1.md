@@ -1,0 +1,3 @@
+Providing care for uncontrolled hypertension costs $48.6 billion each year.
+
+Renovascular hypertension affects people of all ages. Renal artery stenosis secondary to atherosclerosis is the most common cause and is mostly seen in older adults (>65 years). It has a higher prevalence in patients with known atherosclerotic disease (such as those with coronary artery disease, peripheral artery disease, or carotid artery stenosis) and autopsy studies have revealed that "greater than 25% of all patients who die of cardiovascular disease have some degree of RAS.”

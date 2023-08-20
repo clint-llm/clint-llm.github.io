@@ -1,0 +1,5 @@
+Overall, primary HHV-6 infection is among the most prevalent causes of acute febrile illness in young children. It is also a significant cause of visits to the emergency department, hospitalizations, and febrile seizures.Roseolovirus genus. The virion particle has the characteristic structure of a herpesvirus, with a central core containing the viral DNA, a capsid, and a protein-rich tegument layer that is surrounded by a membrane.
+
+The principal target cell for HHV-6 is the mature CD4+ T cell.
+
+While the exact mechanism of HHV-6 transmission is still under investigation, several studies have elucidated the viral transmission via saliva. It appears that transfer via saliva from mother to infant is the most common route. Several early reports described infectious HHV-6 as being present in saliva from nearly every person tested.

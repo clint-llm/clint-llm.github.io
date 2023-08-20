@@ -1,0 +1,1 @@
+Treatment is not necessary for breast milk jaundice unless the infant's total serum bilirubin level is greater than the phototherapy guidelines recommended by the American Academy of Pediatrics (AAP).

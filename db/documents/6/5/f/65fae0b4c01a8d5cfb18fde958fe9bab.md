@@ -1,0 +1,1 @@
+Studies have shown abnormal blood pressure response and hypertension in patients with movement disorders in sleep due to an imbalance between the sympathetic and parasympathetic nervous systems.

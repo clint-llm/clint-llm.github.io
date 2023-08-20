@@ -1,0 +1,1 @@
+The prime indication for osteotomy in cubitus varus is cosmesis. The function of the limb is either minimally or not affected. The surgery is advisable in patients having symptoms of instability and ulnar nerve paresis.

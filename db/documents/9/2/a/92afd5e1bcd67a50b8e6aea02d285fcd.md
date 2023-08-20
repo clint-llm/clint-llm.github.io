@@ -1,0 +1,1 @@
+Psychological safety is essential in the function of interprofessional teams in medical simulation and the clinical setting. Interprofessional teams that are psychologically safe have improved communication.

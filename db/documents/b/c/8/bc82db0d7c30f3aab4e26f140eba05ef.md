@@ -1,0 +1,1 @@
+For children with isolated polydactyly, the prognosis is excellent. Most children can use their fingers and toes after surgery with a full range of motion. If polydactyly presents as a part of the syndrome, the prognosis may be poor due to the presence of other birth defects rather than the effect of polydactyly.

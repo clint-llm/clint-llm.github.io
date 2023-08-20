@@ -1,0 +1,1 @@
+Patient with a newly diagnosed pseudomyxoma peritonei is recommended to undergo CRS/HIPEC if medically fit with the goal of achieving complete cytoreduction.  Even though the long-term outcomes after treatment are impressive for patients with low-grade histology, there’s still a significant recurrence of the disease. Regular follow-up is essential to monitor disease progression.

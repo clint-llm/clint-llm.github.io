@@ -1,0 +1,1 @@
+A neurovascular bundle runs along the dorsal aspect of the penis in a groove between the corpora cavernosa hemispheres. This groove includes the dorsal nerve of the penis, dorsal penile vein, and dorsal penile artery. These lay beneath the deep fascia, also known as Buck's fascia.

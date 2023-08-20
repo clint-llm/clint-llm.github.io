@@ -1,0 +1,5 @@
+Patients typically present with dull, aching pain in the superior and/or posterolateral shoulder that can radiate down the arm or into the neck. If the injury is distal to the spinoglenoid notch, patients may not complain of pain at all. Additional symptoms include a sense of instability if there is associated shoulder pathology, such as a labral or rotator cuff tear.
+
+Given the symptoms can overlap with other shoulder pathologies and sometimes present without pain, it is often difficult to diagnose an SSN injury on history alone. A comprehensive exam includes a detailed shoulder and cervical spine exam to rule out alternative or co-morbid etiologies. One of the most common findings on physical exam is atrophy of the infraspinatus and/or supraspinatus muscles, with one meta-analysis finding atrophy in one or both muscle groups in nearly 80% of patients with confirmed suprascapular neuropathy. Patients may endorse tenderness to palpation posterior to the AC joint and/or the posterosuperior joint line.
+
+The patient's pain may be exacerbated by cross-body adduction and internal rotation.

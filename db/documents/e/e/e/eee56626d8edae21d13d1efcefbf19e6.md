@@ -1,0 +1,1 @@
+Possible complications of a scabies infection include persistent itching, insomnia, secondary bacterial infection, and outbreaks of the disease to the community

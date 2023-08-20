@@ -1,0 +1,1 @@
+An hourglass narrowing will be seen on arteriography when an end-to-end anastomosis performed under tension.  There will also be bleeding noted from suture holes.

@@ -1,0 +1,1 @@
+Blepharoplasty/ptosis surgery can be done with a scrub tech and a circulating nurse. A nurse anesthetist should be in the room with an anesthesiologist. Monitoring the patient at all times is essential for safety.

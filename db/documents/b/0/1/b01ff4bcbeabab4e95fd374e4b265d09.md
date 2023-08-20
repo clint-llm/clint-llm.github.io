@@ -1,0 +1,1 @@
+Patients with osteoporosis have an increased risk of fractures. When fractures occur, patients should seek medical attention. Signs and symptoms might include sudden limitation in movement and increased pain with movement. If the patient reports these complaints—especially after a fall—consult the healthcare provider.

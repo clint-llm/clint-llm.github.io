@@ -1,0 +1,3 @@
+**Ongoing Research**
+
+New findings by the scientists at Beth Israel Deaconess Medical Center and the Harvard Medical School in Boston, Massachusetts, suggest that the organism can cause angiogenesis in the affected tissues. The ability of Bartonella to induce angiogenesis could circumvent blocked arteries in the heart, promote the formation of new blood vessels in damaged limbs, and speed up wound healing in damaged tissues. Current investigations are focused on understanding the genetic basis of the mechanisms that are involved in the causation of angiogenesis.

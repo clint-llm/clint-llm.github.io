@@ -1,0 +1,11 @@
+The peripheral auditory system consists of three main parts, the outer, middle, and inner ear.
+
+- **The outer ear**includes the pinna and external auditory meatus (the ear canal). The purpose of the outer ear is to collect external sound waves, which can be funneled and transmitted to the tympanic membrane via the ear canal.
+
+- **The middle ear**is comprised of the tympanic membrane (the eardrum) and three ossicles: the malleus, incus, and stapes. The air-filled middle ear space is connected to the nasopharynx via the Eustachian tube. This tube is responsible for equalizing the middle ear pressure to the external pressure in the atmosphere. Sound transmitted from the external auditory meatus causes the tympanic membrane to vibrate, which in turn moves the middle ear ossicles, the third of which, the stapes, is connected to the oval window of the cochlea.
+
+- **The inner ear**is made up of the cochlea and semicircular canals, which assist with the brain's perception of head movement and angular acceleration. The cochlea is a perilymph-filled structure with a 'snail shell-like' appearance. Its inner turns contain the Organ of Corti, which sits on the basilar membrane and houses rows of auditory receptor cells (hair cells), tonotopically arranged and tuned to particular sound frequencies. Movement of the stapes at the oval window causes activation of the hair cells through the movement of the perilymph and tectorial shifts at the basilar membrane. This activation converts the physical properties of the sound into electrical signals, which can then travel across the vestibulocochlear nerve to the brainstem and auditory cortex.
+
+**Bone Conduction vs. Air Conduction Pathways**
+
+The air conduction pathway of sounds utilizes the outer, middle, and inner ear structures, as discussed above. The bone conduction pathway, however, differs in that sound vibrations, if transferred through the skull, can stimulate the oval window of the cochlea, which is housed in the petrous portion of the temporal bone.

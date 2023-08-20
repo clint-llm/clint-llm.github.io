@@ -1,0 +1,1 @@
+Chronic SLIL injuries often result secondary to trauma although they can also occur in association with other degenerative or inflammatory arthritic conditions of the wrist.

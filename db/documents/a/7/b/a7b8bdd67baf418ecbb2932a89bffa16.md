@@ -1,0 +1,3 @@
+Although the incidence rate of left-hemispheric strokes is 54%, greater than right-hemispheric, which is 43%, the occurrence of spatial neglect is disproportionately more following a right-sided stroke.
+
+A case study reported the majority of patients of neglect above 65 years of age and fewer patients of neglect below the age of 65 years. Individuals with low socioeconomic status and White race reportedly show a strong association with spatial neglect.

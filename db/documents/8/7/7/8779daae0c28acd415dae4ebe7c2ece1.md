@@ -1,0 +1,3 @@
+Symptoms of toxicity may resolve within several weeks after discontinuing vitamin A and instituting supportive therapy. Patients with increased intracranial pressure may require lumbar punctures or medications such as mannitol and diuretics for therapy. Patients with hypercalcemia may require intravenous fluids and additional therapy such as calcitonin and corticosteroids.
+
+Congenital disabilities caused by vitamin A are irreversible.

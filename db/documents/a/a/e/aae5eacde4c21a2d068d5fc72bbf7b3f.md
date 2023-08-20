@@ -1,0 +1,1 @@
+The 3 major causes of pediatric in-toeing are metatarsus adductus, internal tibial torsion, and femoral anteversion. Each has unique typical findings and age of presentation. Other causes to keep in mind as differentials will be discussed below.

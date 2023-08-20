@@ -1,0 +1,3 @@
+Complications include hypotension, coma, and respiratory depression.  It is important to maintain the respiratory and cardiovascular status, as failure to do so can result in hypoxic brain injury and death. Rarely, phenobarbital has been associated with Steven-Johnson syndrome, a medical emergency that results in blisters (especially mucous membranes), fever, and widespread pain.
+
+Long-term abuse has been associated with depression, loss of appetite, achiness, and rarely liver damage. As previously discussed, withdrawal symptoms can be severe, and the patient should be monitored carefully and treated accordingly.

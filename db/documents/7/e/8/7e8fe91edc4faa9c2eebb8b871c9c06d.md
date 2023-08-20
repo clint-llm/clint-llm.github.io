@@ -1,0 +1,5 @@
+Based on the data from the surveillance, epidemiology, and end results (SEER) program of the National Cancer Institute, throughout the 1990s, IBC incidence rose, and survival improved modestly. Substantial racial differences were noted in age at diagnosis, age-specific incidence rates, and survival outcomes.
+
+Inflammatory breast cancer is the most aggressive entity of breast cancer. The median overall survival among women is less than 4 years, even with multimodality treatment options. However, increased survival in recent years has been noted with the improvement of chemotherapeutic management.
+
+Several studies have reported that inflammatory breast cancer constitutes a larger proportion of breast cancers in low-income countries than in Western countries. Management of inflammatory breast cancer in low-income countries poses different sets of challenges, including poor access to screening, late stage of presentation, and poor availability of multidisciplinary services.

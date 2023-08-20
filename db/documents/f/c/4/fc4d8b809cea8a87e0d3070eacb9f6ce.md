@@ -1,0 +1,1 @@
+Full strength and range of motion is the goal of rehabilitation. Hand exercises with light resistance, such as rubber bands or squeeze balls, can help if scarring or extensor lag develops.

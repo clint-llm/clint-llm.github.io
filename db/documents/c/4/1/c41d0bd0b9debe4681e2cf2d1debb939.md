@@ -1,0 +1,3 @@
+Absolute contraindications for kidney transplantation are the inability to tolerate surgery due to severe cardiac or pulmonary disease, active malignancy, active infection, active drug abuse, and uncontrolled psychiatric disease.
+
+Relative contraindications are more variable and may differ depending on the institution and geographic region: morbid obesity with a recommended body mass index (BMI) less than 40 kg/m, history of noncompliance with dialysis schedule or medication regimen, frailty, psychiatric problems, and limited life expectancy (defined as less than the anticipated waiting time for a kidney).

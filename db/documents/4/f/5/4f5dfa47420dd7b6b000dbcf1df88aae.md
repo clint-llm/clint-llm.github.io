@@ -1,0 +1,3 @@
+The impact of central line care is significant. When complications of central venous catheters occur they cause significant morbidity, increase length of hospital stay, and delay recovery.
+
+The relative cost of central line care interventions (increases in nursing care hours, relatively cheap dispensable, and change to monitoring practices) compared to the morbidity of a CVC-associated infection and the cost of the care for these complications.Depending on how the costs are estimated, the cost of treatment for these complications is thought to be between $3,700 and $39,000 in the USA and China and roughly 8,810 € per complication in Europe.

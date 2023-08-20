@@ -1,0 +1,3 @@
+The true prevalence of CSX is unknown but is reported to be more common in women (70%) when compared to men.
+
+Approximately 10 to 20% of subjects receiving a coronary angiography are reported to have CSX. A large study conducted in 886 subjects with chest pain suspecting a myocardial infarction received a coronary angiography; 41% of females demonstrated non-significant findings of the coronary vessels, significantly greater than men, which showed 8%.

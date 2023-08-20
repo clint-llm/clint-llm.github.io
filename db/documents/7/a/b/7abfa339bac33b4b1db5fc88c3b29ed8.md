@@ -1,0 +1,1 @@
+Proper wound management includes wound irrigation as it leads to better wound healing, decreased risk of infection, and decreased risk of hospital admission.

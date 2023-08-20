@@ -1,0 +1,3 @@
+Due to the rare nature of idiopathic pulmonary hemosiderosis (IPH), the incidence and prevalence of the disease are relatively unknown. Many patients previously reported to have IPH are likely misdiagnosed and have a diffuse alveolar hemorrhage. A Swedish study from 1984 estimated an incidence of 0.24 per million children per year, using data collected from 1950-1979.
+
+Approximately 80% of cases occur in children, most of which are diagnosed in the first decade of life.

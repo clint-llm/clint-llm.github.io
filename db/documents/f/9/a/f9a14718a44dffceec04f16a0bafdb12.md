@@ -1,0 +1,3 @@
+Otic ganglion is one of the four parasympathetic ganglia within the head region. An anatomist named Arnold first described it in 1828. It was called 'otic' as it was large in long-eared mammals such as donkey, rabbit, horse, and other ruminants.
+
+The otic ganglion has parasympathetic, sympathetic, sensory, and motor roots. The otic ganglion transmits postganglionic parasympathetic secretomotor fibers to all branches of the mandibular division of the trigeminal nerve. It also sends sympathetic vasomotor fibers to the parotid gland. Innervation to tensor veli palatini, tensor tympani, and medial pterygoid muscle also occurs via a motor root of otic ganglion.

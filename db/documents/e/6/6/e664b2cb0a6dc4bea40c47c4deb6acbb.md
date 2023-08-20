@@ -1,0 +1,7 @@
+Detailed patient history is paramount in determining the possible underlying etiology. The next step would be to determine any potential contributing factors, such as medications. Colorimetric and or gravimetric testing can demonstrate diminished or absent sweating. Injection of local, intradermal cholinergic drugs to promote sweating can be utilized. However, this should only be done in a small area as the side effect profile and its associated risks preclude injection into large areas. If a patient is suspected of having peripheral neuropathy, testing the axon reflex sweating by injecting an intradermal picrate or nicotine sulfate at an appropriate dose may be performed. A skin biopsy from an affected area should always be obtained in patients with suspected anhidrosis to identify abnormalities of the sweat glands.
+
+A quantitative sudomotor axon reflex test (QSART) assesses the autonomic nerves that mediate sweating.
+
+A silastic sweat imprint test also utilizes electrodes, however, pilocarpine is used to stimulate the sweat glands. indentations appear to mark the sweat droplets on a material formed of silicone rubber.
+
+A thermoregulatory sweat test utilizes the body's core temperature to assess a correlation to sweat production. It assesses the thermo-regulatory sudomotor mechanism of the body.

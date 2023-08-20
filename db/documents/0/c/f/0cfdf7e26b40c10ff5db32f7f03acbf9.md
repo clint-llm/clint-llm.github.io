@@ -1,0 +1,1 @@
+When the eGFR is below 45 mL per minute, and the patient has albuminuria greater than 300 mg/g creatinine a nephrology consult is prudent to establish a baseline for future renal replacement therapy.

@@ -1,0 +1,1 @@
+The literature has described several uses for the levator anguli oris muscle in both aesthetic and functional surgery. More recently, in 2015, Surek et al. reported a method to analyze the face using the levator anguli oris muscle as a landmark to determine optimal locations for volumizing injections and zones to avoid to minimize the risk of complications.

@@ -1,0 +1,1 @@
+The foramen ovale is present in utero and allows blood to pass from the right atrium to the left atrium, bypassing the fetal lungs. It normally closes within a few years after birth; however, if it fails to close, it may continue to allow shunting of venous blood into the left heart

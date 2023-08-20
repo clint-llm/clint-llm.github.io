@@ -1,0 +1,1 @@
+Drug-induced hepatotoxicity or drug-induced liver injury (DILI) is an acute or chronic response to a natural or manufactured compound.

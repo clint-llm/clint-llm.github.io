@@ -1,0 +1,5 @@
+Magnetic resonance imaging (MRI) is useful for evaluating the structure and soft tissue characteristics of nerves, soft tissues, articular surfaces, and tendons.
+
+It is an important consideration that both tenosynovial giant cell tumor and amyloidosis can coexist simultaneously, as seen in the MRI images for patient 5. The "shoulder pad" sign is also visible in hypertrophied shoulder musculature due to myofibrillar amyloid deposition. In amyloid-related carpal tunnel syndrome, paradoxical T2 signal loss of the median nerve may be seen on MRI, which is expected to demonstrate increased signal with other forms of carpal tunnel syndrome. The MRI manifestations of amyloid-related carpal tunnel syndrome can be seen in the MRI images for patient 4.
+
+Imaging manifestations of tenosynovitis appear as an increased fluid signal on T2 and STIR sequences. Further examples of musculoskeletal amyloid MR imaging manifestations can be seen in the MRI images for patient images 2, 3, and 5.

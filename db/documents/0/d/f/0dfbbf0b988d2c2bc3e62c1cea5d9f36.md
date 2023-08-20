@@ -1,0 +1,1 @@
+Comminuted fractures of the ZMC have worse outcomes than non-comminuted fractures and have a higher rate of reoperation.

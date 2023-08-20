@@ -1,0 +1,1 @@
+TTD prognosis is mostly guarded depending on the type of disease transmitted to a recipient. HIV, hepatitis B and C, malaria and Chagas disease affects millions of people in the developing world and many unable to have access to healthcare. West Nile virus infection may be mild and may not need medical attention.

@@ -1,0 +1,7 @@
+- Hypotension
+
+- Unresponsive
+
+- Anuria
+
+- Fever

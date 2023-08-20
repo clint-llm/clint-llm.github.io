@@ -1,0 +1,1 @@
+Bowel embryology is a complex process that depends on proper signaling from many transcription factors to have proper growth, rotation, and functional epithelium with villi. Understanding the normal sequence of events is important as the basis for many congenital gastrointestinal diseases are a result of errors in this process.

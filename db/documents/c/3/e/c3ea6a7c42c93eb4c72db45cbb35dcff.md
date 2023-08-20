@@ -1,0 +1,3 @@
+Echocardiography utilizes ultrasound to image the cardiovascular system from both an anatomical and a physiologic standpoint. The advances in echocardiography initially began with Inge Edler, often considered the father of echocardiography, who utilized an early motion-based technique called M-mode.
+
+With its ability to assess real-time hemodynamics, echocardiography has played an important role in the modern-day management of patients.

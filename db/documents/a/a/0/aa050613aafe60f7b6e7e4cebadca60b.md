@@ -1,0 +1,1 @@
+The patient is an integral part of the team. They should be included in the diagnosis and other decision-making processes, including management options. Education regarding exercises, home exercise programs, skincare, and brace maintenance will result in better outcomes.

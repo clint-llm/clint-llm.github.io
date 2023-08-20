@@ -1,0 +1,1 @@
+It is thought that ephaptic transmission of impulses may be responsible for many of the cases seen with superior oblique myokymia.

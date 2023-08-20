@@ -1,0 +1,1 @@
+If BSS patients received good primary care and education about avoiding trauma, and follow precautions, they can live their lives quite normally. Preventive care and meticulous planning for elective surgeries is needed to minimize bleeding events. Alert bracelets must be worn by patients at all times to alert emergency services in case of trauma.

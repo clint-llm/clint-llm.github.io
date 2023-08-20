@@ -1,0 +1,3 @@
+FGAs and SGAs are prognostically similar in acute overdose. While neuromuscular symptoms are less common with SGAs, the increased incidence of central nervous system depression associated with SGA overdose compared to FGAs may be more dangerous.
+
+Estimates of NMS mortality in the literature vary broadly, ranging from 3.3% to 27.7% with a declining trend over the last two decades. Patients who survive the NMS episode generally recover completely, but about 3% develop prolonged or permanent neuropsychiatric complications.

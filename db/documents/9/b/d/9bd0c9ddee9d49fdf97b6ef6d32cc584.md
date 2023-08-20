@@ -1,0 +1,1 @@
+Without proper treatment of LWE, patients are at risk of cicatrization of the superior tarsal conjunctiva and subsequent entropion with or without subsequent trichiasis.

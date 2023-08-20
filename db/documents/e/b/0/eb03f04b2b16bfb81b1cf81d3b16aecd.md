@@ -1,0 +1,1 @@
+Time to peak plasma concentration is approximately 1.5 hours, 3 hours, and 5 hours for the IR, SR, and XL formulations, respectively. Oral absorption approaches 100%, and the volume of distribution is 19 l/kg at steady state. Bupropion is hepatically metabolized by CYP2B6 to its active metabolite, hydroxybupropion, and excreted through urine.

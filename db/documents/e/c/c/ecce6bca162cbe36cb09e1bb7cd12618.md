@@ -1,0 +1,1 @@
+Often, treatment is effective and may alleviate your symptoms. In some cases, after your diverticulum is treated (for instance, if a blockage in the bladder is corrected), you will not need any more treatment. A cystoscope may be used to examine your diverticulum through the urethra.

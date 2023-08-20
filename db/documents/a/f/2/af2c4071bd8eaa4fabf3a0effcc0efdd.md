@@ -1,0 +1,1 @@
+After surgical removal of Pilar cyst, it is very important to taking care of the surgical site. Daily dressing is advisable along with normal saline and disinfectant solution, covering the sutures with gauze is recommended for the first very days. Typically, sutures should be removed in 7 to 10 days depending on the site of the cyst and status of the wound.

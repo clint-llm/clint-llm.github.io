@@ -1,0 +1,3 @@
+Patients with trichuriasis will typically reside in or have visited areas that are endemic to the whipworm. The patient will usually complain of abdominal pain, painful passage of stools, abdominal discomfort, and mucus discharge. Diarrhea and constipation are also common presenting complaints. Nocturnal passage of stools is a common occurrence. Many patients are asymptomatic as the clinical disease is dependent on parasite burden.
+
+In general, the physical examination of these patients is normal. The exam may reveal signs of anemia including pallor. Patients with a prolonged infection may have and clubbing.

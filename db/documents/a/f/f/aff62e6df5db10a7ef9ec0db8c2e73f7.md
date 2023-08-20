@@ -1,0 +1,1 @@
+Werner syndrome patients typically live into the fifth decade of life. Patients usually die of malignancy or cardiovascular disease.

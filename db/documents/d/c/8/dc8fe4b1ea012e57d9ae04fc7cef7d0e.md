@@ -1,0 +1,7 @@
+Metronidazole is one of the mainstay drugs for the treatment of anaerobic bacterial infections, protozoal infections, and microaerophilic bacterial infections. It is cytotoxic to facultative anaerobic microorganisms. It is used to treat intestinal amebiases, liver amebiasis, bacterial septicemia, bone and joint infections, meningitis, brain abscess, endocarditis, endometritis, bacterial vaginosis, intra-abdominal infections, lower respiratory tract infections, skin structure infections, and surgical prophylaxis colorectal surgeries. This activity will highlight the mechanism of action, adverse event profile, contraindications, monitoring, and other key factors pertinent to interprofessional team members in the care of patients being treated with this medication.
+
+**Objectives:**
+- Describe the indications to begin metronidazole therapy.
+- Outline dosing of metronidazole for some of the more common indications.
+- Describe the importance of antibiotic stewardship when initiating a broad-spectrum antimicrobial like metronidazole.
+- Explain the importance of antibiotic stewardship and how it affects antimicrobial selection as it pertains to improving care coordination among the interprofessional team when initiating antibiotic therapy with metronidazole.

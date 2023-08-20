@@ -1,0 +1,1 @@
+In general, only one operator is required. If a second operator is available, they may assist with patient positioning, equipment, machine location, screen optimization, and image recording.

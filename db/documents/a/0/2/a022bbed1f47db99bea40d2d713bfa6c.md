@@ -1,0 +1,1 @@
+Hyperhidrosis can affect not only a patient's physical health but also their psychological health. Patients, particularly those within the pediatric population, may suffer from social embarrassment leading to a lower quality of life than their peers.

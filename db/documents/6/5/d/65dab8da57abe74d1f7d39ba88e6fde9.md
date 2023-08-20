@@ -1,0 +1,1 @@
+The auricle is irrigated by the superficial temporal artery anteriorly (toward the tragus) and the posterior auricular artery posteriorly (toward the lateral helix), both originating from the external carotid artery.

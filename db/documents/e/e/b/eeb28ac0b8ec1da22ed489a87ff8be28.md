@@ -1,0 +1,7 @@
+Acetylcholine (ACh) is a neurotransmitter found within synaptic vesicles in presynaptic cholinergic neurons present in the central nervous system (CNS), autonomic nervous system (ANS), and neuromuscular junction (NMJ). It is synthesized within the cytosol of the presynaptic neuron from acetyl-coenzyme A and choline by the enzyme choline acetyltransferase. It is subsequently transferred to vesicles within the presynaptic neuron for storage. Upon stimulation of the neuron, ACh vesicles are exocytosed, out of the neuron, and into the synaptic cleft, where it can act on receptors present on postsynaptic neurons. In general, the ACh binds to ACh receptors are nicotinic-type at the NMJ, and muscarinic-type at the CNS and ANS, although some exceptions exist.
+
+Acetylcholinesterase is an enzyme in the synaptic cleft, functioning to degrade acetylcholine and decrease its concentration, thereby, decreasing its action on its receptors.
+
+Any process that attenuates the effects of acetylcholine at its receptors, whether by reducing its synthesis or release, increasing acetylcholinesterase activity, or inhibiting the receptor, is termed an anticholinergic effect. This activity can result from normal physiology, abnormal pathology, or medication.
+
+Medications with anticholinergic activity usually affect muscarinic receptors but not nicotinic receptors. There are a limited number of medication classes with antinicotinic properties. Therefore the remainder of this article, "anticholinergic" is used synonymously with "antimuscarinic."

@@ -1,0 +1,1 @@
+Acrochordons have a high prevalence, reportedly 46% of the general population, increasing in frequency with patient age. Given that so many patients may have acrochordons, patients should be reassured that these are common benign lesions that should not be concerning. [6]

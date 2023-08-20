@@ -1,0 +1,1 @@
+Human KBS is more or less restricted to case series and reports. Hence the exact prevalence is difficult to estimate.

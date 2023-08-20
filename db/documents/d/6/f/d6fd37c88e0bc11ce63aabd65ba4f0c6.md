@@ -1,0 +1,5 @@
+In restrictive diseases, the TLC decreases, resulting in decreased FRC, and the lung tissues or chest wall expansion are limited or restricted.  One example of restriction due to chest wall issues is severe kyphosis or weakness of spinal bones. Kyphosis is described elsewhere.
+
+With obstructive diseases such as emphysema, the FRC is increased. With emphysema, the lungs become increasingly compliant, due to alveolar destruction. As the alveoli are destroyed, air is trapped in the lungs, and TLC is increased.  The increased volume and lung tissue compliance causes the chest wall to expand, hence, the typical barrel chest seen in those with emphysema.
+
+While other lung values are more widely used clinically, functional residual capacity (FRC) contains utility both in understanding the respiratory cycle and in clinical practice. Since FRC is the equilibrium point for the forces of the chest wall and lung, it is an efficient starting point when learning about the chest wall/lung system. Both clinicians and researchers use methods to calculate FRC to obtain values that cannot be measured by standard spirometry.

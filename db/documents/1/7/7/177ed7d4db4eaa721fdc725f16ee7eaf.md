@@ -1,0 +1,3 @@
+Ischemic etiologies can further be divided into embolic, thrombotic, and lacunar. In general, the common risk factors for stroke include hypertension, diabetes, smoking, obesity, atrial fibrillation, and drug use. Of all the risk factors, hypertension is the most common modifiable risk factor for stroke. Hypertension is most prevalent in African-Americans and also occurs earlier in life.
+
+Lacunar strokes contribute up about 20% of all ischemic strokes and result from occlusion of the small penetrating branches of the middle cerebral artery, vertebral or basilar artery or the lenticulostriate vessels. Typical causes of lacunar strokes include microemboli, fibrinoid necrosis secondary to vasculitis or hypertension, amyloid angiopathy, and hyaline arteriosclerosis.

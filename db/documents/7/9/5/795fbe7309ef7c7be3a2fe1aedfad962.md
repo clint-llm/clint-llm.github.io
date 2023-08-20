@@ -1,0 +1,1 @@
+As adverse reactions are the main subject, the full list of renal damage locations appears in tables 1 and 2. The primary sites include the glomerulus and proximal and distal convoluted renal tubules.

@@ -1,0 +1,1 @@
+Purtscher retinopathy (traumatic retinal angiopathy or lymphorrhagia retinae or retinal teletraumatism) is an occlusive microvasculopathy characterized by multiple retinal white areas around the optic nerve head and fovea with paravascular clearing, which may be associated with intraretinal hemorrhages.

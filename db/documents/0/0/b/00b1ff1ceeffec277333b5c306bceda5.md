@@ -1,0 +1,1 @@
+Most of the above studies are randomized controlled trials to study the efficacy of various antihypertensive medications.

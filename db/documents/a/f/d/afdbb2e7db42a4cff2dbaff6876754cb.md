@@ -1,0 +1,3 @@
+What are sexually transmitted infections (STIs), and why are they important? This review will detail important points and reference important articles for physicians and other healthcare professionals to use in evaluating and treating patients with signs and symptoms suggestive of sexually transmitted infections. Physicians should use this article as a guide to further enhance their knowledge and help provide a better outcome for their patients.
+
+Sexually transmitted infections, previously known as sexually transmitted diseases, involve the transmission of an organism between sexual partners through different routes of sexual contact, either oral, anal, or vaginal.

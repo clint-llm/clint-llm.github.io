@@ -1,0 +1,1 @@
+5-hydroxy indoleacetic acid use as a proxy to measure serotonin levels is important because of serotonin’s systemic effects and prognostic capacity. Serotonin is mainly secreted by enterochromaffin cells in the gastrointestinal system and, to a lesser extent, by neurons within the nervous system.

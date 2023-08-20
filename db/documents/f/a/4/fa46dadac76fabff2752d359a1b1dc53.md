@@ -1,0 +1,1 @@
+With antibiotic treatment, the mortality of epidemic relapsing fever decreases from 10% to 40% to 2% to 4%. Fatalities are lower in tick-borne disease compared to louse-borne disease, with treatment.

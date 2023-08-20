@@ -1,0 +1,7 @@
+At higher altitudes, the decreased partial pressure of oxygen can cause several pathological presentations, including high altitude pulmonary edema, high altitude cerebral edema, and the more mild, but much more common acute mountain sickness (also referred to as altitude illness or altitude sickness). High altitude pulmonary edema and high altitude cerebral edema are both life-threatening emergencies requiring immediate treatment with prompt descent to lower altitude (or artificial high pressure environment). In contrast, acute mountain sickness can be prevented or managed with oral medication, and does not typically require prompt descent or oxygen supplementation. This activity reviews the evaluation and management of patients with acute mountain sickness and provides recommendations to preventing the condition. This activity highlights the role of the interprofessional team in caring for and counseling patients at risk for acute mountain sickness.
+
+**Objectives:**
+- Describe how to prevent altitude sickness by modifying the rate of ascent.
+- Describe how to use acetazolamide for both prophylaxis and treatment of acute mountain sickness. 
+- Describe the prognosis for patients with acute mountain sickness. 
+- Identify interprofessional team strategies to coordinate care to more effectively prevent and treat acute mountain sickness.

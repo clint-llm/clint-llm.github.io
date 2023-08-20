@@ -1,0 +1,3 @@
+Paraphilias are persistent and recurrent sexual interests, urges, fantasies, or behaviors of marked intensity involving objects, activities, or even situations that are atypical in nature. Although not innately pathological, a paraphilic disorder can evolve if paraphilia invokes harm, distress, or functional impairment on the lives of the affected individual or others. A total of eight Paraphilias are listed in the DSM V and include pedophilia, exhibitionism, voyeurism, sexual sadism, sexual masochism, frotteurism, fetishism, and transvestic fetishism.
+
+Pedophilia is any sexual activity with a prepubescent child, where the offender/patient is at least sixteen years of age, and the victim is at least five years younger.

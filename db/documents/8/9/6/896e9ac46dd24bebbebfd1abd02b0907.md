@@ -1,0 +1,3 @@
+Laboratory measurements of BUN and creatinine are commonly performed before the use of contrast agents to provide an adequate baseline measurement for future kidney function assessments. Evaluation of a patient's vitals preceding and during the use of contrast agents can be another helpful test to monitor for toxicity. Significant changes in blood pressure, either elevation or depression, may occur due to cardiac or allergic reactions to the contrast agent.
+
+However, there is currently no standardized set of tests required to evaluate for contrast toxicity. Due to the varied presentations of toxicity, evaluation principally relies on a thorough history and physical exam to assess for adverse events in the setting of a recent contrast agent exposure.

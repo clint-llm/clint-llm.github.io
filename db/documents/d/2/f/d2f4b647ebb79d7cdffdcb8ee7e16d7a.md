@@ -1,0 +1,31 @@
+The patient should be positioned in Trendelenburg for IJ or flat for common femoral vein or subclavian access. Depending on the patient's anatomy, a cushion may be placed beneath the vertebral column, facilitating needle insertion and dilation of the SC vein.
+
+After preparation is completed, the following steps should be followed:
+
+- Under ultrasound guidance, identify the vein (check that the vessel is compressible, and if in doubt, check doppler color flow) and use 1% lidocaine to anesthetize the skin and subcutaneous tissue (in awake patients).
+
+- Under ultrasound guidance, use the finder needle with a ten cc syringe attached; at a 45 to 90-degree angle, advance the hand through the skin, holding negative pressure on the syringe until a flash of dark venous blood appears. Be sure to maintain dynamic visualization of the needle tip as it enters the vessel.
+
+- Following the aspiration of venous blood, stabilize the needle with the dominant hand, disconnect the needle from the syringe, and thread the guidewire through the needle. The wire should advance quickly. If there is any resistance, you may not be in the vessel; there may be an obstruction distal to the entry site, or the j-tip of the wire may be advancing retrograde. Attempt to remove the wire and re-thread. If the wire enters the right atrium, ectopy can be appreciated. Should telemetry demonstrate any ectopy or arrhythmia, the wire should be immediately pulled back until the arrhythmia resolves. Typically the wire does not need to be pulled out completely.
+
+- Once the wire is at 15 cm (three hash marks), stabilize the wire between two or more fingertips and withdraw the needle making sure not to sustain a needlestick inadvertently. Never let go of the wire!
+
+- Once the needle has been removed, re-image the vessel with ultrasound in both a transverse and longitudinal plane. The wire should be visualized within the vessel lumen. If you do not see the wire within the lumen, do not proceed to the next step. If you are uncertain that the wire is in the vessel's lumen, remove the wire, hold pressure on the site, and either re-attempt obtaining access to the boat with the finder needle or switch to a different anatomic site.
+
+- In addition to the dynamic visualization of the procedure with ultrasound, some practitioners use manometry to ensure that the catheter is in the venous system and not the arterial system. To do this, an angiocatheter is threaded over the wire, the wire is removed, and the included extension set for the central venous catheter is attached and held upright in the air. The meniscus formed by the column of blood that slowly fills the extension tubing should plateau if the angiocath is in the venous system. However, this method is time-consuming and unreliable in shock states. Regardless, it can be helpful with the subclavian approach, which is often difficult to fully accomplish with dynamic ultrasound visualization.
+
+- Once the wire is verified to be within the vessel lumen, "preload" the dilator onto the guidewire and thread it toward the junction of the skin and wire. Leave approximately 2 or 3 cm between the dilator and the skin edge. Use the scalpel to create a small nick in the skin by sliding the blunt end of the scalpel blade along the wire to make a skin incision approximately 0.5 cm in width and half the depth of the scalpel blade. Remove the scalpel, and thread the dilator into the incision. Pre-loading the dilator minimizes blood loss and improves the ease of insertion.
+
+- Grasping the dilator in the middle portion, apply gentle, steady pressure, sometimes with a slight twisting motion, to dilate the soft tissue and enable passage of the central venous catheter. Approximately 1/3 to 1/2 of the length of the dilator will need to be inserted into the skin/soft tissue space. This depends upon the anatomic site and the specific type of central venous catheter. Dialysis catheters will require several stages of dilation with increasingly larger dilators and potentially multiple uses of a scalpel to widen the incision.
+
+- Remove the dilator, and place sterile gauze over the site to maintain sterility and minimize bleeding. Again, at no point should the proceduralist lose control of the guidewire.
+
+- Thread the central venous catheter over the guidewire. Slide the guidewire slightly out of the skin to help control the guidewire while advancing the catheter.
+
+- Holding the distal aspect of the central venous catheter, slowly insert the central venous catheter through the vessel lumen until the proximal hub is adjacent to the insertion site. Throughout this process, always ensure one hand is holding the guidewire. Sliding the guidewire slightly out of the skin can help control the guidewire when advancing the catheter. Once the catheter is fully inserted, the guidewire can be gently pulled through the distal port (usually brown)
+
+- Using a syringe, aspirate blood, remove air from each port, and flush with sterile saline solution. "Luer locks" may be attached to the end of each port either before or after this step.
+
+- The central venous catheter should be sutured with two sutures, a bio-patch should be placed between the catheter hub and the skin, and a sterile occlusive dressing should be placed over the catheter/skin entry site. Clean drapes and soiled non-sharp products should be disposed of in biohazard bins. All sharps should be placed in sharps bins. The patient should be put back into a position of comfort, and the proceduralist should verify that the line is appropriately set within a central vein.
+
+- In addition to dynamic ultrasound guidance, three methods ensure that a central venous catheter is placed correctly. A venous blood gas can be obtained from the distal port of the central line, a chest x-ray can be performed, and central venous pressure can be obtained from the distal port. The blood gas and central venous pressure (CVP) are optional. Still, a chest x-ray should be performed in all IJ and SC CVC insertions to confirm placement and verify that no complications (such as iatrogenic pneumothorax) have occurred. The x-ray should demonstrate the distal tip of the central venous line within either the superior vena cava (SC/IJ) or inferior vena cava (femoral).

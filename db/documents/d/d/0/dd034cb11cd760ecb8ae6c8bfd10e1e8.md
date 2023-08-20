@@ -1,0 +1,3 @@
+Management of portal hypertension depends on its cause. If there are reversible causes, the clinician should attempt to correct them. For example, if there is thrombosis in the portal vein or the inferior vena cava due to a hypercoagulable state, it needs anticoagulation.
+
+Other treatment options are based on concurrent complications. Patients who have cirrhosis of the liver should undergo endoscopy to screen for varices. If large varices or varices with high-risk stigmata are present, the patient should start therapy with non-selective beta-blockers and/or endoscopic variceal ligation.

@@ -1,0 +1,1 @@
+Decreasing risk factors such as prolonged catheterization can decrease the risk of infection.

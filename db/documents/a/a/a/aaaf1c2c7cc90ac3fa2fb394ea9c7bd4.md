@@ -1,0 +1,1 @@
+In clinical practice, it is essential to have the infant relaxed at the time of the test. Therefore, babies who are highly irritable or tense do not make good candidates for the test.

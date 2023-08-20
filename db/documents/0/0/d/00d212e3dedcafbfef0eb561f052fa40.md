@@ -1,0 +1,1 @@
+Heart failure is more prevalent and has a higher incidence in the elderly population. Approximately 5.7 million people in the United States have diagnosed heart failure. The incidence is around 10 per 1000 in people over 65.

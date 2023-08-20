@@ -1,0 +1,1 @@
+Primary cardiac tumors are rare entities, and the majority of these are benign. In adults, papillary fibroelastomas (PFEs) and cardiac myxomas are the most common types of primary cardiac tumors. Papillary fibroelastoma is a benign neoplasm. A single large series of 511 patients at Mayo Clinic by Tamin et al. reported PFEs as the most common cardiac tumor

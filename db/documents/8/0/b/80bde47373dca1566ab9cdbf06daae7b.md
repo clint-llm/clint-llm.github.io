@@ -1,0 +1,3 @@
+All patients with suspected critical limb ischemia/chronic limb-threatening ischemia (CLI/CLTI) should be referred to a vascular specialist for consideration of limb salvage unless major amputation is urgently needed.
+
+Necrotizing soft tissue infections with wide or disfiguring debridements should engage multidisciplinary surgical teams as soon as possible; orthopedics, plastic surgery, urology, and colorectal diversion may be needed depending on the location and depth of the surgery.

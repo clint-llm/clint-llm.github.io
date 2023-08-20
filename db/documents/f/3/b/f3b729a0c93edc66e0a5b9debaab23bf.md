@@ -1,0 +1,252 @@
+# Continuing Education Activity
+
+Myocardial infarction (MI), colloquially known as "heart attack," is caused by decreased or complete cessation of blood flow to a portion of the myocardium. Myocardial infarction may be"silent," and go undetected, or it could be a catastrophic event leading to hemodynamic deterioration and sudden death. Most myocardial infarctions are due to underlying coronary artery disease, the leading cause of death in the United States. With coronary artery occlusion, the myocardium is deprived of oxygen. Prolonged deprivation of oxygen supply to the myocardium can lead to myocardial cell death and necrosis. Patients can present with chest discomfort or pressure that can radiate to the neck, jaw, shoulder, or arm. In addition to the history and physical exam, myocardial ischemia may be associated with ECG changes and elevated biochemical markers such as cardiac troponins. This activity describes the pathophysiology, evaluation, and management of myocardial infarction and highlights the role of the interprofessional team in improving care for affected patients.
+
+**Objectives:**
+- Review the basic pathophysiology of myocardial infarction.
+- Explain the management protocol when presented with acute myocardial infarction, including all necessary laboratory and other diagnostic testing.
+- Summarize the long-term management and rehabilitation for a patient post-MI.
+- Explain interprofessional team strategies for improving care coordination and communication to advance the prevention and management of myocardial infarction leading to improved outcomes.
+
+# Introduction
+
+Myocardial infarction (MI), colloquially known as “heart attack,” is caused by decreased or complete cessation of blood flow to a portion of the myocardium. Myocardial infarction may be “silent” and go undetected, or it could be a catastrophic event leading to hemodynamic deterioration and sudden death.
+
+# Etiology
+
+As stated above, myocardial infarction is closely associated with coronary artery disease. INTERHEART is an international multi-center case-control study which delineated the following modifiable risk factors for coronary artery disease:
+
+- Smoking
+
+- Abnormal lipid profile/blood apolipoprotein (raised ApoB/ApoA1)
+
+- Hypertension
+
+- Diabetes mellitus
+
+- Abdominal obesity (waist/hip ratio) (greater than 0.90 for males and greater than 0.85 for females)
+
+- Psychosocial factors such as depression, loss of the locus of control, global stress, financial stress, and life events including marital separation, job loss, and family conflicts
+
+- Lack of daily consumption of fruits or vegetables
+
+- Lack of physical activity
+
+- Alcohol consumption (weaker association, protective)
+
+The INTERHEART study showed that all the above risk factors were significantly associated with acute myocardial infarction except for alcohol consumption, which showed a weaker association. Smoking and abnormal apolipoprotein ratio showed the strongest association with acute myocardial infarction. The increased risk associated with diabetes and hypertension were found to be higher in women, and the protective effect of exercise and alcohol was also found to be higher in women.
+
+Other risk factors include a moderately high level of plasma homocysteine, which is an independent risk factor of MI. Elevated plasma homocysteine is potentially modifiable and can be treated with folic acid, vitamin B6, and vitamin B12.
+
+Some non-modifiable risk factors for myocardial infarction include advanced age, male gender (males tend to have myocardial infarction earlier in life), genetics (there is an increased risk of MI if a first-degree relative has a history of cardiovascular events before the age of 50).
+
+# Epidemiology
+
+The most common cause of death and disability in the western world and worldwide is coronary artery disease.
+
+As per the National Health and Nutrition Examination Survey (NHANES)-CDC data from 2011 to 2014, an estimated 16.5 million Americans older than 20 years of age have coronary artery disease, and the prevalence was higher in males than females for all ages. As per the NHANES 2011 through 2014, the overall prevalence of MI is 3.0% in US adults older than 20 years of age.
+
+**Prevalence of MI in the US Sub-populations**
+
+**Non-Hispanic Whites
+**
+
+- 4.0% (Male)
+
+- 2.4% (Female)
+
+**Non-Hispanic Blacks**
+
+- 3.3% (Male)
+
+- 2.2% (Female)
+
+**Hispanics**
+
+- 2.9% (Male)
+
+- 2.1% (Female)
+
+**Non-Hispanic Asians**
+
+- 2.6% (Male)
+
+- 0.7% (Female)
+
+Based on the Atherosclerosis Risk in Communities Study (ARIC) performed by National Heart, Lung, and Blood Institute (NHLBI) collected between 2005 and 2014, the estimated annual incidence is 605,000 new MIs and 200,000 recurrent MIs.
+
+The ARIC study also found that the average age at first MI is 65.6 years for males and 72.0 years for females. In the past decades, several studies have shown a declining incidence of MI in the United States.
+
+# Pathophysiology
+
+The acute occlusion of one or multiple large epicardial coronary arteries for more than 20 to 40 minutes can lead to acute myocardial infarction. The occlusion is usually thrombotic and due to the rupture of a plaque formed in the coronary arteries. The occlusion leads to a lack of oxygen in the myocardium, which results in sarcolemmal disruption and myofibril relaxation.
+
+# History and Physical
+
+The imbalance between oxygen supply and the demand leads to myocardial ischemia and can sometimes lead to myocardial infarction. The patient’s history, electrocardiographic findings, and elevated serum biomarkers help identify ischemic symptoms. Myocardial ischemia can present as chest pain, upper extremity pain, mandibular, or epigastric discomfort that occurs during exertion or at rest. Myocardial ischemia can also present as dyspnea or fatigue, which are known to be ischemic equivalents.
+
+# Evaluation
+
+The three components in the evaluation of the MI are clinical features, ECG findings, and cardiac biomarkers.
+
+**ECG**
+
+The resting 12 lead ECG is the first-line diagnostic tool for the diagnosis of acute coronary syndrome (ACS). It should be obtained within 10 minutes of the patient’s arrival in the emergency department.
+
+ECG findings suggestive of ongoing coronary artery occlusion (in the absence of left ventricular hypertrophy and bundle branch block):
+
+ST-segment elevation in two contiguous lead (measured at J-point) of
+
+- Greater than 5 mm in men younger than 40 years, greater than 2 mm in men older than 40 years, or greater than 1.5 mm in women in leads V2-V3 and/or
+
+- Greater than 1 mm in all other leads
+
+ST-segment depression and T-wave changes
+
+- New horizontal or down-sloping ST-segment depression greater than 5 mm in 2 contiguous leads and/or T inversion greater than 1 mm in two contiguous leads with prominent R waves or R/S ratio of greater than 1
+
+The hyperacute T-wave amplitude, with prominent symmetrical T waves in two contiguous leads, maybe an early sign of acute MI that may precede the ST-segment elevation. Other ECG findings associated with myocardial ischemia include cardiac arrhythmias, intraventricular blocks, atrioventricular conduction delays, and loss of precordial R-wave amplitude (less specific finding).
+
+ECG findings alone are not sufficient to diagnose acute myocardial ischemia or acute MI as other conditions such as acute pericarditis, left ventricular hypertrophy (LVH), left bundle branch block (LBBB), Brugada syndrome, Takatsubo syndrome (TTS), and early repolarization patterns also present with ST deviation.
+
+ECG changes associated with prior MI (in the absence of left ventricular hypertrophy and left bundle branch block):
+
+- Any Q wave in lead V2-V3 greater than 0.02 s or QS complex in leads V2-V3
+
+- Q wave > 03 s and greater than 1 mm deep or QS complex in leads I, II, aVL, aVF or V4-V6 in any two leads of contiguous lead grouping (I, aVL; V1-V6; II, III, aVF)
+
+- R wave > 0.04 s in V1-V2 and R/S greater than 1 with a concordant positive T wave in the absence of conduction defect.
+
+**Biomarker Detection of MI**
+
+Cardiac troponins (I and T) are components of the contractile apparatus of myocardial cells and expressed almost exclusively in the heart. Elevated serum levels of cardiac troponin are not specific to the underlying mode of injury (ischemic vs. tension)
+
+**Imaging**
+
+Different imaging techniques are used to assess myocardial perfusion, myocardial viability, myocardial thickness, thickening and motion, and the effect of myocyte loss on the kinetics of para-magnetic or radio-opaque contrast agents indicating myocardial fibrosis or scars.
+
+# Treatment / Management
+
+**Acute Management**
+
+Reperfusion therapy is indicated in all patients with symptoms of ischemia of less than 12-hours duration and persistent ST-segment elevation. Primary percutaneous coronary intervention (PCI) is preferred to fibrinolysis if the procedure can be performed <120 minutes of ECG diagnosis. If there is no immediate option of PCI (>120 minutes), fibrinolysis should be started within 10 minutes of STEMI after ruling out contraindications. If transfer to a PCI center is possible in 60 to 90 minutes after a bolus of the fibrinolytic agent and patient meets reperfusion criteria, a routine PCI can be done, or a rescue PCI can be planned.
+
+Relief of pain, breathlessness, and anxiety: The chest pain due to myocardial infarction is associated with sympathetic arousal, which causes vasoconstriction and increased workload for the ischemic heart. Intravenous opioids (e.g., morphine) are the analgesics most commonly used for pain relief (Class IIa).
+
+Nitrates: Intravenous nitrates are more effective than sublingual nitrates with regard to symptom relief and regression of ST depression (NSTEMI). The dose is titrated upward until symptoms are relieved, blood pressure is normalized in hypertensive patients, or side effects such as a headache and hypotension are noted.
+
+Beta-blockers: This group of drugs reduces myocardial oxygen consumption by lowering heart rate, blood pressure, and myocardial contractility. They block beta receptors in the body, including the heart, and reduce the effects of circulating catecholamines. Beta-blockers should not be used in suspected coronary vasospasm.
+
+Platelet inhibition: Aspirin is recommended in both STEMI and NSTEMI in an oral loading dose of 150 to 300 mg (non-enteric coated formulation) and a maintenance dose of 75 to 100 mg per day long-term regardless of treatment strategy (class I).
+
+Most P2Y12 inhibitors are inactive prodrugs (except for ticagrelor, which is an orally active drug that does not require activation) that require oxidation by hepatic cytochrome P450 system to generate an active metabolite which selectively inhibits P2Y12 receptors irreversibly. Inhibition of P2Y12 receptors leads to inhibition of ATP induced platelet aggregation. The commonly used P2Y12 inhibitors are clopidogrel, prasugrel, and ticagrelor.
+
+The loading dose for clopidogrel is 300 to 600 mg loading dose followed by 75 mg per day.
+
+Prasugrel, 60 mg loading dose, and 10 mg per day of a maintenance dose have a faster onset when compared to clopidogrel.
+
+Patients undergoing PCI should be treated with dual antiplatelet therapy (DAPT) with aspirin + P2Y12 inhibitor and a parenteral anticoagulant. In PCI, the use of prasugrel or ticagrelor is found to be superior to clopidogrel. Aspirin and clopidogrel are also found to decrease the number of ischemic events in NSTEMI and UA.
+
+The anticoagulants used during PCI are unfractionated heparin, enoxaparin, and bivalirudin. The bivalirudin is recommended during primary PCI if the patient has heparin-induced thrombocytopenia.
+
+**Long-Term Management**
+
+Lipid-lowering treatment: It is recommended to start high-intensity statins that reduce low-density lipoproteins (LDLs) and stabilize atherosclerotic plaques. High-density lipoproteins are found to be protective.
+
+Antithrombotic therapy: Aspirin is recommended lifelong, and the addition of another agent depends on the therapeutic procedure done, such as PCI with stent placement.
+
+ACE inhibitors are recommended in patients with systolic left ventricular dysfunction, or heart failure, hypertension, or diabetes.
+
+Beta-blockers are recommended in patients with LVEF less than 40% if no other contraindications are present.
+
+Antihypertensive therapy can maintain a blood pressure goal of less than 140/90 mm Hg.
+
+Mineralocorticoid receptor antagonist therapy is recommended in a patient with left ventricular dysfunction (LVEF less than 40%).
+
+Glucose lowering therapy in people with diabetes to achieve current blood sugar goals.
+
+**Lifestyle Modifications**
+
+Smoking cessation is the most cost-effective secondary measure to prevent MI. Smoking has a pro-thrombotic effect, which has a strong association with atherosclerosis and myocardial infarction.
+
+Diet, alcohol, and weight control: A diet low in saturated fat with a focus on whole grain products, vegetables, fruits, and the fish is considered cardioprotective. The target level for bodyweight is body mass index of 20 to 25 kg/m2  and waist circumference of <94 cm for the men and <80 cm for the female.
+
+# Differential Diagnosis
+
+- Angina pectoris
+
+- Non-ST segment elevation myocardial infarction (NSTEMI)
+
+- ST-segment elevation myocardial infarction (STEMI)
+
+- Pulmonary embolism
+
+- Pneumothorax
+
+# Prognosis
+
+Despite many advances in treatment, acute MI still carries a mortality rate of 5-30%; the majority of deaths occur prior to arrival to the hospital. In addition, within the first year after an MI, there is an additional mortality rate of 5% to 12%. The overall prognosis depends on the extent of heart muscle damage and ejection fraction. Patients with preserved left ventricular function tend to have good outcomes. Factors that worsen prognosis include:
+
+- Diabetes
+
+- Advanced age
+
+- Delayed reperfusion
+
+- Low ejection fraction
+
+- Presence of congestive heart failure
+
+- Elevations in C-reactive protein and B-type natriuretic peptide (BNP) levels
+
+- Depression
+
+# Complications
+
+**Type and Manifestation**
+
+**I: Ischemic**
+
+- Reinfarction
+
+- Extension of infarction
+
+- Angina
+
+**II: Arrhythmias**
+
+- Supraventricular or ventricular arrhythmia
+
+- Sinus bradycardia and atrioventricular block
+
+**III: Mechanical**
+
+- Myocardial dysfunction
+
+- Cardiac failure
+
+- Cardiogenic shock
+
+- Cardiac rupture (Free wall rupture, ventricular septal rupture, papillary muscle rupture)
+
+**IV: Embolic**
+
+- Left ventricular mural thrombus,
+
+- Peripheral embolus
+
+**V: Inflammatory**
+
+- Pericarditis (infarct associated pericarditis, late pericarditis, or post-cardiac injury pericarditis)
+
+- Pericardial effusion
+
+# Enhancing Healthcare Team Outcomes
+
+The diagnosis and management of patients with ischemic heart disease are best done with an interprofessional team. In most hospitals, there are cardiology teams that are dedicated to the management of these patients.
+
+For patients who present with chest pain, the key to the management of MI is time to treatment. Thus, healthcare professionals, including nurses who work in the emergency department, must be familiar with the symptoms of MI and the importance of rapid triage. A cardiology consult should be made immediately to ensure that the patient gets treated within the time frame recommendations. Because MI can be associated with several serious complications, these patients are best managed in an ICU setting.
+
+There is no cure for ischemic heart disease, and all treatments are symptom-oriented. The key to improving outcomes is to prevent coronary artery disease. The primary care provider and nurse practitioner should educate the patient on the benefits of a healthy diet, the importance of controlling blood pressure and diabetes, exercising regularly, discontinuing smoking, maintaining healthy body weight, and remaining compliant with medications. The pharmacist should educate the patient on types of medication used to treat ischemic heart disease, their benefits, and potential adverse effects.
+
+Only through such a team approach can the morbidity and mortality of myocardial infarction be lowered. [Level 5]

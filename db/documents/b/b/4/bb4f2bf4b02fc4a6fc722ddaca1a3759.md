@@ -1,0 +1,3 @@
+Hypoglossal nerves are part of a group of cranial nerves homologous to ventral roots of spinal nerves and originate from the somatic efferent column of the brainstem.
+
+The 12th cranial nerve forms from the fusion of ventral root fibers of 3-4 occipital nerves. These nerve fibers grow from the hypoglossal nucleus and branch into small hypoglossal nerve roots leaving the ventrolateral side of the medulla which converges again to form the CN XII common trunk. They grow rostrally until contact with the tongue muscles. As the neck develops, the hypoglossal nerve gradually extends upward.

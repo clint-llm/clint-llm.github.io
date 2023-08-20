@@ -1,0 +1,1 @@
+Forehead flaps are 2-stage tissue flaps in which a forehead-based pedicled flap is used to repair more distal nasal defects.

@@ -1,0 +1,1 @@
+The patient should be positioned comfortably with the tick fully exposed. The skin surrounding the attached tick may be cleaned with an alcohol prep pad.

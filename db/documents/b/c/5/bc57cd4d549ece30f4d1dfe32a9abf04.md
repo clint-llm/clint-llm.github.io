@@ -1,0 +1,1 @@
+A missed prosthetic joint infection or one that is not treated appropriately can result in persistence of infection with deletarious consequences including disability and impaired quality of life.

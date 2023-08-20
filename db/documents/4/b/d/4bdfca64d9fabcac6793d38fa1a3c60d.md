@@ -1,0 +1,3 @@
+Treadmill stress testing is generally safe. Complications are rare, and the frequency of serious adverse cardiac events (i.e., myocardial infarction, sustained ventricular arrhythmia, and death) has been estimated to be approximately 1 in 10,000 patients.
+
+All persons conducting the treadmill stress test should be trained to diagnose and manage complications should they arise. Emergency resuscitation equipment and drugs should also be readily available. The patient should be explained about the procedure, and consent should be obtained before the procedure.

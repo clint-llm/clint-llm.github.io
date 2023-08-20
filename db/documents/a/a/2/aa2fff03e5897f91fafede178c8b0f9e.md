@@ -1,0 +1,1 @@
+Intensive patient education (e.g., lifestyle management, podiatric care, proper examinations, callus management) for diabetic foot care by nursing helps prevent diabetic foot ulcerations and decrease the amputation rate for high-risk diabetic feet. Also, intensive education helps to lower plasma glucose, blood pressure, and high-density lipoprotein cholesterol levels.

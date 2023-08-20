@@ -1,0 +1,7 @@
+The diagnosis of primary vaginal cancer is rare, comprising 1-2% of all female reproductive tract cancers because most lesions are metastatic, typically arising from other reproductive organs such as the cervix, endometrium, or ovary; however, they can also metastasize from distant sites such as the colon, breast, and pancreas. Primary vaginal cancer is strictly defined as a disease without evidence of cervical or vulvar cancer or a history of either within the past five years. When primary vaginal cancer is suspected, a biopsy is done for histopathologic confirmation. This activity reviews the background, diagnosis, treatment, and management of vaginal cancer and highlights the importance of proper knowledge and familiarity with this topic by the interprofessional team.
+
+**Objectives:**
+- Describe the staging of vaginal cancer.
+- Implement recommended evaluation and staging processes for patients after biopsy-confirmed diagnoses of vaginal cancer.
+- Select optimal treatment options after vaginal cancer has been staged, including medical, surgical, and radiation oncology approaches.
+- Collaborate with the interprofessional team to plan coordinated treatment strategies to improve patient care and outcomes.

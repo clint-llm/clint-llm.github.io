@@ -1,0 +1,1 @@
+Considering the majority of cases of keratitis due to agricultural trauma in developing nations, it is advisable to use eyeshields during harvest season in fields. Apart from these, cases with recurrent HSV keratitis (more than 3 episodes in a year) should take oral antiviral prophylaxis for 1 year.

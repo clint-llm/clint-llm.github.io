@@ -1,0 +1,7 @@
+SDS is thought to be underdiagnosed in the general population due to its ambiguous presentation. It can present at any time in life, though most cases present earlier in life. Predominantly, patients present with exocrine pancreatic insufficiency and hematologic abnormalities; other manifestations are less common. Steatorrhea, malabsorption, and deficiency of fat-soluble vitamins are the hallmarks of exocrine pancreatic insufficiency; however, most of these symptoms improve with age in most patients.
+
+Hematologic abnormalities are also common in patients with SDS. Leukopenia results in recurrent viral and bacterial infections, including but not limited to sinusitis, pneumonia, osteomyelitis, and septicemia. Patients can present with bleeding, sometimes life-threatening, due to thrombocytopenia. Macrocytic or normocytic anemia is also seen in up to 80% of patients.
+
+Patients can also present with manifestations of skeletal abnormalities. These include short stature, rib-cage abnormalities, slipped femoral epiphysis, spinal, and finger deformities.
+
+Neurological abnormalities, including intellectual disability, depressed attention span, difficulty in executive functioning, and impaired visual motor coordination, can also be present. Behavioral changes are also reported in children with SDS.

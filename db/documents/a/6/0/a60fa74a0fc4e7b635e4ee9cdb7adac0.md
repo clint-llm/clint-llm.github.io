@@ -1,0 +1,5 @@
+Patients using maladaptive coping mechanisms are more likely to engage in health-risk behaviors than those with appropriate mechanisms. They are also more non-adherent and more likely to use cigarettes or alcohol.
+
+Coping influences patients' compliance to therapy and the course of the disease by lifestyle changes. In disorders where non-medicinal treatment plays a role in the progression, coping mechanisms are important in determining the severity of such conditions. Coping styles may be helpful in patients' educational programs or psychotherapy, and paying attention to them could contribute to the prevention of sequelae.
+
+The importance of coping styles does not only affect the patients alone but also their physicians and nurses. Healthcare workers are more likely to choose a problem-oriented coping mechanism while the tendency to choose avoidance decreases with age and employment duration. The incidence of burnout syndrome decreases with the use of problem-oriented coping mechanisms, social integration, and the use of religion.

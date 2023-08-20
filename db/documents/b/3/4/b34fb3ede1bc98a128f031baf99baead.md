@@ -1,0 +1,1 @@
+The procedure is usually performed with one surgeon and an assistant. The assistant holds the anal retractor to be able to see in the internal opening and to hold the Seton for suturing the two ends together.

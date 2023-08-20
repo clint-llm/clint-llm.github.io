@@ -1,0 +1,3 @@
+Symptoms of peristalsis dysfunction, such as dysphagia, chest pain, heartburn, vomiting, constipation, and diarrhea, can mimic severe, life-threatening disorders. Therefore, understanding the physiology and pathophysiology of peristalsis is essential to distinguish between emergent and non-emergent ailments.
+
+Most medications prescribed today are accompanied by gastrointestinal side effects, many of which alter the action of peristalsis. Knowing and understanding these side effects is vital to ensure appropriate medication administration. Beyond medications with GI side effects, there are medications prescribed that inhibit peristalsis, as in treatments for diarrhea, and those that stimulate peristaltic contractions to treat constipation.

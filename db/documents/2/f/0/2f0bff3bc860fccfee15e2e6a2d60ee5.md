@@ -1,0 +1,1 @@
+The abducens nucleus sends abducens nerve fibers to innervate the lateral rectus muscle directly. More recent work by the group at UCLA suggests that the lateral rectus muscle has superior and inferior compartments, innervated by superior and inferior divisions of the abducens nerve.

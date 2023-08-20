@@ -1,0 +1,1 @@
+The incidence of CO2 embolism is very rare. A recent meta-analysis reported an occurrence of 7 in 489335 laparoscopic surgeries (0.001%).

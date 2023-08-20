@@ -1,0 +1,1 @@
+Diagnosis is primarily clinical suspicion. In most athletes, radiographs will show a normal physis. Diagnosis can be confirmed by radiographs, which may reveal a wide proximal humeral physis on an anteroposterior (AP) view of the shoulder with the arm in external rotation. Chronic changes such as sclerosis, demineralization, and fragmentation can also be seen.

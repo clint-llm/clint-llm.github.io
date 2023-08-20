@@ -1,0 +1,13 @@
+When considering the etiology of myofascial pain, one must remember that the myofascial compartment is also constituted by the soft tissue that transports fluids (blood and lymph) and action potentials (afferent and efferent nerves). Vascular and nerve pathways can be a source of pain because they are innervated. The liquid fascia (blood and lymph) can be a source of pain because changes in flow velocity, direction, and type of flow, can affect surrounding tissues, leading to myofascial pain.
+
+The cause of myofascial pain is not fully understood. It may be due to one or more of the hypothesized causes given below:
+
+- Constant microtrauma to the muscle system can increase oxidative metabolism and quickly depletes cellular energy reserves (ATP). This altered mechano-metabolic environment increases nociceptive sensation, particularly if the musculature has a majority of red fibers (postural muscle).
+
+- The presence of trigger points (TPs) may result from altering the synaptic plate of muscle fibers. An increase in acetylcholine (Ach) concentration with consequent uncontrolled release from the motor endplate causes continued contraction of the muscle fibers in the absence of any central innervation. This constant contraction would deplete the tissue of ATP and cause the release of pro-inflammatory substances and the creation of TPs.
+
+- In the presence of a constantly altered mechano-metabolic environment, there is a change in the connective tissue that makes up the myofascial system. The fibroblasts are transformed into myofibroblasts, contributing to the shortening of surrounding tissue and an increase in tone. The receptors present within the fascia can be transformed into nociceptors and become sensitive to mechanical stimuli (allodynia or mechanical hyperalgesia). We know that the myofascial system can carry neural signals, and any alteration in the connective tissue structure can alter the polarization of muscle fibers, leading to spontaneous muscle contraction.
+
+- Hyaluronan (HA) is a component of glycosaminoglycan polymer found in the extracellular matrix. Any change in the mechano-metabolic environment causing HA to change its properties creates a more viscous extracellular matrix. This causes the fascia to have difficulty sliding between layers, making muscle contraction harder.
+
+- An alteration of blood flow (an increase in systolic wave velocity and decreased diastolic velocity due to increased outflow resistance) may cause myofascial pain. The change in flow velocity induces an alteration in the morphology and function of the muscular capillaries, leading to ischemia during small active movements. This activates type IV nerve endings, contributing to myofascial pain.

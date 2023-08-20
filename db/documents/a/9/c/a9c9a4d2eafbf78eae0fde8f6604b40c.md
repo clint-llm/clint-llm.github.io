@@ -1,0 +1,1 @@
+The sternum develops at the same time as the rest of the ribcage from mesenchymal bands or bars which develop chondritic tissues as they move ventrally and medially forming cartilaginous shapes of the adult bones.

@@ -1,0 +1,1 @@
+Infections are usually self-limiting, although long-lasting.

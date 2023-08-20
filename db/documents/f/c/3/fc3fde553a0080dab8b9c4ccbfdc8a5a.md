@@ -1,0 +1,3 @@
+Evaluation of a patient with Huntington disease can include genetic testing, CT/MRI, and a psychiatric evaluation for deficits in cognitive, behavioral, and functional areas. Inquiry about suicidality is important.
+
+PET is often used to assess patients with Huntington chorea and neuroacanthocytosis. Bilateral reduction in metabolism in the putamen and the caudate nucleus is frequently seen. However, the reduction in metabolism may not be seen in patients with benign hereditary chorea.

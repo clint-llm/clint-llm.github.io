@@ -1,0 +1,1 @@
+Surgeon, anesthesiologist, scrub nurse or tech, and circulating nurse are some of the personnel needed for a thoracotomy. Other personnel may include a surgical assistant, resident, or fellow.

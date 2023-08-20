@@ -1,0 +1,1 @@
+ANUG is commonly due to an opportunistic bacterial infection and is predominantly associated with fusiform and spirochete bacteria. One study identified spirochetes and a majority of Gram-negative bacteria, including Bacteroides intermedius and Fusobacterium spp. as the most common causes.Treponema spp., Selenomonas spp., Fusobacterium spp., and Prevotella intermedia.

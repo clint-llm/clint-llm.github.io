@@ -1,0 +1,1 @@
+Carotid endarterectomy is a stroke-preventing procedure that helps improve patient health and subsequent quality of life. Surgical treatment in patients with moderate to severe carotid disease has been shown to significantly decrease stroke and improve overall survival.

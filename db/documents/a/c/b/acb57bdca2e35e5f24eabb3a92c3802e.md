@@ -1,0 +1,1 @@
+A volvulus is a medical condition where the intestines twist upon themselves. This condition can occur at any age. However, it is more frequent in children and infants

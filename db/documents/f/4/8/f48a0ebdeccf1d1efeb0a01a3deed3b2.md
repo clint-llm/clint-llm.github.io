@@ -1,0 +1,5 @@
+Women who recover from COVID-19 during their pregnancy may have an uneventful pregnancy further. No alterations in the time for delivery need to be made for the same. Those in the later trimesters may be at risk of preterm births, stillbirths, pre-eclampsia, and placental abruption. However, the absolute risk of all of the outcomes is constantly being re-evaluated as more data is collected.
+
+Persistent symptoms may be seen after an acute episode of COVID-19 in pregnant patients as well, the colloquial “long COVID.” One of the adopted definitions for long COVID or late sequelae of COVID is symptoms that last beyond four weeks or 28 days of the acute illness.
+
+Fatigue, joint pains, and chest pain are the common complaints of the patients suffering from the same. Patients who suffer from severe COVID or ARDS have higher chances of developing post-COVID fibrotic sequelae.

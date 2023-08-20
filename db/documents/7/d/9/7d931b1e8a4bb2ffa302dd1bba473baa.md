@@ -1,0 +1,3 @@
+The chorda tympani nerve (branch of the facial nerve) joins the lingual nerve below the skull near the lower border of the lateral pterygoid muscle within the pterygomandibular space
+
+Other sensory branches of the mandibular nerve are the auriculotemporal nerve, the buccal nerve, and the inferior alveolar nerve; however, the inferior alveolar nerve also gives off a small motor branch, the mylohyoid nerve.

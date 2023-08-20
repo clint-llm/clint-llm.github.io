@@ -1,0 +1,3 @@
+- When approaching a patient with shortness of breath on exertion, a broad differential diagnosis exists. A patient with established left heart failure might have a concomitant disease that might contribute to the patient's presentation, and additional workup for other conditions is warranted in case of atypical presentations. Those conditions include other cardiovascular causes (like primary pulmonary hypertension), pulmonary causes (like chronic obstructive pulmonary disease and interstitial lung disease) and extra-cardiopulmonary causes (like anemia).
+
+- Isolated lower limb edema is less likely heart failure, and other causes must be ruled out first, like venous insufficiency, cirrhosis, nephrotic syndrome, lymphedema and thrombosis of the veins.

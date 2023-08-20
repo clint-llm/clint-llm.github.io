@@ -1,0 +1,7 @@
+Management of duodenal perforations depends on the type of perforation. Two kinds of perforation are defined as contained or non-contained perforation. Non-contained perforation divide into two subgroups as minor or major perforation.
+
+- Contained perforations are when free leakage is prevented by contiguous organs such as the pancreas wall off the area. It is feasible to do conservative management in this type of perforation. Before starting conservative management, it is essential to evaluate patients by diatrizoate study to confirm the absence of leakage. Conservative management consists of intravenous fluid therapy, nil per os (NPO), intravenous proton pump inhibitors (PPIs), broad-spectrum antibiotics, H. pylori eradication, and repeated clinical assessment.
+
+- Non-contained perforations are defined as when bowel contents leak freely into the abdominal cavity. Minor and major perforations are two subtypes of this group.
+- Minor non-contained perforations: Endoscopic or simple surgical repair are two primary management strategies for this group. Endoscopic management includes through-the-scope clips (TTSC), over-the-scope clips (OTSC), detachable snare loops with clips, and self-expandable metal stents (SEMS).
+- Major non-contained perforations: These types of perforations usually need reconstructive surgery, which includes duodenoduodenostomy(first option), Roux-en-Y duodenojejunostomy(second option), and Billroth II operation.

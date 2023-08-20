@@ -1,0 +1,3 @@
+A focused history can elicit potential causes of acid-base disturbances such as vomiting, diarrhea, medications, possible overdoses and chronic conditions with a predisposition to acidosis including diabetes mellitus.
+
+The physical exam reveals signs unique to each cause such as dry mucous membranes in the patient with diabetic ketoacidosis. Hyperventilation may also be present as a compensatory respiratory alkalosis to assist with PCO2 elimination and correction of the acidemia. Compensatory reactions do not completely correct a disturbance to the normal pH range, however.

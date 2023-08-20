@@ -1,0 +1,13 @@
+It is important to familiarize oneself with the definitions of spinal shock and neurogenic shock. Although they are distinct entities, they are seen as a spectrum of the same disease process in patients with SCI (usually traumatic).
+
+**Spinal shock**is the altered physiologic state immediately after a spinal cord injury (SCI), which presents as loss of spinal cord function caudal to the level of the injury, with flaccid paralysis, anesthesia, absent bowel and bladder control, and loss of reflex activity.
+
+**Neurogenic shock**is a component of the spinal shock syndrome and refers to the hemodynamic instability seen in these patients with hypotension, bradycardia, and hypothermia (secondary to sympathetic-parasympathetic dysfunction/imbalance).
+
+When evaluating patients with suspected spinal shock, healthcare providers should obtain a detailed history of the accident. Often factors such as a rollover crash, ejection outside the car, or seat belt usage can give significant information on the severity and type of spinal cord injury that should be expected. The potential presence of intoxication is essential to obtain, as it will confuse the initial physical exam. It is important to understand that the energy necessary to produce spinal shock and spinal fracture during a traumatic event is very high, and patients should be thoroughly examined for other tissue and organ injury. While evaluating the patient, it must be assumed that their spine is unstable, and all the necessary precautions should be taken to keep it stable until final imaging is obtained and stability is established.
+
+The initial physical examination must include the American Spinal Injury Association (ASIA) Scale, an international communication tool for researchers and clinicians to quantify the neurological impairment resulting from a spinal cord injury.
+
+In spinal shock that occurs after cord transection, there is a sequential rostrocaudal depression of reflex activities. The recovery of reflexes occurs in caudorostral pattern. The duration of spinal shock depends on the recovery of reflexes that can be around one hour in case of superficial reflexes and several weeks or months in case of deep tendon or autonomic reflexes.
+
+Unlike the classical teaching that bulbocavernosus reflex is the first reflex to return after a cord transection, recent studies have shown that the pattern of regaining of reflexes follows the following order: delayed plantar reflex, bulbocavernosus reflex, cremasteric reflex, ankle jerk, Babinski sign, and knee jerk.

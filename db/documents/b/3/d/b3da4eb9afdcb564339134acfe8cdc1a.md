@@ -1,0 +1,1 @@
+Bilateral vestibular schwannomas are the hallmark feature of NF2 and present in approximately 90% to 95% of patients. Meningiomas are seen in approximately 50% of patients with NF2.

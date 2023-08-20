@@ -1,0 +1,1 @@
+Prolonged antibiotic therapy is usually required, and the prognosis is excellent. With better oral hygiene, availability of antibiotics, and advanced surgical techniques, the outcome, and mortality have improved. For extensive and complicated disease, antibiotics and surgical treatment are required. In these cases, morbidity is high, and death may occur.

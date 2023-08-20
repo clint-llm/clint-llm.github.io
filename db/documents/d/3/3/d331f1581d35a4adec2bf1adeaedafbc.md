@@ -1,0 +1,1 @@
+Type 1 diabetes has high morbidity and mortality. The life expectancy is reduced by 10-20 years for many individuals. The disorder is associated with numerous complications including hypoglycemia and diabetic ketoacidosis. For children, managing diabetes can lead to enormous stress and depression is common. Children particulary die from DKA chiefly due to delayed diagnosis.

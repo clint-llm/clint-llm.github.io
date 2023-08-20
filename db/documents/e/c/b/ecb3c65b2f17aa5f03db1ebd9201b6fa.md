@@ -1,0 +1,1 @@
+A delay in initiating the treatment can have serious consequences and may increase rates of morbidity and mortality.

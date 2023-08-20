@@ -1,0 +1,1 @@
+Epidemiologic studies have shown that a specific patient population such as those with spina bifida are at increased risk of developing a latex allergy with the prevalence of spina bifida hypersensitivity ranging from 20% to 65%.

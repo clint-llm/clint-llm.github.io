@@ -1,0 +1,13 @@
+Ciprofloxacin is a bactericidal antibiotic of the fluoroquinolone drug class. It inhibits DNA replication by inhibiting bacterial DNA topoisomerase and DNA-gyrase. Of the fluoroquinolone class, ciprofloxacin is the most potent against gram-negative bacilli bacteria (notably, the Enterobacteriaceae such as Escherichia coli, Salmonella spp., Shigella spp., and Neisseria).Pseudomonas aeruginosa among the quinolones.P. aeruginosa has been reported in Europe, North and South America, predominantly in the hospital or nursing home settings with identifiable risk factors. Ciprofloxacin is one of the few oral antibiotics to treat P. aeruginosa infections.
+
+**Mechanism of Resistance:**Mutation in DNA gyrase, plasmid-mediated and efflux pump-mediated resistance confers resistance to fluoroquinolones, including ciprofloxacin. ForEscherichia coli, the primary resistance mechanism is generally the GyrA subunit of gyrase.E. coli-associated urinary tract infections, there has been an increase in ciprofloxacin resistance, more so in the hospital versus the community setting.
+
+**Pharmacokinetics**
+
+**Absorption:**Ciprofloxacin is readily absorbed but typically does not achieve complete absorption. The bioavailability of oral ciprofloxacin is 70 to 80%. The time to peak concentrations after oral administration Tmax is 1 to 1.5 h.
+
+**Distribution:**The volume of distribution of ciprofloxacin is high (2 to 3 L/kg). After oral administration, ciprofloxacin is extensively distributed throughout the body. Tissue concentrations usually exceed serum concentrations, and ciprofloxacin achieves therapeutic concentrations in saliva, bronchial secretions, lymph, bile, the prostate, and urine.
+
+**Metabolism:**Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2). Co-administration of ciprofloxacin with other drugs metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to toxicity.
+
+**Excretion:**The elimination half-life of ciprofloxacin is 4 hours. Ciprofloxacin is excreted in the urine as an unchanged drug (40 to 50%). The renal clearance of ciprofloxacin is approximately 300 mL/minute, which is greater than the normal GFR of 120 mL/minute; thus, tubular secretion is the dominant process in the renal elimination of ciprofloxacin. Approximately 20% to 35% of an oral dose is recovered from feces. Biliary clearance and transintestinal elimination play a significant role in excretion through feces.

@@ -1,0 +1,1 @@
+Lenvatinib is metabolized in the liver by CYP3A4 and aldehyde oxidase.

@@ -1,0 +1,3 @@
+Due to the multifactorial nature of hearing loss, the evaluation of a child with significant hearing loss should ideally take place by a multidisciplinary team involving geneticists, audiologists, otolaryngologists, pediatricians, speech and language pathologists, psychologists, early childhood special needs educators, social workers, and any other medical professionals depending on any syndromic findings.
+
+Because many deaf infants are born to non-deaf parents, it is crucial to ensure accurate and updated information is delivered by the most qualified health care professional to parents. It is advisable to consult a medical geneticist who can accurately relay recurrence risk to the parents in these circumstances.

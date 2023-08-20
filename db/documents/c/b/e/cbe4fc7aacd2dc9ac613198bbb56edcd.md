@@ -1,0 +1,1 @@
+The risk factors of IPMNs are not clear. A few conditions have been identified as possible risk factors for the development of IPMNs and include diabetes (especially patients on insulin), chronic pancreatitis, and a family history of pancreatic ductal adenocarcinoma.

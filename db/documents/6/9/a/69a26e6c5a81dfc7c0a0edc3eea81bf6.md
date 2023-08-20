@@ -1,0 +1,1 @@
+Nursing, allied health staff, and interprofessional team help monitor these patients after the surgery for BCL removal, intraocular pressure check, regular medication use, Schiempflug imaging visit, and to document any progression with the change of spectacles or contact lenses.

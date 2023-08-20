@@ -1,0 +1,1 @@
+If left untreated, chondroblastoma does not undergo spontaneous regression.  Recurrence rates of chondroblastomas range from 8.3% to 21.4% and may be explainable by retained tumor material during surgery.

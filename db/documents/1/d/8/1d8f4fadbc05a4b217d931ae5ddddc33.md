@@ -1,0 +1,5 @@
+Microscopically, granulomas consist of macrophages, epithelioid cells, multinucleated giant cells, and lymphocytes that may involve any part of the uveal tract. Granulomatous inflammation of the uvea is typically divided into three distinct morphologic categories: zonal, sarcoidal, and diffuse. In tuberculous uveitis, histopathology of microbiologically proven cases reveals zonal granulomatous inflammation of the uvea with central caseous necrosis that occasionally contains acid-fast bacilli.
+
+At the same time, in sarcoidal granulomas, they are typically non-caseating.
+
+In diffuse granulomatous inflammation, there is diffuse lymphocytic infiltration throughout the uvea with focal collections of epithelioid cells and occasionally multinucleated giant cells. Examples of diffuse granulomatous inflammation include Vogt-Koyanagi-Harada disease and sympathetic ophthalmia, which may also show focal clusters of lymphocytes and epithelioid cells with pigment located between the retina pigment epithelium and Bruch's membrane known as Dalen-Fuchs nodules.

@@ -1,0 +1,1 @@
+The coronary arteries run along the coronary sulcus of the myocardium of the heart. Their main function is to supply blood to the heart. This is a crucial function for myocardial function and subsequently homeostasis of the body. The arrangement of coronary arteries varies among people significantly.

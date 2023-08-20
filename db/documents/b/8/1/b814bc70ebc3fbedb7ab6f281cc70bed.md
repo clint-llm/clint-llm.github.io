@@ -1,0 +1,3 @@
+Several over-the-counter options are available to prevent jellyfish envenomation.   These range from suits worn by swimmers and surfers to lotions that mimic the mucus coating that is found on clownfish.
+
+Patients that appear well and have no signs of systemic illness may be discharged home with return precautions for any symptoms of anaphylaxis. Patients that do show signs of significant systemic symptoms, or need antivenom, should be admitted to the hospital for further symptomatic management.

@@ -1,0 +1,25 @@
+History and physical exam findings for hypertrichosis differ between types of hypertrichosis. In generalized forms of hypertrichosis, the patient will present with lanugo hair, vellus hair, or terminal hair covering a majority of their body. Transformation of terminal hair to lanugo hair can be seen.
+
+There are several disorders characterized by congenital generalized hypertrichosis. Congenital hypertrichosis lanuginosa presents rather dramatically; the entire body surface, except for the palms, soles, dorsal hands and feet, and prepuce are covered with fine, silver-gray to blond lanugo hair. Hair may grow up to 10 centimeters in length, giving a "werewolf" appearance. Congenital hypertrichosis lanuginosa may present with dental anomalies, glaucoma, pyloric stenosis, and photophobia.
+
+Universal hypertrichosis, another form of congenital generalized hypertrichosis, presents with thick, long hair on the back, proximal extremities, and preauricular areas. It is often thought of as "exaggerated normal hairiness."
+
+Hypertrichosis universalis congenita sometimes referred to as Ambras syndrome, presents with fine, silky, light-colored long hair primarily involving the face, ears, shoulders, and nose. It is associated with minor facial dysmorphism, supernumerary nipples, and dental anomalies.
+
+Patients with prepubertal hypertrichosis typically present with widespread, diffuse involvement that becomes obvious and bothersome during childhood. Hair growth favors the face (especially the forehead, temples, and preauricular area), proximal extremities, and back. It is described as having an "inverted fir tree" pattern. It also features thick, bushy eyebrows and a low anterior hairline.
+
+Acquired generalized hypertrichosis presents with the reversible, slow growth of terminal hairs over the forehead, temples, flexors, and trunk. Patients will report a history of frequently implicated medications traumatic brain injury, or systemic disease (see etiology section for a complete list).
+
+In acquired hypertrichosis lanuginosa, fine lanugo hairs rapidly develop over the entire body. Mild forms localized to the face exist. Patients may report a history of malignancy.
+
+Several forms of congenital localized hypertrichosis exist. Hypertrichosis cubiti (hairy elbow syndrome) presents anywhere from birth to early childhood with hypertrichosis over the forearms and antecubital fossa. It is occasionally associated with short stature. Hairy palms and soles syndrome presents at birth. Hypertrichosis of the auricle presents during childhood or adolescence and favors males. Hypertrichosis of the eyebrows and nasal tip appear in adolescence. Anterior cervical hypertrichosis presents from birth to early childhood and is associated with sensory and motor neuropathy, mental retardation, and hallux valgus. Posterior cervical hypertrichosis appears at birth and is associated with kyphoscoliosis.
+
+Becker melanosis (nevus) presents as a patch of hyperpigmentation with irregular borders on the upper trunk. Typically, hyperpigmentation appears during childhood, with hypertrichosis developing later in the second decade of life. Patients with Becker melanosis may have associated asymmetry of the extremities and hyperplasia or hypoplasia underlying the affected areas; ipsilateral mammary hypoplasia is a common finding in women). There are reports of Becker melanosis arising in the context of genitourinary abnormalities (SNUB syndrome; supernumerary nipples, uropathies, and Becker melanosis). Becker melanosis can also be associated with hemimaxillofacial dysplasia, which presents as unilateral maxillary enlargement manifesting as facial asymmetry, gingival hyperplasia, and hypoplastic teeth.
+
+Nevoid hypertrichosis presents as a well-circumscribed area of overgrowth of terminal hairs. Primary nevoid hypertrichosis refers to an isolated finding with no extracutaneous associations. Secondary nevoid hypertrichosis is often seen in conjunction with lipodystrophy, hemihypertrophy, scoliosis, and vasculature abnormalities.
+
+Localized areas of hypertrichosis may be a sign of defects underlying the patch of hair, such as spinal dysraphism. The faun tail sign is a patch over the lumbosacral area signifying the presence of spina bifida occulta or diastematomyelia (split spinal cord). The hair collar sign is a ring of hypertrichosis that surrounds aplasia cutis or ectopic brain tissue.
+
+Porphyrias such as porphyria cutanea tarda (PCT) and hepatoerythropoietic porphyria (HEP) can present as hypertrichosis within sun-exposed areas. Patients will present with other symptoms of porphyria. The hypertrichosis associated with PCT often favors the lateral face. Patients will present with other stigmata of PCT including a blistering photosensitive eruption.
+
+Acquired localized hypertrichosis will present as hypertrichosis, hyperpigmentation, and epidermal hyperplasia at a site of friction. Patients will report a history of mechanical or iatrogenic insult to the area. It is important to note that there are several reports of localized hypertrichosis overlying areas of lupus panniculitis and morphea.

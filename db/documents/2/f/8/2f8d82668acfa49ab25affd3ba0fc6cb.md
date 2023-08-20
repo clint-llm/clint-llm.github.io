@@ -1,0 +1,1 @@
+Histopathology of the rotated lung reveals visceral pleural fibrosis of the affected lung, and the tissue is filled with alveolar macrophages.

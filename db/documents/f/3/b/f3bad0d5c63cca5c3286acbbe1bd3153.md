@@ -1,0 +1,3 @@
+Retinitis due to CMV, toxoplasma, and viral etiology has to be differentiated from each other based on clinical features or, if needed, other ocular or systemic ancillary investigations.
+
+The differential diagnosis for  Behcet disease includes a variety of infectious and noninfectious causes of acute nongranulomatous anterior uveitis, intermediate uveitis, occlusive retinal vasculitis, focal or multifocal retinitis, and necrotizing retinitis. Behçet uveitis typically has a sudden onset of symptoms with improvement followed by recurrence of inflammatory signs. Specifically, metastatic endophthalmitis must be ruled out in all cases of retinitis, especially bilateral ones.

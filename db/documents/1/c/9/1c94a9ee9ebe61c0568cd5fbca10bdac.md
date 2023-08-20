@@ -1,0 +1,3 @@
+The Amsler Grid is a square-shaped grid used to detect or monitor metamorphopsia or scotoma involving the central visual field in various disorders of the macula and optic nerve head. Specifically, it is used as an inexpensive home monitoring device for early detection of metamorphopsia due to wet age-related macular degeneration. Also, it may be used as a macular function test before cataract surgery.
+
+The grid gets its name from Marc Amsler (1891-1968), a Swiss ophthalmologist, who described the chart in 1947.

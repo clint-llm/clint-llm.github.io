@@ -1,0 +1,3 @@
+In intention tremor, the central nervous system cerebellar feedback and error control centers are impaired. The relay system between the cerebellum and efferent muscle can be compromised, resulting in the action tremor. It is associated with damage to the superior cerebellar peduncle, dentate nucleus, and surrounding cerebellar tracts in the brainstem and the thalamus.
+
+A toxic disorder that is useful to examine the neuropathology of cerebellar degeneration is an alcohol abuse disorder. In a true alcoholic patient, cerebellar degeneration disorders involve Purkinje cells, including the molecular cell layer, with a distinct distribution, predominant in the anterior vermis.

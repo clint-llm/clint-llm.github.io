@@ -1,0 +1,7 @@
+The equipment needed for both LSG and LRYGB includes surgical instruments and tools. These procedures are almost always performed using laparoscopy necessitating the usual laparoscopic instrumentation such as CO2 insufflation, trocars (portals to insert instruments into the abdomen through), cameras, and television monitors to see inside the abdomen.
+
+Many laparoscopic instruments are used including needle drivers, non-traumatic bowel graspers, cautery devices, a liver retractor, a single-use specimen pouch that is designed to retrieve intra-abdominal specimens, suturing devices, shears, and various other tools designed for dissecting within the abdomen.
+
+In addition, either the anesthesiologist or an assistant will stand at the patient’s head and introduce a bougie or an endoscope to define the borders for where to ligate stomach and bowel. This ensures that the lumen is not too narrow for food and liquid to pass through. Endoscopy also enables visualization of the GI tract from inside. This gives the team a chance to inspect the integrity of the staple/suture line and to perform a leak test in which air is insufflated into the new stomach or pouch.
+
+After the sleeve or bypass is complete, the trocars (usually 5-6 ports) are removed, and an absorbable suture is used to close the fascia, subcutaneous tissue, and skin incisions. The skin incisions range from 5 to 12 mm, and skin glue or steri strips are used to cover the skin closure.

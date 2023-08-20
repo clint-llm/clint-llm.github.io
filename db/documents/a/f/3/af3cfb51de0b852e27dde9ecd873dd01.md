@@ -1,0 +1,1 @@
+The management of the ventricular aneurysm encircles around consultations from various specialties. The interprofessional team of healthcare providers consists of a primary care provider, cardiologist, interventional cardiologist, cardiac surgeon, interventional radiologist, pulmonologist, intensivist, anesthesiologist, etc.

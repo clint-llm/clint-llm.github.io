@@ -1,0 +1,1 @@
+Glucagonoma syndrome is difficult to diagnose and once diagnosed a challenge to manage. An interprofessional team of nurses, primary care providers, and specialists must work together to monitor the patient as they are at risk for developing dermatosis, diabetes, deep vein thrombosis, and depression. [Level V]

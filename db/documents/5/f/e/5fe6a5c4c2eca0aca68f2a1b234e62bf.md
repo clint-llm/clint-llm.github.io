@@ -1,0 +1,1 @@
+Patients should be counseled on the favorable prognosis of most causes of knee extensor injuries. They should be advised to adhere to the rehabilitation guidelines in regards to weight-bearing and physical activity.

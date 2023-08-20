@@ -1,0 +1,1 @@
+Patients with secondary osteoporosis have a mild increase in overall morbidity due to vertebral and hip fractures and their complications, such as pulmonary embolism, deep vein thrombosis, and pneumonia. Compression fractures may also lead to reduced quality of life, chronic neurogenic pain, impaired ventilation, and spine deformities.

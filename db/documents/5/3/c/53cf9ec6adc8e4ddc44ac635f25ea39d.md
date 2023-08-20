@@ -1,0 +1,3 @@
+Management of complications of Kingella infections requires an interprofessional team approach. Such an approach can include infectious disease specialists, a pharmacist with an infectious disease specialty certification, who can help direct agent selection based on the most current antibiogram data. Nurses with training infection control can also offer counsel to parents on helping therapy move forward and preventing reinfection.
+
+There is a need for interdependence, communication, and collaboration among physicians, nurses, pharmacists, and other health care professionals on the interprofessional team involved in Kingella infection management to enhance patient-centered care, improve outcomes, patient safety, and improve interprofessional team performance. [Level 5]

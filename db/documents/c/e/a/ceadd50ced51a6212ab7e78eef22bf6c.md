@@ -1,0 +1,1 @@
+Clinical presentation can include bleeding (45%), pain (30%), pruritus, perianal mass, fecal urgency, or change in the stool caliber.

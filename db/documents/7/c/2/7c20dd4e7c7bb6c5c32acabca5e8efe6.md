@@ -1,0 +1,1 @@
+Complications from pulsatile tinnitus will vary based on the etiology. Some pathology will be benign to the patient; however, the patient’s tinnitus may be a symptom of a much more serious disease. Morbidity is possible both from the pathophysiology itself and as a result of attempting to treat the patient with invasive modalities such as surgery and radiation.

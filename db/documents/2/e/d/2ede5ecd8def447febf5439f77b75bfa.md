@@ -1,0 +1,1 @@
+Hashimoto thyroiditis is the most common cause of hypothyroidism, while Graves disease is the most common cause of autoimmune hyperthyroidism in the United States. High intake of iodine can increase the incidence of Graves disease, whereas iodine insufficiency can be protective against autoimmune thyroiditis.

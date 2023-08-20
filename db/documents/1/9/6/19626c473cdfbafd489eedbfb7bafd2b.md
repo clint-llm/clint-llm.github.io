@@ -1,0 +1,1 @@
+According to the Centers for Disease Control (CDC), HCPS has a mortality rate of 38%. Chronic hantavirus infection has not been demonstrated in humans. Recovery times vary in patients and no lasting complications have been reported.

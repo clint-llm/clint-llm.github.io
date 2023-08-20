@@ -1,0 +1,3 @@
+When an action potential reaches the synaptic terminal of an inhibitory (GABAnergic) interneuron, the action potential induces a change in membrane potential such that voltage-dependent calcium channels (VDCCs) open. Open VDCCs cause an influx of calcium ions into the axon terminal. The increased calcium concentration in the axon terminal after VDCC opening stimulates the movement of GABA-containing synaptic vesicles to approach the distal axon terminal and exocytose, releasing GABA into the synaptic cleft.
+
+While in the synaptic cleft, GABA binds to the alpha and beta subunits on GABA receptors, usually found on the postsynaptic neuron (GABA-A receptors) or other presynaptic axon terminals (GABA-B receptors).

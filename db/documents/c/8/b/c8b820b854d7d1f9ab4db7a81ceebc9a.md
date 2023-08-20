@@ -1,0 +1,1 @@
+The pulp is a mass of connective tissue that resides within the center of the tooth, directly beneath the layer of dentin. Referred to as part of the “dentin-pulp” complex, and also known as the endodontium, these two tissues are closely interrelated and dependent on each other’s development and survival.

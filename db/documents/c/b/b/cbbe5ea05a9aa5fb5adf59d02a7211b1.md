@@ -1,0 +1,7 @@
+Enchondromas are benign tumors of unknown etiology that occur in the hyaline cartilage in bones of endochondral origin. Enchondromas account for approximately 3 percent of bone tumors and up to 13 percent of benign bone tumors. These tumors are usually solitary, central, metaphyseal lesions of tubular bones, favoring the small bones of the hand and feet, followed by the femur and humerus. Enchondromatous tumors typically begin and grow in childhood arising from rests of growth plate cartilage or chondrocytes that proliferate and enlarge, then stop growing but remain present throughout adulthood. This activity reviews the clinical presentation, diagnosis, and treatment of enchondromas and highlights the role of the interprofessional team in providing patient care in clinical settings.
+
+**Objectives:**
+- Describe the histopathology of enchondromas.
+- Review the radiographic presentation of enchondromas.
+- Summarize the treatment and management options for enchondromas.
+- Explain the importance of interprofessional team strategies for improving care coordination and communication to aid in prompt diagnosis of enchondromas and improving outcomes in patients diagnosed with the condition.

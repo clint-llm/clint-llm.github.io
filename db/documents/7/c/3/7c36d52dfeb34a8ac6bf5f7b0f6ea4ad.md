@@ -1,0 +1,1 @@
+The prognosis depends on the underlying etiology of portal hypertension.

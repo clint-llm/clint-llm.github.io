@@ -1,0 +1,3 @@
+Angioid streaks are breaks in the degenerated and mineralized Bruch's membrane, which typically form around the optic disc and radiate from the optic disc. These breaks are usually linear and hence named angioid or like blood vessels. Angioid streaks may be idiopathic or associated with pseudoxanthoma elasticum, Sickle cell disease, acromegaly, Paget disease of the bone, and other diseases. Angioid streak may be associated with choroidal neovascularization (CNV), causing metamorphopsia and/or visual decline. Angioid streaks are a risk factor of subretinal bleeding after minor trauma.
+
+Angioid streaks have also been called Knapp streaks or Knapp striae in honor of the famous German- American ophthalmologist Jacob Hermann Knapp (1832 –1911).

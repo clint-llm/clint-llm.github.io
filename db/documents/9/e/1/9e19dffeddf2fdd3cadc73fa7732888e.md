@@ -1,0 +1,9 @@
+The scleredema of Buschke was classified into three types by Graff in 1968.
+
+- Scleredema type 1 is the largest group and affects about 55% of the cases. It presents mostly in the pediatric population and young adults. Typically, the onset of scleredema is abrupt and starts after 2 to 3 weeks following a febrile infectious episode, usually streptococcal throat infection and less commonly a viral illness.
+
+- Scleredema type 2 encompasses about 25% of all cases. It demonstrates an insidious onset and progresses slowly, and correlates to hematological abnormalities. Paraproteinaemia is the most associated condition and always develops many years after the onset of scleredema. It occurs at a younger age when compared to the general population. Other abnormalities include monoclonal gammopathy of undetermined significance involving IgG and IgA, multiple myeloma and amyloidosis. The link between scleredema and paraprotein remains unclear.
+
+- Scleredema type 3 is referred to as scleredema diabeticorum since it involves diabetic patients.  It constitutes around 20% of cases. It is a known complication of long-lasting and poorly-controlled insulin-dependent diabetes mellitus. Severe diabetic vascular complications are usually associated. It affects 2.5% to 14% of all diabetic patients. There is a hypothesis that high glucose levels induce nonenzymatic glycosylation of collagen in the dermis.
+
+Other diseases have descriptions associated with the presentation scleredema of Buschke. They include primary hyperparathyroidism, rheumatoid arthritis, ankylosing spondylitis, Sjogren syndrome, dermatomyositis, Waldenstrom macroglobulinemia, anaphylactoid purpura, primary biliary cirrhosis, and IgA deficiency.

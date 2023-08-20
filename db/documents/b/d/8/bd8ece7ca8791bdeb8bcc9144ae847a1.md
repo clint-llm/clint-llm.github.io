@@ -1,0 +1,1 @@
+Recognizing physiologic variations in sensory anatomy is clinically significant because accurate EMG or NCV studies rely on the correct mapping of nerves.

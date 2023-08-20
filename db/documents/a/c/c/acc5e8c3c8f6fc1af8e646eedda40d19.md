@@ -1,0 +1,11 @@
+There are no current, ongoing clinical trials in Danon disease, and evidential basis is primarily from retrospective observational data and expert opinion. Danon disease patient care is optimal with a collaborative team approach consisting of a primary care provider, cardiologist, geneticist, neurologist, ophthalmologist, and a physical medicine and rehabilitation physician.
+
+Because of the limited life expectancy, extensive counseling with the patient and family is highly recommended. A mental health nurse should provide counseling to the patient, given the poor prognosis.
+
+Those with impaired intellectual functioning may require social workers, psychotherapists, and home care workers to ensure that there is no diminution of quality of life. A home care nurse should follow up on the patient and communicate with the team if medical issues arise.
+
+Genetic counseling should be a strong recommendation to the family. The decision to allow participation in exercise requires good judgment as it can worsen the muscular dystrophy.  It is vital that clinicians not undertake aggressive invasive treatments because of the poor prognosis; the key is to cause less harm to the patient,
+
+Given the rapid progression of cardiac disease, particularly in affected male patients, regular cardiology appointments are warranted and often input from advanced heart failure, heart transplant, and clinical cardiac electrophysiology services.
+
+Interprofessional healthcare team management is the best approach, to include the physician team (including specialists) collaborating on a treatment plan. Nursing will assist with monitoring and coordinating between other providers. Often specialty trained nurses in genetics manage follow-up and must coordinate care with the clinical team. Physical therapy, mental health, and genetic counseling are all important aspects of managing cases of Danon disease. Each of these specialties must communicate their findings and activities to the rest of the team, so optimal interprofessional management drives improved outcomes. [Level 5]

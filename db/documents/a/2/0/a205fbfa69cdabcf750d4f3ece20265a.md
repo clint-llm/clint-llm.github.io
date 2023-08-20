@@ -1,0 +1,1 @@
+Optic atrophy is the most serious and inevitable complication without urgent treatment. It develops over a few months after ischemia of the optic nerve.

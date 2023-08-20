@@ -1,0 +1,1 @@
+If not asked, identified, and treated early, vaginal atrophy will cause recurrent genitourinary infections and much vaginal/pelvic discomfort and pain.

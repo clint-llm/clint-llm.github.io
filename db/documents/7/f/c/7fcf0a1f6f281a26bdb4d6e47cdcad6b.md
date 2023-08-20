@@ -1,0 +1,1 @@
+Nonunion is a complication of march fractures with symptoms of chronic pain, swelling, or instability. In such cases, surgery with intramedullary nailing may be warranted. Post-operatively, healing can be arduous, sometimes taking months to years.

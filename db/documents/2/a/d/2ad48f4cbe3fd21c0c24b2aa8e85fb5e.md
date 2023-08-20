@@ -1,0 +1,1 @@
+Each operation requires a team approach for optimal outcomes. Aside from the surgeon, the team includes an anesthesiologist or CRNA, circulating surgical nurse, surgical technician, and sometimes a video technician. The surgical time-out ensures that all personnel in the room confirm the correct patient and plan for the day.

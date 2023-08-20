@@ -1,0 +1,145 @@
+A secondary survey should not be performed until:
+
+- The primary survey has been completed
+
+- Resuscitation has been initiated
+
+- All life-threatening conditions have been identified and addressed
+
+- Normalization of vital signs has started
+
+Patients who are hemodynamically unstable should be stabilized first before they are transferred to a trauma center.
+
+An attempt should be made to obtain the patient's history regarding the mechanism of injury, since certain mechanisms can raise the suspicion for certain injuries such as the following:
+
+- Blunt trauma (seat belt use, airbag deployment, extent of damage to the automobile, ejection, and distance ejected)
+
+- Penetrating trauma (which firearm and how many gunshots).
+
+**AMPLE**History
+
+This mnemonic device can be used for obtaining a quick, focused history:
+
+- **A**llergy
+
+- **M**edications
+
+- **P**revious medical history or illness/pregnancy
+
+- **L**ast Meal
+
+- **E**vents/environment related to injury: What happened (example mechanisms such as blunt, penetrating, burns or any hazardous environment, such as exposure to chemicals, toxins or radiation. These considerations are important for the following reasons due to exposure to chemical agents can cause pulmonary, cardiac and other internal organ dysfunction, or hazardous environment can pose a threat to the health.
+
+**Physical Examination**
+
+The purpose of the secondary survey is to identify significant injuries. This involves a complete head-to-toe examination; examine all areas including front, back, sides, under and over. This examination involves a second review of the airway and lung examination. Throughout the evaluation, standard precautions for blood or fluid-borne infections should be observed.
+
+**Vital Signs**
+
+Assess vital signs; A narrow pulse pressure and tachycardia indicate hypovolemic shock in a trauma setting until proven otherwise. Vital signs should be closely monitored and response to interventions should be assessed. In elderly population, normal vital signs should not be reassuring as hemodynamic changes such as tachycardia or hypotension may be delayed.
+
+**Head and Face Examination**
+
+Examine the head for scalp hematoma, skull depression, or laceration. The scalp should be palpated, since scalp lacerations or bony step-offs may be identified only by careful palpation. Palpate the entire facial bony margins including orbit, the maxilla, the nose and jaw.
+
+A nasogastric (NG) tube should not be inserted if there is facial trauma or evidence of basilar skull fracture. Also, ears should be evaluated for hemotympanum or retro-auricular ecchymosis (Battle's sign). The presence of blood or clear drainage from the ear canal indicates basilar skull fracture with cerebrospinal fluid (CSF) leak. Beware that facial fractures may be subtle. Examine the nose for septal hematoma.
+
+The pupillary size and response, as well as eye movements should be assessed. The ocular examination should also include ocular mobility/entrapment, or periorbital ecchymosis (Raccoon eyes).
+
+**Neck Examination**
+
+The neck should be carefully inspected and palpated while it is carefully immobilized. Inadequate immobilization increases morbidity. Beware that injuries under the hard collar may not be readily apparent. Assume an injury to cervical spine with blunt trauma until proven otherwise. C-spine can be cleared either clinically by applying decision rules, or by obtaining imaging studies, such as plain radiographs or a CT scan. Also evaluate whether there is a neck swelling or pulsatile neck mass.
+
+**Examination of the Chest**
+
+Palpate the entire chest wall for crepitus (subcutaneous emphysema) and tenderness. The area over the sternum and clavicles require special attention as fractures involving these bones may suggest significant force and need for further evaluation of other intrathoracic injuries. Assess any respiratory effort and work of breathing. Evaluate whether breath sounds are symmetrical and heart sounds are normal and not muffled. Inspect whether there is any bruising related to a seatbelt.
+
+**Examination of the Abdomen**
+
+The abdomen should be examined for distension, bowel sounds, bruising, skin marks or tenderness. The presence of these findings requires further evaluation. Also, the presence of a seatbelt sign or other marks to the abdomen should prompt further evaluation. It is important to keep in mind that the absence of abdominal tenderness does not eliminate the possibility of abdominal injury. In addition, an initial abdominal examination may not be reliable particularly in the following cases:
+
+- Elderly population
+
+- Presence of distracting injuries
+
+- Altered mental state
+
+- Pregnant patient, especially late pregnancy
+
+- Examination of the rectum and the genitalia.
+
+The perineum should be inspected for any evidence of injury. Historically, a digital rectal examination has been included. However, its necessity as been questioned.  A digital rectal examination should be performed when there is a suspicion of urethral injury or penetrating rectal injury.
+
+Look for the following:
+
+- Gross blood in the rectal vault, which may indicate bowel injury
+
+- Displaced or high-riding prostate, which may suggest urethral injury
+
+- Abnormal sphincter tone and sensation, which may be due to a spinal cord injury.
+
+If blood is present at the meatus, urethral injury should be suspected. In this situation**,**retrograde urethrography should be performed before a Foley catheter is inserted**.**
+
+Consider vaginal injury in patients with lower abdominal pain, pelvic fracture or perineal laceration. In such situations, a vaginal examination should be performed.
+
+A focused abdominal sonography examination for trauma (FAST) is a part of the secondary survey.
+
+In pregnant patients, a complete obstetric examination should be performed in secondary survey. This includes measurement of fundal height and auscultation of fetal heart tones. Assess for uterine tone and whether contractions and tenderness are present.
+
+**Examination of the Extremities**
+
+The extremities should be assessed for fractures by carefully palpating each extremity over its entire length for tenderness and decreased the range of motion. Assess the integrity of uninjured joints by both active and passive movements. Injured joints should also be immobilized, and radiographs should be obtained if necessary.
+
+The neurovascular status of each extremity should be assessed and documented. Check pulses, the capillary refill time and evaluate each compartment. The presence of significant pain, tense compartments, or pain with passive movement may indicate a development of compartment syndrome.
+
+**Pelvic Examination**
+
+The pubis and anterior iliac spines should be evaluated for any signs of pelvic instability. The presence of ecchymosis over the iliac wings, pubis, labia, or scrotum and tenderness along the pelvic ring also, requires diagnostic evaluation.
+
+**Neurologic Examination**
+
+In this evaluation, the sensory and motor functions should be assessed, and the Glasgow Coma Scale score should be repeated. This is important, since a patient's condition may change rapidly over time. The neurological assessment should also include an examination of the pupils, including pupillary response to light.
+
+**Skin Examination**
+
+In this, visualize all possible areas of skin.  This includes the locations of lacerations, abrasions, ecchymosis, hematoma, marks or bruises. Pay attention to the hidden areas:
+
+- Scalp
+
+- Axillary abdominal and gluteal folds
+
+- Perineum
+
+- Back should be evaluated by log-rolling the patient, and the spine should be palpated for step-offs or focal tenderness.
+
+When secondary survey is completed, one should be able to
+
+- Obtain relevant diagnostic tests
+
+- Request necessary consultations
+
+- Make decision regarding the level of care needed; initiate transfer to a trauma center, if required resources are not available
+
+During the secondary survey, following considerations should be included
+
+- Complete systematic physical examination including a neurologic exam
+
+- Update tetanus status
+
+- Vital signs monitoring
+
+- Urine output assessment
+
+- Special diagnostic tests
+
+**Special Considerations**
+
+All dressings should be removed and injuries should be thoroughly evaluated
+
+The cervical collar should be removed while another team member maintains in-line immobilization ant the neck should be evaluated for injuries and then the cervical collar is reapplied in standard fashion.
+
+All clothing should be removed from all patients to completely perform an evaluation. Environmental concerns and modesty should be maintained at all times by covering the patient with warmed blankets as able.
+
+Certain injuries may not be evident during the secondary survey unless specifically considered and evaluated. For example, injuries to the esophagus, diaphragm, and small bowel may remain unrecognized, even with good examination.
+
+A tertiary survey is helpful to identify injuries not recognized during the secondary survey. This should be performed in patients with multisystem trauma within the first 24 hours.

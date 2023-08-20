@@ -1,0 +1,9 @@
+The medications used to mitigate the effects of osteoporosis are particularly noteworthy for their clinical significance in bone remodeling. The most commonly used medications are listed below and accompanied by their mechanism of action. These medications are not listed in any particular order and are presented here for discussion regarding their impact on bone remodeling. Therefore, this is not an exhaustive list.
+
+**Bisphosphonates**(e.g., alendronate): Most bisphosphonates prescribed today are nitrogen-containing bisphosphonates. These bisphosphonates work by inhibiting farnesyl pyrophosphate synthase, which is essential in promoting the attachment of the osteoclast to the bone. As a result, the osteoclast detaches from the bone surface, and bone resorption is inhibited. Non-nitrogen-containing bisphosphonates are no longer typically prescribed, as they have been found to have a high potential to inhibit bone mineralization and can cause osteomalacia.
+
+**Calcitonin**: This medication may be used to treat postmenopausal osteoporosis, emergent hypercalcemia, and Paget disease of the bone. Calcitonin inhibits osteoclast activity and increases the renal excretion of calcium.
+
+**Raloxifene**: Raloxifene is a selective estrogen receptor modulator (SERM) with agonist activity in bone and antagonist activity in other tissues, such as breast tissue. The agonist activity in bone allows estrogenic effects to occur, meaning that it will decrease the survival of osteoclasts and hinder local bone resorption factors such as IL-6.
+
+**Denosumab**: This is a human monoclonal antibody that binds RANKL. It decreases the activity and survival of osteoclasts by inhibiting the RANK-RANKL interaction, thereby limiting bone resorption.

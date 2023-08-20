@@ -1,0 +1,1 @@
+Etesevimab and bamlanivimab infusion should be given only by a qualified healthcare professional in an outpatient facility with the ability to manage hypersensitive reactions. The patient should be monitored for anaphylaxis for at least 1 hour after completing the infusion.

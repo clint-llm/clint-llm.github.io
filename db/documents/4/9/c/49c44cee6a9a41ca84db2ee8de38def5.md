@@ -1,0 +1,3 @@
+Spirometry is one of the most readily available and useful tests for pulmonary function. It measures the volume of air exhaled at specific time points during complete exhalation by force, which is preceded by a maximal inhalation.
+
+The most important variables reported include total exhaled volume, known as the forced vital capacity (FVC), the volume exhaled in the first second, known as the forced expiratory volume in one second (FEV1), and their ratio (FEV1/FVC).

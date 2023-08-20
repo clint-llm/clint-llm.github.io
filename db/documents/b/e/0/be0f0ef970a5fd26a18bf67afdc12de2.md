@@ -1,0 +1,1 @@
+Heart failure is very common. It is stated to be the cause of millions of office visits per year and is the most common diagnosis of hospitalized patients. In the United States, it is published that more than 500,000 new cases are diagnosed per year, and the current prevalence is about 5 million.

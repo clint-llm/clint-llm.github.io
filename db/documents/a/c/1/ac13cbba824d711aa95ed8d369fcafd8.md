@@ -1,0 +1,3 @@
+Bias is colloquially defined as any tendency that limits impartial consideration of a question or issue. In academic research, bias refers to a type of systematic error that can distort measurements and/or affect investigations and their results.
+
+However, interpreting the presence of bias involves understanding that it is not a dichotomous variable, where the results can either be “present” or “not present.” Rather, it must be understood that bias is always present to some degree due to inherent limitations in research, its design, implementation, and ethical considerations.

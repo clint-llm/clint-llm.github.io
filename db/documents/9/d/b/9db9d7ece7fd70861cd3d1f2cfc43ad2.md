@@ -1,0 +1,1 @@
+The prevalence of dacryoadenitis is not reported, but it is less common than dacryocystitis (inflammation or infection of the lacrimal sac). Acute dacryoadenitis is most commonly identified in children and young adults.

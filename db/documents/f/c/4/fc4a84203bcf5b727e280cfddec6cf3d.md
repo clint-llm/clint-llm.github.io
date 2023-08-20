@@ -1,0 +1,3 @@
+Erythema infectiosum is a common viral exanthem illness found in children. It is also known as “fifth disease” as it is 1 of the 6 most common viral rash illnesses found in children.
+
+Route of transmission is primarily via droplets from respiratory secretions and can spread via blood exposure. This is a common illness found in the spring months and early summer months. Symptom control and supportive management are the basis for the treatment of erythema infectiosum, but complications such as aplastic crisis or hydrops fetalis during pregnancy must be considered.

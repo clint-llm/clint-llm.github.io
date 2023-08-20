@@ -1,0 +1,1 @@
+Patients with moderate to severe depression should also be seen by a social worker to ensure that they have a support system and finances for treatment.  Overall, depression is managed by an interprofessional team dedicated to the management of mental health disorders. Open communication between all the members is the key to lowering the morbidity of the disorder.

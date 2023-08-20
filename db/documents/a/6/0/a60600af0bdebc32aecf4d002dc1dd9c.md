@@ -1,0 +1,1 @@
+A clinician trained in the application and management of skin disorders requiring chemical peeling generally performs this procedure with a nurse present to assist. An anesthesiologist must be present if using general anesthesia or a phenol peel.

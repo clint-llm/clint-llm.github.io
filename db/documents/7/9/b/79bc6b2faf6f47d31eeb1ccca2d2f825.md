@@ -1,0 +1,1 @@
+Cardiothoracic surgery consultation should be consulted any time PCI is performed as part of the "Heart Team Approach" to coronary intervention.

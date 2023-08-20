@@ -1,0 +1,1 @@
+Conjoined twins present a complex psychosocial challenge. Surgical separation is associated with ethical dilemmas, especially in cases of an unequal separation. Furthermore, the conjoined twins have difficulty in establishing individuality and can have a twinning reaction.

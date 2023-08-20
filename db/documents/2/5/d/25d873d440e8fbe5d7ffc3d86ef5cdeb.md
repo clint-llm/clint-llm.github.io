@@ -1,0 +1,3 @@
+Gross examination shows atrophy of the cerebellum and lateral ventricle enlargement, especially in SCA2, SCA3, and SCA7,  atrophy of brainstem and cerebral cortex, loss of pigments from substantia nigra and grayish discoloration of cerebral white matter.
+
+Histopathology shows obvious loss of neurons mainly Purkinje cells in the cerebellum and other parts of CNS likely pons, spinal cord, vermis, dentate nucleus, and medulla, loss of myelin in the anterior horn of spinal cord, motor neurons of cranial nerves in the brain stem, and axonal loss. In some cases, the immunohistochemical study shows ubiquitin and 1C2 positive intranuclear and cytoplasmic inclusions.

@@ -1,0 +1,3 @@
+Fluorouracil (5-FU) is a chemotherapeutic agent used in the treatment of a wide variety of malignancies. Systemic use of 5-FU is FDA-indicated for treating gastric adenocarcinoma, pancreatic adenocarcinoma, breast carcinoma, and colorectal adenocarcinoma.
+
+In addition to the FDA-approved indications for 5-FU, clinicians often use it topically to treat various other skin conditions, including metastatic cutaneous lesions from melanoma, keratoacanthomas, and treatment-resistant vitiligo. Evidence suggests that a conventional four-week course of 5-FU applied to the face and ears can be considered for reducing squamous cell carcinoma in high-risk individuals. Other dermatologic uses of 5-FU include the reduction of keloids and hypertrophic scars.

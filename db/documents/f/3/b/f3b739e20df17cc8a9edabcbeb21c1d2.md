@@ -1,0 +1,3 @@
+Uremic encephalopathy (UE) is defined as cerebral dysfunction due to the accumulation of toxins resulting from acute or chronic renal failure.
+
+The syndrome likely results from alterations in hormonal metabolism, retention of uremic solutes, changes in electrolyte and acid-base homeostasis, blood-brain barrier transport, changes in vascular reactivity, and inflammation. There are no diagnostic clinical, laboratory, or imaging findings, and often the diagnosis is made retrospectively when symptoms improve after dialysis or transplantation. If there is no improvement in symptoms after clearing toxic solutes, a search for other explanations should begin.

@@ -1,0 +1,1 @@
+The treatment of aggression and violence must be based on their causes.  The diagnosis leads to treatment.  If a mental disorder is a responsible contributor then the specific disorder must be addressed.

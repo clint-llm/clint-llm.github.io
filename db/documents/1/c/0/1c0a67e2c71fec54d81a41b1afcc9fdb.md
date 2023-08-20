@@ -1,0 +1,1 @@
+As high as 80-90% of all scapular fractures occurred during high-energy trauma such as motor vehicle collisions, falls, and other high impact trauma.

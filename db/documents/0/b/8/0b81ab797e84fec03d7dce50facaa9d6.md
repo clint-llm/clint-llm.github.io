@@ -1,0 +1,7 @@
+The World Health Organization (WHO) declared COVID-19 a global pandemic on March 11, 2020. Due to its high virulence, the virus has wreaked havoc on countries worldwide, with an overwhelming number of infections following outbreaks. This has led to a near-collapse of the healthcare infrastructure in some countries. With the advent of a better understanding of the disease process, efficient goal-directed management of severe COVID-19 with acute respiratory failure needing mechanical ventilation (IMV) with or without extracorporeal membrane oxygenation (ECMO) has become the need of the hour. This activity illustrates the evaluation and management of severe COVID-19 requiring IMV with or without ECMO and explains the role of the interprofessional team in managing patients with this condition.
+
+**Objectives:**
+- Describe the pathophysiology of respiratory failure leading to mechanical ventilation is severe COVID19.
+- Identify the indications for mechanical ventilation as well as the indication for ECMO.
+- Explain the most common adverse events associated with invasive mechanical ventilation and ECMO.
+- Summarize the key management principles used by the interprofessional team that are essential while caring for mechanically ventilated COVID-19 patients with or without ECMO.

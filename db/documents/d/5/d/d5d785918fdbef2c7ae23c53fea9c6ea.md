@@ -1,0 +1,3 @@
+The presentation of SC is relatively nonspecific. Patients can be asymptomatic, and when symptomatic, patients typically will present with joint pain as a chief complaint. In association with swelling, reduced range of motion, and occasionally crepitus and mechanical locking.
+
+Symptoms are usually worse with activity but can also present at rest. Patients may less commonly report instability, joint effusions, or evidence of involvement of the surrounding neurovascular structures.

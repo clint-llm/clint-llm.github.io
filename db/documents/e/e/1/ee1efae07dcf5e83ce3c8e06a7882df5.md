@@ -1,0 +1,5 @@
+Tetanus is a lethal infection, and it is best managed by an interprofessional team that includes an emergency department provider, nurse practitioner, infectious disease expert, neurologist, pulmonologist, and intensivist.
+
+The treatment of tetanus is based on the severity of the disease. However, all patients must have early wound debridement, antibiotic therapy, early intramuscular or intravenous administration of the human tetanus immunoglobulin (HTIG), and neuromuscular blockade. Patients with severe symptoms should be admitted to the ICU for close monitoring and mechanical ventilation. Healthcare providers must also provide supportive care, especially for patients with autonomic instability (labile blood pressure, hyperpyrexia, hypothermia). Moreover, all patients require full tetanus toxoid immunization at recovery. For those who are treated with tetanus toxoid, recovery is assured, but the rehabilitation may take weeks or months.
+
+Only with an interprofessional approach with regular education of the public can the morbidity and mortality of tetanus be lowered.

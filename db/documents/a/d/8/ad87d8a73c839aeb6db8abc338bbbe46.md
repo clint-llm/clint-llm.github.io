@@ -1,0 +1,3 @@
+Systemic complications include diabetes mellitus, cholelithiasis, iron deficiency anemia, macrocytic anemia, deficiency manifestations of fat-soluble vitamins A, D, E, and K such as night blindness, osteopenia, and bleeding, respectively. Diabetes mellitus is usually mild, and ketoacidosis is rare. It is treated with diet and/or oral hypoglycemic agents or with small doses of insulin.
+
+Locally, the tumor can lead to obstructive hyperbilirubinemia and gastrointestinal bleeding.

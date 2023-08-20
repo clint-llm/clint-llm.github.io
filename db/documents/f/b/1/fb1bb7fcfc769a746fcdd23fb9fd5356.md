@@ -1,0 +1,1 @@
+The stigma of tuberculosis still exists.

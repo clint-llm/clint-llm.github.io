@@ -1,0 +1,1 @@
+Patients should be educated on the importance of B12 supplement adherence and close follow-up with their primary clinician. Patients that are on a strictly vegan diet should be made aware of the importance of supplementation to prevent B12 deficiency. All patients with risk factors for the various etiologies of vitamin B12 deficiency should be monitored routinely with lab tests.

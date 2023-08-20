@@ -1,0 +1,3 @@
+Patients with persistent, debilitating symptoms in the setting of known proximal biceps tendon pathology are good surgical candidates for either a tenotomy or tenodesis procedure.
+
+The literature demonstrates a high level of patient satisfaction and patient-reported pain and overall outcome scores at long-term follow-up. A 2017 study of more than 100 patients that were 1-year out from surgical arthroscopy procedures with concomitant biceps tenotomy revealed that more than 90% of patients were “satisfied” or “very satisfied” with their outcome. In addition, 95% stated that they would have the same surgery again.

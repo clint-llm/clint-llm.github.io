@@ -1,0 +1,1 @@
+Skin biopsies usually demonstrate dermal fibrosis without signs of inflammation. A significant increase in cellularity is also noted, as shown in the image. These cells are described as being spindle-shaped fibroblasts, fibrohistiocytic, fibroblast-like, or polygonal epithelioid fibroblasts.

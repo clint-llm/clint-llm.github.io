@@ -1,0 +1,447 @@
+Commonly used radiopharmaceuticals and the scans used for imaging purposes are summarised below. Current good radiopharmaceutical practices should be considered when making and administering these agents. All pertinent regulations and guidelines should be followed in their creation, preparation, handling, storage, transport, dosing, and administration.
+
+CT and MRI are essentially equivalent in the evaluation of lymph node metastases. However, MRI is superior to CT imaging with regard to contrast enhancement in the evaluation of prostatic and pelvic anatomy. Both imaging modalities identify bone metastases well.
+
+**F-18-FDG**is a commonly used radioisotope scan for many malignancies, but it is not optimal or generally recommended for prostate cancer.
+
+Urinary excretion of the radioisotope can interfere with the imaging of prostatic lesions. Also, several benign conditions can cause false positives with increased F18-FDG uptake in the prostate, such as benign prostatic hyperplasia, prostatitis, and various cystic malformations.
+
+**Radiopharmaceuticals for Bone Scan Imaging**
+
+**Bone scans**are designed to identify skeletal metastases in prostate cancer. The national comprehensive cancer network (NCCN) recommends an initial bone scan for patients at high risk for skeletal metastases (PSA equal or >20 ng/mL; clinical stage at least T2c; or Gleason 8, 9, or 10).
+
+They are also indicated in evaluating patients at high risk for metastasis after radical prostatectomy surgery if PSA levels do not become undetectable or if subsequent PSA levels become detectable on at least 2 occasions.
+
+Bone scans may be considered in patients who become symptomatic, have an increasing PSA, or have a positive digital rectal examination after definitive radiation therapy. They can be used to monitor the response to androgen deprivation therapy, for which the NCCN recommends repeating the bone scan every 6 to 12 months. The NCCN recommends a bone scan interval of 8 to 12 weeks to monitor castrate-resistant prostate cancer.
+
+Ga-68-PSMA-11, F-18-piflufolastat (DCFPyL), C-11-choline, and F-18-fluciclovine may all be considered to clarify equivocal results on initial bone scans.
+
+A separate bone scan is not required if a Ga-68 PSMA-11 or F-18 piflufolastat (DCFPyL) PSMA PET/CT scan is performed.
+
+**Tc-99m Diphosphonates (99mTc-MDP) Bone Scan**
+
+Gamma camera-based bone scans are widely available in clinical practice and have a long history of staging bone metastases in prostate cancer. Patients do not require specific preparation for this procedure. The imaging typically takes approximately 45 minutes, but patients require injection approximately 3 hours before scanning.
+
+The introduction of 3D fusion hybrid imaging with single photon emission computed tomography and computerized X-ray tomography (SPECT-CT) has improved the resolution and anatomic localization of the acquired images. To identify bone metastases with the traditional Tc-99m bone scan, PSA levels typically have to be 20 ng/mL or higher, while PET scans typically require only 0.2 ng/mL.
+
+- Indication: Detection and evaluation of bone metastases utilizing increased bone turnover.
+
+- Scanner Used: Gamma camera/SPECT-CT.
+
+- Tracer: [99m Tc] technetium hydroxy diphosphonate is the most commonly used tracer.
+
+- Tracer Pharmacokinetics: Diphosphonates function as phosphate analogs that, through chemisorption, combine with crystalline hydroxyapatite in bone.
+
+- Acquisition protocol
+
+- Injected dose: 730-1110 MBq injected intravenously
+- Injection to imaging time: 2 to 4 hours
+- Protocol: whole body image acquisition with anterior and posterior projections
+- SPECT/CT of regions of interest
+- Reconstructions: performed utilizing iterative reconstructive methods [objective substitute expectation maximization (OSEM), maximum likelihood expectation maximization (MLEM)]
+
+- Sensitivity: 79%
+
+- Specificity: 86%
+
+- Positive predictive value: 45%
+
+- Negative predictive value: 96%
+
+- FDA-approved for suspected bone metastases
+
+**[F-18] F-18-Sodium Fluoride Bone Scan**
+
+F-18-sodium fluoride positron emission tomography (PET) has a high specificity and sensitivity for bone metastases. This scan has become a frequent replacement for conventional diphosphonate bone scans as PET/CT cameras become more common in clinical practice. Medical cyclotrons can produce f-18-sodium fluoride. The scans are more sensitive to bone turnover than diphosphonate scintigraphy, involve less uptake time, and offer 3D whole-body hybrid imaging with CT.
+
+Patients generally fast for 4 hours before intravenous tracer administration and are advised to stay hydrated before and during the uptake time post-injection.
+
+Whole body images with CT fusion help to identify and localize individual bone metastases in 3D volumes.
+
+- Indication: suspected bone metastases due to advanced prostate cancer; a replacement and upgrade for the traditional Tc-99 MDP bone scan.
+
+- Scanner Used: PET-CT.
+
+- Tracer Pharmacokinetics: uptake based on the chemisorption of fluoride ions on the surface of hydroxyapatite, which exchanges hydroxyl ions in the crystal to make fluorapatite.
+
+- Acquisition protocol
+
+- Injected dose: 1.5-3.7 MBq/kg with a max of 370 MBq doses for large patients
+- Radiopharmaceuticals: injected intravenously
+- Injection to imaging time: 30 to 45 minutes
+- Scan acquired: typically a whole-body image
+- CT protocol: 35 mA, 120 kVp, with a rotation time of 0.55 seconds, Pitch 0.85 with a FOV of 780 mm
+- PET protocol: 256 X 256 matrix, Zoom 1.0, 2 to 5 minutes/bed position scan duration; reconstruction should be performed via iterative-based methods with a setting of 2 iterations and 21 subsets.
+
+- Sensitivity and specificity: sensitivity - 77 to 94%, specificity - 92 to 99%.
+
+- Positive predictive value (PPV) for bone metastasis: 82 to 97%
+
+- Equivalent to F-18-PSMA piflufolastat (DCFPyL) for the detection of bony metastases.
+
+- FDA-approved for suspected bone metastases only
+
+- Recommended by the NCCN for bone metastases only
+
+**Radiopharmaceuticals for Prostate Cancer Imaging**
+
+**[C-11] Carbon-11-Choline PET Scan**
+
+Choline has numerous nutritional functions. Prostate cancer cells have markedly increased choline uptake, which concentrates in these cells. Carbon-11 (C-11) radioisotope labeled choline was used for early detection of recurrent malignant disease but is not currently recommended for initial staging. Carbon-11 has a short half-life (20 minutes), requiring an on-site cyclotron, limiting its availability. F-18-fluorocholine PET/CT is more widely used in clinical practice due to its longer half-life. Ga-68 radioligands have a longer half-life and do not require a cyclotron on-site.
+
+Choline-based scans are less sensitive than PSMA-binding radioligand imaging, and their indications have now been superseded in most nuclear medicine practices.
+
+- Indications: detecting recurrent disease and metastases for biochemical recurrence or progression only.
+
+- Scanner Used: PET-CT.
+
+- Tracer pharmacokinetics: malignant prostate cells have higher kinase expression, increasing choline uptake and phosphatidylcholine concentrations; high phosphatidylcholine concentrations can be detected using radiotracer-tagged choline.
+
+- Acquisition protocol 
+
+- Injected dose: 350 MB
+- Injected intravenously
+- Injection to imaging time: 10 minutes.
+- Position: position patient supine with the arms elevated above the head
+- Scan: cover from the head to mid-thigh level
+- CT protocol: 35 mA, 120 kVp, with a rotation time of 0.55 seconds; pitch is 0.85 with a FOV of 780 mm
+- PET protocol: 256 X 256 matrix, Zoom 1.0, 1.5 to 2.5 minutes/bed position scan duration; reconstruction should be performed via iterative-based methods with a setting of 2 iterations and 21 subsets
+- Attenuation correction: performed with the help of CT scan data
+
+- Positive predictive value for biochemical recurrence: 53 to 96%.
+
+- FDA-approved: biochemical recurrence or progression only.
+
+- Recommended by the NCCN: biochemical recurrence or progression only.
+
+**[F-18] F-Fluciclovine (FACBC) PET Scan**
+
+F-18-fluciclovine is an analog of the amino acid leucine. Prostate cancer has increased amino acid transport and utilization, which can be seen in PET/CT imaging using this agent. F-18-fluciclovine also has increased uptake in osteoblastic and osteolytic lesions, giving it approximate equivalency to bone scintigraphy. This analog has been shown to find more bone metastases than Tc-99m MDP bone scans and offers the advantage of finding tissue lesions as well.
+
+However, it has relatively poor specificity for primary prostate cancer and nodal disease. F-18-fluciclovine has high sensitivity but low specificity and a moderate positive predictive value for recurrent involvement in the prostate bed. F-18-fluciclovine is superior to CT alone, In-111-Prostascint, and C-11-choline, plus its limited urinary excretion improves the visualization of lesions near the bladder. However, it is less sensitive than PSMA-binding tracers, and its indications have also been largely superseded in clinical practice. It is FDA-approved for biochemical recurrence and progression but not for initial staging.
+
+- Indications: Detection of recurrent disease and metastases. Biochemical recurrence.
+
+- Scanner Used: PET-CT.
+
+- Tracer Pharmacokinetics: A leucine analog, F-18-fluciclovine, shows increased uptake in bone and metastases.
+
+- Acquisition Protocol:
+
+- The injected dose is 370 MB.
+- Injected intravenously.
+- Injection to imaging time is 3 to 5 minutes.
+- The patient should be positioned supine with the arms elevated above the head after the injection.
+- The injection should be given to the right arm.
+- The scan should cover from the head to mid-thigh level.
+
+- Correct Localization Rate for Biochemical Recurrence: 87%–91%.
+
+- FDA-Approved for Biochemical Recurrence or Progression only.
+
+- Recommended by the NCCN for Biochemical Recurrence or Progression only.
+
+**PSMA-Binding Radionuclide Imaging**
+
+Ga-68 and F-18 labeled PSMA-binding radioligands have the advantage of high sensitivity and specificity for metastatic prostate cancer lesions. With increasing pathological grade and the onset of androgen independence, PSMA expression appears to increase. Therefore, a PSMA-radioligand scan can effectively show bone, lymph node, and visceral metastatic lesions and primary disease at the prostate gland or local recurrence. In addition, the possibility of in-house production of Ga-68 with the help of a Ga-68 generator makes it a practical choice in facilities without a cyclotron.
+
+Cyclotron-produced F-18 PSMA binding radioligands have shown equally high specificity for metastatic prostate lesions compared to the more commonly used Ga-68 agents. Overall, PSMA-based PET-CT imaging now plays an essential role in detecting metastatic prostate cancer. Generally, a PSA level greater than 0.2 ng/mL is needed for good results from a PSMA-based PET scan. PSMA imaging should ideally be performed starting antiandrogen hormonal therapy as imaging sensitivity may be affected.
+
+Ga-68-PSMA PET/CT is currently the gold standard for PSMA imaging in prostate cancer, providing high sensitivity and specificity for detecting and staging the disease. However, Ga-68-PSMA PET/CT may be unavailable, particularly in resource-limited settings. In these situations, Tc-99m-PSMA single-photon emission computed tomography/computed tomography (SPECT/CT) and Tc-99m methyl diphosphonate (Tc-99m MDP) bone scans are commonly used for staging.
+
+**[Ga-68] Ga-68-PSMA-11**
+
+Ga-68-PSMA-11 radioligands were first described in 2012 and are now the most widely used radioisotope tracer for prostate cancer PET imaging.
+
+Ga-68 has a relatively short half-life (68 minutes). In-house generators for Ga-68 help mitigate the drawbacks of its short half-life.
+
+- Sensitivity: 40%.
+
+- Specificity: 95% for nodal involvement.
+
+- Positive Predictive Value for Biochemical Recurrence: 92%.
+
+- The half-life is 68 minutes.
+
+- Requires a local generator.
+
+- FDA-Approved for initial staging and biochemical recurrence or progression.
+
+- Scanner Used: PET-CT.
+
+- Patient preparation: patients fast for 3-4 hours before injection and remain hydrated to improve target to background uptake and reduce radiation dose to the urinary bladder.
+
+- Tracer Pharmacokinetics: PSMA is present in almost all prostate adenocarcinomas, including primary tumors and metastatic lesions.
+
+- PSMA is significantly overexpressed in hormone-refractory malignant lesions.
+- Radioligands are directed against the antigen's intracellular (necrotic or apoptotic cells) or extracellular (live cell) motifs.
+
+- Acquisition Protocol: 
+
+- The injected dose is 1.8 to 2.2 MBq/Kg.
+- Injected intravenously.
+- Injection to imaging time is 60 minutes.
+- The patient should be positioned supine with the arms elevated above the head.
+- The scan should generally cover from the head to mid-thigh level.
+- CT protocol: 35 mA, 120 kVp, with a rotation time of 0.55 seconds, Pitch 0.85 with a FOV of 780 mm.
+- PET protocol: 256 X 256 matrix, zoom 1.0, 3 - 4 minutes/bed position scan duration, reconstruction should be performed via iterative-based methods with a setting of 2 iterations and 21 subsets.
+- Attenuation correction must be performed with the help of CT scan data.
+
+- FDA-Approved for Initial Staging and Biochemical Recurrence or Progression.
+
+- Recommended by the NCCN for Initial Staging and Biochemical Recurrence or Progression.
+
+**[F-18] F-18-PSMA piflufolastat (DCFPyL)**
+
+[F-18] F-PSMA radioligands have similar performance characteristics to Ga-68-PSMA-11 in PET scans for prostate cancer but have a longer half-life at 2 hours. F-18 can be easily produced in a regional cyclotron.
+
+- Sensitivity: 31 to 42%.
+
+- Specificity: 96 to 99% for nodal metastasis.
+
+- Correct Localization Rate (CLR): 85 to 87% for biochemical recurrence.
+
+- The half-life is 2 hours.
+
+- Produced by a regional cyclotron.
+
+- Equivalent to the  F-18-Sodium Fluoride bone scan for the detection of skeletal metastases.
+
+- Overall, roughly equivalent to Ga-68-PSMA-11 PET scans.
+
+- FDA-Approved for Initial Staging and Biochemical Recurrence.
+
+- Recommended by the NCCN for Initial Staging and Biochemical Recurrence or Progression.
+
+**Tc-99m-PSMA Radioligands**
+
+PSMA-binding radioligands using technetium 99m are in clinical use for the staging of prostate cancer. Because they use the gamma emitter technetium 99m, they allow planar imaging and SPECT/CT in most nuclear medicine departments using a gamma camera.
+
+Ga-68-PSMA PET/CT reveals a considerably higher average number of lesions and is more effective in detecting prostatic bed lesions than Tc-99m-PSMA SPECT/CT. But at higher PSA levels (>4 ng/ml), Tc-99m-PSMA SPECT/CT still provides high overall detection rates for prostate cancer metastases, and there is no significant difference in the detection of lymph nodes or bony metastases.
+
+When compared head-to-head, patients with a PSA >2.1 ng/mL showed consistent results between the two imaging modalities.
+
+Tc-99m-PSMA SPECT/CT does not detect small lesions well, so it is not recommended in patients with small-volume disease.
+
+In a prospective, comparative trial, 99m-Tc PSMA was found to be far superior to 99m-Tc-MDP SPECT/CT with regards to sensitivity, specificity, and PSA cutoff (2.6 ng/mL vs. 15 ng/mL) in detecting bone metastases.
+
+Ga-68-PSMA PET/CT provides higher spatial resolution and has a higher sensitivity and specificity for detecting metastases, particularly in the early stages of the disease. Although its sensitivity cannot match the positron-emitting PSMA radioligands in a PET/CT camera, Tc-99m-PSMA SPECT/CT offers an effective, valuable, cost-effective alternative to centers or patients without access to a PET/CT facility.
+
+**Indium-111 Capromab Pendetide Imaging**
+
+Capromab pendetide radiolabeled with indium-111 (indium-111 capromab pendetide), formerly used for imaging prostate cancer, was approved by the US Food and Drug Administration (FDA) in 1996. Indium-111 capromab pendetide is presented here primarily for historical context as it has been supplanted by newer imaging tracers as outlined above.
+
+Indium-111 capromab pendetide comprises a monoclonal antibody that targets an intracellular prostate-specific membrane antigen (PSMA) glycoprotein and a radioisotope, indium 111, which emits gamma radiation that a gamma camera can detect. Indium-111 capromab pendetide is injected into the patient's bloodstream, and the monoclonal antibody binds to the PSMA. Since only intracellular PSMA is targeted, the radiolabeled antibody can only identify necrotic prostate cancer cells, dramatically limiting its sensitivity and usefulness.
+
+The technical protocol for indium-111 capromab pendetide imaging involves several steps. Before the injection, the patient must fast for at least 4 hours. The imaging procedure takes place over 2 days, with the injection of indium-111 capromab pendetide on day 1 and imaging on day 2. On day 1, the patient is injected with the radiolabeled antibody, prepared in a sterile, pyrogen-free environment. The recommended dose is 5 mCi (millicuries) or 185 MBq for patients with a mass under 90 kg and 7 mCi/225 MBq for patients with a mass over 90 kg. After injection, the patient must remain still for at least 30 minutes to allow for the distribution of the radiopharmaceutical throughout the body.
+
+The patient is then monitored for adverse reactions, such as allergies or injection site reactions. The patient returns for imaging on the second day (24-hour delay). The patient is positioned on the gamma camera/SPECT-CT table, and images are acquired, including the whole body (anterior and posterior view) and SPECT-CT from head to mid-thigh.
+
+Indium-111 capromab pendetide imaging has several significant drawbacks. One major limitation is its low sensitivity for detecting small tumors. This radiolabeled antibody can only detect tumors larger than 1 cm in size, which means that smaller tumors may be missed. This limitation is due to the limited spatial resolution of gamma cameras, which cannot detect the tiny amounts of radiation emitted from small tumors.
+
+Another limitation is its low specificity. Furthermore, indium-111 capromab pendetide imaging is not recommended for patients with a rising prostate-specific antigen (PSA) level after radical prostatectomy or radiation therapy. This imaging may detect residual prostate tissue or inflammation rather than cancerous lesions. In addition, the long half-life of the indium-111 radioisotope increases the radiation burden on the patient.
+
+While indium-111 capromab pendetide imaging has been used for over 2 decades to image prostate cancer, it has major and significant limitations. This imaging is best used with other imaging modalities, such as MRI or CT, to improve its sensitivity and specificity. Overall, the performance of the indium-111 capromab pendetide PSMA-based scan has been very disappointing, and the NCCN no longer recommends it.
+
+**Tips for PSMA-PET Interpretation**
+
+PSMA-PET imaging is a highly sensitive imaging modality used to detect prostate-specific membrane antigen (PSMA) expression in prostate cancer cells. Here are some tips and guidance for radiologists to help them interpret Ga-68-PSMA imaging and identify false positives:
+
+- Understand the limitations of Ga-68 PSMA imaging: Ga-68 PSMA imaging is a highly sensitive modality, but it is not 100% specific. False positives can occur for various reasons, such as inflammation, benign prostatic hyperplasia, prostatitis, new (within 90 days of starting) hormonal therapy, or even normal physiological uptake. Radiologists should be aware of these limitations and interpret the imaging in the context of the patient's clinical history and other findings.
+
+- Be familiar with the normal distribution of Ga-68 PSMA uptake: Ga-68 PSMA uptake is commonly seen in the prostate gland, ureters, bladder, and salivary glands. Radiologists should be familiar with the normal distribution of Ga-68 PSMA uptake and recognize these structures on the imaging.
+
+- Using multimodality imaging to confirm suspicious findings: False positives on Ga-68 PSMA imaging can be confirmed using other imaging modalities, such as CT or MRI. Radiologists should use multimodality imaging to confirm suspicious findings and rule out false positives.
+
+- Look for uptake patterns: False positives on Ga-68 PSMA imaging can be identified by looking for uptake patterns that do not fit the typical distribution of PSMA expression. For example, diffuse or asymmetric prostate uptake in the prostate gland is more likely to indicate inflammation rather than malignancy.
+
+- Consider the clinical history: The patient's clinical history can provide valuable information to help identify false positives on Ga-68 PSMA-PET imaging. For example, a patient with a history of a recent biopsy, radiation therapy, trauma, or surgery may have increased PSMA uptake due to inflammation or healing without any active malignancy.
+
+- The Society of Nuclear Medicine and Molecular Imaging (SNMMI) and the European Association of Nuclear Medicine (EANM) has published standards on the indications, technical procedures, and acquisition as well as interpretation guidance for multiple PSMA PET/CT scans for prostate cancer imaging which is highly recommended, particularly for facilities new to these modern, state-of-the-art scanning modalities.
+
+- Additional guidance and tips on interpreting PSMA-PET scans have been published and are available.
+
+**Challenges to PSMA-PET Interpretation**
+
+Interpreting radioisotope PSMA-PET scans can be challenging due to false positives, the "flare response," trapping of the tracer in nontargeted tissues, and urinary excretion, which interferes with visualization.
+
+Short-term androgen deprivation therapy may increase PSMA expression leading to increased radioisotope concentrations, while long-term hormonal therapy reduces PSMA exposure and uptake.
+
+An essential aspect of Ga-68-PSMA scans is the phenomenon of "flare," which can occur shortly after the injection of the radioactive tracer. "Flare" is a transient increase in PSMA uptake in the prostate, metastatic lesions, or elsewhere occurring during the first hour after the radioisotope injection. While the exact cause of the flare is not fully understood, it is thought to be related to an immune response triggered by the injection.
+
+There are several possible interpretations of "flare" on a Ga-68-PSMA scan. Fare could indicate active prostate cancer as malignant cells rapidly take up PSMA and its attached radioactive isotope. The transient increase may also be a sign of a positive therapeutic response.
+
+Patients undergoing treatment for prostate cancer may experience an initial, transient increase in PSMA uptake, followed by a subsequent decrease. This indicates that the treatment is working to reduce tumor size and malignant cell activity. This is known as a "PSMA flare response" and is considered a positive indicator of treatment efficacy.
+
+However, flare can occur even in patients who have previously undergone definitive treatment for prostate cancer and have no evidence of active malignant disease. Such false-positive results may occur in benign conditions with inflammation or a localized cellular immune response, such as in prostatitis, untreated urinary tract infections, after starting antiandrogen therapy, and bone healing after radiation therapy or trauma.
+
+The patient's clinical history and other imaging findings must be considered when interpreting a possible flare. Further evaluation and follow-up may be necessary to confirm the presence of cancer and determine the appropriate course of treatment.
+
+Interpreting radioisotope-PSMA PET scans can be challenging due to false positives, the flare response, trapping of the tracer in nontargeted tissues, and urinary excretion, which interferes with visualization.
+
+**Summary: PET-Based Radionuclide Imaging in Prostate Cancer**
+
+Only 2 PET tracers are FDA-approved and recommended by the National Comprehensive Cancer Network (NCCN) for use in the initial staging of prostate cancer for patients with suspected metastatic disease AND biochemical recurrence or progression.
+
+- [F-18] F-PSMA piflufolastat (DCFPyL)
+
+- [Ga-68] Ga-PSMA-11
+
+Five PET tracers are FDA-Approved and recommended by the NCCN for use only in prostate cancer patients with biochemical recurrence or progression.
+
+- [C-11] C-Choline
+
+- [F-18] F-Fluciclovine
+
+- [F-18] F-PSMA piflufolastat (DCFPyL)
+
+- [F-18] F-Sodium fluoride (alternative for a bone scan only)
+
+- [Ga-68] Ga-PSMA
+
+**Targeted Radiopharmaceutical Therapy for Prostate Cancer (Theranostics)**
+
+Radiolabeled PSMA-binding agents can also be used for therapy. The branch of nuclear medicine where imaging radioligands demonstrate tissue that can be targeted with similar therapy radioligands is known as theranostics.
+
+The use of radioligands for therapy requires specialist knowledge and training. Such treatment should be performed only by qualified staff in a certified facility**.**
+
+Theranostics for prostate cancer target PSMA overexpression to concentrate therapeutic radioligands to those specific locations.
+
+Although there has been an explosion of interest in treating prostate cancer with targeted radiopharmaceuticals and multiple trials are in progress, there is only a single proven indication that such therapy has been shown to improve survival.
+
+Current radioligand therapies are typically better tolerated than chemotherapy.
+
+- The Thera-P trial showed a higher PSA response and fewer grade 3 or 4 adverse events compared with cabazitaxel in men with metastatic castration-resistant prostate cancer.
+
+- The VISION trial demonstrated prolonged imaging-based progression-free survival and overall survival when added to standard care in patients with advanced PSMA-positive metastatic castration-resistant prostate cancer.
+
+**Lutetium-177 Radioligand Therapy**
+
+The following factors and characteristics make Lu-177 the currently preferred radionuclide for PSMA-targeted therapeutic purposes:
+
+- The mean penetration range of β− particles emitted by Lu-177 in soft tissue is 670 μm, and maximal tissue penetration is 2 mm, localizing cytotoxic radiation to target lesions and reducing non-target injury to adjacent, bystander areas.
+
+- Lu-177 also emits low-energy γ-rays during its decay (Gamma radiation), which allows scintigraphy with gamma cameras and subsequent dosimetry.
+
+- Lu-177 has +3 oxidation states simplifying chemical bonds with targeting agents.
+
+- Lu-177 has a long half-life (6.73 days), making it an easily transportable radionuclide and helpful in delivering radiation to the target tissue.
+
+Current commercially available Lu-177 labeled PSMA ligands are [Lu-177] Lu-PSMA-617 and [Lu-177] Lu-PSMA-I&T. Other PSMA binding radioligands, in particular those using alpha emitter Actinium-225 [Ac-225], remain experimental but are seeing increasing interest.
+
+**Patient Selection for Lu-177-PSMA Treatment**
+
+Patients are usually referred by their medical oncologist, radiation therapist, or urologist. In this rapidly changing area of oncology, it is suggested that nuclear medicine practitioners and other specialists who regularly take care of prostate cancer patients periodically check the latest NCCN guidelines and recommendations, as the indications for this therapy are changing rapidly.
+
+Patient suitability for treatment may require a multidisciplinary team assessment, but ultimately it is the nuclear medicine specialist who assumes primary responsibility for the final decision regarding patient suitability and education, treatment planning, response assessment, and management of treatment-related complications as well as adverse effects.
+
+**Current clinical indications**include metastatic, castrate-resistant, progressive prostate cancer following conventional systemic, taxane-based chemotherapy. (Patients who cannot take or tolerate the chemotherapy for any reason are also candidates.) The tumor must show adequate expression of PSMA on a baseline [Ga-68] Ga-PSMA PET/CT scan. In addition, patients should have a life expectancy of at least six months, adequate bone marrow and renal function without renal outflow obstruction, and an Eastern Cooperative Oncology Group (ECOG) performance status score of 2 or less.
+
+Diffuse bone marrow disease with a high risk of marrow failure will exclude patients from therapy.
+
+Most institutions also assess for the presence of active disease that does not express PSMA and is, therefore, unlikely to respond to this treatment. This is done by performing an FDG PET/CT scan before approving the patient for [Lu-177] Lu-PSMA-617 radioligand therapy.
+
+**Treatment Protocols for Lu-177-PSMA Therapy**
+
+Patients typically receive 4 to 6 treatment cycles at 6- to 8-week intervals. Administered doses may be scaled or adjusted due to disease burden, renal impairment, or after dosimetry testing, but a typical administration is 7.4 GBq (200 mCi).
+
+Patients spend up to 4 hours in the nuclear medicine department for therapy. They are discharged when their radiation levels fall to a safe level for other contacts, per local radiation safety regulations, and any adverse effects have been assessed and managed. Treated patients must understand and follow strict radiation protection procedures for up to 7 days due to the half-life of Lu-177 and radiopharmaceutical retention.
+
+Patients usually fast before treatment but with oral hydration. They receive intravenous hydration and antiemetics in the treatment facility before therapy administration. Measures to reduce radiation dose to PSMA expressing normal salivary glands may be applied.
+
+Infusions of Lu-177 radioligands are typically performed over 5 to 30 minutes. Therefore, monitoring vital signs pre- and post-infusion of [Lu-177] Lu-PSMA is required.
+
+Approximately 13% of patients experience serious adverse effects. Patients may suffer nausea both during and after treatment. Additionally, fatigue may develop in the days following therapy. Diarrhea and drowsiness are mentioned relatively commonly. Xerostomia due to physiologic PSMA expression by salivary glands and dry eyes due to PSMA expression by the lacrimal glands may occur and may be irreversible. Hematuria is occasionally reported. The most commonly reported adverse effects are fatigue (43%), dry mouth (39%), and anemia (32%).
+
+Following treatment, marrow suppression may occur, usually in patients with preceding marrow impairment, and should be carefully monitored. Renal function also requires monitoring, but renoprotective amino acid infusions are unnecessary for current PSMA therapies, unlike similar radioligand therapy with [Lu-177] Lu-dotatate, which is used for somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors.
+
+Imaging the gamma emissions from [Lu-177] Lu-PSMA radioligands following therapy can be performed using a gamma camera. Whole body and SPECT images allow subjective uptake assessment to target and non-target tissue. If required, multiple timepoint imaging can be performed for dosimetry.
+
+Treatment response may be assessed using the tenets of the prostate cancer workgroup (PCWG3) but should reasonably include PSA response, follow-up imaging at PSMA PET, and diagnostic CT. In addition, patient symptom response and tolerance of therapy should also be key factors in assessing treatment. Quantitative pain assessments and quality of life should be performed before, during, and after therapy.
+
+**Other PSMA Ligand Therapies**
+
+Radioisotopes emitting alpha particles are also used in cancer treatment. Alpha particles typically travel about 6 cell diameters, with minimal tissue penetration.
+
+The alpha emitter Actinium-225 [Ac-225] application is increasing in radionuclide-based therapies. PSMA-binding radioligands of Ac-225 have been assessed in advanced metastatic castrate-resistant prostate cancer, which is Lu-177 resistant, with some early success.
+
+Tandem therapy (using both Lu-177 and Ac-225 radioligands synchronously or serially) and other applications of Ac-225 radioligands in prostate cancer are currently under investigation.****
+
+Targeted α-therapy using astatine (211-At)-labeled PSMA appears promising in animal models for treating metastatic castration-resistant prostate cancer. Astatine has a half-life of 7.2 hours and can be produced by 30-MeV cyclotrons.
+
+Multimodal radiobioconjugates of magnetic nanoparticles labeled with 44-Sc and 47-Sc (scandium) for theranostic use in prostate cancer are also being studied experimentally.
+
+**Other Nuclear Medicine Therapies in Prostate Cancer**
+
+Beta-emitting radioisotopes samarium-153 [Sm-153] and strontium-89 [Sr-89] are used to manage pain from bone metastases in prostate and other cancers. [Sr-89] is administered as chloride salt and [Sm-153] as an EDTMP complex. Both bind to sites of osteogenesis, usually indicated by the uptake of other bone-seeking radiopharmaceuticals in imaging bone scans.
+
+Metastasis irradiation is an indirect effect of osteoblastic bone turnover rather than due to direct binding to tumor cells. Both agents have shown effective pain relief from bone metastases in clinical trials, but unfortunately, they provide no survival advantage. Both agents exhibit myelotoxicity as the dose-limiting factor.
+
+Radium-223 (Ra-223) is an alpha-emitting radioisotope given to people with osteoblastic metastases from prostate cancer. This isotope has the same benefits and limitations similar to other alpha emitters used in nuclear medicine therapy. Ra-223 is not only effective in the relief of pain from bone metastases but also shows a survival benefit compared to beta-emitting agents. Concomitant use with denosumab or zoledronic acid is recommended and will not interfere with the survival benefits of radium-223.
+
+Radium-223 has not been shown to provide a survival benefit in patients with visceral metastases or bulky nodal disease (>3–4 cm). The isotope is also limited by myelotoxicity, despite a theoretical advantage compared to the longer path lengths of the beta-emitting agents. Radium-223 should not be used in combination with myelosuppressive chemotherapy or docetaxel. It can also cause an increased risk of fractures if used with abiraterone.
+
+Before starting treatment with radium-223, the patient must have a neutrophil count of ≥1,500,000/mL, a platelet count of ≥100,000,000/mL, and a hemoglobin level of ≥10 g/dL. The neutrophil count must be ≥1,000,000/mL for subsequent doses with a platelet count of ≥50,000,000/mL. If these hematological minimums cannot be reached after the Radium-223 therapy has been discontinued for 8 weeks, the treatment should be discontinued.
+
+Other bone-seeking agents in clinical and experimental use include radioisotopes of rhenium and [Lu-177] Lu-EDTMP.
+
+**Summary of Principal Therapeutic Targeted Radiopharmaceuticals**
+
+**Lutetium-177**([Lu-177] Lu-PSMA-617, [Lu-177] Lu-PSMA-I&T)
+
+- Physical characteristics
+
+- Beta and gamma emitters
+- 497 keV Beta max
+- 113 (6.6%) and 210 (11%) keV of gamma radiation
+- Half-life of 6.73 days
+- Mean penetration of beta particles - 670 microns
+
+**Actinium-225**([Ac-225] Ac-PSMA-617, [Ac-225] Ac-PSMA-I&T)
+
+- Physical characteristics
+
+- Alpha emitter
+- Limited beta and gamma emitter
+- 410 keV alpha energy
+- Half-life of 9.920 days
+- Minimal tissue penetration
+
+**Radium-223**([Ra-223] Ra-Chloride)
+
+- Physical characteristics
+
+- Alpha emitter
+- 667 Mev/decay total alpha energy
+- Half-life of 11.43 days
+- Mean range of penetration in soft tissue - 43 microns
+
+**Strontium-89**
+
+- Physical characteristics
+
+- Beta emitter
+- Average beta energy 1.46 Mev
+- Half-life of 50.5 days
+- Mean range of penetration in soft tissue - 2.4 mm
+
+**Samarium-153**
+
+- Physical characteristics
+
+- Beta emitter
+- Average beta energy 0.58 Mev
+- Half-life of 1.93 days
+- Mean range of penetration in soft tissue - 0.6 microns
+
+**More Radioligand Diagnostic and Therapeutic Options**
+
+Experimentally, PSMA PET/CT has improved the accuracy of staging prostate biopsies.
+
+- PSMA-based PET studies can be helpful with MRI scans in evaluating questionable PIRADS 3 lesions and selected PIRADS 1 or 2 nodules.
+
+- Hybrid PET/MRI cameras can improve the detection rate of extracapsular extension, seminal vesicle involvement, infiltration of the neurovascular bundle, and neighboring organ spread when assessing primary disease.
+
+- PSMA-based immunotherapy, without radiation, is also being investigated.
+
+- These studies include immune checkpoint inhibitors, chimeric antigen receptors, bispecific antibodies, and tri-specific T-cell activating molecules.

@@ -1,0 +1,7 @@
+Family and domestic violence, including child abuse, intimate partner abuse, and elder abuse, is a national public health problem. Domestic violence in Kentucky falls under the Kentucky Cabinet for Health and Family Services and the Division of Protection and Permanency, which has recommended standards to precisely measure the extent of domestic violence and develop strategies for education and increasing public awareness. Kentucky has several domestic violence centers that will provide referral services, counseling, a 24-hour hotline, emergency shelter, educational services, assessment and referral of parents with children, and local training of law enforcement personnel. This activity reviews evaluation and management strategies for Kentucky victims of domestic abuse and stresses the role of team-based interprofessional care for these victims.
+
+**Objectives:**
+- Describe the cycle of abuse.
+- Describe history and exam cues that should prompt investigation for abuse. 
+- Review the steps that providers must take when a victim of domestic violence is identified in Kentucky.
+- Explain interprofessional team strategies for improving communication to identify and assist victims of domestic violence.

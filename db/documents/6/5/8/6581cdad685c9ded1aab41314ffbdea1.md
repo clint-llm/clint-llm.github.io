@@ -1,0 +1,3 @@
+The diagnosis of DT must be reviewed by an expert soft-tissue pathologist. Histologically, DT is characterized by the proliferation of uniform spindle cells resembling myofibroblasts, in the background of abundant collagenous stroma and vascular network.
+
+On immunohistochemistry, DT stains positive for nuclear beta-catenin, vimentin, cyclooxygenase-2, tyrosine kinase PDGFRb, androgen receptor, and estrogen receptor beta. DT stains negative for desmin, S-100, h-caldesmon, CD34, and c-KIT.

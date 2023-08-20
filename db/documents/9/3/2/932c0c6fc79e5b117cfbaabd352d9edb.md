@@ -1,0 +1,1 @@
+In some severe cases, the Caplan syndrome can progress to a more severe stage involving irreversible fibrosis stage. The patients typically will present with restrictive lung disease and symptoms of chronic shortness of breath and cough. More intensive treatment options should be considered in such severe cases along with transplant options.

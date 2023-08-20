@@ -1,0 +1,3 @@
+Most UTIs in females are acute uncomplicated cystitis caused by Escherichia coli (86%), Klebsiella species (5%), Staphylococcus saprophyticus (3%), Proteus species (3%), Enterobacter species (1.4%), Citrobacter species (0.8%), or Enterococcus species (0.5%). (In other words, Escherichia coli is by far the most common organism causing urinary tract infections, Klebsiella is the next most likely cause, followed by Proteus.)
+
+The primary risk factor for acute cystitis in women is the proximity of the female urethral meatus to the anus. This easily contaminates the vulvar and peri-urethral area with bacteria originating from the rectum.

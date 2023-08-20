@@ -1,0 +1,1 @@
+Trials evaluating nabothian cysts mainly focus on best detection techniques, despite multiple randomized trials that evaluate diagnostic techniques, no true gold standard exists.

@@ -1,0 +1,1 @@
+Patients who are pregnant should receive routine counseling at each prenatal visit. Education should include reporting rupture of membranes, vaginal discharge, fever, and abdominal pain to their obstetrical provider. Every woman should receive information on risk factors and signs and symptoms of infection during the prenatal period.

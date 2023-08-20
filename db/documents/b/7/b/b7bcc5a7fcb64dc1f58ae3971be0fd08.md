@@ -1,0 +1,1 @@
+When postpartum pubic diastasis is suspected clinically, an ultrasound scan can be diagnostic and used for screening,

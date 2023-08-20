@@ -1,0 +1,1 @@
+The pathophysiology of Munchausen disorder is primarily unknown as no large-scale studies have been conducted on the condition. Psychosocial factors are largely agreed upon to have the most influence in developing Munchausen syndrome.

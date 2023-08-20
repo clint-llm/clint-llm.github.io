@@ -1,0 +1,1 @@
+Wrist protection in the form of a removable splint may be of benefit if the patient takes part in high-risk activities where a fall on an outstretched hand may be more likely. Smoking cessation is recommended to optimize fracture healing both for those managed operatively and non-operatively.

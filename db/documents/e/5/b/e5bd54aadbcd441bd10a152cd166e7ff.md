@@ -1,0 +1,1 @@
+Given the associated high energy mechanism and severe soft tissue injury often seen in talar neck fractures, the prognosis is poor. The frequently encountered concomitant injuries limit many talar neck fracture cases, as isolated talar neck fractures are unusual. The high association with other lower extremity and axial spine injuries may contribute to worse outcomes.

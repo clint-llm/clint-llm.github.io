@@ -1,0 +1,1 @@
+Patients with animal bites need to be seen within 48 to 72 hours after the initial treatment to ensure that they are not developing an infection. The animal should be removed from the home and placed in a different location.

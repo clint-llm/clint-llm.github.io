@@ -1,0 +1,1 @@
+The most significant complication for dyslipidemia is cardiovascular disease. Complications of this include sudden cardiac death, acute myocardial infarction, or stroke. Multiple studies have demonstrated that statin and appropriate dyslipidemia treatment has significantly reduced the risk of all-cause mortality, cardiovascular events, and cardiovascular mortality.

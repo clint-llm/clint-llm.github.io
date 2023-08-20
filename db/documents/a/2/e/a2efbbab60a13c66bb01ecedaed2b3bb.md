@@ -1,0 +1,1 @@
+Apocrine hidrocystomas arise from an inappropriate tumorous growth of apocrine sweat glands

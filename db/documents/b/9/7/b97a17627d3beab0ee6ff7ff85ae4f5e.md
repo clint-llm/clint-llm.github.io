@@ -1,0 +1,3 @@
+Moffitt postulates that self-controlled children succeed as adults as they experience superior academic performance, interpersonal relations, and physical health.
+
+Impulse control disorders tend to be chronic unremitting disenfranchising patterns of behavior. In a more optimistic vein, intensive therapy, such as multi-systemic therapy (MST), has shown reductions in rates of out of home placements and re-arrests.

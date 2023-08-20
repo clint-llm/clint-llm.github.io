@@ -1,0 +1,1 @@
+LDL cholesterol, or low-density lipoprotein cholesterol, is a fat that circulates in the blood, moving cholesterol around the body to where it is needed for cell repair and depositing it inside of artery walls. Because cholesterol and triglycerides are insoluble in water, they must be associated with proteins to flow through the hydrophilic blood.

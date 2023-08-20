@@ -1,0 +1,1 @@
+Hypercoagulability disorders are either acquired or inherited.

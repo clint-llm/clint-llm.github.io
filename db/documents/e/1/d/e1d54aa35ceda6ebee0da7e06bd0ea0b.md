@@ -1,0 +1,29 @@
+# Definition/Introduction
+
+Managed care organizations are integrated entities in the healthcare system, which endeavor to reduce healthcare expenditures costs.
+
+# Issues of Concern
+
+The Health Maintenance Organization Act of 1973, an amendment of the Public Health Service Act of 1944, established the foundation for managed care organizations and their comprehensive cost-saving methods.
+
+Managed care organizations are present in many iterations, most commonly as health maintenance organizations (HMOs), preferred provider organizations (PPOs), and point of service (POS) organizations. Differentiation between the abovementioned structures can be difficult may require further investigation for providers and patients to comprehend fully. The notable points of each are as follows:
+
+- Health Maintenance Organizations (HMOs): A patient chooses an in-network primary care provider responsible for referrals to specialists. The insurance typically pays only in-network providers and is generally the cheapest option.
+
+- Preferred Provider Organizations (PPOs): Patients can choose from a list of in-network providers for primary and specialty care. Patients can also see out-of-network providers but will incur a higher cost than in-network counterparts. Additionally, patients can typically see in-network specialty providers without a referral. Prices tend to be higher due to increased flexibility.
+
+- Point of Service (POS) Organizations: Point of service organizations are a cross between HMO and PPOs, which require a PCP but allows patients to see in-network specialists without referrals. The cost is typically between HMOs and PPOs.
+
+- Exclusive Provider Organizations (EPO): EPOs allow patients to choose their in-network providers without the need for establishing a primary care provider and receiving referrals. However, all out-of-network expenses are not covered.
+
+Insurances allow for out-of-network emergency medical attention to be administered, as the patient cannot reasonably choose providers in an emergency setting. Financial coverage for medically necessary emergency visits may depend on admission status, network status, and treatments administered.
+
+# Clinical Significance
+
+Managed care organizations influence healthcare in all aspects of delivery. Managed care organizations have shown to improve outcomes, which has contributed to their expansion.
+
+Provider reimbursement also significantly affects healthcare utilization.
+
+# Nursing, Allied Health, and Interprofessional Team Interventions
+
+Interprofessional teams need to understand the premise of managed care organizations and how they affect healthcare delivery.

@@ -1,0 +1,1 @@
+There are 4 million sports-related concussions reported annually in the US alone.

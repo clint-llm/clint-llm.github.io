@@ -1,0 +1,5 @@
+Treatment of spontaneous osteonecrosis of the knee is guided based on the extent and severity of the disease. In the initial stages of the disease, non-operative treatment is an option, especially if the lesion is small (less than 3.5 centimeters squared).
+
+Prior to subchondral collapse, joint-preserving surgical techniques can be employed, including diagnostic and therapeutic arthroscopy, core decompression, and osteochondral autologous transplants. Duany et al. reported an 87% success rate in preserving the native knee joint using such joint preserving surgical techniques in patients with pre-collapse SONK at a mean follow-up of 40 months.
+
+Advanced stages of the disease can have treatment with a high tibial osteotomy (HTO) and unicompartmental knee arthroplasty (UKA) or total knee arthroplasty (TKA). HTO is usually the choice for younger, more active patients. Depending on lesion characteristics and the condition of the overall joint, UKA can be an attempt to maintain bone stock and native knee kinematics.

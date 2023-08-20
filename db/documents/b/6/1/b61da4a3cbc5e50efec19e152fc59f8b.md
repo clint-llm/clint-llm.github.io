@@ -1,0 +1,7 @@
+Taxanes are a diverse class of chemotherapeutic agents comprising paclitaxel, docetaxel, cabazitaxel, and albumin-bound paclitaxel (nab-paclitaxel), which work by stabilization of the microtubules. The resulting cell cycle inhibition during the G2/M phase activates the cellular apoptosis pathways.
+
+Paclitaxel was the first drug from this class that got FDA approval in 1992 for treating ovarian cancer after failure of first-line or later therapy. Subsequently, it was approved for metastatic breast cancer, AIDS-related Kaposi sarcoma, non-small cell lung carcinoma, and bladder cancer. FDA first approved docetaxel in 1996 for the treatment of metastatic breast cancer. Currently, it is approved for use in non-small cell lung cancer, head and neck cancer, gastric cancer, prostate cancer, and ovarian cancer. Cabazitaxel is being extensively prescribed for docetaxel-resistant metastatic castration-resistant prostate cancer. Nab-paclitaxel is used in the treatment of advanced pancreatic cancer, breast cancer, and non-small cell lung cancer.
+
+Despite forming the chemotherapy backbone of various malignancies, the use of taxanes is hindered by their side effects profile. Often the side effects are increased when these drugs are prescribed in combination with other medicines like platinum agents and doxorubicin. The side effects vary between different taxanes, but the common ones include myelosuppression, neuropathy, and hypersensitivity reactions.
+
+Taxanes have been known to cause (upper) gastrointestinal bleeding.

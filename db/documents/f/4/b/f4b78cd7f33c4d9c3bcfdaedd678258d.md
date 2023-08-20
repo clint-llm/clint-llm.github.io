@@ -1,0 +1,1 @@
+Patients need to be appropriately educated about the importance of preventative strategies to reduce the risk of actinic keratoses development and progression, including minimizing/avoiding sun exposure (especially at peak hours), the use of sun-protective clothing, wide-brimmed hats, and the judicious use of sunscreen to cover sun-exposed areas of the body and face.

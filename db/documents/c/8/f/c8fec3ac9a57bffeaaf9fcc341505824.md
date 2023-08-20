@@ -1,0 +1,1 @@
+A physician or advanced practice provider may perform anterior nasal packing in the urgent or emergent care setting. In austere conditions, packing may also be performed by a nurse or first responder.

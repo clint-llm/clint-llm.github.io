@@ -1,0 +1,1 @@
+Chronic hypertensive retinopathy rarely causes significant visual loss. The retinal changes can be halted when hypertension is treated. However, arteriolar narrowing and AV changes persist. For untreated malignant hypertension, the mortality is high as 50% within 2 months of diagnosis and almost 90% by the end of 1 year.

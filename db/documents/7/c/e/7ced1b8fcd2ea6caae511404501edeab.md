@@ -1,0 +1,3 @@
+The symptoms of tinnitus include ringing, buzzing, roaring, hissing, or whistling in the ears. The noise may be intermittent or continuous. Most of the time, only the person who has tinnitus can hear it.
+
+A physical exam should focus on the ear and the nervous system. The ear canal should be inspected for discharge, foreign body, and cerumen. The tympanic membrane should be inspected for signs of infection and tumor (red or bluish mass). A bedside hearing test should be done. Cranial nerves, particularly vestibular function, are tested along with peripheral strength, sensation, and reflexes. A stethoscope should be used to listen for vascular noise over the course of the carotid arteries and jugular veins and over and adjacent to the ear.

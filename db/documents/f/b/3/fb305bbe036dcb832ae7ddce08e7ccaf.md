@@ -1,0 +1,1 @@
+According to a Swedish survey of 700000 patients at medical institutions conducted for four years, the estimated incidence of drug-induced esophagitis is 3.9 per 100000 population per year. Drug-induced esophagitis is more common in females and elderly patients. It is also common in patients using a capsule form of the drug.

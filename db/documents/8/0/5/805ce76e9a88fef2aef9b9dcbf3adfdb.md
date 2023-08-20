@@ -1,0 +1,3 @@
+The natural history of Madelung deformity is variable and poorly understood. It is likely to progress throughout adolescence until skeletal maturity is reached. Most patients obtain some degree of pain relief after Vickers ligament release and volar dome osteotomy, although it is not uncommon to require a secondary ulnar shortening osteotomy.
+
+Vickers ligament release combined with dome osteotomy has been shown to provide radiographic improvement in the deformity.

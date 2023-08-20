@@ -1,0 +1,1 @@
+Hyperbaric dives follow specific proven dive protocols depending on the condition being treated. Dives last 2 hours daily with two, 10-minute oxygen breaks to prevent oxygen seizures. They usually go to a pressure of 2.4 ATM at 100% oxygen. A typical dive routine lasts for 30 sessions but can be extended if it is felt to be beneficial.

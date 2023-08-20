@@ -1,0 +1,3 @@
+For the best outcomes for patients with hydrazine toxicity, interprofessional team coordination and management are essential. First responders should be aware of the potential danger of hydrazine if exposed, and appropriate decontamination and personal protective equipment should be performed.
+
+Upon arrival at the emergency department, clinicians should fully decontaminate the patient if not already performed and consult their local poison control center to discuss management with a medical toxicologist. Nursing and lab technologists should aid in obtaining laboratory workup that aids in diagnosis and prognosis. Interprofessional care coordination with open communication is crucial to successful outcomes in hydrazine toxicity cases. [Level 5]

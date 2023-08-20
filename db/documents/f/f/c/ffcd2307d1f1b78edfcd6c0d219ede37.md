@@ -1,0 +1,1 @@
+Sodium channel blocker toxicity results primarily from intentional overdose. However, patients or family members may report an inadvertent increase in medication doses or the addition of a new medication which might alter the typical elimination kinetics of the substance and lead to an unsuspected toxic dose.

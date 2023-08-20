@@ -1,0 +1,1 @@
+Mondor disease is a self-limiting condition typically resolving in four to eight weeks. As with any thromboembolic disease, there is a small chance of the development of a deep venous thrombosis.

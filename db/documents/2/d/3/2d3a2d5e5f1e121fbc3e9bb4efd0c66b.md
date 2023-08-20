@@ -1,0 +1,7 @@
+Once the clinical diagnosis of MIBS is made, the next step is to localize the lesion(s), causing bilateral upper extremity weakness.
+
+- Brain imaging with magnetic resonance imaging (MRI) or computed tomography (CT) can identify intracranial ischemic, hemorrhagic, metastatic, or inflammatory lesions. Cervical spine imaging with CT can identify and compressive cervical spine lesion, and MRI of the cervical spine can localize any extrinsic compressive or intrinsic lesion in the cervical spine.
+
+- If the brain and cervical spine imaging do not reveal a cause of MIBS, the brachial plexuses should be evaluated, MRI can identify injury to the brachial plexus, and electromyography (EMG) / nerve conduction studies can identify the location of the nerve root, brachial plexus or peripheral nerve dysfunction.
+
+- Watershed stroke is the most common cause of MIBS; for patients with watershed stroke, imaging of the cervicocephalic arterial vasculature should be performed to evaluate for any flow-limiting stenoses. If significant flow-limiting stenoses are found in the internal carotid arteries, revascularization with carotid endarterectomy or stent placement may be beneficial to reduce the risk of subsequent stroke.

@@ -1,0 +1,1 @@
+The nationwide population-based study showed the incidence of 10.3 patients per 10,000 live births. The incidence increases with age with a maximum incidence of 40 to 54 years.

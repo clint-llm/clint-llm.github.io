@@ -1,0 +1,1 @@
+The differential diagnosis of ASCVD is legion. It can cause chest pain, dizziness, claudication, and weakness. A good physical examination history and appropriate testing as detailed above can rule out ASCVD manifestations.

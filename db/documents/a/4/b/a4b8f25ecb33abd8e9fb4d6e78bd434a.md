@@ -1,0 +1,3 @@
+Euglycemic
+
+No symptoms

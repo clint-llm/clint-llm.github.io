@@ -1,0 +1,1 @@
+The SLO can be operated by an ophthalmologist, optometrist, paramedics, or a trained ophthalmic photographer. While performing FFA or ICG, it is better to do it in the presence of an anesthetist to manage any unforeseen anaphylactic reactions, allergic reactions, or complications.

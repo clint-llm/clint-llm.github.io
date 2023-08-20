@@ -1,0 +1,11 @@
+As with any patient with a potentially toxic ingestion, treatment starts with the assessment of the patient’s airway, breathing, and circulation as well as the interventions to maintain a patent airway, adequate ventilation, and circulation. Patients may be significantly dehydrated due to hyperthermia and should be given intravenous fluids. Treat seizures and/or agitation with benzodiazepines.
+
+Cyproheptadine can be considered a third-line treatment after hydration and benzodiazepines. Cyproheptadine is a first-generation antihistamine with anticholinergic and antiserotonergic effects. Its effectiveness has not been proven, but the typical dosing is 12 mg by mouth (or nasogastric/orogastric tube) with additional 2 mg doses every two hours as needed for symptomatic control.
+
+If the time of ingestion was within one hour, activated charcoal could be considered by either emergency medical services during transport or by emergency department providers. The patient’s airway may need to be secured before charcoal administration. Gastric lavage should be considered in a patient with a life-threatening ingestion. There are no antidotes for MAOI toxicity. Hemodialysis is ineffective in removing the drug from the body.
+
+Rapid correction of hyperthermia is vital. Cooling by evaporative heat loss (wetting skin and creating air flow with fans) is an effective treatment. If the patient has signs of severe MAOI toxicity, covering the body with ice or immersing the patient in an ice bath may be necessary. Antipyretics likely will not be adequate treatment.
+
+Patients may present hypertensive, but treatment specifically for hypertension is usually not necessary. If needed, a short-acting agent such as nitroprusside or phentolamine is suggested as beta-blockers may result in unopposed alpha stimulation.
+
+Hospital admission and observation is recommended for any patient with symptoms persisting more than six hours. Consulting the regional poison control center or another medical toxicologist is advised for further recommendations.

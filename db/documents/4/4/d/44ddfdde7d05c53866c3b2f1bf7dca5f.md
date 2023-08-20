@@ -1,0 +1,3 @@
+Pulsus alternans (PA), not to be confused with pulsus paradoxus or electrical alternans, is an arterial pulse with alternating strong and weak beats. It is a hemodynamic phenomenon marked by a beat-to-beat alternation in the amplitude of the pulse resulting in a clinically identifiable pulse half of the electrical rate. In 1872, Ludwig Traube first described this phenomenon.
+
+Pulsus alternans usually occurs in association with severe heart disease and can eventually lead to pulseless electrical activity.

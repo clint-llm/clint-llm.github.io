@@ -1,0 +1,9 @@
+**Warning and Precautions**
+
+It is vital to obtain a brain MRI before starting aducanumab, as ARIA may develop with treatment. ARIA-E can be visualized as brain edema or sulcal effusions, and ARIA-H can be observed as microhemorrhage and superficial siderosis on brain imaging. Clinical manifestations of ARIA were present during clinical studies in 24% of subjects who demonstrated radiographic ARIA. Symptoms include headache, confusion, delirium, altered mental status, disorientation, dizziness, vision abnormality, and nausea—the most common being headache (13%).
+
+ARIA predominantly occurred during the initial titration of therapy of the first eight doses. Patients showing indications of ARIA should be thoroughly evaluated and receive a possible brain MRI to determine the severity before reconsidering treatment. Brain imaging should also be obtained before the first and sixth 10 mg/kg dosage (seventh infusion and twelfth infusion) to monitor the development of asymptomatic ARIA. Greater clinical attention is advised if imaging is suggestive of ARIA. For subjects demonstrating severe radiographic ARIA-H, a clinical evaluation alongside brain imaging confirming stabilization and no increases of microhemorrhages and superficial siderosis should be considered before continuing aducanumab. For patients exhibiting radiographic ARIA-E or mild to moderate ARIA-H on imaging, aducanumab may be continued with greater attention.
+
+**Hypersensitivity**
+
+During the administration of aducanumab infusion, hypersensitivity reactions (angioedema, urticaria) may occur. In the event of such an occurrence, timely discontinuation of aducanumab and appropriate management should be initiated.

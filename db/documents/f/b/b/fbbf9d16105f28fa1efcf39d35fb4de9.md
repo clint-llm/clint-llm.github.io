@@ -1,0 +1,7 @@
+Prevention of any adverse event is often referred to as the most effective "treatment." However, it is important to recognize that no specific intervention can eliminate risk. Prevention in the setting of LAST revolves around preventing intravascular injection.
+
+Intravascular test dosing, specifically with epinephrine, is a reliable method of prevention. In cases where the heart rate increases by 10 beats per minute or more, or the systolic blood pressure rises by 15 mm Hg or more, 10 to 15 micrograms/ml of intravascular test dosing with epinephrine has a sensitivity of 80%. While this test is important, it is important to recognize certain patient characteristics which can render this test unreliable. These factors include patients who are anesthetized with general or neuraxial anesthesia, sedated patients, the elderly, or patients taking beta-blockers.
+
+Ultrasound guidance is another method of preventing intravascular injection. However, there are no formal randomized controlled trials that either confirm or deny a reduction of the toxicity.
+
+Limiting anesthetic dose can also prevent LAST, as studies show that in most peripheral nerve blocks, patients are often given too must anesthetic resulting in an overdose. The total dose (the product of volume x concentration) should be the minimum amount of anesthetic needed to produce the required effect. This strategy is especially useful in patients who are at a greater risk for LAST, such as those described above.

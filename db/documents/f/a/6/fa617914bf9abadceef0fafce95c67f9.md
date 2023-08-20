@@ -1,0 +1,3 @@
+**Squamous Cell Carcinoma of the Oral Cavity (SCCOC)**
+
+Squamous cell carcinoma constitutes more than 90% of all oral cancers. Tobacco smoking and alcohol are the main etiological factors in SCC of the mouth. Tobacco contains carcinogenic molecules, and research has shown a directly proportional effect between pack-years of tobacco and the risk of SCCOC. Patients typically present in late stage. Standard of care is primary surgical resection with or without postoperative adjuvant therapy depending on how invasive the lesion is. Primary and secondary prevention requires early education about lifestyle risk in factors and improved awareness for early diagnosis.

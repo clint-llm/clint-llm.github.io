@@ -1,0 +1,5 @@
+There are transposons in a wide variety of organisms, from bacteria and yeasts to humans. Transposition can take place from one site to another of the same chromosome, or from one chromosome to another (in eukaryotic organisms whose genome is organized into several chromosomes), or even from a chromosome site to a plasmid site (in organisms containing plasmids, genetic elements independent of the chromosome and capable of autonomous replication), or finally from the chromosome of one cell to that of another.
+
+As widely documented, transposons can influence the output of the host genome; this mechanism allows the development of totipotency, a key stage of development. Some structures prove to be important for the epigenetic action of transposons, such as the presence of human leucine tRNA primer (HERVL), endogenous retroviruses (ERVs), and long interspersed nuclear elements (LINE-1s); these are important elements for the movement and action of transposons.
+
+During embryological development, we find different transposons depending on the stage of development (without forgetting the retrotransposons).

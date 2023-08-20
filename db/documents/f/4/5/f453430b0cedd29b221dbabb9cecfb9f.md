@@ -1,0 +1,1 @@
+It is a common birth injury with estimated prevalence ranges of 0.9 to 2.6 per 1000 live births. It causes significant arm weakness that affects 0.4 to 5 in 10,000 births.

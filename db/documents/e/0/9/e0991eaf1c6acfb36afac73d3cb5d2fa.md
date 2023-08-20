@@ -1,0 +1,1 @@
+The osteopath should always interact with other health figures, such as the physiotherapist, the speech therapist, and others. In the literature, it is clear that, very often, METs are used in combination with non-osteopathic treatments to improve the patient's clinical picture more quickly.

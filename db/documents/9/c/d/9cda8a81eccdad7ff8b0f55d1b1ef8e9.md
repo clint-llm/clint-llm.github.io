@@ -1,0 +1,3 @@
+The pericapsular nerve group block (PENG) is a regional anesthetic technique described in 2018, developed primarily in total hip arthroplasties (THA) for postoperative analgesia with motor sparing benefits. The block is thought to provide more complete analgesia to the hip by depositing local anesthetic within the myofascial plane of the psoas muscle and superior pubic ramus.****Furthermore, the blocking and understanding of the terminal nerves that innervate the hip joint have also been described in patients with chronic hip pain.
+
+The indications for THA often include degenerative hip disease and traumatic hip fractures. These indications for surgery are relatively common in the elderly population and are associated with significant morbidity and mortality.

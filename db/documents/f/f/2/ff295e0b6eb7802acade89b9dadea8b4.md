@@ -1,0 +1,3 @@
+Epidemiological data on autoimmune encephalitis is under-reported due to its variable presentation and numerous antibodies responsible, as described below in table-1. The incidence of encephalitis reported in adults varies between 0.7 to 12.6 per 100,000 and has been reported in adult and pediatric populations.
+
+To date, Anti-NMDAR encephalitis has been commonly reported under AIE, and most studies have been on it. In one large multicentric observational study, 80% of patients with anti-NMDAR encephalitis were female with a median age of disease onset of 21 years. Furthermore, 38% of the population in the study were found to have an underlying neoplasm with a predominance of ovarian teratoma.

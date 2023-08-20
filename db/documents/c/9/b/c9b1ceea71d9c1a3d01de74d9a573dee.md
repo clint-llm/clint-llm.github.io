@@ -1,0 +1,5 @@
+The hand not used for the blood draw will make the skin above the vein taut. To do this, use the thumb to pull the skin down and slightly away from the draw site. Then, using the other hand, slowly insert the needle at an angle between 15 and 30 degrees from the surface of the arm.
+
+Once the needle is inserted into the lumen of the vein, attach the storage tube to the needle and collect blood accordingly. It is important to prevent a deep insertion of the needle beyond the lumen of the vein. This will cause the formation of a hematoma which is the pooling of the blood under the skin. When the last tube is filling blood, remove the tourniquet.
+
+The tourniquet should be removed within 1 minute of placement. Prolonged constriction of veins with the tourniquet can result in hemoconcentration, which is falsely elevated lab results. Once the blood draw is done, use a clean gauze to apply pressure over the area as the needle is swiftly removed. Continue applying pressure to the gauze and tape it to the location of the draw to serve as continuous pressure to prevent the formation of a hematoma. Alternatively, a bandaid can be applied over the gauze.

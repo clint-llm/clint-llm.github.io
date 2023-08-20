@@ -1,0 +1,1 @@
+The neurotransmitters essential in the modulation of motor and sensory function are serotonin, noradrenaline, and dopamine. These have been observed to decrease spinal cord injuries depending on their incomplete damage to complete spinal injuries.

@@ -1,0 +1,1 @@
+Although the CDC does not have defined water intake recommendations, adults are encouraged to maintain between 2-3 L per day.

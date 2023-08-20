@@ -1,0 +1,3 @@
+Patients should have an assessment for signs and symptoms of bowel obstruction before the initiation of treatment. Patients should also receive instruction on the proper use of PEG and monitor for therapeutic efficacy, including decreased abdominal discomfort and pain and bowel movement in 2 to 4 days. Electrolyte imbalances should be monitored periodically with prolonged, frequent, or excessive use.
+
+Patients should discontinue the use of PEG if they experience loose stools. Furthermore, clinicians should taper down patients on chronic therapy.

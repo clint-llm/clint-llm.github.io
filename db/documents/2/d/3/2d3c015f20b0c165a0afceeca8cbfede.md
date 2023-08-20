@@ -1,0 +1,1 @@
+Patients with a history of kidney stone formation or those at an increased risk of kidney stone development may still be treated with indinavir, although clinicians can consider other alternatives.

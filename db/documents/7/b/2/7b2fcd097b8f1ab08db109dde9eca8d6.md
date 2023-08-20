@@ -1,0 +1,3 @@
+If trichiasis is seen in the presence of conjunctival cicatricial changes and mucous membrane pemphigoid (MMP) disease is suspected, a conjunctival biopsy is obtained for direct immunofluorescence (DIF). However, a negative DIF test does not preclude a diagnosis of MMP.
+
+If trachoma is suspected in the presence of trichiasis, nucleic acid amplification tests (NAATs) on conjunctival scrapes are performed, although trachoma is usually diagnosed with clinical examination.

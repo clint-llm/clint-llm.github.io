@@ -1,0 +1,3 @@
+After the third week of development, a cluster of neural crest cells becomes apparent on the metencephalon rostral to the otic placode. This cluster is the facioacoustic primordium that gives rise to the VII and VIII cranial nerves. By week four, the facial and acoustic portions are better defined, with the facial section terminating at the epibranchial placode on the second branchial arch.
+
+The greater petrosal nerve may be seen first during weeks 5 to 6 of embryogenic development rostral to the geniculate ganglion and is well defined by the eighth week when it joins the deep petrosal nerve near the developing internal carotid artery to form the Vidian nerve.

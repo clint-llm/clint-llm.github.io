@@ -1,0 +1,1 @@
+The cause of adenomyomatosis is unknown, although some have proposed that it is a response to chronic inflammation of the gallbladder. Since patients are most frequently diagnosed in their 50s, the idea of chronic inflammation as the etiology seems plausible.

@@ -1,0 +1,1 @@
+Childbirth is considered a major physical, emotional, and social stressor in a woman’s life. Following days to weeks after childbirth, most women experience some mental disturbance like mood swings and mild depression (also known as post-baby blues), but a few can also suffer from PTSD, major depression, or even full-blown psychosis.

@@ -1,0 +1,9 @@
+Lymphedema is often confused with other causes of extremity edema and enlargement. Understanding the risk factors and physical examination signs of lymphedema can accurately diagnose patients about 90% of the time. Correct diagnosis is imperative so patients can be managed appropriately.
+
+Blood, urine, or tissue studies are not needed to make the diagnosis. These tests might help to define the underlying causes of lower extremity edema when the etiology is unclear. If a renal or hepatic cause is suspected, liver function, blood urea nitrogen (BUN)/creatinine levels, and urinalysis results should be checked. Neoplastic markers may be checked if suspected. Complete blood count (CBC) with differential should be checked if an infection is considered.
+
+Imaging is unnecessary to make the diagnosis but can be used as confirmation, assessment of the extent of involvement, and help determine therapeutic intervention.
+
+Lymphoscintigraphy is a procedure that uses a small amount of radioactive protein-dye is injected into the web space between the first and second digits of the affected limb. The limb is imaged with a gamma camera to observe the dye as it moves through the lymphatic system. Images showing dye outside the lymphatic structures suggest edema of lymphatic origin.
+
+Newer technologies include 3-dimensional magnetic resonance imaging (MRI), computerized tomography (CT), ultrasound, and bioelectrical impedance analysis. Ultrasound is useful to exclude other etiologies like DVT, venous insufficiency and can also help in identifying tissue changes and masses that might be the cause of lymphatic compression. CT and MRI can investigate soft tissue edema with good sensitivity and specificity, but they are relatively expensive.

@@ -1,0 +1,7 @@
+The diagnosis of attention deficit hyperactivity disorder (ADHD) has been surrounded by controversy over the last century. Over the past 30 years, however, a consensus has been developed regarding both the existence of attention deficit hyperactivity disorder and the symptoms and signs that define it. Additionally, research has increased knowledge of the neurochemical and physiologic causes of attention deficit hyperactivity disorder. This has led to the development of techniques for effective management of the condition. This activity reviews the evaluation and management of attention deficit hyperactivity disorder and highlights the role of the interprofessional team in collaborating to provide well-coordinated care and enhance outcomes for affected patients.
+
+**Objectives:**
+- Outline the pathophysiology of attention deficit hyperactivity disorder.
+- Explain how to evaluate for attention deficit hyperactivity disorder.
+- Review treatment considerations for patients with attention deficit hyperactivity disorder.
+- Summarize the importance of enhancing coordination amongst the interprofessional team, caregiver, and patient to provide optimal care to patients with attention deficit hyperactivity disorder.

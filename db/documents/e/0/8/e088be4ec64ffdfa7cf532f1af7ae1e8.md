@@ -1,0 +1,1 @@
+AF is associated with increased cardiovascular mortality.

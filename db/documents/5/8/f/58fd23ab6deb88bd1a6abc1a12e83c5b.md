@@ -1,0 +1,1 @@
+Branch retinal vein occlusion was first described by the German ophthalmologist Theodor von Leber in 1877. Since then, scientists have discovered that BRVO can have multiple underlying causes, including age, hypertension, diabetic retinopathy, or hypercoagulability.

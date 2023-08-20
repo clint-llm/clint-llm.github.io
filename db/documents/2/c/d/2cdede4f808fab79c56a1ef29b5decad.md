@@ -1,0 +1,1 @@
+Nonbacterial thrombotic endocarditis was formerly known as marantic endocarditis, in which there are small sterile vegetations on the valve leaflets, and predisposing conditions for this include certain malignancies and hypercoagulable states. Libman–Sacks endocarditis is seen in association with systemic lupus erythematosus and causes verrucous vegetations.

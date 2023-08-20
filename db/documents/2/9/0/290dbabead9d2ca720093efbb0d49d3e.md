@@ -1,0 +1,1 @@
+The lateral pterygoid muscles receive their blood supply from the pterygoid branch of the maxillary artery.

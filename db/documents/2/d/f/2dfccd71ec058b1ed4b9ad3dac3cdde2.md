@@ -1,0 +1,11 @@
+Complications following elbow fracture-dislocation include heterotopic ossification (HO), infection, synostosis, arthrofibrosis, recurrent instability, post-traumatic arthritis, stiffness, nonunion, ulnar neuropathy, loosening of implant prompting revision surgery, and symptomatic hardware. Surgically treating terrible triad injuries carries a high risk of complications, with up to a 54.5% reoperation rate, averaging 22 to 30%.
+
+Successful anatomic reduction of intraarticular fractures is necessary to prevent arthritic changes, although a slight loss of extension is expected. Between 5 and 15% of patients with elbow fractures will experience stiffness following surgery.
+
+A small degree of loss of motion after elbow fracture-dislocation is anticipated. Routinely, patients lose more extension than flexion. The amount of stiffness increases with the energy of initial injury, the amount of heterotopic bone formed, and the delay of motion after repair. For an inadequate range of motion or excessive stiffness, treatment includes splinting, heterotopic bone excision, and capsular release.
+
+Post-traumatic calcium deposition in the collateral ligaments and capsule is relatively common, with previous reports documenting just under a 20% occurrence rate. However, heterotopic ossification (HO) has occurred in up to 43% of operatively treated fracture dislocations.
+
+Heterotopic ossification causing near complete ankylosis of the elbow can be seen on radiographic imaging 3 to 4 weeks after injury. The severity and frequency of HO are associated with the magnitude of the injury, soft tissue damage, length of immobilization, neurological injury, infection, delay to surgery, and the presence of associated burns.
+
+Distraction forces across the fracture secondary to flexion or active extension may lead to nonunion. Failure of internal fixation is most common following radial neck fracture repairs secondary to its inherently poor vascularity that precedes osteonecrosis and nonunion. Although recurrent instability rates are low, the most common etiology is failure to recognize or treat fracture(s) or ligamentous injury. Continued or recurrent instability is more common following type I or II coronoid fractures and is most often evident in the posterolateral position.

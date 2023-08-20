@@ -1,0 +1,3 @@
+The American Academy of Pediatrics and American Academy of Ophthalmology recommends screening eye examinations for all newborns as well as children at specific intervals of age during office visits. The eye exam is an essential part of assessing neonates because the prognosis of ocular disorders in children is highly dependent on early detection and referral.
+
+There are validated instrument-based screening devices available that images the red reflex to detect a refractive error, amblyopia, and strabismus in children without pharmacological pupillary dilation.

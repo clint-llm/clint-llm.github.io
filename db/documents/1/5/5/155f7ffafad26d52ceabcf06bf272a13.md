@@ -1,0 +1,1 @@
+While a benign phenomenon on its own, the heightened fear levels associated with sleep paralysis may lead to anxiety disorders in some patients. It might also cause poor sleep quality, which in turn is a risk factor for sleep paralysis.

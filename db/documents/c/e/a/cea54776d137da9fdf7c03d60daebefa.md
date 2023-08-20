@@ -1,0 +1,1 @@
+Many molecules stimulate the maturation of mural cells (angiogenic factors and cytokines). For example, fibroblast growth factor (FGF) and beta-FGF, transforming growth factor of alpha type (TGF-alpha), angiogenin, interleukin type 8 (IL-8), angiopoietins.

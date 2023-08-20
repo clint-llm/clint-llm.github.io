@@ -1,0 +1,7 @@
+Psittacosis represents a zoonotic bacterial infectious disease caused by the obligate intracellular organism, Chlamydia psittaci. Psittacosis, which is also called parrot fever and ornithosis, is transmitted from contact with infected birds and causes a wide-ranging spectrum of disease and severity. Birds serve as the major epidemiological reservoir, and while birds from the order Psittaciformes (parakeets, parrots, lories, cockatoos, and budgerigars) and Galliformes (chickens, turkeys, pheasants) are commonly identified, this disease process can occur in any bird species. It has been documented in 467 different species from 30 different orders of birds. This activity reviews the pathophysiology and presentation of psittacosis and highlights the role of the interprofessional team in managing patients affected by this disease.
+
+**Objectives:**
+- Review the epidemiology and pathophysiology of psittacosis.
+- Describe the clinical presentation of patients affected with psittacosis.
+- Summarize the available diagnostic options for patients affected with psittacosis.
+- Outline the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by psittacosis.

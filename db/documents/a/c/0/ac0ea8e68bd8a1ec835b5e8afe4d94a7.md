@@ -1,0 +1,9 @@
+In patients with a suspected testicular mass, initial workup includes laboratory tests and imaging results. Serum tumor marker levels, including alpha-fetoprotein (AFP), beta-human chorionic gonadotropin (beta-HCG), and lactate dehydrogenase (LDH), are measured. Serum beta-HCG and LDH levels can be elevated in seminomas while AFP is not raised in pure seminomas. LDH is a less specific marker, but levels can correlate with overall tumor burden. Beta-HCG levels are increased in 5-10% of patients with seminoma, and levels may correlate with metastatic disease but not with overall survival. Placenta-like alkaline phosphatase may be elevated in patients with seminoma, especially when the tumor burden increases; however, these may also be increased with smoking.
+
+Scrotal ultrasonography is done to rule out other conditions. It shows a homogeneous hypoechoic intratesticular mass, more extensive lesions may be inhomogeneous. Cystic areas and calcifications are less common in seminomas than in non-seminomatous tumors. For a definitive diagnosis, an orchiectomy is performed, which is diagnostic as well as therapeutic. Histologic and laboratory results confirm the diagnosis and help differentiate the type of testicular cancers.
+
+Once the diagnosis is confirmed, a chest x-ray or chest CT scan, abdominal and pelvic CT scan, MRI brain, and bone scan may be done to look for metastases depending upon the stage and signs and symptoms of metastases. PET can be used to assess disease activity following chemotherapy treatment and to identify recurrences.
+
+The most commonly used staging systems for germ cell tumors are those proposed by the Americal Joint Commission on Cancer (AJCC) and the International Union Against Cancer (IUAC).
+
+Risk stratification of seminomas is not dependent on serum tumor markers (unlike non-seminomatous germ cell tumors) but rather based on the presence or absence of nonpulmonary visceral metastases.

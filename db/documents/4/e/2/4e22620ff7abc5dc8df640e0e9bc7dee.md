@@ -1,0 +1,1 @@
+To avoid the development of oral cavity carcinoma, histological evaluation is essential. Surgical excision is recommended for high-risk lesions. Low-risk lesions managed with observation must be closely followed and physical exam findings documented appropriately to assess interval changes.

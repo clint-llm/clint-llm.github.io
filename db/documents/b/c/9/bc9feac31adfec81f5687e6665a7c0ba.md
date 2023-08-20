@@ -1,0 +1,11 @@
+The internal iliac artery and its branches display significant variation in branching patterns, location, and areas supplied. The internal iliac artery itself varies with regard to the level of its origin and where it branches into anterior and posterior divisions. Some of the more common arterial variants arising from the anterior and posterior divisions of the IIA are summarized in the following paragraphs.
+
+Typically one of the first branches of the anterior division of the internal iliac artery, the obturator artery, can arise from the posterior division or other branches of the anterior division such as the inferior epigastric artery or inferior vesical artery. Infrequently, an anatomic variant referred to as an aberrant or accessory obturator artery is present. The aberrant obturator artery arises from the external iliac artery, and it may do so instead of or in addition to an obturator artery arising from the IIA  Arterial variants that contribute to a collateral path between the internal and external iliac arteries are referred to as corona mortis or the crown of death.
+
+In females, the vaginal artery is most often a branch of the umbilical artery, but it may also arise directly from the anterior division of the IIA. In addition, the inferior vesical artery is sometimes present in females as a small branch of the uterine artery or vaginal artery.
+
+In males, the inferior vesical artery may share a common trunk with the middle rectal artery. In addition, the artery to the ductus deferens may arise from either the superior vesical artery or the inferior vesical artery.
+
+In both sexes, the internal pudendal artery and the middle rectal artery sometimes arise from a common trunk. An accessory internal pudendal artery is variably present, arising from another pelvic artery such as the inferior vesical artery, obturator artery, or external iliac artery.
+
+The posterior division's iliolumbar artery may arise directly from the trunk of the internal iliac artery proximal to its bifurcation into anterior and posterior divisions.

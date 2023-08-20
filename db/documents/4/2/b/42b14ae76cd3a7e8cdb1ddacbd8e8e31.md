@@ -1,0 +1,1 @@
+A skilled clinician can usually perform the procedure without an assistant. If the patient is anxious or exceptional circumstances apply, an assistant will make it much easier to perform the procedure.

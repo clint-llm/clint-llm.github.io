@@ -1,0 +1,1 @@
+Proteus infections are best managed by an interprofessional team that includes physicians, nurses, and pharmacists. Infectious disease specialists may also be helpful, particularly in cases of resistant infections, device-associated infections, or immunocompromised patients.

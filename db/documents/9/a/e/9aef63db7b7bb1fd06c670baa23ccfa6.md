@@ -1,0 +1,1 @@
+Orthostatic hypotension occurs more frequently in the elderly, and there is a proportional increase in advancing age. This could be explained due to arterial stiffness and reductions in baroreceptor reflex sensitivity, muscle pump activity, and alpha 1 adrenergic vasoconstriction.

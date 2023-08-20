@@ -1,0 +1,1 @@
+Foot ulceration in patients with diabetes is the leading cause of non-traumatic lower-limb amputations.

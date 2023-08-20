@@ -1,0 +1,1 @@
+Vasodilators such as nitroglycerin increase the cardiac output by decreasing the afterload and preload and increasing coronary perfusion, thus facilitating the Anrep effect.

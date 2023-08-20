@@ -1,0 +1,5 @@
+Animal and human studies of arteriovenous malformations (AVMs)have implicated abnormalities in vessel wall thickness, lack of tight junctions and endothelial continuity, and splitting of the elastic lamina.
+
+Cerebral AVMs are seen both in sporadic cases as well as in genetic syndromes. Concerning genetic associations, studies on syndromic cases have yielded valuable insight. For example, Osler-Weber-Rendu syndrome, the most common syndrome linked with cerebral arteriovenous malformations, has correlated with the insufficiency of transforming growth factor-beta (TGF-beta) signaling genes such as SMAD4 and ENG.
+
+Several studies have examined the role of overexpression of genes involving vasculogenesis such as VEGF, angiopoietin-2, Notch4, and MMP-9 in the development and a predisposition to rupture of cerebral AVMs.

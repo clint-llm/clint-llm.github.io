@@ -1,0 +1,1 @@
+No formal rehabilitation guidelines exist for post-traumatic headaches. Physical therapy is indicated for cervicogenic headache.

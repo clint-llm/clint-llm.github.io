@@ -1,0 +1,1 @@
+Risk management requires each provider to be aware of the inherent risk and benefits of care of the patient and a goal among all providers to "first do no harm". Working together as a team will improve patient outcomes and mitigate risks.

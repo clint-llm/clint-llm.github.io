@@ -1,0 +1,1 @@
+Due to the genetic inheritance of CHED, it is recommended that patients with a positive family history be offered genetic counseling.

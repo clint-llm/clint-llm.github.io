@@ -1,0 +1,3 @@
+Addisonian crisis, also known as adrenal crisis or acute adrenal insufficiency, is an endocrinologic emergency with a high mortality rate secondary to physiologic derangements from an acute deficiency of the adrenal hormone cortisol, requiring immediate recognition and treatment to avoid death
+
+Addisonian crisis refers to an episode of acute adrenal insufficiency (which may be primary, secondary, or tertiary), which is a medical emergency. Chronic, stable primary adrenal insufficiency is called Addison disease, a  chronic condition controlled with long-term glucocorticoid therapy.

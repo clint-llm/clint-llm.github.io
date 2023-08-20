@@ -1,0 +1,3 @@
+Bimatoprost is one of the most effective first-line treatments for both open-angle glaucoma and hypotrichosis of the eyelashes. Several large, double-masked randomized control trials have shown bimatoprost’s superior efficacy in lowering IOP in primary open-angle glaucoma [Level 1], and treatment efficacy of hypotrichosis has been demonstrated.
+
+Ultimately, collaboration and communication amongst an interprofessional team of ophthalmologists, ophthalmic technicians, nurses, and the patient will ensure the best care for the patient. A well-educated patient will, in turn, improve patient acceptance and compliance with the prescribed medication, resulting in optimized outcomes.

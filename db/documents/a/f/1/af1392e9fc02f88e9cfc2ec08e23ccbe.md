@@ -1,0 +1,1 @@
+The use of ursodeoxycholic acid is contraindicated in patients with obstructive cholestasis due to a potential risk of biliary integrity disruption. Also, UDCA has not received approval for use in early pregnancy because of insufficient data regarding the risk of UDCA on the fetus during the first trimester of pregnancy.

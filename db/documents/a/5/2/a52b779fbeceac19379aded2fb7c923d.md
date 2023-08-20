@@ -1,0 +1,1 @@
+Reading ability is very diverse in the population and varies vastly with education level. The diagnosis of dyslexia can be difficult, but a common criterion is a reading accuracy 1.5 standard deviations below the mean. Approximately 7% of the population has dyslexia and there is no race or sex predilection.

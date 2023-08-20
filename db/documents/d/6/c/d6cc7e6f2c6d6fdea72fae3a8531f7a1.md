@@ -1,0 +1,1 @@
+Most patients with patellofemoral arthritis can be managed conservatively without consulting an orthopedic physician. Patients with refractory symptoms requiring injections or who may be candidates for surgical intervention should be consulted accordingly.

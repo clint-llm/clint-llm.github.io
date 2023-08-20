@@ -1,0 +1,7 @@
+While oncology specialists lean towards the palliative systemic therapy, convinced that most cases are already metastasizing at disease presentation and that surgery is a part of a palliative regimen to only 20% of the patients. However, surgery is still considered the only cure for the disease with absent alternatives, backed by the relatively improved survival.
+
+Gastrectomy with systemic therapy, either radiotherapy or chemotherapy, seems a promising approach in some cases of localized linitis plastica. It is associated with increased overall survival.
+
+Total gastrectomy is considered the only cure for the disease, but this is limited by many factors. Firstly, the eligible patients for total gastrectomy are a minority due to the late stage of the disease at the initial presentation in most cases. Secondly, this is a major operation with a high risk of mortality and morbidity, which may affect survival postoperatively.
+
+The guidelines differ from western and eastern countries. In western countries, the preferable course of action is total gastrectomy with D2 lymph node dissection associated with peri or postoperative adjuvant chemotherapy. However, this is different in eastern countries where the preferable standard course is postoperative adjuvant chemotherapy after total gastrectomy.

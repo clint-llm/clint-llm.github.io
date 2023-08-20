@@ -1,0 +1,1 @@
+Despite aggressive support, mortality rates of more than 12% are reported once TRALI is diagnosed. Even those who survive have a slow recovery.

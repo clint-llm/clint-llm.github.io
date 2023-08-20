@@ -1,0 +1,1 @@
+Brain metastases are the most common type of intracranial tumor. In the United States, an estimated 98,000 to 170,000 cases occur each year. The incidence of brain metastases is increasingly likely as a result of several factors.

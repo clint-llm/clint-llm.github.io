@@ -1,0 +1,1 @@
+According to the 2017 Annual Report of the American Association of Poison Control Centers, there are almost 10,000 ingestions annually in the United States.

@@ -1,0 +1,5 @@
+Every year, millions of outdoor enthusiasts visit high-altitude destinations. Many of these individuals are unaware or underprepared for the potential medical risks involved with their travels. Healthcare professionals must be cognizant of the potential complications of these high-altitude activities and prepared to provide education and treatment to these patients.
+
+High-altitude illnesses are commonly observed at altitudes greater than 2500 meters (8200 feet). The more severe forms of altitude illness, such as those affecting the cerebral and cardiopulmonary systems, present at moderately high altitudes due to the ease of travel with a rapid ascent to popular destinations such as ski resorts. Prompt recognition and initiation of treatment significantly reduce morbidity and mortality in these patients.
+
+The most studied form of pulmonary insult at altitude, high-altitude pulmonary edema (HAPE), is also the most common cause of high-altitude-related death.

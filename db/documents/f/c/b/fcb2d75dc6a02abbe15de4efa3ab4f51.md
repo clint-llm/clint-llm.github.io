@@ -1,0 +1,1 @@
+The skeletal muscles of the hand are responsible for the movement of the hand and fingers.

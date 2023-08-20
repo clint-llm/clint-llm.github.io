@@ -1,0 +1,5 @@
+Alpha-synuclein is predominantly found in the nervous system, composing 1% of total cytosolic protein. Alpha-synuclein is also abundant in erythrocytes and platelets, although for reasons unknown.
+
+Alpha-synuclein is also present in the CSF of patients with Parkinson disease and healthy subjects.
+
+This protein resides mainly in the brain and is found in specific brain areas with a higher percentage (such as the beta form): in the cerebellum, in the hippocampus, in the neocortex area, in the thalamus, and striatum. Alpha-synuclein occurs in small percentages in other anatomical areas, such as muscles, kidneys, motor neurons, liver, heart, and lungs, as well as in the olfactory epithelium, lymphocytes, and testes. Gamma-synuclein is found mainly in the peripheral nervous system and the sympathetic system, and the brain area.

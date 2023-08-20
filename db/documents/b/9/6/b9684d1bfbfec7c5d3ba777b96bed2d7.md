@@ -1,0 +1,11 @@
+The prognosis of macular edema usually depends on the cause. With the advent of newer pharmacological agents for intravitreal injection, the prognosis of the disease is usually good. Several OCT biomarkers can help prognosticate the patients. These include:
+
+- Disorganization of the inner retinal layers (DRIL): It is defined at the horizontal extent of the retina (within the central 1 mm) where the boundaries between the ganglion cell**-**inner plexiform layer complex, INL, and OPL cannot be identified clearly. The visual prognosis has been poor if DRIL affects ≥ 50% of the central 1 mm.
+
+- Hyperreflective retinal foci (HRF): They are the subclinical lipoproteins that extravasate after the breakdown of the inner BRB. These indicate a high chance of subfoveal hard exudate deposition after the resolution of macular edema.
+
+- Intraretinal cystoid spaces: These indicate Müller cell malfunction. The prognostic significance depends on their size (small<100 microns, large 101-200 microns, giant > 200 microns), location, and association with hyperreflective material. The large cysts are usually associated with macular ischemia. The giant cysts tend to cause outer nuclear layer and ellipsoid zone (EZ) damage. The hyperreflective material represents the deposition of fibrin and inflammatory by-products and indicates severe BRB disruption. It is also associated with poor visual outcomes. The hyperreflective material on OCT angiography appears as an extravascular signal due to the particulate Brownian motion. This appearance is termed as suspended scattering particles in motion (SSPiM). It is usually found at the vascular-avascular junction and resolves with hard exudate formation.
+
+- Photoreceptor outer segment (PROS): It is defined as the length between the junction of the inner segment/ outer segment of the photoreceptor and the RPE. The shorter length is associated with worse visual acuity.
+
+- The integrity of external limiting membrane and EZ: The integrity of outer retinal layers indicates the health of photoreceptors and RPE.

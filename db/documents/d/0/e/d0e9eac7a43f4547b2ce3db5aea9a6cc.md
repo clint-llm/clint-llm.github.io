@@ -1,0 +1,1 @@
+In many posterior CVAs, symptomatology can be subtle, and therefore providers should have a low index of suspicion, and they should obtain imaging and neurology consultation earlier.

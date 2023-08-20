@@ -1,0 +1,1 @@
+The pathophysiology of stress incontinence is due to pelvic floor weakness or prolapse and/or loss of the normal urethra vesical angle. The pathophysiology of urge incontinence is uninhibited bladder contractions caused by irritation or loss of neurologic control of bladder contractions.

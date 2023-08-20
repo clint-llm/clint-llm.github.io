@@ -1,0 +1,1 @@
+The patient should be given relevant information and educated about the causes of their conditions, treatment options, and management plan forward using layman’s terms. If the treatment plan is to perform surgery, the risks and benefits of the operation should be conveyed so that the patient can make an informed decision.

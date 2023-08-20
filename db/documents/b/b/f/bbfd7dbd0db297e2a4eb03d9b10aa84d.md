@@ -1,0 +1,1 @@
+Epidemiological data is sparse, but available evidence suggests that PRS affects approximately 1 in 8,500 to 1 in 14,000 newborns a year.

@@ -1,0 +1,1 @@
+Any condition that causes compression or irritation of a spinal nerve root can result in radicular symptoms. In younger patients, typically in the third and fourth decade, disc trauma and herniation are the most frequent causes of impingement.

@@ -1,0 +1,1 @@
+The May-Hegglin anomaly (MHA) is a rare autosomal dominant disease due to MYH9 gene mutation characterized by neutrophils with abnormal cytoplasmic inclusions, large platelets, and variable thrombocytopenia. It is part of myosin heavy chain (MHC) single gene defect group that also includes Fechtner syndrome, Sebastian syndrome, and Epstein syndrome.

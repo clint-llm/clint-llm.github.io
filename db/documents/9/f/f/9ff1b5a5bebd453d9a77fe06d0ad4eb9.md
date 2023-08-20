@@ -1,0 +1,3 @@
+Macroscopically, the lesions appear as white, linear, superficial erosions on the crests of inflamed mucosal folds at the site of diaphragmatic indentation.
+
+A biopsy is not recommended to make the diagnosis of Cameron lesions. Histopathological examination in the past has revealed gastric atrophy, fibrosis, necrosis, and infiltration by immune-related cells. Microscopic characteristics have shown changes of vascular obstruction indicative of ischemic gastropathy. These changes include inflammatory markers, hemorrhagic infiltrates, fibrin deposition, sloughing of the epithelium, cryptic atrophy, and coagulative necrosis.

@@ -1,0 +1,5 @@
+The diagnosis and management of TGA are best done with an interprofessional team that consists of a neurologist, internist, radiologist, primary care provider, and nurse practitioner. The problem is that there is a very large differential when patients present with amnesia and consequently the workup is often exhaustive and time-consuming.
+
+The most important disorder that primary clinicians need to rule out include a stroke.
+
+Once TGA is diagnosed, the treatment is supportive. Clinicians need to educate the caregiver and patient that the disorder is benign. The condition resolves spontaneously and rarely recurs. Patients though should be advised to lose weight, discontinue smoking, remain compliant with their medications, abstain from alcohol use and follow up with their primary care provider regularly. The outcome in most patients is good.

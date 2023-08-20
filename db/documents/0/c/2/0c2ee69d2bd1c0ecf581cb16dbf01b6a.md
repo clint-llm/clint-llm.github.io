@@ -1,0 +1,3 @@
+an interprofessional approach that includes an ophthalmologist, nurse practitioner, and the primary care provider is required to ensure the best visual and health outcomes in an aging population with increasingly complex medical backgrounds. Clear communication with the patient or their caregivers is necessary for early identification of any complications and for time management.
+
+Worldwide trends in corneal transplantation suggest a slow uptake of new procedures by ophthalmologists,

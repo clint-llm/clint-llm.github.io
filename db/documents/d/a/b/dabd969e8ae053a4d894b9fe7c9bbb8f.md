@@ -1,0 +1,1 @@
+The nerves to the scapula include the dorsal scapular, upper and lower subscapular, and suprascapular nerves, which arise from the brachial plexus at the anterior ramus C5 root, the posterior cord, and the superior trunk respectively. See "Muscles" section below for more details regarding specific muscle innervations.

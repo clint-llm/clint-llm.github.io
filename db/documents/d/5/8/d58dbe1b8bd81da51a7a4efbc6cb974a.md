@@ -1,0 +1,1 @@
+Contraindications to peripheral nerve blocks include patient refusal or inability to provide consent, coagulopathy or anticoagulation use, ongoing infection, and abnormal anatomy obscuring the trajectory of the needle, which makes it difficult or nearly impossible to target the appropriate structures.

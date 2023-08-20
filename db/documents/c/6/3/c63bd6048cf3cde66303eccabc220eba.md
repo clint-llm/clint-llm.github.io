@@ -1,0 +1,5 @@
+The presence and documentation of a pericardial rub are of extreme importance since it is one of the four criteria to diagnose acute pericarditis. According to the 2015 European Society of Cardiology Guidelines for the diagnosis and management of pericardial diseases, acute pericarditis is diagnosable in the presence of two out of the four criteria: typical pericarditis chest pain, pericardial rub, diffuse ST-elevation or PR-depression on electrocardiogram and a new or worsening pericardial effusion.
+
+Thus, detection of pericardial rub along with a new pericardial effusion, for example, meets the criteria and the patient should be treated as acute pericarditis. An untreated episode of acute pericarditis increases the risk of complications including recurrent, chronic, and constrictive pericarditis.
+
+A pericardial rub can also be indicative of left ventricular dilation after acute Q-wave anterior myocardial infarction since transmural infarct can irritate the pericardium (and cause pericarditis) and cause left ventricular failure.

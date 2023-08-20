@@ -1,0 +1,1 @@
+Hemarthrosis is bleeding into a joint cavity. Its presence can be suspected based upon patient history, physical exam, and multiple imaging modalities; however, the best way to diagnose hemarthrosis is with arthrocentesis with synovial fluid analysis. Lipohemarthrosis the presence of fat and blood in the joint cavity.

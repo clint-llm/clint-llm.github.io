@@ -1,0 +1,3 @@
+Chorioamnionitis is an acute inflammation of the membranes and chorion of the placenta, typically due to ascending polymicrobial bacterial infection in the setting of membrane rupture.
+
+Protracted stages of labor indicate that cervical change is occurring at a slower pace than what would be expected, in the presence or absence of adequate contractions. Arrest means complete cessation in the progress of labor. It can be elaborated as the absence of cervical change for more than 4 hours in the presence of adequate contractions or the absence of cervical change for more than 6 hours in the presence of inadequate contractions. Abnormal third-stage labor is placenta retention for more than 30 minutes.

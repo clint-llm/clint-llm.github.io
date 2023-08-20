@@ -1,0 +1,1 @@
+Sheehan syndrome is rare in developed countries because of advanced obstetrical practices and more exposure to experienced medical providers and medical facilities. Unfortunately, it can be a complication of childbirth in developing and low-income countries. Some studies have placed the incidence of Sheehan syndrome as high as five patients out of 100,000 births.

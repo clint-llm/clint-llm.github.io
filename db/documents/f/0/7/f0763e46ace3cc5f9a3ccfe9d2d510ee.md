@@ -1,0 +1,1 @@
+In general, there is female preponderance (female-male ratio reported to vary from 20:1 to 4:1), with the highest incidence of onset in late adolescence to early adult life.

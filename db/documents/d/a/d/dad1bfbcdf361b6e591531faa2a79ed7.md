@@ -1,0 +1,1 @@
+Complications of UC include symptoms related to the tumor and treatment of adverse effects. Complications related to the tumor include weight loss, fatigue, UTI, metastasis, and urinary obstruction leading to chronic kidney failure.

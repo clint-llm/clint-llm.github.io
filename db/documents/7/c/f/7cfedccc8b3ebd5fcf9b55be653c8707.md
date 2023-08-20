@@ -1,0 +1,1 @@
+The outlook for most patients who comply with treatment is good, but those who delay or fail to comply with treatment can develop life-threatening complications.

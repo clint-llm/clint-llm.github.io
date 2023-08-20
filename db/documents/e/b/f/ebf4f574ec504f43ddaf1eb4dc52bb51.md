@@ -1,0 +1,5 @@
+Medical management of Plummer-Vinson syndrome includes iron supplementation. Occult or overt blood loss is generally ruled out, along with any underlying malignancies or iron malabsorption. Iron replacement is essential to correct anemia and to resolve most of the features associated with iron deficiency. The need for continued iron replacement is doubtful except for anemia correction.
+
+Those with advanced and long-standing dysphagia typically require mechanical dilation. Commonly used techniques include endoscopic balloon dilatation or Savary-Gilliard dilators.
+
+Patients should be advised to eat slowly and chew thoroughly. Solids should be prepared and cut into small pieces, especially meats. Surgery is rarely indicated and is reserved for those whose webs are unmanageable with dilation or associated with Zenker diverticulum.

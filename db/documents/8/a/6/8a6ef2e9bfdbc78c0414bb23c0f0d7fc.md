@@ -1,0 +1,1 @@
+The nursing, allied health, and interprofessional staff assist in monitoring the proper functioning of the tonometers. In case of any error, the maintenance department helps rectify the fault.

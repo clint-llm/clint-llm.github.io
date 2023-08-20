@@ -1,0 +1,1 @@
+Bone marrow edema syndrome is a condition in the lower extremities in 98% of presentations and rarely appears in the upper limbs.

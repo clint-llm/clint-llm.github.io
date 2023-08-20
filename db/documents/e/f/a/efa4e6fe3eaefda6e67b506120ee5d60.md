@@ -1,0 +1,1 @@
+Oropharyngeal dysphagia should be differentiated from esophageal dysphagia. Each should be considered as a distinct category. While medical history and clinical examination are essential for making such a differentiation, investigations are helpful in identifying the underlying cause under each of these two categories.

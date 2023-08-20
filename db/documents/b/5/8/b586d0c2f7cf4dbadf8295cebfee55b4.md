@@ -1,0 +1,5 @@
+SI joint injection can be used for both the diagnosis and treatment of SI joint pain. A thorough history physical examination including provocative tests is performed for an accurate diagnosis. Typically, if a patient has a positive response to 3 or more SI joint provocative tests, a positive outcome of a diagnostic SI joint block can be predicted. If there is a high suspicion of SI joint pain, SI joint diagnostic injection is indicated.
+
+In diagnostic blocks, an anesthetic is injected into the SI joint, and if the patient experiences 75% of pain relief while performing previously painful movements for the duration of the anesthetic, then the diagnosis of SI joint dysfunction can be established.
+
+Therapeutically, a local anesthetic is combined with corticosteroid medication to provide pain relief in the SI joint. Therapeutic SI joint injections can be intraarticular or periarticular, and increasing research suggests that intraarticular therapeutic injections are superior to periarticular injections.

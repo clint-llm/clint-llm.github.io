@@ -1,0 +1,1 @@
+Certain conditions of the esophagus may warrant surgery. Amongst these issues are esophageal cancer, achalasia, tearing, and esophageal varices. Where applicable and possible, laparoscopic surgery is recommended to allow for a minimally invasive approach to the esophagus and faster patient recovery.

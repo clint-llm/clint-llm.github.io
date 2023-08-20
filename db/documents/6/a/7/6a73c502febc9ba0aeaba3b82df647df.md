@@ -1,0 +1,3 @@
+Diabetic retinopathy (DR) is a microvascular disorder occurring due to the long-term effects of diabetes mellitus. Diabetic retinopathy may lead to vision-threatening damage to the retina, eventually leading to blindness. It is the most common cause of severe vision loss in adults of working age groups in the western world.
+
+Uncontrolled diabetes can lead to many ocular disorders like cataracts, glaucoma, ocular surface disorders, recurrent stye, non-arteritic anterior ischemic optic neuropathy, diabetic papillopathy, and diabetic retinopathy. Diabetic retinopathy may lead to vision-threatening damage to the retina, eventually leading to blindness; it is the most common and severe ocular complication.

@@ -1,0 +1,3 @@
+Obesity is a global epidemic associated with excessive fat accumulation and is defined as a body mass index (BMI) of more than 30 kg/m2. Obesity poses a significant risk to physical and mental health. In addition, obesity increases the risk of several comorbidities, including metabolic syndrome, prediabetes, type 2 diabetes mellitus,  hypertension, coronary artery disease, obstructive sleep apnea, and several cancers.
+
+The global burden of obesity has been rising with increasing prevalence, with severe health implications, increased medical costs, and lost productivity.

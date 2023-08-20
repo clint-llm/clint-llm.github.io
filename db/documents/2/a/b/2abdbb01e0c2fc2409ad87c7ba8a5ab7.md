@@ -1,0 +1,1 @@
+Fibrodysplasia ossificans progressiva shows an incidence of approximately one patient per 2 million people worldwide and is not determined by any race, gender, or geographical distribution.

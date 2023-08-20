@@ -1,0 +1,1 @@
+Untreated steatorrhea leads to malnutrition and other complications such as fat-soluble vitamin deficiencies (A, D, E, and K). Identifying the cause of steatorrhea is vital for proper management and prevention of these complications.

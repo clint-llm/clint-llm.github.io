@@ -1,0 +1,1 @@
+A thorough head-to-toe physical examination must be performed with vigilance for occult injuries or alternative etiologies. Glutaric aciduria type 1 patients may present with macrocephaly and bilateral subdural hemorrhages, which can be mistaken for NAT.

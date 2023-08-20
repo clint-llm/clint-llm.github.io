@@ -1,0 +1,1 @@
+The importance and utility of the Heimlich maneuver lie in the fact that it does not require expertise but simple training of the public.

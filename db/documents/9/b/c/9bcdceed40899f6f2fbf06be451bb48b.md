@@ -1,0 +1,3 @@
+The Rigler sign, or double-wall sign, is an indication of free air enclosed within the peritoneal cavity (pneumoperitoneum), imprinting a visible pattern on a plain radiographic image of the abdomen, in supine technique. This sign presents because of the separation between free air and intraluminal by the intestinal wall, marking the air radiolucency and radiopacity of the wall. Both serosal and luminal surfaces of the bowel are visible.
+
+American radiologist Leo G. Rigler (1896-1979) in 1942 described this sign of pneumoperitoneum. He described the pattern in four cases report in 1941. He observed this sign was present when large quantities of free air are in the peritoneal cavity.

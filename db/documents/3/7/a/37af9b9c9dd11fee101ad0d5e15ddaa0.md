@@ -1,0 +1,1 @@
+Due to the two-hit hypothesis, the first hit takes place by priming of neutrophils from who are already ill from shock, sepsis, having organ damage who also had surgery or experienced a great deal of stress from trauma.

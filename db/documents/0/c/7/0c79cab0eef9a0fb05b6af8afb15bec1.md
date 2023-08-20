@@ -1,0 +1,1 @@
+The exact etiology of this tumor is not fully understood. But the mononuclear cells are thought to be derived from primitive mesenchymal cells. These cells express RANKL and have features of osteoblastic progenitors.

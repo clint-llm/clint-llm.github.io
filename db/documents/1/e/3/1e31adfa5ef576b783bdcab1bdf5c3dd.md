@@ -1,0 +1,3 @@
+Mechanical ventilation is an essential medical intervention in the context of critical illness. However, the intervention is associated with a risk of significant, potentially preventable complications. Among these are ventilator-associated pneumonia (VAP), sepsis, acute respiratory distress syndrome (ARDS), atelectasis, and pulmonary edema.
+
+Ventilator-associated complications commonly increase morbidity and mortality. They may also prolong the duration of mechanical ventilation as well as the length of stay in the hospital or the intensive care unit (ICU), with increased health care costs.

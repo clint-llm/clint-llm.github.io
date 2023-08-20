@@ -1,0 +1,1 @@
+For patients with inflammatory bowel disease, the mortality rates are around 0 to 2%; this is attributable to multiple factors, such as early intervention and better treatment.

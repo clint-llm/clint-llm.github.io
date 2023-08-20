@@ -1,0 +1,1 @@
+The prognosis associated with pilonidal disease is very good as it is a benign disease, despite some reports of malignant degeneration, or skin cancer. Pilonidal disease, however, has a relatively high recurrence rate and may require multiple procedures. The overall prognosis with pilonidal disease is very good with lifestyle modifications and accurate diagnosis.

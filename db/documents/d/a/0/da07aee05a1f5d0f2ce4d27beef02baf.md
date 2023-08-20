@@ -1,0 +1,1 @@
+Rosacea is more common in females. However, rhinophyma is most commonly found in white men over the age of 50, with a male-to-female ratio of 5 to 1 to 30 to 1. Occurrence in Asian or African American men has been reported in the literature but is uncommon. There is a hypothesis that androgenic influences predispose rhinophyma development in males.

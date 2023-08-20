@@ -1,0 +1,1 @@
+Prenatal diagnosis is based on ultrasound that can detect almost all omphaloceles by the end of the first trimester and elevated maternal serum alpha-fetoprotein concentration. All infants with omphaloceles should be worked up to rule out congenital disorders like Beckwidth Wideman syndrome or Prader Willi syndrome.

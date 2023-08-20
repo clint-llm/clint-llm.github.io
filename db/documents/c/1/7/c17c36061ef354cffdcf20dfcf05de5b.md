@@ -1,0 +1,3 @@
+Erikson's Stages of Psychosocial Development can be utilized by mental health providers when treating patients who are facing periods of adjustment or turning points in life. When taken in the appropriate context to social and cultural factors, it can be a means for the patient to augment awareness and understanding of themselves. While many stages focus on periods early in life, it can serve as a conceptual and possibly actionable guide for those later in life as well.
+
+This research was supported (in whole or part) by HCA Healthcare and/or an HCA Healthcare affiliated entity. The views expressed in this publication represent those of the author(s) and do not necessarily represent the official views of HCA Healthcare or any of its affiliated entities.

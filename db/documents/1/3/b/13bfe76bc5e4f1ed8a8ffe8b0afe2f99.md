@@ -1,0 +1,9 @@
+- Some of the common differential diagnoses for hypopigmented macules include P.  alba, P. versicolor, IGH, vitiligo, PMH, post-inflammatory inflammation, and halo nevus.
+
+- P. alba usually is seen in the pediatric age group, patients often have a history of atopic dermatitis, whereas P. versicolor is more prevalent in the adolescent age group, warm and humid conditions, and lesions are predominantly distributed in seborrheic areas (trunk, neck, and arms).
+
+- IGH is more prevalent in the elderly and is hinted by a history of chronic exposure to sunlight and repetitive microtrauma. Lesions usually do not coalesce.
+
+- It is important to differentiate these conditions because the management and prognosis vary. Complete history (family history and any history of autoimmune diseases), physical examination, and areas of distribution of hypopigmented patches help in determining the right diagnosis. Dermoscopy can aid in differentiating vitiligo from other vitiligo-like conditions. Vitiligo patches usually show residual perifollicular pigmentation, which is absent in other conditions. Vitiligo, at times, could be confused with chemical leukoderma and vitiligo-like depigmentation in oncology patients treated with immunotherapy for non-melanoma metastatic cancers.
+
+- Diagnosing hypopigmented mycosis fungoides (HMF) is usually delayed in children (although it is rare), as it is often mistaken with other hypomelanosis conditions like Pityriasis, eczema, vitiligo, PMH, etc. A high rate of suspicion and skin biopsy is required for accurate diagnosis of HMF, and tumor of follicular infundibulum.

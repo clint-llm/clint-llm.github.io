@@ -1,0 +1,1 @@
+CBD is a hypersensitivity granulomatous disease that occurs in 2 to 5% of beryllium-exposed workers

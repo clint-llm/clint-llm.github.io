@@ -1,0 +1,7 @@
+Preconception counseling is defined as health education and promotion. The goal of preconception care is health education and promotion, risk assessment, and intervention before pregnancy to reduce the chances of poor perinatal outcomes. Nearly half of the 200 million pregnancies that occur annually are unplanned. Preconception counseling can play a major role in reducing poor perinatal outcomes. Preconception counseling targeted at the mother, father, and family can reduce maternal and infant morbidity and mortality. Preconception counseling and education must include early health promotion and information to guide families in identifying risks and addressing those risks before pregnancy. This activity reviews preconception counseling and highlights the role of interprofessional team members in collaborating to provide better counseling of patients and their families.
+
+**Objectives:**
+- Describe the issues of concern in preconception care. 
+- Review the evidenced-based risks and interventions that can make a positive impact on perinatal outcomes when identified prior to pregnancy.
+- Describe the most common adverse effects associated with insufficiently managed chronic disease.
+- Outline the importance of coordinated care and collaboration in identifying and addressing pregnancy risks prior to pregnancy to reduce poor perinatal outcomes.

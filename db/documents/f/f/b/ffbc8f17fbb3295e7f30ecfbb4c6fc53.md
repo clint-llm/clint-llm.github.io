@@ -1,0 +1,7 @@
+Dextroamphetamine/amphetamine belongs to a class of drugs known as central nervous system stimulants. The Drug Enforcement Administration/Food and Drug Administration classifies these medications as schedule II drugs with high potential for abuse in the United States. Immediate-release and sustained-release amphetamine medications are FDA-approved to treat ADHD and narcolepsy in both adult and pediatric populations. Non-FDA-approved clinical uses for dextroamphetamine/amphetamine include cerebrovascular accidents. This activity will highlight the mechanism of action, adverse event profile, approved and off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions of dextroamphetamine/amphetamine, pertinent for interprofessional team members using these medications for their intended indications.
+
+**Objectives:**
+- Identify the mechanism of action of dextroamphetamine/amphetamine.
+- Review the approved and off-label indications for dextroamphetamine/amphetamine.
+- Summarize the contraindications and adverse events associated with dextroamphetamine/amphetamine therapy.
+- Explain the importance of interprofessional communication in improving care coordination among the interprofessional team when initiating dextroamphetamine/amphetamine therapy.

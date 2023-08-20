@@ -1,0 +1,7 @@
+Sarcoidosis, syphilis, toxoplasmosis, toxocariasis, and fungal infections can present as panuveitis with choroidal involvement and should be considered in the differential diagnosis of tubercular uveitis.
+
+In patients presenting predominantly with retinal vasculitis, Eales disease should be considered. Eales disease is characterized by overlapping stages of retinal vasculitis, vascular occlusion, and retinal neovascularization (Image 3). The cause of Eales disease remains unknown, but there is speculation it is a delayed retinal hypersensitivity reaction to M. tuberculosis. Prior studies have shown patients with Eales disease have consistently been found more likely to test positive for M. tuberculosis than control populations.
+
+Ophthalmologists should also consider the diagnosis of acute multifocal posterior placoid pigment epitheliopathy (AMPPPE) or classic serpiginous choroiditis in patients presenting with tuberculous serpiginous-like choroiditis. AMPPPE is a rare and poorly understood inflammatory chorioretinopathy that predominantly affects the macula. Evidence supports either a primary vasculitis or a delayed-type hypersensitivity reaction to various pathogens, including M. tuberculosis.
+
+Fluorescein angiography (FA) reveals early hypofluorescence and late, irregular hyperfluorescence. Similarly, the early stages of serpiginous-like choroiditis can resemble AMPPPE as it may present with yellowish-white plaque-like lesions that appear hypofluorescent early and hyperfluorescent late on FA.

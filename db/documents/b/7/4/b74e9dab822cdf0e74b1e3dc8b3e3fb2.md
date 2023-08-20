@@ -1,0 +1,3 @@
+Salivary glands are exocrine glands that produce saliva, which has several functions. Saliva provides lubrication to the upper aerodigestive tract, which is crucial for proper swallow function, speech production, as well as for proper taste sensation.
+
+There are traditionally three paired sets of major salivary glands: the parotid glands, the submandibular glands, and the sublingual glands. Of the major salivary glands, the parotid glands are the largest. However, the submandibular glands account for the majority of baseline salivary production.

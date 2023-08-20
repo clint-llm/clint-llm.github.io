@@ -1,0 +1,1 @@
+IGH occurs in all races and skin types. It is thought to occur more frequently in fair-skinned individuals. However, it can occur in darker skin types and is more noticeable in these patients. Despite the previous conception that it occurs more commonly in females, recent studies show equal male and female prevalence.

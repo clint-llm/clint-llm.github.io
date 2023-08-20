@@ -1,0 +1,1 @@
+5-alpha-reductase inhibitors result in a decrease in DHT.  Since DHT is an important androgen in sexual development, children and women who are pregnant or planning on getting pregnant should avoid use. The 5-alpha-reductase inhibitors should also be avoided in any persons who have had a hypersensitivity to these medications.

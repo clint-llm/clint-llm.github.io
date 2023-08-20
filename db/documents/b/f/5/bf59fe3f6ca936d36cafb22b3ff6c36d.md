@@ -1,0 +1,1 @@
+With a cooperative patient, the clinician can remove the foreign body from the EAC without an assistant. Depending on how cooperative the patient is, one or more assistants may be required to maintain the patient in the proper position and keep the patient still. This arrangement is especially common in pediatric patients.

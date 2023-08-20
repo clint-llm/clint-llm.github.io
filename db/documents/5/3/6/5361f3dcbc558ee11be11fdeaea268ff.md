@@ -1,0 +1,1 @@
+While hordeola are very common, the exact incidence is unknown. Every age and demographic is affected although there is a slight increase in incidence in patients ages 30 to 50. There are no known differences in prevalence among populations worldwide. Patients with chronic conditions such as seborrhoeic dermatitis, diabetes, and high serum lipids may also be at increased risk.

@@ -1,0 +1,1 @@
+Eclampsia is a known complication of preeclampsia during pregnancy and is associated with morbidity and mortality of both the mother and fetus if not properly diagnosed. Preeclampsia and eclampsia are of the four categories associated with hypertensive disorders of pregnancy.

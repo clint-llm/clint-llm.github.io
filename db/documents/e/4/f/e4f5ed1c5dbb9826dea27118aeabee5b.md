@@ -1,0 +1,7 @@
+Acute patellar dislocations typically occur as a result of trauma, usually a non-contact twisting injury to the knee, or from a direct blow to the medial aspect of the knee. A common mechanism is external tibial rotation with the foot fixed on the ground. Patellar dislocations can also occur in patients with generalized ligamentous laxity. However, those patients mostly tend to have recurrent subluxations of their patella as opposed to a frank dislocation.
+
+Anatomic variations such as patella alta and trochlear dysplasia can predispose individuals to patellar dislocation. Ligamentous laxity is more commonly seen in females, or secondary to connective tissue disorders such as Marfan Syndrome or Ehlers-Danlos, increases the risk of dislocation. Muscular imbalance, particularly weakness of the vastus medialis oblique also plays a role in patellar instability.
+
+Habitual dislocations are characterized by painless dislocations every time the knee flexes, which is usually a result of abnormal tightness of the vastus lateralis muscle and the iliotibial band.
+
+Congenital dislocations can also occur, most commonly in patients with Down syndrome; this is the result of a small patella in combination with a hypoplastic condyle, and typically requires surgical intervention for reduction.

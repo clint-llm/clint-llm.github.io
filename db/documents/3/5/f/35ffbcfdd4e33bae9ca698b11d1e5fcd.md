@@ -1,0 +1,7 @@
+In 1937, Joe Vincent Meigs and John W Cass reported a series of 7 cases of ovarian fibroma associated with ascites and hydrothorax. It was later termed Meigs syndrome by Rhodes and Terrell. Even though the association of benign ovarian tumors and pleural effusion was reported before, it was Meigs and Cass who reported the resolution of ascites and pleural effusion after removing the tumor. Eventually, several authors reported similar cases, and Meigs syndrome became a distinct entity.
+
+Meigs eventually redefined the syndrome in 1954. The following criteria are to be met for the diagnosis of Meigs syndrome – a) Presence of the benign tumor of the ovary – Fibroma, thecoma, granulosa cell tumor or Brenner tumor b) ascites c) pleural effusion, and d) a resolution of ascites and pleural effusion after removal of the tumor. This syndrome is sometimes called Demons-Meigs syndrome after another author who described a similar presentation before Meigs.
+
+Some patients have either ascites or pleural effusion with benign ovarian tumors and are classified as atypical/incomplete Meigs syndrome.
+
+Pericardial effusion is not included in the definition of Meigs syndrome; however, there have been case reports in patients with unexplained persistent pericardial effusion, which resolved after resectioning a benign ovarian tumor.

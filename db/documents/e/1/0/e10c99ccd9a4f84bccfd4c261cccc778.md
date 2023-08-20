@@ -1,0 +1,3 @@
+Foreign bodies are common but extremely varied. They range from being very difficult and very easy to remove - this means that they do not all require a trip to the operating theatre for their removal. For the easier foreign bodies, they are removable in the emergency department; however, there needs to be adequate support from surgical specialties to get involved for more complicated retrievals.
+
+The key to enhancing outcomes is good communication with the patient. Not only when explaining all the complications and risks, but also that not all foreign bodies require removal.

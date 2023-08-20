@@ -1,0 +1,3 @@
+Lafora disease is an autosomal recessive disorder. Siblings have a 50% chance of being carriers and a 25% chance of having the disease. Therefore, genetic counseling for families is extremely important as prenatal testing and diagnosis is possible.
+
+Understanding the mechanisms underlying the pathogenesis of Lafora disease is crucial for the development of appropriate treatment strategies. Lafora disease remains a disabling and potentially lethal condition that would certainly benefit from more in-depth research and advancement in epilepsy therapy.

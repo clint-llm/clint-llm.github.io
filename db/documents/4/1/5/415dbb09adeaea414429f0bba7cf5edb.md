@@ -1,0 +1,3 @@
+EAC falls on the spectrum of exertional injuries but should be considered a diagnosis of exclusion to other etiologies of exertional falls. As stated above, ABCDE or a similar initial assessment method should be utilized.
+
+Point of care electrolytes and glucose testing look for causes such as exercise-associated hyponatremia and exertional hypoglycemia. A patient history from the individual known contact is important to evaluate for sickle cell trait status for ECAST, seizure history for potential epilepsy, or allergy history for potential anaphylaxis.

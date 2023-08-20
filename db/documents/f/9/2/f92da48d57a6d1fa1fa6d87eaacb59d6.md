@@ -1,0 +1,1 @@
+The two most common causes of bullous emphysema are smoking and alpha-1 antitrypsin deficiency (A1AD or AATD), an inherited autosomal codominant genetic condition.

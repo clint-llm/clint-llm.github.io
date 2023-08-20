@@ -1,0 +1,5 @@
+Hiccups are thought to be due to a complex reflex arc composed of three main units. Any condition that acts on one of these pathways has the potential to induce hiccupping.
+
+First, the afferent limb is composed of the vagus nerve, the phrenic nerve, and the peripheral sympathetic nerves supplying the viscera. Second, the central processing unit likely involves the interaction between various midbrain and brainstem structures, such as the medulla oblongata and reticular formation, chemoreceptors in the periaqueductal gray, glossopharyngeal and phrenic nerve nuclei, solitary and ambiguous nuclei, hypothalamus, temporal lobes and upper spinal cord at levels C3 to 5.
+
+Hiccups commonly repeat at cycles of 4 to 60 per minute, depending on the individual. The diaphragmatic spasm is often unilateral, and the left hemidiaphragm is involved more than the right.

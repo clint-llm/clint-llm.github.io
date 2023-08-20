@@ -1,0 +1,1 @@
+The initial clinical assessment of a patient with vertebral osteomyelitis often yields nonspecific and nonfocal findings, particularly early in the disease process. Back pain is the most common presenting symptom of vertebral osteomyelitis, with fever being present in only 35% to 60% of cases.

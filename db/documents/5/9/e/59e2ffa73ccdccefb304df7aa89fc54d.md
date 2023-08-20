@@ -1,0 +1,3 @@
+Intestinal pseudo-obstruction is a relatively uncommon condition with broad and vague symptoms. Patients with chronic symptoms of unexplained abdominal distension and nausea should seek consultation with a gastroenterologist. Lifestyle modifications, nutritional assessment, and endoscopic interventions may be employed to rule out common etiologies for symptoms before further workup of intestinal pseudo-obstruction is initiated.
+
+For acute and severe episodes of abdominal distension and oral intake intolerance, patients should report to the emergency room. Surgical emergencies (i.e., appendicitis, bowel obstruction, incarcerated hernias) must be ruled out before initiating the management of intestinal pseudo-obstruction.

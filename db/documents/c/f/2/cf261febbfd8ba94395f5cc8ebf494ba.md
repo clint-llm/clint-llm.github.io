@@ -1,0 +1,1 @@
+Antihistamine toxicity occurs almost exclusively via oral ingestion. Other forms can include intravenous (IV), intramuscular, and topical, but these forms are rare in households.

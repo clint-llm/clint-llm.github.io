@@ -1,0 +1,1 @@
+Observe for signs and symptoms of hypersensitivity reactions, including anaphylaxis. Another concern which prescribers and other healthcare team members need to monitor is a lack of therapeutic response, which could be a sign of superinfection.

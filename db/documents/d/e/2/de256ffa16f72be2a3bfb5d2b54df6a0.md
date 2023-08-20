@@ -1,0 +1,1 @@
+In the vast majority of cases, no treatment is necessary. When needed, surgery is almost always curative, but recurrences have been reported.

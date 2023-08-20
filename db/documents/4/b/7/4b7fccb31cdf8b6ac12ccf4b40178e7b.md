@@ -1,0 +1,1 @@
+Blunt cardiac injury (BCI) from blunt chest trauma is most commonly due to motor vehicle collisions (50%), with 20% of all motor vehicle collision deaths involving blunt chest trauma.

@@ -1,0 +1,3 @@
+No specific test must be done in an emergent clinical setting to make the diagnosis. A night terror is a clinical diagnosis that can be determined by taking a careful history, especially detailing the actual episode from families and witnesses. The only lab work or imaging that needs to be done is to rule out other differential diagnoses that are listed below.
+
+In some children, EEG studies may be required to rule out seizures. Patients with nocturnal frontal lobe epilepsy can present in a similar fashion.

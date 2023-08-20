@@ -1,0 +1,5 @@
+The histological findings of the conjunctiva and sclera following mitomycin C application have been studied using light microscopy. They have shown hypocellularity of the fibroblasts and distortion of the typical architecture. Post trabeculectomy with mitomycin C, documented electron microscopic findings include the presence of myelin figures and increased melanolipofuscin granules.
+
+Also present are vacuolated cytoplasm and disrupted mitochondria of the ciliary body epithelium. As a result of these findings, it has been suggested that over filtration and aqueous hyposecretion are the mechanisms of the post-operative chronic hypotony occurring after using mitomycin C for trabeculectomy.
+
+Furthermore, histological examination of mitomycin C treated trabeculectomy eyes revealed the presence of patent sclerotomies with hypocellular formed bleb cavities. The findings confirm the inhibitory effects of mitomycin-C on fibrovascular, fibrocellular, and collagen cells.

@@ -1,0 +1,1 @@
+Accidental over-ingestion, suicidal ingestion, and exploratory ingestion in children can all lead to severe toxicity. Therapeutic use can lead to toxicity through drug interactions with other cardiac medications or increased drug exposure because of interference with metabolism or elimination. Poisoning with these agents can have severe hemodynamic effects and be fatal.

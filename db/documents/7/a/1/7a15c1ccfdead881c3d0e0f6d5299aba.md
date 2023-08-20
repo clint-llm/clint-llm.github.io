@@ -1,0 +1,7 @@
+Acute pancreatitis most commonly presents with abdominal pain, which usually occurs in the epigastric region and radiates to the back. It is often described as severe sharp pain and is frequently associated with nausea and vomiting.
+
+In regards to medical history, healthcare providers should ask the patient specifically about the previous history of gallbladder disease, history of hyperlipidemia, and previous episodes of pancreatitis. A detailed social history should be obtained including a history of alcohol use. Clinicians should ask patients about recent procedures such as ERCP, and they should obtain a list of medications that the patient is currently taking. Patients should also be asked about a family history of pancreatic disorders.
+
+The physical examination should begin with the vital signs: pulse, blood pressure, respiratory rate, and temperature. The vital signs can also assess the patient’s hydration status. The presence of jaundice indicates biliary tree obstruction. An abdominal exam should be performed, and this may reveal abdominal tenderness/guarding and decreased bowel sounds if an ileus is present. Grey-Turner sign is present where there is ecchymosis in the flanks. Cullen's sign is present when there is ecchymosis around the umbilicus. These signs can signify pancreatic necrosis leading to blood in the abdomen.
+
+Chronic pancreatitis can present with abdominal pain, nausea, and vomiting. However, it can also be painless, and patients can present with steatorrhea and weight loss.

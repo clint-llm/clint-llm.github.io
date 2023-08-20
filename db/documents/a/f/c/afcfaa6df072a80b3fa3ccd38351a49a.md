@@ -1,0 +1,5 @@
+The management of heart block is best done with an interprofessional team because if the diagnosis is missed (esp higher degrees of heart block), the condition can have significant morbidity and mortality.
+
+Patients with heart block may be encountered by the nurse practitioner, primary care provider, internist or the emergency department physician. Except for a first-degree heart block, the rest of the patients should be referred to a cardiologist for more definitive workup. Some of these patients may require a pacemaker which can be life-saving. Following treatment, the cardiology nurse should follow up on the patients to ensure that the heart rate has normalized and the patients have no symptoms.
+
+Anytime patients with a pacemaker undergo surgery, the cardiologist should be consulted first. In some cases, the pacemaker may have to be deactivated with a magnet to prevent interference from electrocautery. After surgery, the pacemaker has to be reprogrammed. Today, most centers have a pacemaker nurse who monitors these patients for complications. Only through a combined team approach can the morbidity of heart block be decreased.

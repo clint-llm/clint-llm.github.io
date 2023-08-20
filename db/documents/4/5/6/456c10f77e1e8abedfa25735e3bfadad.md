@@ -1,0 +1,1 @@
+Based on a systematic review of ICH literature, the annual incidence to be approximately 5 in 100,000. The peak age of this condition is around 40 years old, with a female to male ratio of 2 to 1. Thus, ICH should be considered in cases of postural headache in young or middle-aged adult patients.

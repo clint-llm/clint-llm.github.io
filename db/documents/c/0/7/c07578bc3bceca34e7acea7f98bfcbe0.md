@@ -1,0 +1,1 @@
+In postoperative patients complaining of pain, numbness, or tingling that is worsened at night and with upper extremity movement, neuralgia and paresthesia should merit consideration in the differential diagnosis. Studies recommending specific intraoperative nerve blocks may reduce postoperative pain and improve clinical outcomes

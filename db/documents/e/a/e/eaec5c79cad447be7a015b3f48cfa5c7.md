@@ -1,0 +1,1 @@
+Seizures account for 1 to 2 percent of all emergency visits in the U.S.

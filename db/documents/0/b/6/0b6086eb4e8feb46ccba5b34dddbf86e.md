@@ -1,0 +1,1 @@
+The typical clinical presentation is the unilateral depression of the lower lip during smiling or crying. Exaggerated lower lip depression is seen on the normal side. There is contralateral lower lip weakness. The face appears symmetric at rest. There is no eyelid closure, forehead movement, and nasolabial fold depth asymmetry.

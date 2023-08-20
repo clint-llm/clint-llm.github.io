@@ -1,0 +1,1 @@
+An operating surgeon, a surgical assistant (nurse, surgeon, technician), a speech-language pathologist, and a neurologist.

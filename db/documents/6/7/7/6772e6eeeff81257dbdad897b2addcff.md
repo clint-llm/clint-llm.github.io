@@ -1,0 +1,3 @@
+INR level below the target range is associated with increased risk of thrombosis. Research showed that more than three-fold risk of recurrent venous thromboembolism is associated with the subtherapeutic INR level.
+
+On the other hand, INR above the therapeutic range is associated with increased risk of bleeding among which the most concerning condition is an intracranial hemorrhage. Patients can also present with gastrointestinal bleeding, hematuria or bleeding from any other site.

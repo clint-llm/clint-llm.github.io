@@ -1,0 +1,3 @@
+Histopathological examination reveals patchy photoreceptor loss.
+
+The retinal pigment epithelium and choroid are usually not involved in CAR, contrary to retinitis pigmentosa. Immunohistochemical staining of the retina varies depending upon the specific type of antibody involved in the pathogenesis. Recoverin-mediated CAR shows predominant photoreceptor staining. Sawyer et al. showed photoreceptor degeneration of rods and cones and scattered melanophages in the outer retina and sparing of the ganglion cells in the inner retinal layer.

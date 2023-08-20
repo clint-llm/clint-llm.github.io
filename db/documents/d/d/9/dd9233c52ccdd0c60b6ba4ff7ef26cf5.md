@@ -1,0 +1,1 @@
+The definition of hypothermia is an involuntary drop in body temperature below 35C. Accidental hypothermia is not limited to regions or times of severe cold and can occur in milder climates.

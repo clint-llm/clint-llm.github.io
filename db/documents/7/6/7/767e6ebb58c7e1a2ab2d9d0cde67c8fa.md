@@ -1,0 +1,5 @@
+Sudoriferous glands, also known as sweat glands, are either of two types of secretory skin glands, eccrine or apocrine. Eccrine and apocrine glands reside within the dermis and consist of secretory cells and a central lumen into which material is secreted. Typically, eccrine glands open directly onto the skin surface, whereas apocrine glands open onto associated hair follicles. As such, eccrine glands can be found almost anywhere on the human body, with the highest concentration found on the palms and soles. Apocrine glands are found in more restricted areas of the body, including the axilla, anogenital region, external ear canal, and areola.
+
+Eccrine glands consist of a tube-shaped duct that ends in a coiled, secretory unit. This secretory unit is made up of cuboidal cells that surround a central lumen. Myoepithelial cells form around the cuboidal cells and contract in response to stimuli to assist with secretion.
+
+Apocrine glands have a similar structure to eccrine glands but have a larger secretory component lined by either cuboidal or columnar epithelium and associated myoepithelial cells.

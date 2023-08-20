@@ -1,0 +1,1 @@
+The etiology remains unclear, but there is a strong genetic component suggesting an autoimmune basis for actinic prurigo. The human leukocyte antigen DR4 allele variant is present in 90% of the cases, especially the DR4 subtype DRB1*0407, which is seen in 60% of cases.

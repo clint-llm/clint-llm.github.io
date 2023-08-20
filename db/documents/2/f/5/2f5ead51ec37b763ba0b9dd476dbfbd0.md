@@ -1,0 +1,5 @@
+Mainly, primary milia are considered to arise from the lower infundibular sebaceous collar of the vellus hair follicles; meanwhile, secondary milia are believed to derive more frequently from the eccrine ducts than from hair follicles, sebaceous ducts, or overlying epidermis.
+
+The presence of primary milia also is linked with specific inherited genetic skin disorders (genodermatoses), which include oro-facial digital syndrome type 1, congenital hereditary trichodysplasia (Marie-Unna hypotrichosis), Basex-Dupre-Christol syndrome, and some other ectodermal dysplasias. An uncommon presentation of primary milia occurring on an erythematous plaque is known as milia en plaque, which etiology is still not well understood.
+
+Secondary milia may arise after trauma, such as dermabrasion or radiotherapy. They also happen secondary to chronic topical steroid use with underlying atrophy and nonsteroidal anti-inflammatory drug use. Besides, they may manifest after the clearing of inflammatory skin diseases as sequelae of bullous disorders.

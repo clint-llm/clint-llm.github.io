@@ -1,0 +1,1 @@
+Infectious dacryoadenitis may require antibiotics but typically resolves without complications. Inflammatory dacryoadenitis is more resistant to therapy and depends on the underlying systemic process if present. These cases may require an extended steroid taper, chronic immunomodulatory therapy, or surgical debulking.

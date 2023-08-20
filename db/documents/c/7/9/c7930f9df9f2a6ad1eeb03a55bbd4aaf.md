@@ -1,0 +1,1 @@
+While the prevalence of Danon disease is unknown, it is thought to affect any ethnic group.

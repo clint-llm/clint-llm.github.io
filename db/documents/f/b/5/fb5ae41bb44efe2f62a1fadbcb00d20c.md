@@ -1,0 +1,1 @@
+Aside from the pain and discomfort that may be associated with acute episodes, the primary long-term complication is a decline in visual acuity. An increased number of attacks may contribute to permanent corneal scarring and a decrease in the quality of life.

@@ -1,0 +1,1 @@
+Patients should know that the prognosis of M. kansasii is usually good when recognized and treated early. Treatment duration is long and the patients should adhere to the duration of the treatment as relapse rates are high if treatment is stopped early.

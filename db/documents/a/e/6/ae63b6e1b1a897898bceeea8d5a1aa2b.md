@@ -1,0 +1,1 @@
+The nurse should provide comfort and explain the test to the patient. During the test, the nurse should observe the patient for pain or discomfort.

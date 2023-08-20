@@ -1,0 +1,1 @@
+Rare complications associated with cephalohematoma include anemia, infection, jaundice, hypotension, intracranial hemorrhage, and underlying linear skull fractures (5-20% of cases).

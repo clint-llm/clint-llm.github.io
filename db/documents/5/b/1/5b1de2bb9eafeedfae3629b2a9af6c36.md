@@ -1,0 +1,7 @@
+Around one in seven women can develop postpartum depression (PPD). While women experiencing baby blues tend to recover quickly, PPD tends to last longer and severely affects women's ability to return to normal function. PPD affects the mother and her relationship with the infant. Maternal brain response and behavior are compromised in PPD. According to Beck in 2006, as many as half of PPD in new mothers go undiagnosed because of conflict in privacy and not wanting to disclose to close family members. There is also a stigma around new mothers in that disclosure may lead to abandonment and fear of lack of support. This activity reviews the evaluation, treatment, and complications of postpartum depression and underscores the importance of an interprofessional team approach to its management.
+
+**Objectives:**
+- Describe common symptoms of postpartum depression.
+- Articulate the reasons that women may not seek care for postpartum depression. 
+- Review management strategies for postpartum depression. 
+- Plan a discussion amongst interprofessional, interprofessional team members regarding the detection, evaluation, and management of postpartum depression so that this condition is detected quickly and appropriate management can be implemented immediately, enhancing patient outcomes.

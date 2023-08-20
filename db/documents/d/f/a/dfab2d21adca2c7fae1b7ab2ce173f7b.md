@@ -1,0 +1,3 @@
+**Typical Value Domains of Medical Simulation Center Directors**
+
+To establish competency in certain value domains, many simulation program directors have either completed a simulation fellowship program and/or obtained certification as healthcare simulation educators. These values frequently overlap with those of hospital leadership, including educational effectiveness and efficiency, patient safety, quality of care, resource management, research, and scholarship.

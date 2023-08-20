@@ -1,0 +1,1 @@
+Unfortunately, there are no pathognomic symptoms of SIN and patients can be completely asymptomatic.

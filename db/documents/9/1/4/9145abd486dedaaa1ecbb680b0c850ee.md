@@ -1,0 +1,5 @@
+The natural history, progression, remission, and recurrences of ABPA are not well understood. Patients without central bronchiectasis at the time of diagnosis tend to maintain their lung function despite occasional exacerbations.
+
+Treatment of Stage 1 disease using corticosteroids typically results in decreased sputum production, improved control of bronchospasm, over 35% reduction in total IgE within 8 weeks, clearing of precipitating antibodies, and resolution of radiographic infiltrates. IgE levels typically do not completely normalize, but it decreases by approximately one-half of peak levels seen in the acute stage.
+
+Progression of Stage 5 disease to pulmonary fibrosis may be preventable if patients maintain therapy on low-dose steroids. Persons with an FEV1 persistently under 0.8 L have a worse prognosis.

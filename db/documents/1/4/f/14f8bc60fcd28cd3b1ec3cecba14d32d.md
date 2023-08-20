@@ -1,0 +1,1 @@
+A number of institutions have organized spina bifida clinics with a multi-disciplinary care team consiting of neurologists, neurosurgeons, rehabilitation specialists, physical and occupational therapists to take care of children with spinal dysraphism. Such organized treatment is highly recommended to ensure the best care of such patients.

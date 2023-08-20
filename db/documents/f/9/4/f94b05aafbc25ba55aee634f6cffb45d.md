@@ -1,0 +1,1 @@
+NF-1, also known as von Recklinghausen disease, is an autosomal dominant disorder with complete penetrance but has variable phenotypic expression. NF1 is caused by the germline mutation in the NF1 gene on chromosome 17q11.2.

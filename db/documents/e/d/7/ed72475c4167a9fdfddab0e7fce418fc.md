@@ -1,0 +1,1 @@
+Typically, no imaging is indicated for ocular burns. If an intraocular foreign body is suspected based on the mechanism of injury (blast injury, for example), computed tomography imaging of the orbits may be helpful. Further imaging should be guided by the history and physical exam and clinical suspicion of other injuries.

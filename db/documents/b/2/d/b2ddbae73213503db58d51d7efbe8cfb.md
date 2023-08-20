@@ -1,0 +1,1 @@
+Sepsis and septic shock are complications with high mortality that can arise with catheter-related infections. The mortality rate for septic shock can up to 20 to 30%.

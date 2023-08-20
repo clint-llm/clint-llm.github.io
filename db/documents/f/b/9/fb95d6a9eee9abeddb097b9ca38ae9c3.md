@@ -1,0 +1,1 @@
+The best way to prevent bullous emphysema is by smoking avoidance. Smoking is the most significant cause of this disease process, and smoking history is present in most patients with emphysema.  Patient education should be centered on cessation of smoking if they have a diagnosis of emphysema, but also to counsel all patients on smoking avoidance.

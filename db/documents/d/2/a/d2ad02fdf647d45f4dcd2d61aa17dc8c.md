@@ -1,0 +1,1 @@
+Although often overlooked, there are many critical muscular structures within the thoracic mediastinum. For example, the superior thoracic mediastinum contains the skeletal and smooth muscle of the esophagus and the left and right inferior oblique portion of longus colli muscle which assists in mobilizing the cervical spine.

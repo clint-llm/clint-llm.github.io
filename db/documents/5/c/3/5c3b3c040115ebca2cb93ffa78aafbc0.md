@@ -1,0 +1,3 @@
+Duplex ultrasound is the usual choice for screening of carotid artery stenosis in patients suspected of stroke. Transcranial Doppler ultrasound is commonly used for screening of cerebral artery vasospasm after SAH.
+
+Ultrasonography is cheap and usually available in every emergency room and can be performed at the patient's bedside. It has no radiation, is non-invasive, and is a safe modality compared to other imaging options. However, ultrasonography is a highly operator-dependent modality. It may be challenging to obtain the appropriate acoustic window of visualization on the area of interest.

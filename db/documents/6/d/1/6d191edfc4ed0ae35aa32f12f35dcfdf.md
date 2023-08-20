@@ -1,0 +1,1 @@
+Vessels transport nutrients to organs/tissues and to transport wastes away from organs/tissues in the blood. A primary purpose and significant role of the vasculature is its participation in oxygenating the body.

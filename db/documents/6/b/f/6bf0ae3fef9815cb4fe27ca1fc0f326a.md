@@ -1,0 +1,1 @@
+Massive transfusions require the coordination of physicians, nurses, laboratory testing, and the hospital’s blood bank. Many institutions have an alert system, similar to those used in the case of trauma, that informs the necessary personnel that a massive transfusion is likely to take place or is occurring.

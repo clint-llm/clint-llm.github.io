@@ -1,0 +1,9 @@
+Over the past century, our understanding of the etiology of PD has evolved immensely. In 1919, it was first recognized that loss of pigmentation in the substantia nigra of the midbrain is a feature of the post-mortem brain examination of patients with PD. In the 1950s, it was further understood that the pigmented neurons that are lost in the substantia nigra are dopaminergic, and it is the loss of dopamine in subcortical motor circuitry that is implicated in the mechanism of the movement disorder in PD.
+
+PD is a disorder of the basal ganglia, which is composed of many other nuclei. The striatum receives excitatory and inhibitory input from several parts of the cortex. The key pathology is the loss of dopaminergic neurons that lead to the symptoms.
+
+The cause of PD has been linked to the use of pesticides, herbicides, and proximity to industrial plants. Some individuals have been found to develop parkinsonian like features after injection of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). This chemical accumulated in the mitochondria. There is also research suggesting that oxidation and generation of free radicals may be the cause of damage to the thalamic nuclei.
+
+Genes are important as the risk of PD in siblings is increased, if one member of the family has the disorder. These cases also tend to occur much earlier in life.
+
+Abnormally levels of aggregated alpha-synuclein is a major component of Lewy bodies and are found at autopsy. It is felt that the altered function of alpha-synuclein may play a role in the etiology of PD. Current research is focussed on preventing the propagation and aggregation of alpha-synuclein.

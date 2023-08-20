@@ -1,0 +1,1 @@
+In the case of the surgical excision of the submandibular gland, the branch of the mylohyoid that provides sensory innervation to the area beneath the chin may be at risk for an injury which may cause an alteration in sensation to this area.

@@ -1,0 +1,3 @@
+Dysmenorrhea is one of the common gynecological problems among all women regardless of age or race. It is one of the most frequently identified etiology of pelvic pain in females. The prevalence of dysmenorrhea can vary between 16% and 91% in women of reproductive age, with severe pain observed in 2% to 29%.
+
+The symptoms associated with dysmenorrhea include gastrointestinal symptoms such as nausea, bloating, diarrhea, constipation, or both, along with vomiting and indigestion. Also, irritability, headache, and low back pain are prevalent among women presenting with primary dysmenorrhea. Tiredness and dizziness are also associated with dysmenorrhea.

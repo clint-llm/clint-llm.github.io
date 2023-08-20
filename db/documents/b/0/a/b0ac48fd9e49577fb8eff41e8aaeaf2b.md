@@ -1,0 +1,1 @@
+Optic atrophy is not a disease per se; it is a sign indicating several conditions. Therefore, the complications are related to the underlying disease, rather than the optic atrophy itself.

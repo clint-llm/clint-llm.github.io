@@ -1,0 +1,1 @@
+Succinic semialdehyde dehydrogenase (SSADH) deficiency is a rare disorder. Approximately 450 patients are reported in the literature.

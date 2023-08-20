@@ -1,0 +1,1 @@
+BP is a sexually transmitted condition associated with HPV infection. Most lesions are associated with oncogenic HPV types mainly the HPV 16 genotype but occasionally HPV 18, 31, 33, 34, 35, 39, 42, 48, 51, 52, 53 and 54 are detected.

@@ -1,0 +1,1 @@
+The diagnosis of CMTC is clinical, as histology is nonspecific. Swollen endothelial cells, abnormal dilation of multiple capillaries in all layers of the dermis and subcutaneous tissue, as well as dilated veins and venous lakes, can be seen.

@@ -1,0 +1,5 @@
+The term 'endophthalmitis phacoanaphylatica' was introduced by Verhoeff and Lemoine in 1922 when they reported patients who had increased inflammation (apparently sterile inflammation mimicking endophthalmitis) after they underwent extracapsular cataract surgery.
+
+The term phacotoxic uveitis is also avoided as lens protein has not proven toxic to the eye.
+
+In modern-day cataract surgery, the retained cortical matter is not very commonly seen after cataract surgery. However, when there is residual cortex after cataract removal, with or without an intact posterior capsule, inflammation can occur. Such inflammation may present with ocular redness, pain, and sensitivity to light. Typically, lens-induced inflammation gets controlled after cataract surgery or removal of the retained lens matter. This review discusses the etiology, pathophysiology, clinical signs and symptoms, differential diagnoses, and the management of lens-induced inflammations.

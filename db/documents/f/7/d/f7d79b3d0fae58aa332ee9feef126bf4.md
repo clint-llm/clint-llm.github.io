@@ -1,0 +1,1 @@
+Patients should be educated that MAC is a slow-growing tumor. Patients should be educated on the importance of follow-up examinations, and that recurrence may even occur decades later in some instances.

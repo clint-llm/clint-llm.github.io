@@ -1,0 +1,1 @@
+Vitals signs, including pulse oximetry, should be monitored for several hours after the procedure. The chest should be auscultated, and output from any chest drain should be recorded. Patients discharged with a Heimlich valve should be educated on how to maintain it and when to return to the surgeon.

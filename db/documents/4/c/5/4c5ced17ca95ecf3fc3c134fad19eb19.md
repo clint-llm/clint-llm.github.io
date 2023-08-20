@@ -1,0 +1,1 @@
+Borrelia burgdorferi is a pathogenic spirochete responsible for Lyme disease via a tick vector. This spirochete causes a characteristic annular rash, arthritis, carditis, and in late stages, encephalopathy.

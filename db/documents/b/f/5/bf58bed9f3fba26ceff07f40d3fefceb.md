@@ -1,0 +1,7 @@
+Standard roentgenogram should be advised as the primary investigation, which can show anterolateral bowing, heterogeneous lesions, resorption of bone at the ends of the fracture responsible for significant loss of bone substance.
+
+In cystic forms bowing appears before the first year, the medullary canal is narrow, and deformity gradually worsens, ultimately resulting in transverse fracture. In dysplastic forms bowing can be seen since birth, narrow tibia with an hourglass appearance, and partially or completely obstructed medullary cavity.
+
+The fibula is commonly affected in such forms. Once pseudoarthrosis has been developed, bony ends become either thin, atrophic, or wide, hypertrophic. These several radiological findings pave a path for various criteria, which serve as the basis for various classifications of congenital pseudarthrosis of the tibia. The role of magnetic resonance imaging (MRI) has recently emerged as it helps provide a more detailed analysis of soft tissue lesions, mainly the periosteum, which lies in the vicinity of pseudarthrosis.
+
+Bone perfusion sequences in MRI can help visualize the vascularization defects in the bone, which ultimately helps in finalizing the limits of resection preoperatively. It also serves a significant role in understanding the pathophysiological mechanisms of this condition.

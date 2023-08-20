@@ -1,0 +1,1 @@
+Long-term follow-up by the ophthalmologist and orbital surgeon should monitor the patient for possible complications including residual diplopia and EOM limitations.

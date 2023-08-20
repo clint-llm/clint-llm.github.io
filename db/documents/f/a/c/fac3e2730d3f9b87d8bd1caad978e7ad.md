@@ -1,0 +1,5 @@
+Metformin is contraindicated in patients with severe renal dysfunction, defined as a glomerular filtration rate (GFR) less than 30 ml/min/1.732. This limitation also equates to serum creatinine (SCr) greater than or equal to 1.5 in men and 1.4 in women or abnormal creatinine clearance (CrCl). Any potentially renally toxic medication should not be used concomitantly.
+
+Metformin dosing should also stop on the day of any surgery. Other contraindications include hypersensitivity to metformin and metabolic acidosis.
+
+Metformin's package insert advises the discontinuation of metformin before giving iodinated contrast agents in patients with a GFR less than 60 ml/min/1.732, lactic acidosis risk factors, or administration of contrast intra-articularly. Metformin may be restarted after the procedure once the patient's GFR has normalized. Due to the risk of lactic acidosis, the package insert recommends stopping metformin in cases of nausea, vomiting, and dehydration. Recommendations also include avoiding metformin in hepatically impaired or unstable heart failure patients.

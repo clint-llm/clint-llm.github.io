@@ -1,0 +1,1 @@
+The management of patients with HPS requires a strong interprofessional team approach involving hepatologists, pulmonologists, transplant surgeons, addiction medicine specialists, primary clinicians, pharmacists, social workers, and nurse educators. Prompt diagnosis and early liver transplant are the only way to alter the course of this fatal disease.

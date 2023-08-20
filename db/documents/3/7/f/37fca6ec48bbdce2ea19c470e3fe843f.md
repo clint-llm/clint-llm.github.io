@@ -1,0 +1,3 @@
+A recent study using the Surveillance, Epidemiology, and End Results (SEER) database looked at the incidence and survival of oral tongue squamous cell carcinoma. They report that although the incidence is increasing for both oral tongue SCCA and oropharyngeal squamous cell carcinoma, survival has also significantly improved.
+
+The study shows that from 1976 to 2015, oral tongue SCCA and oropharyngeal squamous cell carcinoma both showed the highest absolute increase in survival, with conditional survival of over 90% for both diseases independent of the treatment.

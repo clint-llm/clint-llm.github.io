@@ -1,0 +1,3 @@
+An initial prognosis can be made based on the number of eggs found in feces, as more eggs are indicative of more pronounced disease intensity.C. sinensis is largely dependent on the timing of initiation of treatment, meaning that when praziquantel treatment is delayed, the recovery period for pathological changes of the bile duct may be up to 12 weeks, and even longer or irreversible if the infection is severe and/or prolonged.
+
+As initial symptoms of C. sinensis are frequently unspecific, they can result in a missed diagnosis and the inhabitation of C. sinensis adult worms for many years.

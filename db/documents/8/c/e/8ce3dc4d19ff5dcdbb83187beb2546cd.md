@@ -1,0 +1,1 @@
+The etiology of IBS is broad and not clearly understood. However, as below in the pathophysiology section, motility, visceral sensation, brain-gut interaction, and psychosocial distress can all play a role in the development of IBS.

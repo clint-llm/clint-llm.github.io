@@ -1,0 +1,3 @@
+Keratitis is inflammation of the cornea with associated infiltration of inflammatory cells. Out of various infective and non-infective causes, infective keratitis is more common. Microsporidial keratitis is one such infective keratitis caused by microsporidia species. The microsporidial keratoconjunctivitis and deep stromal keratitis are two important but relatively less common corneal manifestations of microsporidia.
+
+This disease is often misdiagnosed, mistreated, or overtreated in view of lack of awareness among the ophthalmologists regarding the varied clinical presentation and disease course in corneal microsporidiosis. This article highlights the etiology, variable clinical manifestations, disease course, and its management.

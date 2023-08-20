@@ -1,0 +1,1 @@
+Complications of gastrointestinal syndromes associated with B. cereus infections are uncommon and only occur in people with compromised immune systems. Complications in patients with extraintestinal infections include gangrene, cellulitis, aseptic meningitis, septicemia, and death.

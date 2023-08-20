@@ -1,0 +1,1 @@
+The difference in size of the sternum in both genders may provide essential clues in determining the skeletal remains during forensic evaluation.

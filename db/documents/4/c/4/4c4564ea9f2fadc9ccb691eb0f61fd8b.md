@@ -1,0 +1,1 @@
+Voice disorders have an estimated prevalence of 20 million (0.98%) in the United States.

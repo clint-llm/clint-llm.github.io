@@ -1,0 +1,1 @@
+Wrist dislocation encompasses a range of injuries. Wrist dislocations associated with fractures may be treated in the acute setting with surgery. Ligament injuries do not always heal and can result in long-term instability. This may increase of developing arthritis in future. If there is ongoing pain, giving way, clunking or locking of the wrist, medical review is recommended.

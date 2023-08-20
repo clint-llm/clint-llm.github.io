@@ -1,0 +1,2 @@
+The exact etiology of CM-II is not well understood. Many theories have been described; however, none explain all the features. Overall it is thought that CM-II occurs because of an in
+utero malformation of the cranial structures and the spine. This then results in the displacement of the cerebellum, medulla, and fourth ventricle through the foramen magnum. The associated myelomeningocele is thought to arise from an in utero CSF leak.

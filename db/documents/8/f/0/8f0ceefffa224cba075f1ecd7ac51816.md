@@ -1,0 +1,9 @@
+The right bronchus deviates from the trachea at 25 degrees from the midline, and the left bronchus deviates at a 45 degree from midline making aspiration and intubation into the right bronchus more common.
+
+It should be noted that the conducting airways provide no gaseous exchange. This creates a physiologic dead space which constitutes approximately 150 ml. This is the reason EtCO2 will be slightly less than PaCO2 with invasive ventilation. The reason this difference occurs is dead space dilutes the amount of carbon dioxide truly exhaled.
+
+Tracheitis is inflammation of the trachea and may last one to three weeks occurring more frequently in the winter and fall. It is thought to be mostly viral; however, the exact cause is unknown. Diagnosis is made when the primary symptom is a cough without radiological evidence of pneumonia and does not meet systemic inflammatory response syndrome (SIRS) criteria.
+
+The tracheal deviation may be seen on clinical examination or radiological studies. This deviation  aids the provider with useful information about the patient and usually indicates an underlying process causing an increase in intrathoracic pressure. This could result in hemodynamic collapse and must be evaluated and treated promptly. Some underlying pathologies that may cause tracheal deviation include tension pneumothorax, hemothorax, pleural effusion, primary malignancies, metastases, scoliosis, atelectasis, or prior pneumonectomy.
+
+A variety of tumors can arise from the respiratory system or adjacent structures, all of which alter the anatomy. It is essential to perform an adequate airway exam and that an appropriate plan is in place if the airway becomes compromised.

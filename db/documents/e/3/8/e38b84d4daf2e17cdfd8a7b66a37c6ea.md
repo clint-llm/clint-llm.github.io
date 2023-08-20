@@ -1,0 +1,3 @@
+Mitomycin is an antibiotic medication approved by the Food and Drug Administration (FDA) for use in the systemic therapy of metastatic adenocarcinoma of the stomach or pancreas in combination with other drugs.
+
+This medication is also indicated as a potential palliative treatment, especially when other treatments have failed. It also has approval for use as an adjunct to ab-externo glaucoma surgery.

@@ -1,0 +1,1 @@
+There is no special equipment required to perform this test. Only a standard exam table is needed.

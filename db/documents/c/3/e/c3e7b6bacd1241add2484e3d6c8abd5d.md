@@ -1,0 +1,5 @@
+Tinea versicolor is a relatively common skin disorder that may be encountered by the nurse practitioner, internist, dermtologist and primary care physician. The diagnosis is usually made on clinical features but does require clinical acumen. The rash is benign and may spontaneously disappear.
+
+Patients should be informed that the causative agent of pityriasis versicolor is a commensal fungal inhabitant of the normal skin flora, and therefore the disease is not considered to be contagious. In addition, pityriasis versicolor does not lead to either permanent scarring or pigmentary disorders. However, in many cases, disease recurrence may occur despite effective treatment. An interprofessional team of a nurse and clinician should provide patient education which will decrease their anxiety and provide the best patient outcome.
+
+The outcomes in most patients are excellent.

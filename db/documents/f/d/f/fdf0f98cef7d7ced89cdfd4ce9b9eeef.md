@@ -1,0 +1,1 @@
+Cardiac tamponade and hemothorax are the two significant complications of the LV rupture.

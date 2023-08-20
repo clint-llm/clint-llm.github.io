@@ -1,0 +1,1 @@
+While OMT is generally very safe, common side effects of non-high-velocity techniques are fatigue, headache, or localized and radiating pains, but typically resolve within 24 hours after treatment.

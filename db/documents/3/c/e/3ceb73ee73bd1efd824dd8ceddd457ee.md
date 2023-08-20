@@ -1,0 +1,1 @@
+No consensus has been established to diagnose blunt cardiac injuries. However, in 2012, the Eastern Association of Trauma (EAST) published BCI practice guidelines that supported obtaining an ECG in all patients with suspected BCI.

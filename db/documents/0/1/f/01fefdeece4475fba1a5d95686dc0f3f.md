@@ -1,0 +1,1 @@
+The most widespread complication related to elevated blood lead concentrations aside from the collective loss of IQ points is the burden of cardiovascular morbidity and mortality linked to hypertension associated with lead exposure.

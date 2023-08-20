@@ -1,0 +1,7 @@
+Most cases of patellar tendinopathy will resolve with nonoperative management.
+
+Rudavsky and Cook say that the process of returning to sports play is slow. This process is often dependent on various factors ranging from the severity of pain, grade of dysfunction, the sport practiced, the quality of rehabilitation, the athlete's performance level, and the presence of intrinsic and extrinsic factors.
+
+Joshua et al. performed a systemic search of previous studies to compare the efficacy of treatment for commonly used invasive and non-invasive treatment options. The conclusion was that eccentric squat-based therapy, shockwave, or PRP could be used as monotherapies or adjunct therapies to accelerate recovery. Surgery or shockwave can be considered for patients who fail to improve after six months of conservative treatment. Since patellar tendinopathy is not inflammatory, corticosteroid injections should not be used.
+
+Patellar tendinopathy may cause long-lasting symptoms that can lead to the athlete's early retirement from the sport. In a small prospective case-control study, Kettunen et al. found that 53% of their symptomatic subjects with jumper's knee had quit their sport compared to their asymptomatic counterparts, in which only 7% quit.

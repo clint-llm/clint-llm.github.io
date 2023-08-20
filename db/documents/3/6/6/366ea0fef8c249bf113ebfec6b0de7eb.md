@@ -1,0 +1,3 @@
+Hyperglycemia in a patient with type 1 diabetes is a result of genetic, environmental, and immunologic factors. These lead to the destruction of pancreatic beta cells and insulin deficiency. In a patient with type 2 diabetes, insulin resistance and abnormal insulin secretion lead to hyperglycemia.
+
+According to recent studies, metabolic disturbances like type 2 diabetes mellitus increases the risk of cognitive decline and Alzheimer dementia. Alzheimer dementia is also a risk factor for diabetes type 2. Recent studies have indicated these diseases are connected both at clinical and molecular levels. Like peripheral insulin resistance leading to type 2 diabetes, brain insulin resistance is linked to neuronal dysfunction and cognitive impairment in Alzheimer dementia.

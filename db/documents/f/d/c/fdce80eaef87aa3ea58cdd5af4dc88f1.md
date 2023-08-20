@@ -1,0 +1,3 @@
+Cholelithiasis is quite common and can be found in approximately 6% of men and 9% of women. The highest prevalence of cholelithiasis arises in Native American populations. Gallstones are not as common in Africa or Asia. The epidemic of obesity has likely magnified the rise of gallstones.
+
+Despite how prevalent gallstones may be, more than 80% of people remain asymptomatic. Biliary pain, however, will develop annually in 1% to 2% of individuals previously asymptomatic. Those who started to develop symptoms may continue to have major complications (cholecystitis, choledocholithiasis, gallstone pancreatitis, cholangitis) occur at a rate of 0.1% to 0.3% yearly.

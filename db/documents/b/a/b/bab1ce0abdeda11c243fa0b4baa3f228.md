@@ -1,0 +1,3 @@
+Devices: There are two types of needles: aspiration or cutting needles. Newer, automated versions of these needles are also available. 16-18 gauge needles are most commonly used. Suction with a syringe is typically applied to obtain liver core tissue while using aspiration needles. This can result in fragmentation and inadequate specimen especially in patients with underlying cirrhosis.
+
+Some cutting type have a needle, and outer cutting sheath, which when propelled beyond the needle cuts and traps tissue within the needle hollow. There are better sampling and less fragmentation of tissue by using the cutting technique, while the procedure is quicker with less risk for complications using the aspiration technique.

@@ -1,0 +1,5 @@
+There have been multiple issues of concern and controversies around the concept of a low-fat diet. The biggest concern with the promotion of the low-fat diet has been that manufacturing companies are touting products labeled as low-fat products, where they are replacing the fat with large amounts of refined carbohydrates, which increase the risk of metabolic disorders and hypertriglyceridemia. Studies are also reporting that diets rich in carbohydrates, and low in unsaturated fat, can also negatively impact lipoprotein risk factors and increase cardiovascular risks.
+
+Studies have also raised concern over the potential of lowering HDL cholesterol, raising triglycerides, and cause unfavorable postprandial lipemic changes.
+
+The 2015 Dietary Guidelines Advisory Committee did not endorse limiting dietary cholesterol to less than 300 mg/dL as presented in their prior editions. The committee made recommendations with a focus on dietary patterns rather than on the macronutrients.

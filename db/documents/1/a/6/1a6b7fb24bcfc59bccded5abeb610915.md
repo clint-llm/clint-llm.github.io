@@ -1,0 +1,7 @@
+Patients present initially in adolescence or young adulthood. Attacks in females often have associations with the onset of menstruation. Acute attacks typically consist of severe abdominal pain, nausea, constipation, palpitations, sweating, confusion, and other neurological manifestations such as peripheral neuropathy,  seizures, and paresis, tachycardia, and hypertension.
+
+Detailed drug history is essential to exclude the intake of precipitating agents. A family history of porphyrias, use of hormonal therapy, and menstrual history in females are also important to elicit on history taking. Online drug databases that provide information about the safety of different drugs in porphyria are available. It is best to refer to the website: www.porphyriafoundation.com/drugs for details. History of recent alcohol intake is also important to note as reports exist of this as a trigger factor for acute attacks.
+
+On examination, the patient may be hypertensive with tachycardia or have evidence of arrhythmias. Motor paresis or poor respiratory effort may be present. Evidence of peripheral neuropathy is common in acute hepatic porphyrias.
+
+Cutaneous manifestations may be found with certain types of acute porphyrias such as variegate porphyria and HCP.

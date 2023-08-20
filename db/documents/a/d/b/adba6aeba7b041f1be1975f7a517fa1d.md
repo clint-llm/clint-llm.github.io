@@ -1,0 +1,1 @@
+Light microscopy may show early changes including moderate fatty infiltration and glycogen deposition in the hepatocytes. The histological features may resemble chronic active hepatitis. Even though copper levels are elevated in the liver, early on the copper is located in the cytoplasm and may not be apparent with rhodamine staining.

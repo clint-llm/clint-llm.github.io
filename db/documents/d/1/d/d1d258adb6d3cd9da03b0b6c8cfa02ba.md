@@ -1,0 +1,3 @@
+Prognosis is good when the rhythm is promptly identified by a healthcare provider. However, patients with sick sinus syndrome who have bradycardia tend to have a poor prognosis with 5-year survival rates between 45 to 70%.
+
+With the number of bariatric procedures increasing each year, it has been observed that many of these patients also develop sinus bradycardia. Whether this is linked to the sudden loss of weight is not yet known.

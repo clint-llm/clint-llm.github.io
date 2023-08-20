@@ -1,0 +1,1 @@
+Even though nabothian cysts are benign and common gynecological findings, they may present as a large mass. If it is large and deeply located, total excision is mandatory to exclude malignancy.

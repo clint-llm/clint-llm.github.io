@@ -1,0 +1,7 @@
+Intramedullary spinal cord abscess (ISCA) is a rare central nervous system infection associated with high mortality and neurological morbidity. Though rare, prompt diagnosis and treatment of this condition are of paramount importance to preventing damage to the spinal cord that can lead to disabling neurological deficits and possibly death.ISCA should not be confused with a spinal epidural abscess which is far more common. Abscesses can be either primary (source of infection not identifiable) or secondary (the source is identifiable). Multiple abscesses occur in around 26% of cases. This activity outlines the evaluation and treatment of spinal cord abscesses and explains the interprofessional team's role in managing those with this condition.
+
+**Objectives:**
+- Describe the common etiologies of intramedullary spinal cord abscesses.
+- Review the steps for complete evaluation and workup for patients presenting with intramedullary spinal cord abscesses.
+- Outline the appropriate treatment options for a case of intramedullary spinal cord abscess.
+- Explain the significance of collaboration and communication among the interprofessional team when diagnosing and treating patients with intramedullary spinal cord abscesses.

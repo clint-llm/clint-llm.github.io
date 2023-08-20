@@ -1,0 +1,1 @@
+According to the manufacturer, severe overdose has been shown to induce severe nausea, vomiting, and rapidly declining blood glucose concentrations. If an overdose occurs, clinicians should initiate appropriate supportive treatment. However, several case reports have recorded only gastrointestinal symptoms and little to no hypoglycemia.

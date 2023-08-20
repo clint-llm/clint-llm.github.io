@@ -1,0 +1,1 @@
+For patients, breast reconstruction surgery can help improve confidence in appearance, restore self-confidence, and promote comfort in wearing clothing, including swimsuits and bras. Reconstructive surgery also eliminates the need for uncomfortable prosthetics.

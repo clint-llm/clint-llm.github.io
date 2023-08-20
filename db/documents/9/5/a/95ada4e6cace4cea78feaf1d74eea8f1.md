@@ -1,0 +1,1 @@
+MAP functions to perfuse blood to all the tissues of the body to keep them functional. Mechanisms are in place to ensure that the MAP remains at least 60 mmHg so that blood can effectively reach all tissues.

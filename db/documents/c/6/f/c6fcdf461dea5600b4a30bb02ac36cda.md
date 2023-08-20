@@ -1,0 +1,1 @@
+Urinary continence is an important issue in these children. Variable rates of continence, ranging from as low as 50% to up to 90%, have been mentioned by different centers across the world.

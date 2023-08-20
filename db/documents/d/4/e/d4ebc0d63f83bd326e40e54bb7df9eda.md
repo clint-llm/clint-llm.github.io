@@ -1,0 +1,1 @@
+The development of the arteries of the upper limb is complex. The brachial artery develops from the axis artery that arises from the lateral branch of the seventh intersegmental artery, part of the dorsal aorta, and grows at approximately the same rate as the limb. As the axis artery grows outward along the axial line, its proximal part forms the axillary and brachial arteries.

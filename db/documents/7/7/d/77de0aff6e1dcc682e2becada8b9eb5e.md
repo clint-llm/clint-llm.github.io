@@ -1,0 +1,9 @@
+**Swyer-James-MacLeod syndrome**, also known as**Swyer-James syndrome**and**Bret syndrome,**is considered a result of postinfectious obliterative bronchiolitis.
+
+Bronchiolitis obliterans (or obliterative bronchiolitis) describes a clinical syndrome of small airway obstruction that is irreversible to bronchodilators. It is triggered by the injury of the bronchiolar epithelium and possibly the adjacent alveoli. This damage, which occurs during early childhood, hinders the normal development of the alveolar ducts.
+
+The injury may be caused by a range of factors, with respiratory infections playing a major role in Swyer-James-MacLeod syndrome. While complete recovery is possible, the repair process may lead to a surplus proliferation of granulation tissue, resulting in narrowing or complete obliteration of the small airways. Unilateral recurrent small airway obstruction involving terminal bronchi and bronchioles occurring early in life triggers an inflammatory response, which leads to the development of submucosal fibrosis.
+
+The other, and perhaps more important, factor responsible for the radiographic hyperlucency of a single hemithorax is the reduction of the pulmonary blood flow. Fibrosis of the interalveolar septae leads to obstruction of the pulmonary capillary bed and reduces blood flow to the major pulmonary artery branches. Moreover, hyperinflation of alveoli, as seen in emphysema, creates additional mechanical resistance to blood flow through the capillary beds. Since this process occurs early in life, arterial development is thwarted, resulting in hypoplastic pulmonary vasculature.
+
+Additionally, reduced ventilation of the diseased lung or segment also leads to compensatory vasoconstriction of the pulmonary vessels, leading to a functional restriction of the arterial flow, which contributes further to the radiographic hyperlucency.

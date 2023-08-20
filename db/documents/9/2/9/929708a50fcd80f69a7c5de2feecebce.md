@@ -1,0 +1,5 @@
+Central cord syndrome is an incomplete cord syndrome that most commonly results following a hyperextension injury of the cervical spine leading to spinal cord impingement. The proposed mechanism of action is hyperextension resulting in anteriorly simultaneous compression of the spinal cord, either by bony spurs or intervertebral disc material and posteriorly by the ligamentum flavum. This theory was aligned with early myelogram studies performed on cadavers.
+
+Furthermore, Schneider believed that the upper limbs were more affected than the lower limbs because of the somatotropic organization of the lateral corticospinal tract, with arm function lying more medial within the tract. Neuroanatomic studies have since shown a diffuse distribution of upper and lower limb nerve fibers within the corticospinal tract, leading to the possibility that the unique presentation of central cord syndrome is due more to the hand and upper limb being more densely represented within the lateral corticospinal tract.
+
+Other less common causes include cervical spondylosis, atlantoaxial instability, tethered cord, osteoporosis, and spinal arthropathies.

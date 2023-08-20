@@ -1,0 +1,1 @@
+The presence of meconium and blood in the sample can alter the result of the L/S ratio. The presence of meconium in the sample can invalidate the final result.

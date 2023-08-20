@@ -1,0 +1,1 @@
+When applying plaster casts, especially following reduction, uni-valving or bi-valving can help to reduce the pressure by about 50%. Beware that once the initial swelling dissipates, the cast can become excessively loose, which can decrease the amount of reduction accomplished.

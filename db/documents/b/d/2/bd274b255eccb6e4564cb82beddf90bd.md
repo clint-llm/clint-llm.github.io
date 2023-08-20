@@ -1,0 +1,1 @@
+Although a precise mechanism has not been described, lysosomal glycogen accumulation leads to impairment of striated muscular cells

@@ -1,0 +1,3 @@
+Treatment and management should focus on specific patient complaints, gestational age, and if the patient is hemodynamically stable or unstable. Depending on the severity of the patient’s complaint (which is commonly vaginal bleeding in the setting of a subchorionic hemorrhage), treatment should be rapidly initiated.
+
+Some sources suggest vaginal progesterone supplementation for patients with vaginal bleeding in the first trimester; however, this has not been shown to increase live birth rates, and its routine use is not recommended.

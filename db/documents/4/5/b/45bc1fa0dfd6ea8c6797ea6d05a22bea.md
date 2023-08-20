@@ -1,0 +1,1 @@
+CCLE, in general, occurs more frequently in the female population. TLE is rare relative to DLE. Incidence and prevalence of TLE among different races and ethnicities is not known. Men and women have almost equal predilection to TLE.

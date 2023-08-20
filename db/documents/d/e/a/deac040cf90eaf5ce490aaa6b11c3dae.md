@@ -1,0 +1,1 @@
+Currently, wide local excision remains the treatment of choice for these tumors.

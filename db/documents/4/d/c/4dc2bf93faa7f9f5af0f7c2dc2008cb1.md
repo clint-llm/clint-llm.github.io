@@ -1,0 +1,1 @@
+Complications do exist for operative interventions and include possible infection, failure of fusion, and the need for additional procedures. Ashmead et al. studied 100 patients who had surgically treated SLAC wrist and noted an average flexion/extension arc of 53% and grip strength of 80% of the uninjured wrist.

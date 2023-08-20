@@ -1,0 +1,1 @@
+In the UK, the Joint Committee on Surgical Training (JCST; the educational oversight board for postgraduate surgical training) recommends using SBME, although they caution that the use of simulation cannot replace supervised clinical practice. SBME is also widely used within otolaryngology residency programs in the USA.

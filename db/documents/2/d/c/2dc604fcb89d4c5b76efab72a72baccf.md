@@ -1,0 +1,5 @@
+Enkephalins exert their physiological effect through specific opioid receptors, which have a broad distribution in the body. Three major classes of opioid receptors exist and are named mu (mainly expressed in the CNS), delta (equally expressed in the SNC and spinal cord), and kappa (expressed primarily in the spinal cord). The fourth class of opioid receptors called nociceptin was discovered in 1994 but is not considered to be part of the aforementioned tripartite group, which is often referred to as the classical opioid receptors.
+
+Enkephalins have the highest affinity for the delta-opioid receptor, followed by the mu-opioid receptor, and exhibit low affinity for the kappa-opioid receptor.
+
+Opioid receptors are in the family of G-protein coupled receptors recognized by their seven membrane-spanning motifs with approximately 60% sequence homology.

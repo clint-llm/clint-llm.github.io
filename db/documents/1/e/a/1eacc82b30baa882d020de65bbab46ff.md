@@ -1,0 +1,7 @@
+Clear cell sarcoma of soft tissue (CCSST) is an exceedingly rare tumor that originates from neural crest cells and is histologically characterized by clear cells that contain accumulated glycogen. These tumors share histological and immunohistochemical characteristics with malignant melanoma. They commonly arise from tendinous sheaths and aponeuroses, with the majority described in the lower limbs, particularly around the ankles. Tumors arising in the upper extremities are rare. A few primary clear cell sarcoma cases of soft tissue have been described arising from the chest wall and scapular soft tissues. This activity reviews the presentation, evaluation, and management of clear cell sarcoma of soft tissue and stresses the role of an interprofessional team approach to care for affected patients.
+
+**Objectives:**
+- Describe the classic histopathological findings in clear cell sarcoma of soft tissue.
+- Outline risk factors for the development of clear cell sarcoma of soft tissue.
+- Explain the physical exam findings associated with clear cell sarcoma of soft tissue.
+- Describe the importance of improving communication amongst interprofessional team members to enhance care for patients affected by clear cell sarcoma of soft tissue.

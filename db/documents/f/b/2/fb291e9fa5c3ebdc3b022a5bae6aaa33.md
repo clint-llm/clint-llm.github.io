@@ -1,0 +1,3 @@
+Snake envenomation worldwide is primarily related to occupational exposure, such as in farmers and hunters, but is also seen among tourists exploring the outdoors. When snake envenomation occurs in humans, the initial damage is local around the site of the bite and may spread to systemic toxicity depending on the species.
+
+Snakes primarily use their venom production for targeting prey, but it is also a form of self-defense. Some species can selectively release their venom leading to the occurrence of “dry bites,” in which there is the delivery of no venom. When venom gets released with their bite, the overall toxicity is dependent on both the volume of the venom released and the median lethal dose (LD50) of the venom.

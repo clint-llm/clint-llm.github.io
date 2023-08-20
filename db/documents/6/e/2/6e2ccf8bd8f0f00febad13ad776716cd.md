@@ -1,0 +1,1 @@
+Due to the delay in diagnosis that occurs with a small bowel cancer diagnosis, patients often present with complications later in the disease for their initial evaluation. The most common complications noted include upper and lower gastrointestinal bleeding, small bowel obstruction, small bowel perforation, and subsequent peritonitis.

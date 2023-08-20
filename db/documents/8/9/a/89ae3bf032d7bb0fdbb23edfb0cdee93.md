@@ -1,0 +1,1 @@
+The most common complication associated with chondroblastoma is local recurrence after surgery. Patients require long term monitoring post-surgery for any recurrence of the tumor.

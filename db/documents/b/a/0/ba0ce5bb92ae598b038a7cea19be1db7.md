@@ -1,0 +1,3 @@
+There are a vast number of vessels that supply the structures of the pelvic region. At the level of L4, the abdominal aorta bifurcates into the internal and external iliac arteries. The internal iliac artery then divides into its anterior and posterior divisions while still located within the pelvis. In contrast, the external iliac continues towards the lower extremities as the femoral arteries.
+
+The posterior division of the internal iliac artery includes the iliolumbar artery, lateral sacral artery, and superior gluteal artery. Ultimately, the lateral sacral artery gives off spinal branches which supply both the sacrum and the coccyx. Additionally, directly from the aorta, median sacral arteries arise near the L4 bifurcation site.

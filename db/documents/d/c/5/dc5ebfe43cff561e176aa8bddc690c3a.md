@@ -1,0 +1,1 @@
+Lichen simplex chronicus usually improves with treatment, but some cases may become persistent, especially when on the genitals.

@@ -1,0 +1,3 @@
+The semilunar valves develop from the endocardial cushions around the 5th week of embryonic development. The aortic valve begins as a swelling of the endocardial cushions. The valve then undergoes additional remodeling in the presence of ventricular ejection streams.
+
+Endothelial cells and vascular smooth muscle cells will form the aortic root and aortic valve; this results from the embryological collaboration between the splanchnic mesoderm and the neural crest, deriving from the second heart field.

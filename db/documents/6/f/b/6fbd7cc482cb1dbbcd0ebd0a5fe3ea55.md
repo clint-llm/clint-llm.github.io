@@ -1,0 +1,5 @@
+Follow-up after treatment should assess for a decrease in serologic titers, resolution of eosinophilia, and clearance of eggs in the stool. It is reasonable to repeat all positive tests at 3 months post-treatment. Resolution of biliary findings on ultrasound after therapy may also be helpful if the patient presented with biliary obstruction as scar tissue and biliary duct thickening may still be present and can cause prolonged symptoms.
+
+When a patient is diagnosed with fascioliasis, other family or house members should be tested for serum fasciola antigens. Any patient who tests positive, regardless if they are symptomatic or not, should be treated to avoid the risk of future complications.
+
+Infection can be prevented by educating patients to avoid ingestion of raw freshwater plants, especially in endemic areas. Elimination of snail intermediates has been attempted in endemic areas in the past but is not practical. There are no vaccines available for humans and the disease is much too rare in the human population for one to be economically beneficial.

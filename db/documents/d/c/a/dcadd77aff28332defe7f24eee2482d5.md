@@ -1,0 +1,1 @@
+Cardiac action potentials and their associated repolarizations are vital in stimulating and maintaining the heart's regular contractions, which is essential in maintaining perfusion to the vital organs of the body.

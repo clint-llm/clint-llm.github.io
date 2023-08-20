@@ -1,0 +1,7 @@
+Reticular pseudodrusen should be differentiated from drusen. The former are deposits above the RPE that is in the subretinal plane.
+
+Fundus features of dry ARMD should also be differentiated from adult vitelliform macular dystrophy and retinal drug toxicity. Fundus in adult vitelliform dystrophy reveals yellowish subretinal deposits, whereas RPE pigmentary changes due to drugs like hydroxychloroquine, deferoxamine, and cisplatin can mimic the seen in Dry ARMD.
+
+Neovascular AMD should be differentiated from retinal angiomatous proliferation and polypoidal choroidal vasculopathy (PCV). Retinal angiomatous proliferation is also known as type 3 CNVM, where the neovascularization begins within the retina and then progresses towards the RPE and choroid. On FFA, early phases reveal a retinal vessel dipping perpendicularly into the CNVM component, indicating the retinochoroidal anastomosis.
+
+Polypoidal choroidal vasculopathy can be differentiated on fundus examination by the presence of orangish nodules along with subretinal hemorrhage or fluid. OCT shows large choroidal vessels, also known as pachyvessels, in these cases. The choroid is thickened, unlike ARMD, where the choroid is thin. ICGA shows polyps that are diagnostic of PCV.

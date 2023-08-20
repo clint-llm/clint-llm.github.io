@@ -1,0 +1,9 @@
+As with any patient presenting after traumatic injury, systematic evaluation using ATLS protocols must be initiated to optimize patient outcomes and survival.
+
+The clinician should perform a secondary evaluation. The abdominal exam can reveal evidence of peritonitis if an intraabdominal component of injury is present. A rectal exam must be included to evaluate for blood within the GI tract, which may indicate bowel injury. Blood at the urethral meatus should raise suspicion for injury along the genitourinary tract. Close inspection of the bilateral axilla, bilateral groins, and perineum is imperative to avoid missing a concurrent injury.
+
+The examiner should obtain a thorough pulse exam of the affected as well as the non-affected extremities. Ankle-brachial index (ABI) is easily measurable by a skilled practitioner in the trauma bay, and values less than 0.90 warrant further imaging.
+
+A detailed neurologic exam should be performed to evaluate for nerve injury/palsy. Nerve injury can occur from direct involvement/laceration/transection or stretch secondary to high-velocity ballistic injury. Motor and sensory function should be evaluated and documented; if the patient requires emergent operative intervention, documentation of a brief gross pre-operative neurologic exam is ideal if feasible.
+
+Early in the clinical course of the patient, large-bore IV access should be obtained, and fluids administered as indicated. Full trauma lab panels are necessary, including complete blood count, comprehensive metabolic panel, lactic acid, and coagulation profiles. Blood products need to be readily available and administered in the setting of ongoing hemorrhage or evidence of hypovolemia (hypotension, tachycardia, etc.). Securement of the airway with endotracheal intubation can be considered for pain management and anticipated course if surgical intervention appears urgent or emergently indicated.

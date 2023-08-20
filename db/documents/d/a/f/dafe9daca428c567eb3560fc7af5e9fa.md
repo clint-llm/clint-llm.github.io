@@ -1,0 +1,5 @@
+The optic fissure exists as an invagination of the optic stalk, which is a double-layer of neuroectodermal tissue. The fissure contains undifferentiated mesenchymal tissue of mesodermal origin, which forms the hyaloid artery, eventually giving rise to the central artery of the retina. Closure of the fissure during weeks 6 to 7 and the inherent completion of the optic cup heralds the completion of many circumferential structures of the eye.
+
+The periocular mesenchyme cells (POM) derive from the ectodermal and mesodermal leaflets and influence the development process of the optic fissures and morphogenesis of the eye. An alteration of the coding of the genes responsible for creating these cells will lead to dysfunctions (lmx1b, zic2, TFAP2A/tfap2a).
+
+Retinoic acid (RA) contributes to the complete formation of the choroid fissure and by influencing the transcription of the genes mentioned above. Furthermore, an RA deficiency will prevent the correct expression of another specific gene (pitx2), which will cause coloboma.

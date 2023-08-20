@@ -1,0 +1,3 @@
+RPL is a multifactorial condition that may be due to genetic, anatomic, endocrine, antiphospholipid antibody syndrome, immunologic, and environmental factors.
+
+FOXD1 mutations play a central role in RPL. FOXD1 was defined as a major molecule involved in embryo implantation in mice and humans by regulating endometrial and placental genes. FOXD1 mutations in human species have been functionally linked to RPL's origin.

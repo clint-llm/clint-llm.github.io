@@ -1,0 +1,1 @@
+The prevalence of MGS has been reported to be 2.6 per 100,000.

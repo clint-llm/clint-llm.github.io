@@ -1,0 +1,1 @@
+Patients should be educated on living with scleroderma and educated about signs of cardiac involvement such as new-onset chest pain, shortness of breath, palpitations, weight gain, and fatigue. Patients with heart failure should be warned about symptoms and signs of volume overload.

@@ -1,0 +1,5 @@
+The evaluation of pain-related facet arthritis should first be focused on when ruling out conditions such as disc herniation, spinal stenosis, spondylolisthesis, infection, and neoplasm of the spine. The combination of facet arthritis with the above-described conditions is not rare. Thus, the role of conventional radiography, CT, and MRI on facet joint degeneration is not only to detect them but also to rule out other possible comorbidities.
+
+CT scan, when detecting facet arthritis, is the most sensitive technique. MRI, on the other hand, can best detect the surrounding soft tissues such as a disc, spinal cord, neuroforamen, nerve roots, etc. Conventional radiography can help to detect motion-related instability in flexion or extension.
+
+Some invasive techniques are used for evaluation as well. Facet block through intra-articular injection or medial branch block is useful in the diagnosis of painful conditions related to degenerative facet joints.

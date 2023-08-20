@@ -1,0 +1,1 @@
+Patients should be educated that CMV endotheliitis can relapse. It is important to be compliant with treatment and self-monitor for symptoms such as blurry vision, red-eye, or photophobia. Delayed treatment and recurrent episodes can cause progressively worse outcomes. Patients should also be educated on the side effects of the anti-CMV regimen.

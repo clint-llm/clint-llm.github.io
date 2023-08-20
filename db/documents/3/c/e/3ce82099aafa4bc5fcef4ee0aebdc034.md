@@ -1,0 +1,1 @@
+The presence of a cervical rib may also cause neurological manifestations. Incomplete cervical ribs, more often than complete cervical ribs, most commonly affect the inferior trunk of the brachial plexus, consisting of the C8 and T1 nerve roots

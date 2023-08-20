@@ -1,0 +1,3 @@
+The inclusion of arytenoid subluxation/dislocation must be a consideration in the differential diagnosis of prolonged postoperative hoarseness after endotracheal intubation. Although rare, it is a complication that can cause significant distress to patients. It has an excellent prognosis if diagnosed and treated promptly.
+
+Gentle instrumentation of the airway and completely deflating the endotracheal tube cuff before extubation may prevent this injury. The use of a stylet appears to protect against arytenoid dislocation.

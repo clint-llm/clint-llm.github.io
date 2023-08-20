@@ -1,0 +1,1 @@
+The only preventive measure against the occurrence of PS is genetic counseling.

@@ -1,0 +1,3 @@
+Nipah virus is a paramyxovirus belonging to the Henipavirus genus, the Paramyxovirinae subfamily, the Paramyxoviridae family, and the Mononegavirales order. NiV is a negative sense, single-stranded, enveloped RNA virus. The reservoir host of NiV is the Pteropus fruit bat, and NiV has a half-life of 18 hours in the urine of the bats.
+
+NiV transmission happens through three transmission pathways, including the consumption of contaminated foods, contact with infected human or animal body fluids, and droplet or aerosol exposure. The risk factors for acquiring the infection include close proximity with an infected person. Contaminated food can include fruits and date palm sap contaminated by the bat’s bodily fluids.

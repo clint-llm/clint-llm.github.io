@@ -1,0 +1,5 @@
+Prescriptive authority is the ability of healthcare providers to prescribe specific medications, including controlled substances. Physicians of either Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) designations have the highest degree of prescriptive authority. MD and DO clinicians can prescribe medications, including controlled substances. In addition, physicians are able to prescribe Schedule II to V medications with a valid Drug Enforcement Administration (DEA) license. Other healthcare providers also have varying degrees of autonomy to prescribe medications but must undergo physician supervision or delegation. This article will discuss the increasing prescriptive authority of advanced practice providers and the overlapping role of physicians.
+
+The first physician assistants (PAs) class was formed in 1965 and trained using an accelerated, two-year curriculum.
+
+The PA and NP professions have increased in recent years.

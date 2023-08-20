@@ -1,0 +1,47 @@
+# Definition/Introduction
+
+SCUBA (self-contained underwater breathing apparatus) diving was introduced to the world by Jacques-Yves Cousteau. In 1942, he, along with Emile Gagnan, developed the demand valve system that led to modern regulators. However, it was scientific research advanced by the work of Paul Bert and John Scott Haldane, from France and Scotland, respectively, that helped explain the effects of water pressure on the body and also defined safe limits for compressed air diving. Cousteau became famous by following these rules, surviving while many others before him died while diving. Much earlier in 1825, the "first workable, full-time SCUBA" was invented by an Englishman, William James. It incorporates a cylindrical belt around the diver's trunk that serves as an air reservoir at 450 psi. Air delivery to the diver was by turning a valve on and off as needed.
+
+Today, there are two principal types of SCUBA: open and closed circuits. Open-circuit vents all expired gas into the water and is the mode used predominately in recreational diving. Closed-circuit systems, in which exhaled gas is rebreathed after carbon dioxide is absorbed and oxygen added, were widely used before open circuits became available, particularly by military divers who wished to avoid showing any air bubbles. Herein, we will cover medical concerns of compressed gas diving, including the risks and benefits of air,  enhanced oxygen (nitrox), and trimix diving, and the physics and physiology of SCUBA.
+
+# Issues of Concern
+
+**Open versus Closed Circuit Diving**
+
+**Open**
+
+Open circuit diving can include compressed air, nitrox, and/or trimix. As exhaust gas leaves the circuit, the diver is essentially safe so long as they have sufficient gas to breathe. The ultimate response to virtually any problem in open circuit diving is to exhale and ascend to the surface. As a result, open circuit diving accidents usually result from a heart attack, arterial gas embolism (from rapid ascent or severe decompression sickness (see DCS), running out of gas, or environmental factors, for example, a diver bring lost or trapped.
+
+**Closed**
+
+Closed-circuit diving requires significantly more training and falls under the rubric of technical diving. Most sports diving systems are semi-closed circuits, but the military relies on completely closed circuits. As little or no bubbles are released, it allows underwater stealth, allowing the diver to come into proximity of marine life or enemy vessels without detection. Semi-closed circuit sports diving typically uses nitrox (enhanced oxygenated air) that adds the gas when computer-controlled oxygen sensors detect low partial pressures. Exhaled air is scrubbed of carbon dioxide by a variety of filter substances depending on the system, barium hydroxide and sodium peroxide as examples.
+
+In closed circuit diving, in addition to open circuit causes of diving accidents, you also have oxygen seizures, hypoxia, and equipment-induced decompression sickness (DCS). When diving a rebreather, too much carbon dioxide and failure of the rebreather can lead to injury or death. Oxygen toxicity from too much oxygen at depth or hypoxia from too little oxygen at depth may be due to a sensor malfunction, diver's physiology, or error in gas selection. Also, these divers often operate at extreme depths. A safe ascent requires safety stops to off-gas excess nitrogen to avoid DCS, so an immediate ascent to the surface is not possible.
+
+Regardless of circuit type, diving with compressed gas results in the formation of nitrogen bubbles in the bloodstream. The body's ability to clear the excess nitrogen is dependent on many factors and determines whether the diver is injured as they off the gas.
+
+**Types of Compressed Gas Used in SCUBA**
+
+**Air**
+
+Air is the most common and safest gas used in sports diving. Above one hundred feet of depth, there are virtually no risks. Oxygen toxicity does not occur until a diver is below 218 feet. However, at depths below one hundred feet, excess nitrogen can result in nitrogen narcosis and vulnerability to decompression sickness (DCS). Nitrogen narcosis is an anesthetic effect due to high nitrogen partial pressure in the blood, and it causes impaired vision, drunkenness, and disorientation. By 200 feet, nitrogen narcosis is so severe that the majority of divers are disabled. It clears rapidly on the ascent to shallower depths, and divers can somewhat increase their tolerance to nitrogen narcosis by repeated exposure.
+
+**Nitrox**
+
+Nitrox or enhanced air oxygen (EAN) is a mixed gas in which the percentage of oxygen exceeds 21% (normally present in air). Most commonly, nitrox is mixed to 32% or 36% oxygen, thus lowering the nitrogen content. By reducing the amount of nitrogen, nitrox reduces the risk of nitrogen narcosis and decompression sickness at depths of 110 feet or less. It is easier to breathe at depth, and it also prolongs the diver's time at shallower depths by reducing nitrogen loading. However, at greater depths, particularly deeper than 100 feet, the risk of oxygen toxicity is significant. Briefly, oxygen toxicity occurs when excess partial pressures of oxygen enter the tissues. It burns the central nervous system, lungs, and eyes by oxidative damage to cell membranes leading to the alveolar collapse in the lungs, retinal detachment, and seizures. Initial symptoms are a cough from tracheal irritation and myopia.**Trimix**
+
+Trimix is a mixed gas composed of helium, oxygen, and nitrogen. The combination is altered based on depth requirements. A standard mix is 30% helium, 20% oxygen, and 50% nitrogen, also known as trimix 20/30. It reduces both nitrogen narcosis and oxygen toxicity on deep dives (200 feet or more). The helium reduces breathing resistance, which is important for the high volumes of gas required at greater depths. Helium also enters and leaves the tissue quickly, which reduces decompression periods in saturation diving. It also reduces hyperbaric arthralgia on descent. However, helium conducts body heat six times faster than air, increasing the risk of hypothermia. Also, since helium rapidly absorbs, it requires deeper decompression stops than other mixed gases on the ascent. While at shallower depths, hypoxia can occur on trimix, so different types of compressed gas are also necessary. Its most significant disadvantage, however, is cost both in training, mixing, and accidents.**SCUBA Physics and Physiology**
+
+It is necessary to understand the concept of partial pressure to understand the physiological ramifications of breathing various gas mixtures under pressure. The partial pressure of a particular gas constituent in a gas mixture represents the portion of the total pressure of the gas mixture exerted by the specific constituent. If you add up all the partial pressures of all the different components of a gas mixture, their total would be equal to the total pressure of the mixture.
+
+To maintain oxygenation at depth, higher volumes of air are necessary as a result of Boyle's law. Boyle's law states that the absolute pressure exerted by a given mass of an ideal gas is inversely proportional to the volume it occupies if the temperature and amount of gas remain unchanged within a closed system. For every 33 feet (10 meters) of depth in seawater, the ambient pressure increases by an additional 14.7 psi (1 atm). At a depth of 99 feet (30 meters), the ambient pressure is 4 atm, 1 atm caused by the Earth's atmosphere, plus 3 atm for every 33 feet (10 meters) of depth. Therefore, a diver must inhale four times the air at 100 feet than at the surface to deliver the same amount of oxygen to the tissues.
+
+Henry's law states that "the amount of any given gas that will dissolve in a liquid at a given temperature is a function of the partial pressure of that gas in contact with the liquid." What this means for divers is that gas molecules will dissolve into the blood in proportion to the partial pressure of that gas in the lungs. As warm-blooded creatures, our core body temperature remains relatively constant; this leaves a specific range in which the partial pressure of oxygen is safe and necessary for consciousness, as described in the image below.
+
+Similarly, excess dissolved nitrogen in the blood can lead to bubble formation, nitrogen narcosis, and on a rapid ascent, decompression sickness. The overall volume of compressed gas expands on ascent whether the gas is in the lungs, the blood, or the middle ear and sinuses as described in Boyle's Law.
+
+If one holds their breath on the ascent, this results in barotrauma from hyperinflation of the lungs and can result in gas embolism as gas is forced into the pulmonary vasculature. In the sinuses or middle ear, barotrauma occurs when the gas is not allowed to equalize to the external pressure, the overpressure can produce a 'squeeze' or epistaxis to compensate. In the blood, the dissolved gas saturates out and forms bubbles. These gas bubbles can embolize, causing myocardial infarctions or cerebral vascular accidents when there is a right to left shunt in the heart, for instance, patent foramen ovale or an atrial septal defect.
+
+# Clinical Significance
+
+Scuba diving has provided the freedom and opportunity for humankind to explore the underwater world. Understanding the basic physiology and application is essential to clinical practice as there are inherent risks associated that require clinician familiarity with the physiology of the sport.

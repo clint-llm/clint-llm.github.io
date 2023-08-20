@@ -1,0 +1,5 @@
+The evaluation includes obtaining a history of previous autonomic dysreflexia episodes with the triggering event if known, monitoring vital signs, and watching for any developing signs and symptoms. The baseline blood pressure should be known and documented for future reference. Many patients with spinal cord injuries will have hypotension. Orthostatic hypotension is found in over 50% of patients with autonomic dysreflexia.
+
+Start by identifying patients at risk (spinal cord injury at or above the T6 level) and recognize the key initial symptom, which is usually a severe headache from cerebral vasodilation. Should this be encountered, the next step would be to check the blood pressure. If elevated above the patient's usual baseline, then the patient is at high risk for an episode of autonomic dysreflexia. A systolic blood pressure >150 mmHg or >40 mmHg above baseline levels should be considered indicative of autonomic dysreflexia.
+
+The likelihood of autonomic dysreflexia is independently predicted by the level of the spinal cord lesion, whether it is complete or incomplete, and the presence of neurogenic detrusor overactivity.

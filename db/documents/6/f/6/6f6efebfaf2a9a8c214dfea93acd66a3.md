@@ -1,0 +1,1 @@
+Complications of vasculitis are dependent on the type of vessel involved. Large vessel involvement with vasculitides like GCA, Takayasu, or Kawasaki can lead to complications like acute myocardial infarction and stroke, including ischemia of cranial arteries like the ophthalmic artery,

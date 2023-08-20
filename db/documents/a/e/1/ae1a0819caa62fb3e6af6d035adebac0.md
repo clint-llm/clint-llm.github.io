@@ -1,0 +1,7 @@
+The patient will often present with significant pain. In adults, there will also be considerable embarrassment in even discussing the problem. Examiners should be aware of this and deal with the issue professionally. Most zipper cases will typically only involve partial involvement of the prepuce. However, in some cases, there may be a full-thickness involvement of the foreskin with considerable tissue damage.
+
+Penile ring entrapment injuries are also fairly obvious on physical examination, although there may be so much tissue edema that the ring may not be immediately visible. It is also possible that the ring is not just around the penis, but it is also around the base of the scrotum, which makes removal more complicated.
+
+In most cases, patients and caregivers will already have attempted manual extraction. Such attempts usually cause additional tissue damage. They also delay the patient's presentation to the Emergency Department. This typically results in additional pain, swelling, bruising, and tissue damage.
+
+A grading system for penile ring entrapment injuries has been proposed by Dawood et al.  Grade 1 includes cases of distal edema with only superficial penile tissue damage. Grade 2 encompasses deep tissue damage involving the urethra and/or corpora. Finally, Grade 3 involves fistula formation, significant tissue loss, necrosis, or gangrene.

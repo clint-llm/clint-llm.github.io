@@ -1,0 +1,1 @@
+The clinical evaluation of patients with hepatic cystadenomas is exceptionally variable and often nonspecific. Many patients are asymptomatic. They only become aware of this lesion incidentally. Of those that do experience symptoms, the typical presentation includes abdominal pain, distension, nausea, and vomiting.

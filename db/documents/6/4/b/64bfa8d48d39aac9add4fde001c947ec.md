@@ -1,0 +1,1 @@
+For patients receiving varicella-zoster immune globulin, observation for 28 days after exposure for any signs and symptoms of the varicella infection is the recommended approach. The administration of immune globulin might increase the incubation period of the disease by ≥ one week. If a patient develops signs and symptoms of varicella, antiviral therapy should start immediately.

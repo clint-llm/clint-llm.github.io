@@ -1,0 +1,1 @@
+Patients should be educated on the importance of early diagnosis and adhering to the treatment. They should undergo regular endocrine evaluations and check their blood pressure and their blood sugar regularly.

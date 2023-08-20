@@ -1,0 +1,1 @@
+The prevalence of McCune-Albright syndrome is estimated to be between 1 in 100,000 to 1 in 1,000,000.

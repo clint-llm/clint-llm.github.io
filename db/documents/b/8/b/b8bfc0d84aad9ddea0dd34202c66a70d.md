@@ -1,0 +1,1 @@
+The worst complication of T-wave abnormalities is a misdiagnosis of a serious T-wave pathology or delay in treatment intervention. Other possible complications include cardiomyopathy, myocardial ischemia or infarction, arrhythmia, tamponade, heart failure, and even death.

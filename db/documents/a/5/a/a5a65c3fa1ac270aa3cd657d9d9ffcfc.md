@@ -1,0 +1,1 @@
+As noted above, possible complications of empty sella include the development of partial or complete hypopituitarism or hormone hyperfunctioning. Additionally, there is an association of worse outcomes for patients undergoing pituitary surgery with known primary empty sella (e.g., Cushing disease) as well as radiographic disruption of the pituitary stalk.

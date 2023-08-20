@@ -1,0 +1,1 @@
+The most appropriate test to order in a patient with an Austin Flint murmur is a transthoracic Doppler echocardiogram.

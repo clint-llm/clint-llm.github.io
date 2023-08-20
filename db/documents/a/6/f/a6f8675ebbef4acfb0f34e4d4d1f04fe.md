@@ -1,0 +1,1 @@
+The neural tube formation during gestational development is a complicated morphogenic process that requires various cell signaling and regulation by a variety of genes.  It starts during the 3rd and 4th week of gestation. This process is called primary neurulation, and it begins with an open neural plate, then ends with the neural plate bending in specific, distinct steps.

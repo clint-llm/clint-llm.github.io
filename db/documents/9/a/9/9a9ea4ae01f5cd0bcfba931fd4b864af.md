@@ -1,0 +1,1 @@
+The incidence of Hurler syndrome is approximately 1 in 100,000 births.

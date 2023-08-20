@@ -1,0 +1,3 @@
+A cleft hand has been described as "a functional triumph and a social disaster," referring to the high degree of functionality of most hands with this deformity despite its atypical and malformed appearance.
+
+In one study, researchers followed 23 patients with a cleft hand after having undergone surgical intervention to correct their deformities. Twenty-two of the 23 were satisfied with the aesthetics of the hand after surgical intervention, and 21 of the 23 reported being "satisfied" or "very satisfied" with their functional outcome. The most common complaint after surgery is digital stiffness.

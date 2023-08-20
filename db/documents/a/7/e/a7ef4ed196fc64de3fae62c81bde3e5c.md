@@ -1,0 +1,1 @@
+It is thought that 10% of patients visiting otolaryngology clinics have symptoms attributable to laryngopharyngeal reflux, and LPR causes or contributes to hoarseness in up to 55% of patients with dysphonia.

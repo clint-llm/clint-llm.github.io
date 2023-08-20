@@ -1,0 +1,1 @@
+There are multiple allergens responsible for crustacean allergies. Domoic acid is a strong neurotoxin produced by many diatoms of the genus Pseudo-nitzschia. It acts as a glutamate agonist. The consumption of contaminated shellfish can lead to human exposure.

@@ -1,0 +1,1 @@
+The most common histologic findings for Wernicke-Korsakoff syndrome include gliosis and microhemorrhages in the following areas: periaqueductal and paraventricular grey matter, atrophy in the mamillary bodies and thalamus, volume deficits in the hippocampus, cerebellar hemispheres, pons, and anterior superior vermis.

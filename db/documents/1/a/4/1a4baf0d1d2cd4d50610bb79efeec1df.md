@@ -1,0 +1,1 @@
+Prognosis in streptococcal meningitis is always serious. In a Danish study of pneumococcal meningitis, the overall case-fatality rate was 21%, with a 10-fold higher mortality rate in adults than in children.

@@ -1,0 +1,3 @@
+The cause of epiglottitis is most commonly infectious, whether bacterial, viral, or fungal in origin. In children, Haemophilus influenzae type B (HIB) is still the most common cause. However, this has decreased dramatically since the widespread availability of immunizations. Other agents such as Streptococcus pyogenes, S. pneumoniae, and S. aureus have been implicated. In immunocompromised patients, Pseudomonas aeruginosa and Candida have been named. Noninfectious causes can be traumatic such as thermal, caustic, or foreign body ingestion.
+
+While viruses do not cause epiglottitis, a prior viral infection may allow bacterial superinfection to develop. Viruses that may allow a superinfection include varicella-zoster, herpes simplex, and Epstein Barr virus.

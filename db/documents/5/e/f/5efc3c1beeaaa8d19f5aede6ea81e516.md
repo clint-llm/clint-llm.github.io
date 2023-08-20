@@ -1,0 +1,6 @@
+Documentation of Mycoplasma infections exists worldwide. Overall, there is no evidence to suggest a difference in susceptibilities in sexes regardless of subspecies.  Mycoplasma pneumoniae is associated with up to 15-20% of cases of community-acquired pneumonia.M. pneumoniae, primarily occur in children ages 5 to 14 years old and young adults. Infants younger than 6 months are rarely infected; likely the result of residual maternal immunity. Carriers may not develop obvious symptoms, so the true prevalence of mycoplasmal infection is likely higher than reported.
+
+Active M.
+pneumoniae infection is most distinguishable for its gradual onset of symptoms and incubation period ranging from 2 to 3 weeks. In the United States, the increased frequency of M. pneumoniae diagnoses in the summer to early fall months is likely because there is a lower incidence of other respiratory infections during these months. Epidemics often occur in 3 to 5-year intervals.
+
+Ureaplasma species, Mycoplasma genitalium, and Mycoplasma hominis may be isolated from up to 80% of sexually active females, but these organisms do not universally correlate with active infection. Mycoplasma genitalium may cause up to 20% of the cases of nongonococcal urethritis, cervicitis, and post-pregnancy PID noted.

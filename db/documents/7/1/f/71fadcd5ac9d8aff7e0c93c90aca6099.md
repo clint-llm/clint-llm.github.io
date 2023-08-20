@@ -1,0 +1,3 @@
+Infectious tenosynovitis treatment can vary based on the offending agent when known; however, when empiric treatment is necessary, broad-spectrum antibiotics such as vancomycin at 15 to 20 mg/kg/dose every 8 to 12 hours with a third-generation cephalosporin at 1 to 2 g IV every 24 hours are considered and may improve outcomes.
+
+Noninfectious causes of tenosynovitis vary in their treatment based on etiology; however, many are treated conservatively with non-steroidal anti-inflammatory drugs such as naproxen.

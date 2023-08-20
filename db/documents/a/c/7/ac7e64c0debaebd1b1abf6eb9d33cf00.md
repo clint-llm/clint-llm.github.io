@@ -1,0 +1,1 @@
+Iron overload is defined as excess stores of iron in the body. Excess iron is deposited in organs throughout the body. The most notable organs with iron deposition are the liver, heart, and endocrine glands. The resulting symptoms and disease are related to specific organ damage.

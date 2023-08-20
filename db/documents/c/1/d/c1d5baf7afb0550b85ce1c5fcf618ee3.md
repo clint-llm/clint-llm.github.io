@@ -1,0 +1,1 @@
+Contraindications to cannabinoids are few but include hypersensitivity to specific medications, cannabinoids generally, constituent components of specific formulations (e.g., sesame seed oil in capsules or other inactive ingredients), and recent administration of products containing disulfiram or metronidazole within two weeks.

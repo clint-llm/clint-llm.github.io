@@ -1,0 +1,1 @@
+Achalasia is not a common disorder in medicine. Most clinicians will not encounter a patient with this esophageal smooth muscle motility disorder, which occurs because the lower esophageal sphincter fails to relax

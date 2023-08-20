@@ -1,0 +1,5 @@
+The coronary venous system encompasses significant clinical value for a wide range of cardiac interventional procedures, including cardiac catheterization, retrograde cardioplegia, reperfusion of cardiac veins, drug delivery, stem cell therapy, and lead placement among many.
+
+For clinical treatment and procedures, the most salient anatomical feature of the cardiac veins is the coronary sinus and its venous tributaries. When patients undergo open-heart surgeries or have obstructions in their coronary arteries, the myocardium must continue to receive nourishment. To prevent ischemia of the operated heart, implementing reperfusion of the coronary sinus and its venous tributaries allows an effective reverse flow of nourishment.
+
+Due to its optimal location and high visibility, the coronary sinus is also a popular vein for retrograde cardioplegia, temporary cessation of the heart’s activity, and is targeted for left ventricular lead placement.

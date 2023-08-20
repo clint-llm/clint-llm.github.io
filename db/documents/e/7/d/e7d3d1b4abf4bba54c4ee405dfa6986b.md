@@ -1,0 +1,3 @@
+Inadvertent bowel injury can occur in up to 10 percent of patients undergoing adhesiolysis.
+
+As with any other post-operative patient, post-adhesiolysis patients are prone to common post-operative complications such as deep vein thrombosis, atelectasis, surgical site infections, and urinary tract infections. It is essential to monitor all these possible complications and manage these patients with appropriate prophylactic measures such as incentive spirometry, DVT prophylaxis, and removal of foley catheters when appropriate.

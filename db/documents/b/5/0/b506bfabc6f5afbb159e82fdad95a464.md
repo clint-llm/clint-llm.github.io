@@ -1,0 +1,9 @@
+The optimal diagnostic test is neuroimaging with either contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI). CT venogram (CTV) and contrast-enhanced MR venogram (MRV) are highly sensitive, whereas non-contrast CT and time-of-flight MRV may miss the diagnosis. Non-contrast CT of the head, although not ideal for a cavernous sinus thrombosis diagnosis, may reveal several subtle abnormalities such as engorgement or dilation of the superior and/or inferior ophthalmic veins, bulging of the lateral margins of the cavernous sinus, exophthalmos, and possibly the presence of sphenoid or ethmoid sinusitis, or mass lesions near the sphenoid or pituitary gland. Contrast-enhanced MRI brain shows bulging of the cavernous sinus, increased dural enhancement, and absent flow void is seen.
+
+CTV and enhanced-MRV can detect dilation of the cavernous sinus, enhancement, and convexity of the lateral wall (which is normally concave) on coronal views, heterogeneous and asymmetric filling defects after contrast, increased density of orbital fat, thrombosis in the superior ophthalmic vein or veins and tributaries leading to the cavernous sinus. Additionally, carotid artery narrowing, carotid arterial wall enhancement, cerebral infarcts, intraparenchymal hemorrhages, empyema, meningitis, cerebritis or abscess may be noted.
+
+Blood studies may reveal elevations in the white blood cell count (WBC), C-reactive protein (CRP), erythrocyte sedimentation rate (ESR,) and D-dimer. Blood cultures should be obtained routinely and are frequently positive.
+
+Lumbar puncture is important to exclude meningitis and may show elevated opening pressure and pleocytosis even in culture-negative samples.
+
+Screening for thrombophilia may give false results during anticoagulation therapy and should be delayed until after treatment is completed.

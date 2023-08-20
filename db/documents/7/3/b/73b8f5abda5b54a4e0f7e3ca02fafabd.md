@@ -1,0 +1,1 @@
+Previous studies have demonstrated that in the growth of the central nervous system in vertebrates, axons from the interstitial nucleus of Cajal along with the mesencephalic trigeminal nucleus contribute to the formation of the trajectories of the medial longitudinal fasciculus and the lateral longitudinal fasciculus.

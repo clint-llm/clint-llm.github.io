@@ -1,0 +1,1 @@
+Infarcts in the spinal arteries often lead to an irreversible motor/sensory loss; however, new treatments have found that improving oxygen exposure/blood flow over extended periods to damaged areas may improve previous injuries that were at one time thought to be irreversible.

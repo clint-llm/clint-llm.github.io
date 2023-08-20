@@ -1,0 +1,3 @@
+The internal anal sphincter and the anal canal above the pectinate line receive visceral innervation from sympathetic and parasympathetic fibers. The sympathetic fibers are from the inferior pelvic plexus, and the parasympathetic fibers are from the inferior pelvic plexus and pelvis splanchnic nerves.
+
+Below the pectinate line, the anal canal has somatic innervation from the inferior rectal nerve. The inferior rectal nerve is one of the branches of the pudendal nerve. The inferior rectal nerve innervates the external anal sphincter and is responsible for sensation to the anal canal that ranges up to 15 mm above the pectinate line; this includes the sensations of pain, touch, and temperature.

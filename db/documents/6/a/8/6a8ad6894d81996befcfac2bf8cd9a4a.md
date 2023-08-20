@@ -1,0 +1,1 @@
+An ectopic neuroendocrine gastrin-secreting tumor that stimulates the acid-secreting cells of the stomach causes Zollinger-Ellison syndrome. Gastrin results in gastrointestinal mucosal ulceration.

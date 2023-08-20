@@ -1,0 +1,1 @@
+Overall, Tarlov cysts are rare. The most recent published meta-analysis suggests a global prevalence rate of 4.27%; in the United States, it is 3.82% of the population. Tarlov cysts are more common in those of the female sex (female 7.01% vs. male 4.05%). The same study also showed that 15.59% of the cysts are symptomatic.

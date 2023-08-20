@@ -1,0 +1,1 @@
+Bromocriptine is contraindicated as a treatment in patients with type I diabetes mellitus, syncope, and psychosis. Patients with syncopal migraines should also avoid bromocriptine due to its ability to spark hypotensive episodes, and breastfeeding patients should avoid bromocriptine due to its inhibitory effect on lactation.

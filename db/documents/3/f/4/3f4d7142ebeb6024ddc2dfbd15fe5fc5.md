@@ -1,0 +1,1 @@
+The incidence of cloacal anomalies is estimated to be 1 per 50000 live births, although many cloacal malformations may be misdiagnosed as a rectovaginal fistula.

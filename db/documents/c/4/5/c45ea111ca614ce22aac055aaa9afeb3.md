@@ -1,0 +1,61 @@
+# Continuing Education Activity
+
+Beta-lactamase inhibitors are drugs that are co-administered with beta-lactam antimicrobials to prevent antimicrobial resistance by inhibiting serine beta-lactamases, which are enzymes that inactivate the beta-lactam ring, which is a common chemical structure to all beta-lactam antimicrobials. This activity outlines the different types of beta-lactamase inhibitors. It discusses the pharmacological properties of beta-lactamase inhibitors, their medical uses, methods of administration, side effects, and other properties. It also highlights the critical role that providers play in terms of correctly administering beta-lactamase inhibitors in combination with beta-lactam antimicrobials and counseling patients regarding medication adherence.
+
+**Objectives:**
+- Describe the different forms of beta-lactamase inhibitors, their pharmacological properties, and their medical indications.
+
+- Review the potential adverse effects of beta-lactamase inhibitors. 
+- Summarize the methods of monitoring and administration of beta-lactamase inhibitor therapy. 
+- Explain the importance of medication adherence and routine monitoring of patients taking beta-lactamase inhibitor therapy, as well as the importance of collaboration amongst the interprofessional team to enhance the delivery of care.
+
+# Indications
+
+Beta-lactam antimicrobials are used to treat a variety of bacterial infections and are among the most prescribed drugs in the US.
+
+The most common bacteria treated by beta-lactamase inhibitors are the Enterobacteriaceae (Citrobacter, Escherichia coli, Klebsiella pneumoniae, Morganella, Proteus vulgaris, Salmonella, Shigella), Haemophilus influenzae, Mycobacterium tuberculosis, Neisseria gonorrhoeae, and Pseudomonas aeruginosa.Staphylococcus aureus also contains the beta-lactamase enzyme. However, beta-lactamase inhibitors are less commonly used for the treatment of staph due to the presence of an alternate antimicrobial resistance mechanism, namely the presence of a penicillin-binding protein, which is ubiquitous among gram-positive bacteria.Enterobacteriaceae and Pseudomonas aeruginosa are notable ESBL-producing bacteria. Research has demonstrated that beta-lactamase inhibitors can effectively treat ESBL-producing organisms, thereby improving our ability to fight these virulent bacteria.
+
+Avibactam is used in combination with ceftazidime (a cephalosporin) to treat urinary tract infections, intra-abdominal infections, pyelonephritis, and hospital-acquired pneumonia caused by gram-negative bacteria, including ESBL-producing bacteria.****Relebactam is used in combination with imipenem and cilastatin. It is used to treat pyelonephritis, urinary tract infections, and intra-abdominal infections.****Sulbactam is used in combination with ampicillin and is used to treat skin, intrabdominal, and gynecologic infections.****Vaborbactam is used in combination with meropenem to treat urinary tract infections and pyelonephritis.Mycobacterium tuberculosis that inhibits its beta-lactamase enzyme and is the only orally available beta-lactamase inhibitor.
+
+# Mechanism of Action
+
+Beta-lactamase inhibitors work by one of two primary mechanisms. They may become substrates that bind the beta-lactamase enzyme with high affinity but form sterically unfavorable interactions, such as the acyl-enzyme. They may also become “suicide inhibitors,” which permanently inactivate the enzyme through secondary chemical reactions in the active site. Avibactam and relebactam work by the former mechanism, while sulbactam, tazobactam, and clavulanic acid work by the latter mechanism.****Beta-lactamase inhibitors are generally renally excreted and do not undergo significant hepatic or GI first-pass metabolism. Their metabolism and pharmacokinetic properties are influenced by their co-administration with beta-lactam antimicrobials as well as by the length of infusion, as most are delivered intravenously.
+
+Avibactam has a half-life of approximately 2 hours, and administration is in combination with ceftazidime in a 1:4 combination. It is cleared renally with dose adjustment for patients with renal disease. The ceftazidime MIC is 8 mg/L at 4 mg/L avibactam concentrations. A dosing regimen of 2/0.5g ceftazidime/avibactam is used every 8 hours with a 2 hour infusion period for patients with normal kidney function.
+
+Clavulanic acid has a half-life of approximately 47 minutes with and without amoxicillin, with 37% unchanged excretion in the urine alone and 57% with amoxicillin after the first 6 hours of administration. Current dosage formulations of amoxicillin/clavulanic acid use a 4 to 1 concentration ratio.
+
+The pharmacokinetics of relebactam have been studied both alone and in combination with imipenem/cilastatin. Clearance is significantly affected by renal function as assessed by creatinine clearance. Metabolism of relebactam is not significantly affected by body weight or health status. A MIC of less than or equal to 4 micrograms/milliliter is achievable for patient groups by modifying the dosing regimens, with an optimal dose of 250 mg.
+
+Sulbactam has a half-life of one hour and a volume of distribution of 12 liters. Seventy-five percent of the dose is excreted unchanged in the urine. The pharmacokinetics of sulbactam are not significantly impacted by the co-administration of sulbactam with beta-lactam antimicrobials.
+
+The pharmacological properties of tazobactam have been studied both alone and in combination with piperacillin. The mean concentrations of tazobactam in plasma at 4 hrs are 1.2 micrograms per milliliter with piperacillin and 0.6 micrograms per milliliter alone. The clearance of tazobactam alone is 203.5 ml/min, while that with piperacillin is 134.2 ml/min. There appears to be no significant difference in the volume of distribution, elimination half-life, the volume of distribution, or AUC from 0 to infinity hours between tazobactam alone and tazobactam with piperacillin. The total renal clearance is 73 micrograms/milliliter, the half-life is 1 hr, and the AUC from 0 to infinity is 237 micrograms*hours/ml. The maximum concentrations of tazobactam is 6.4 micrograms/ml alone and 11.3 micrograms/ml with piperacillin. Tazobactam is excreted renally, both alone and with piperacillin. The mean 24-hour urinary excretion of tazobactam is 63.7% alone and 56.8% with piperacillin.
+
+Vaborbactam concentration has been shown to increase in a dose-dependent manner, suggesting first-order kinetics, and does not accumulate with multiple doses. The terminal half-life of vaborbactam is 2.25 hours. Both the volume of distribution and the plasma clearance is independent of dose. With a 2000 mg dose, the plasma clearance is 7.95 liters/hour, the AUC from 0 h to infinity is 835 mg*h/liter, and the Vss is 18.6 liters. Vaborbactam undergoes renal excretion, and urinary recovery was 80% or greater over 48 h across all dose groups.
+
+Tebipenem shows a dose-proportional plasma concentration, with a maximum concentration reached within 1.5 hours. Between 55 and 60% of the drug is recovered in the urine. The half-life ranges from 0.8 to 1.1 hours. Renal clearance is not affected by food.
+
+# Administration
+
+The administration of many beta-lactamase inhibitor medications is via intravenous infusion over several hours. Each drug has different dosage scheduling options, allowing care providers to tailor a patient’s medication regime according to his or her unique needs. Given the potential for nephrotoxicity, dosage adjustment is a recommendation for patients with renal disease. Ceftazidime-avibactam administration is intravenous.
+
+# Adverse Effects
+
+Adverse reactions associated with beta-lactamase inhibitors include gastrointestinal side effects, such as diarrhea, nausea, and constipation; nervous system effects such as headaches, insomnia, and seizures; hematological effects such as impaired platelet function; allergic reactions including anaphylaxis; pain at the injection site; and dermatologic side effects including Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug-induced eosinophilia and systemic symptoms. Gastrointestinal side effects can be less severe if the patient takes the medication with food and/or water. Beta-lactamase inhibitor use is also associated with Candida
+albicans and Clostridioides (Clostridium) difficile infections.****It is important for clinicians to monitor patients for adverse effects routinely and discontinue therapy immediately if severe side effects occur.
+
+# Contraindications
+
+The use of beta-lactamase inhibitors is contraindicated in patients with a known anaphylactic reaction to penicillins, due to the potential for cross-reactivity with other beta-lactam antimicrobials and beta-lactamase inhibitors. Patients should be allergy tested to determine the presence of allergy as well as the type of allergic reaction prior to administration of beta-lactamase inhibitor therapy.****Beta-lactamase inhibitor therapy is also contraindicated in patients who have had previous adverse reactions to beta-lactamase inhibitors, such as neurotoxicity, hepatotoxicity, or renal toxicity. Beta-lactamase inhibitors are not contraindicated in pregnancy, although some teratogenic effects have occurred, and dose adjustments may be necessary for pregnant patients.
+
+# Monitoring
+
+Beta-lactamase inhibitory therapy has shown correlations with kidney, liver, gastrointestinal, hematologic, and nervous system adverse effects.****Although most antimicrobial therapy is short term, and bloodwork to assess kidney and/or liver function is generally not required for healthy individuals, several at-risk patient populations require additional monitoring. Given that beta-lactamase inhibitors undergo renal elimination, patients with chronic kidney disease must undergo routine screening and dose adjustment to prevent renal toxicity and acute kidney injury.Clostridioides (Clostridium) difficile infection due to the death of protective gut microflora. Beta-lactam antimicrobial/beta-lactamase inhibitor combination therapies are no exception to this rule. Therefore, patients with pre-existing gastrointestinal issues, such as inflammatory bowel disease, as well as patients who are immunocompromised, such as those with HIV/AIDS, should receive additional monitoring for these gastrointestinal side effects.
+
+# Toxicity
+
+Many causes of organ toxicity due to beta-lactamase inhibitor therapy are directly related to the toxic effects of the beta-lactam antimicrobial with which they are co-administered. Allergic reactions can lead to bronchoconstriction, urticaria, intravascular hemolysis, and immune-mediated hemolytic anemia. Neurotoxicity, nephrotoxicity, genotoxicity, and urogenital organ toxicity have also been noted.****Though beta-lactamase inhibitor therapy is generally considered to be safe, the wide array of toxic effects associated with the use of these drugs underscores the importance of routine monitoring of patients taking beta-lactam antimicrobial/beta-lactamase inhibitor combinations. The treatment for toxicity associated with beta-lactamase inhibitor therapy is the cessation of drug use.
+
+# Enhancing Healthcare Team Outcomes
+
+Beta-lactamase inhibitors are medications that are used ubiquitously in modern medicine due to their ability to combat bacterial antimicrobial resistance mechanisms. Antimicrobial resistance poses an enormous global public health challenge.****Therefore, careful monitoring and prescribing of patients taking Beta-lactamase inhibitors in combination with beta-lactam antimicrobials are of paramount importance. Interprofessional health teams of doctors, nurses, pharmacists, and other healthcare professionals must work together to determine the necessity of treatment, as well as to counsel patients regarding the proper administration of this class of medications. Patients must complete their entire course of medication and must not share this medication with others. By working together, members of an interprofessional healthcare team can strive to prevent adverse outcomes for the patient and antimicrobial resistance in the community.

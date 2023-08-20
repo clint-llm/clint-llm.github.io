@@ -1,0 +1,1 @@
+Patient education centers around preventing reinjury and proper steps to return to play for athletes. These include using proper form when training, hamstring stretching along with quadriceps strengthening, proper footwear for activity level and intensity, maintaining healthy body weight, and cautious return to competitive training and activity.

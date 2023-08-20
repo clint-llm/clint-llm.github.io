@@ -1,0 +1,1 @@
+Cervical spine fractures may occur in all age groups but are more common in males. Falls account for the most common cause followed by motor vehicle accidents, biking, and diving. Mortality ranges from 5-10%.

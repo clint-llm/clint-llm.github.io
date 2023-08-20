@@ -1,0 +1,1 @@
+Coronary anomalies of the left anterior descending artery (LAD) are very rare, with a frequency of less than 1% in the general population.

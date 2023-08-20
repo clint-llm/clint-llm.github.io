@@ -1,0 +1,1 @@
+A broad differential diagnosis, both infectious and noninfectious, should be considered for encephalitis. These alternatives include malignancy, autoimmune or paraneoplastic diseases (e.g., anti-NMDA receptor encephalitis), brain abscess, tuberculosis or drug-induced delirium, neurosyphilis, or bacterial, fungal, protozoal, or helminthic encephalitis.

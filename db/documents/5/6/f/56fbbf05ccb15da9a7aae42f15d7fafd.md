@@ -1,0 +1,3 @@
+The varicella-zoster virus (VZV) is a highly contagious virus of the herpes family. Chickenpox (or primary VZV infection) is a common childhood disease. With universal childhood varicella vaccination, which was introduced in 1995, most adults in the United States (US) and Europe are immune.
+
+The seronegative patients are at risk of acquiring VZV during pregnancy which is associated with a higher mortality rate due to developing varicella pneumonitis. Possible fetal effects of varicella may also occur and include fetal demise or manifestations of either congenital varicella syndrome (embryopathy) or neonatal varicella (development of chickenpox or disseminated disease) the first 10 days of life), which are associated with significant morbidity and mortality.

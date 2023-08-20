@@ -1,0 +1,1 @@
+The consideration of alternative diagnoses to OSA is imperative not only for the correct diagnosis of OSA but because patients with OSA may have concomitant alternative sleep-related diagnoses that also must be considered.

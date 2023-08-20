@@ -1,0 +1,1 @@
+Y. enterocolitica is mainly a disease of the GI tract. It results from direct contact and ingestion of contaminated material, water, and food. This highlights the importance of handling food and maintaining a hygienic environment to avoid contracting the bacteria.

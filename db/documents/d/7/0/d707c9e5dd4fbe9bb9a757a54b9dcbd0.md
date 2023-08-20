@@ -1,0 +1,5 @@
+Tocolysis is effective because it focuses on both delaying and weakening uterine contractions. The pharmacology targets the activity of the myometrium. The myometrium is the smooth muscle in the uterus.
+
+From a physiologic perspective, the myometrium is responsible for the contractional effort of childbirth. Like all smooth muscle, this process is calcium-mediated. The start of a contraction does not require any nerve input nor hormonal stimulus. It begins with a spontaneous depolarization of the cell surface, which opens voltage-gated calcium channels.
+
+Though the average gestation age for women to go into the labor is 40 weeks, some conditions will result in labor starting earlier. It´s believed that this switch to a contractional uterus is caused by an equilibrium change of proinflammatory and anti-inflammatory cytokines.

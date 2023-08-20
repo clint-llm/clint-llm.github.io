@@ -1,0 +1,1 @@
+Despite a low case fatality ratio (CFR), Chikungunya fever is highlighted by a substantial post-chikungunya chronic polyarthralgia, defined as joint pains lasting longer than 6 weeks.

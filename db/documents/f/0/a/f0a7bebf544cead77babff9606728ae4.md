@@ -1,0 +1,3 @@
+Amide LAs are metabolized by the cytochrome P450 (CYP) hepatic enzymes involving carboxylation, hydrolysis, and dealkylation. The immaturity of this hepatic enzyme system in patients less than 6 months old increases the half-life, blood concentration, and potential toxicity of amide LAs.
+
+Ester LAs are metabolized by plasma pseudocholinesterase (PSE) and other nonspecific esterases and include tetracaine and 2-chloroprocaine. Caution should be taken to elicit a history of pseudocholinesterase deficiency in the family or child’s history, as this would create the potential for ester LA accumulation and toxicity. The normal plasma half-life for 2-chloroprocaine in a child with normal PSE concentrations is approximately 60 seconds.

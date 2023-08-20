@@ -1,0 +1,5 @@
+Complications surrounding tetramine toxicity are neurological in nature. Pediatric studies have documented prolonged EEG changes after treatment.
+
+Seizures are a common complication after the acute toxicity phase. A follow-up study of 370 previously healthy poisoning survivors noted that 55% had seizures at follow-up. Of those who were seizure-free at the follow-up, most had been placed on antiepileptic medication initially and were seizure-free off the drug by an average of 2.3 years. Of the remaining 195 patients with seizures, most experienced tonic-clonic seizures, while the minority (39) had partial seizures.
+
+It should be noted that a small number of patients with minor toxicity experience long-term complications of seizures without having seizures at the initial presentation. At follow-up in the previous observational study, all of these patients continued to have seizures.

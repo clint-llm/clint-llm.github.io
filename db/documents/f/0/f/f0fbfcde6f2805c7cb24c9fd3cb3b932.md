@@ -1,0 +1,3 @@
+There are no effective treatment strategies that alter the natural history of nonketotic hyperglycinemia.
+
+After establishing the diagnosis of nonketotic hyperglycinemia, the patient will require routine developmental assessments, frequent orthopedic evaluation for scoliosis and hip dislocation, especially as they age, and routine ophthalmologic evaluation to determine the presence of cortical blindness.

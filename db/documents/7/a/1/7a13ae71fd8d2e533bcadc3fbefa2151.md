@@ -1,0 +1,1 @@
+Out of the disorders that cause thyroiditis, Riedel thyroiditis is extremely rare compared to Hashimoto thyroiditis or subacute granulomatous thyroiditis.  The estimated incidence is suggested to be 1.06 cases per 100,000 people.

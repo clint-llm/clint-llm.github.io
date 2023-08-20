@@ -1,0 +1,1 @@
+An ischemic priapism time of greater than 72 hours is a contraindication as injection and aspiration preserve erectile function, and patients with an erection of greater than 72 hours will not achieve erections organically.

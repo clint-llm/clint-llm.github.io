@@ -1,0 +1,3 @@
+Simethicone is not absorbed systemically, so serum simethicone levels would not be feasible. An abdominal x-ray or computed tomography can assist in monitoring outcomes. However, imaging is very rarely needed. Simethicone has no significant drug interactions. There is a case report of changed absorption of levothyroxine in a child when taking simethicone. However, the overall concern is minimal.
+
+Another case report indicated that carbamazepine toxicity could result when administering carbamazepine with simethicone.

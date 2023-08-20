@@ -1,0 +1,23 @@
+When platelets circulate through vessels with intact endothelium, the platelets remain in their inactivated state. This inactivated state is supported by the release of prostacyclin (PGI2) from the intact endothelium as well as the absence of various activating factors. When a platelet encounters a break in the endothelium, however, it encounters molecules such as collagen, ADP, thrombin, and TxA2 that trigger its activation.
+
+**Platelet Activation**
+
+The predominant activators of platelets are diffusible stimuli such as ADP, TxA2, and thrombin. They all work by initiating the aggregation of platelets into a growing thrombus through the action of various G protein-mediated signaling pathways. These pathways converge to induce platelet-shape change, degranulation, and integrin Glycoprotein (GP) IIb/IIIa mediated aggregation. Each stimulus uses a distinct mechanism, but ultimately all of the mechanisms are involved in full platelet activation. TxA2 activates mainly Gq and G12/G13 via the TP. Gq family members of heterotrimeric G protein activate beta isoforms of phospholipase C (PLC) that hydrolyzes phosphatidylinositol phosphate (PIP) to diacylglycerol (DAG) and inositol trisphosphate (IP3), leading to protein kinase C (PKC) activation as well as intracellular Ca(2+) accumulation, respectively.  G12/13 signaling of GPCRs has recently been shown to involve activation of RhoGTPase nucleotide exchange factors (RhoGEFs).
+
+Because all mediators can, in turn, multiply the formation and release of thrombin, TxA2, and ADP, their effects are amplified, and ultimately, all major G protein-mediated signaling pathways are activated. This grouped activation inherently makes specific pathways challenging to isolate. However, research has proven that an increase in the free cytosolic [Ca] and activation of PKC are necessary for platelet activation, and this is precisely what occurs when TxA2 activates the Gq pathway.
+
+**Platelet-Shape Change**
+
+A change in shape is the initial response of platelets to activators such as TxA2. It is an extremely rapid process caused by a reorganization of the cytoskeleton. The mediation of platelet-shape change is mostly by myosin light chain (MLC) phosphorylation. MLC phosphorylation can be controlled through a Ca2+/calmodulin-dependent regulation of MLC kinase, controlled by the activation of Gq and through a Rho/Rho-kinase-mediated regulation of myosin phosphatase, controlled by the activation of G12/G13.
+
+**Platelet Degranulation**
+
+A variety of mediators can induce platelet degranulation. TxA2 induces platelet degranulation via the Gq/PLC-beta pathway. Secretion from platelets is an important mechanism that amplifies platelet activation and results in the release of mediators that act on the vessel wall as well as on other blood cells. It occurs in two waves, the first consists of the release of dense core granules and alpha-granules which is followed by the release of lysosomes. Dense granules contain small molecules such as nucleotides (ADP, ATP) or serotonin, whereas alpha granules contain various proteins including growth factors, chemokines, adhesive molecules such as Von Willebrand Factor (vWF), and coagulation factors. The central role of the Gq/PLC-beta pathway in agonist-induced platelet granule secretion is supported by the finding that various platelet activators failed to induce secretion in platelets lacking Galpha-q and by the fact that secretion in response to TxA2 is reduced in PLC-beta–deficient platelets.
+
+**Platelet Aggregation**
+
+While the exact signaling mechanisms that link receptors of platelet activators to the cytoplasmic domains of GP IIb/IIIa are incompletely understood, there is good evidence that activation of PLC-beta through Gq, which results in the formation of IP3 and DAG, plays a role in mediating GP IIb/IIIa activation. IP3-mediated increases in cytosolic-free Ca as well as activated PKC appears to be necessary for activation of the integrin GP IIb/IIIa. This intracellular signaling pathway results in a conformational change of GP IIb/IIIa to an active form and is referred to as “inside-out” signaling. It results in fibrinogen/vWF-mediated platelet aggregation.
+
+**Contraction**
+
+Since finding TxA2 to be a rabbit aorta-contracting substance, TxA2 has a potent contractile activity towards vascular smooth muscle cells. In addition to vascular smooth muscle, TxA2 causes contraction of bronchial smooth muscle, intestinal smooth, uterus, and urinary bladder muscles.

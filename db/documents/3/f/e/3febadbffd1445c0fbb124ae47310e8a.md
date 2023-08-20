@@ -1,0 +1,7 @@
+Offer frequent follow-ups after initiating treatment to assess for therapeutic and adverse effects. Encourage patients to stay consistent with their medication schedule and whether they take it with food. As mentioned before, a therapeutic effect typically takes 2 to 4 weeks for therapeutic effect. Often, many of the adverse effects will also lessen over time. However, healthcare providers should closely monitor signs and symptoms of anaphylaxis, akathisia, and serotonin syndrome.
+
+Buspirone is a substrate of CYP3A4; clinicians should check for interactions that can alter its plasma concentration; this includes grapefruit juice, which can increase its concentration. Alcohol use can worsen any CNS sedation, and its use requires strict monitoring as well.
+
+Assess anxiety levels using the GAD-7 (general anxiety disorder-7) tool at baseline and follow-up visits to assess response to therapy. Similarly, clinicians can use the Hamilton anxiety scale(HAM-A)to objectify and rate a patient's anxiety severity.
+
+ISMP (Insitute for safe medical practice) notes that buspirone may be easily confused with bupropion, and this dispensing error can be prevented using tall man lettering. Consequently, healthcare providers should monitor each visit for accurate dispensing.

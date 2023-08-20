@@ -1,0 +1,1 @@
+The gastrointestinal peristalsis is increased hormonally by cholecystokinin, gastrin, serotonin, insulin, and motilin. The gastrointestinal motility is decreased hormonally by glucagon and secretin. The current thinking is that secretin decreases the motility of the digestive tract by reducing the level of plasma motilin.

@@ -1,0 +1,1 @@
+The primary methods of determining glutamate and glutamatergic receptor quantity and distribution in the body are tissue culture & fMRI. These techniques orient more toward research rather than clinical use. Logistically, the ubiquitous nature of glutamate in the body makes it difficult to test quantitatively.

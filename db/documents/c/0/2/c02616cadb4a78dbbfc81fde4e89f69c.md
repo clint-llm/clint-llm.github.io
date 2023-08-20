@@ -1,0 +1,3 @@
+Interprofessional oncology teams incorporate a wide range of clinical specialists, including those in surgery, medical oncology, radiation oncology, genetics, pathology, specialist cancer nurses, and oncology pharmacists, to discuss the needs of patients with a confirmed cancer diagnosis. Globally, many healthcare systems address these needs at weekly interprofessional meetings.
+
+Retrospective studies have shown improved breast cancer survival rates when treated by an interprofessional team.

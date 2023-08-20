@@ -1,0 +1,1 @@
+As discussed above, complicated, large or non-responding chalazia should be evaluated by an ophthalmologist.

@@ -1,0 +1,1 @@
+Treatment for most patients is with a rehabilitative course consisting of range-of-motion and stretching exercises of the knee joint and medial collateral ligament. Therapists must tailor their therapy plan to avoid contracture caused by calcification of the medial collateral ligament.

@@ -1,0 +1,1 @@
+When typical mechanisms of homeostasis are unable to regulate tonicity, cell damage can occur secondary to prolonged hypertonicity and from fast onset hypertonicity. Clinically, hyperglycemic and hypernatremic states are the main etiologies for disease-causing hypertonicity. Cell shrinking secondary to hypertonicity can cause severe clinical manifestations and even death.

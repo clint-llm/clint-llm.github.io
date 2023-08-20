@@ -1,0 +1,3 @@
+The diagnosis of NF1 is made based on characteristic clinical features like cafe au lait spots and neurofibromas. Molecular genetic testing is rarely indicated in diagnosing NF1. Exploring the genotype-phenotype correlation in NF1 is still inconclusive due to the extensive mutational heterogeneity of the gene.
+
+LNs have been reported in patients with segmental neurofibromatosis, which is due to a somatic mutation of the neurofibromin gene.

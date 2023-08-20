@@ -1,0 +1,1 @@
+Nephrogenesis develops in three consecutive phases: the pronephros, mesonephros, and metanephros. By the end of the fourth week of gestation, the mesonephros derives from the intermediate mesoderm and is composed of excretory tubules received by collecting ducts, termed mesonephric or Wolffian ducts.

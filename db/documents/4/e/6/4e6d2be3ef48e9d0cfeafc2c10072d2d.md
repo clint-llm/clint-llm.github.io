@@ -1,0 +1,3 @@
+In the pre-HAART era, when the incidence of HIV-associated dementia was considerably high, brain autopsies showed meningitis with low counts of lymphocytes and perivascular lymphocytic cuffing.
+
+HIV enters the brain via HIV-infected lymphocytes and macrophages. In addition to the passage of cell-free virus into the brain and release of the virus from the infected endothelial cells. The virus replicates in these cells and infects the microglia, astrocytes, oligodendrocytes, and neurons. HIV infection in the CNS can be detected and monitored by cerebrospinal fluid (CSF) viral load measurements. Another pathological feature in HIV-associated encephalitis is the presence of multinucleated giant cells, which was very prominent before the advent of antiretroviral drugs.

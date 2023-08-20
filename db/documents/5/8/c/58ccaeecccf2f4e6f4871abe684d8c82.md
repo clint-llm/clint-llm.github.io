@@ -1,0 +1,3 @@
+The monitoring of complete blood counts in patients is an essential part of the management of cyclophosphamide toxicity. As cyclophosphamide can cause myelosuppression, it should not be used in patients with lab values of neutrophils of 1500/mm^3 or less and platelets less than 50000/mm^3. CBC values should be monitored in addition to the administration of G-CSF to reduce the effects of neutropenia and infection risk.
+
+Patients experiencing severe symptoms of cyclophosphamide toxicity may be taken off the medication or have their dose reduced by their physician.

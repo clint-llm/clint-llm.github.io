@@ -1,0 +1,1 @@
+The bone issues resulting from OFC are usually resolved after parathyroidectomy. Proper management of hyperparathyroidism results in decreased osteoclastic activity, and new bone deposition.

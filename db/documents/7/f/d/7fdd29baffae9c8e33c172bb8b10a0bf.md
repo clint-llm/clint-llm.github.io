@@ -1,0 +1,1 @@
+PCFCL is a low-grade lymphoma of follicle center B-cells, with no systemic or nodal involvement at diagnosis.

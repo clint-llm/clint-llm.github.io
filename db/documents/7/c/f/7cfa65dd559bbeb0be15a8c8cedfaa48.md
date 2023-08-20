@@ -1,0 +1,5 @@
+Ophthalmomyiasis is primarily seen in people working closely with animals, like people involved in animal husbandry and farmers.
+
+At times accidental encounters with gravid female flies result in the darting of larvae into the conjunctival sac.Oestrus ovis and Dermatobia hominis have been reported from India, Afghanistan, Iran, America, France, South Africa, and the Middle East.Rhinoestrus purpureus and Rhinoestrus usbekistanicus are similar to Oestrus ovis and are responsible for external ophthalmomyiasis in Russia and Siberia.
+
+Most of the cases of ophthalmomyiasis are seen in the tropical and subtropical regions and are largely responsible for external ophthalmomyiasis. However, ophthalmomyiasis have also been reported from the Nearctic areas (northern Canada). The Hypoderma tarandi and Cephenemyia trompe are the flies responsible for ophthalmomyiasis interna and are primarily seen in Nearctic circumpolar regions. Other predisposing factors for ophthalmomyiasis are open surgical wounds, old age, debilitating conditions, and poor general health.

@@ -1,0 +1,1 @@
+The paramedian forehead flap provides a well-vascularized option for covering distal nasal and intranasal surgical defects that are too extensive or deep to be repaired with local flaps or skin grafts. It is highly useful alone or in combination with other techniques to repair select defects.

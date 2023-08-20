@@ -1,0 +1,1 @@
+Malignancy is a cause of unprovoked thromboembolic disease. In a recently published retrospective study of 245 patients with venous thromboembolism, 4.1% had an occult malignancy.

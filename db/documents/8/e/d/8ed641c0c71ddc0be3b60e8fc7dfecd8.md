@@ -1,0 +1,1 @@
+Generally, PCD is well tolerated with early diagnosis followed by prompt and aggressive management with L-carnitine. The clinical manifestations and severity of symptoms can be variable between patients with PCD. Undiagnosed or poorly controlled PCD may lead to severe complications. Hypoglycemic episodes can result in convulsions and brain damage.

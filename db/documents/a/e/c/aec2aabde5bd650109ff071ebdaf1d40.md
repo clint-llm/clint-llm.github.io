@@ -1,0 +1,1 @@
+The mainstay treatment for vitamin E toxicity is stopping the exogenous vitamin supplementation. This is effective since vitamin E toxicity does not occur unless there is an exogenous supplementation.

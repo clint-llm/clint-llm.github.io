@@ -1,0 +1,1 @@
+Considering the area of damage that creates pathologic posturing, the midbrain contains the cerebral peduncles, the ventral tegmentum, and the dorsal tectum, and cerebral aqueduct. The midbrain forms from interaction with the sonic hedgehog signaling pathway, WNT, En, and Pax genes.

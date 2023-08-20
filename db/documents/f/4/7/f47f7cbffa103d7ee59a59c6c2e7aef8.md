@@ -1,0 +1,1 @@
+It should be noted that a watery eye is not always only a discomforting symptom as it can be the manifestation of pathologies that can cause permanent ocular damage or complicate intra-ocular surgeries if left untreated.

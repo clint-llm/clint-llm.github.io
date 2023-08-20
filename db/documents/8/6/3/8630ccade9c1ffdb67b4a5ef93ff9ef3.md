@@ -1,0 +1,7 @@
+Constipation is a common diagnosis that requires proper evaluation and appropriate treatment. The approach to a patient with chronic constipation includes patient education, behavior modification, dietary changes, and laxative therapy. It is important to note that laxative therapy is not the only treatment for constipation. Initial management of constipation should include lifestyle changes such as increasing fluids and fiber-rich foods such as asparagus, broccoli, Brussels sprouts, cabbage, and spinach. When constipation is not controlled by lifestyle modification, treatment with laxatives should be a consideration. This activity describes the mode of action of various laxatives, including mechanisms of action, pharmacology, adverse event profiles, eligible patient populations, and monitoring, and highlights the interprofessional team's role in managing conditions where laxative therapy is helpful.
+
+**Objectives:**
+- Describe the mechanism of action of various classes of laxatives.
+- Review the indications for laxative therapy.
+- Summarize the potential adverse event profile for various classes of laxatives.
+- Outline interprofessional team strategies for improving care coordination and communication to properly use laxatives to improve patient outcomes.

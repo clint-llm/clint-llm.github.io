@@ -1,0 +1,1 @@
+Fracture of the tibial shaft often occurs secondary to falls, indoor activities, motor vehicle accidents, sports, and other outdoor activities. The cause of injury from motor vehicle accidents and sports more common in males.

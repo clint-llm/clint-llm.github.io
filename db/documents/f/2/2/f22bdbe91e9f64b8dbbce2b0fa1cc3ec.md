@@ -1,0 +1,1 @@
+When monitoring patients that are taking drugs that experience the first-pass effect, it is critical to monitor the blood concentrations of these drugs to ensure that the patients' serum drug concentrations remain within their therapeutic windows. Doing so will maximize the efficacy of treatment and patient safety.

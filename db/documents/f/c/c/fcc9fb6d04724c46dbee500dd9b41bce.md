@@ -1,0 +1,1 @@
+MIRM is believed to be caused by the cloning of B cells with subsequent cutaneous immune complex deposition and formation of compliment. Importantly, this is a different process than EM and SJS/TEN, which are mediated by delayed hypersensitivity reaction and Fas ligand-mediated toxicity,

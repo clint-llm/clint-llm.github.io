@@ -1,0 +1,7 @@
+Tailor the history and physical exam to the pathology requiring repair, and assess for key anatomic landmarks to make the local injection most effective. For example, inject 5 mm proximal to the wrist crease on the median aspect best targets the median nerve in WALANT carpal tunnel release (see 'Techniques' section).
+
+Amides and esters are the two main groups of local anesthetics. WALANT typically utilizes the amides Lidocaine and Bupivacaine. These amides block voltage-gated sodium channels leading to decreased pain sensation and metabolize through the liver.
+
+Epinephrine is used in combination with the amide to provide hemostasis. It accomplishes this by activating alpha-adrenergic receptors causing vasoconstriction of blood vessels. This vasoconstriction also delays lidocaine's absorption, thereby prolonging analgesia and improving lidocaine's safety profile.
+
+A unique advantage of WALANT is that it decreases the risk of adhesion formation due to earlier active participation by the patient, which begins intraoperatively. Collagen formation begins on postoperative day three. Thus it should be a priority to begin supervised exercises after most hand procedures to prevent stiffness and adhesions. Prolonged immobilization causes tendons and soft tissue to adhere to the fracture callous and tendon sheaths, resulting in permanently stiff joints.

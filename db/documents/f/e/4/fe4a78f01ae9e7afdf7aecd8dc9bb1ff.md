@@ -1,0 +1,3 @@
+Waddell’s triad represents an emergency for pediatric patients due to the high incidence of injuries associated with a femur fracture.
+
+In this injury, the pedestrian absorbs all the energy of the collision. The severity of the injuries depends on factors such as the speed of the vehicle, the weight of the pedestrian, and the frontal structure of the vehicle. There is also the potential of severe hemorrhaging in the abdomen, and these patients should consequently have blood crossed and typed in case an emergent transfusion is necessary. Also, when Waddell’s triad is present, monitoring patients closely for hypotension and other signs of shock is of utmost importance.

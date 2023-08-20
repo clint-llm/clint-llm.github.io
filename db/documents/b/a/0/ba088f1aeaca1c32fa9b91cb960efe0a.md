@@ -1,0 +1,1 @@
+Myoglobin is a dark red cytoplasmic hemoprotein found only in cardiac myocytes and oxidative skeletal muscle fibers.

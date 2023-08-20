@@ -1,0 +1,15 @@
+The first category in the Chicago Classification is incomplete LES relaxation, which includes achalasia and EGJ outflow obstruction. Achalasia is defined as the absence of esophageal peristalsis with incomplete LES relaxation. In the Chicago Classification, the diagnosis of achalasia is based on an elevated median IRP in combination with failed peristalsis or spasm.
+
+If patients have an IRP greater than the upper limit of normal (ULN) along with failed peristalsis or a spasm, then they are considered to have achalasia. Achalasia is then further divided into three distinct subclasses based on the pattern of contractility in the esophageal body. In type I (classic achalasia), no pressure waves are recorded in the distal esophagus as there is 100% failed peristalsis. Failed peristalsis is defined by DCI less than 100 mmHg cm/s for type I achalasia.
+
+The second category of the Chicago Classification is major disorders in peristalsis, which include distal esophageal spasm, hypercontractile or jackhammer esophagus, and absent peristalsis. Distal esophageal spasm (DES) is diagnosed on HRM in patients with normal IRP, normal DCI, but distal latency less than 4.5 seconds. Distal latency is measured from the UES swallow induced relaxation to the contractile deceleration point (CDP). Normal distal latency is greater than 4.5 seconds, with anything shorter than 4.5 seconds is considered esophageal spasm. The CDP is the point on which peristaltic wave velocity slows, demarcating peristalsis from ampullary emptying.
+
+Hypercontractile or jackhammer esophagus is defined as having a distal contractile integral (DCI) of more than 8000 mmHg cm/s.
+
+Absent contractility is when there is a complete failure of peristalsis with normal IRP. These patients typically have a DCI of less than 100 mmHg cm/s.
+
+The third category of the Chicago Classification is minor disorders of peristalsis, which include ineffective esophageal motility or fragmented peristalsis. Ineffective esophageal motility is diagnosed when >50% of swallows are ineffective, as defined by failed (DCI of less than 100mmHg cm/s) or weak (DCI 100 mmHg cm/s to 450 mmHg cm/s) peristalsis.
+
+Minor disorders of peristalsis are conditions with impaired esophageal bolus transit. The clinical validity of these manometric diagnoses has come under question. Often, patients diagnosed with minor disorders of peristalsis report minimal symptoms and have good long-term outcomes.
+
+The fourth category of the Chicago Classification is normal esophageal manometry. These patients have normal IRP (greater than 15 mmHg), normal distal latency (more than 4.5 seconds), and DCI between 450 mmHg cm/s to 8000 mmHg cm/s. Normal esophageal manometry is typically diagnosed in the preoperative workup for gastroesophageal reflux surgery. Of note, patients only need >50% effective swallows to be considered normal.

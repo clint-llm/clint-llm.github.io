@@ -1,0 +1,1 @@
+Equipment needed for performing radial keratotomy are: topical anesthetic eye drops, gentian ink for corneal marking, optical zone marker, corneal incision marker, ultrasonic pachymeter, gem-quality diamond blade knife with 45-degree cutting angle, antibiotic and steroid eye drops.

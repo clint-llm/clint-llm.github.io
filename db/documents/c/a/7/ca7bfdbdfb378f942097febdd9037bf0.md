@@ -1,0 +1,1 @@
+Cerebral amyloid angiopathy (CAA) is a type of cerebrovascular disorder characterized by the accumulation of amyloid within the leptomeninges and small/medium-sized cerebral blood vessels.

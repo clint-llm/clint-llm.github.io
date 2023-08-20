@@ -1,0 +1,1 @@
+Although there is no clear data available, recent reports showed that genetic mutations and familial etiology contribute up to 25% to 50% of pheochromocytomas.

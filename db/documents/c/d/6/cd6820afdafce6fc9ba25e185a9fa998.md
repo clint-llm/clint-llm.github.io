@@ -1,0 +1,1 @@
+The frequency of respiratory acidosis in the United States and worldwide varies based on the etiology. End-stage COPD patients are more prone to develop this acid-base disorder. It has also been noted that surgical patients are at a greater risk of developing respiratory acidosis.

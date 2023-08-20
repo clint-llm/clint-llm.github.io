@@ -1,0 +1,1 @@
+A pitfall of POCUS simulation is that it may reproduce procedural training.

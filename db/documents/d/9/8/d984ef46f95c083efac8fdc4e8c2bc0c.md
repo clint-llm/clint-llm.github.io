@@ -1,0 +1,7 @@
+The history and physical for a patient presenting with the chief complaint of phantosmia should start with a full otolaryngologic history and physical exam. Patients with phantosmia will often complain of spontaneously smelling a "burnt" smell when there is no obvious environmental stimulus such as actual burning. Burnt smell is the most commonly reported smell associated with phantosmia, but other smells have been reported, such as feces, rotten, musty, gas, sweet, metallic, or fruity.
+
+The history should include but is not limited to characterizing the onset and frequency of symptoms, identifying any stimulus involved with the smells, inquiring about how the patient describes the smell, and identifying any exacerbating or relieving factors.
+
+Also, the practitioner should inquire about the following: history of trauma to the head, psychiatric history, systemic conditions, history of chemoradiation, history of head and neck cancer, medications, history of alcohol use, history of tobacco use, history of illicit drug use, environmental exposures, working conditions, allergies, previous surgeries, family history, recent upper respiratory tract infections, history of migraines, and history of seizures.
+
+Asking the patient if they have a history of sinusitis, sinus polyps, sinus surgery, or previous head imaging may also help guide your management.

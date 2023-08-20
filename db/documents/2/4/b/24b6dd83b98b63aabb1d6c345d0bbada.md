@@ -1,0 +1,1 @@
+Chronic bronchitis can be defined as a chronic productive cough lasting more than 3 months and occurring within a span of 2 years. There is a strong causal association with smoking, and it is very often secondary to chronic obstructive pulmonary disease (COPD).

@@ -1,0 +1,1 @@
+Simethicone is not absorbed systemically, so it is safe in pregnancy and breastfeeding.

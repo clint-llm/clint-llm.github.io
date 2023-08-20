@@ -1,0 +1,1 @@
+The prognosis is good if the infection has not spread beyond the temporal bone and, if antibiotic intervention occurs early on.

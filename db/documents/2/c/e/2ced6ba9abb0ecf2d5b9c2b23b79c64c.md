@@ -1,0 +1,1 @@
+In a case study in Karnataka, India, researchers observed that in a 65-year-old male cadaver, the left femoral nerve had split in the abdomen when coming off the L2-L4 nerve roots. It then rejoined to form the femoral nerve just proximal to the inguinal canal.

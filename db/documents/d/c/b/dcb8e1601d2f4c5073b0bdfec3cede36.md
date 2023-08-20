@@ -1,0 +1,3 @@
+The patients should be treated with the utmost respect and empathy to make them as comfortable as possible.
+
+Opioid administration should only be when their benefits outweigh their risks as it carries a considerable risk of dependence. Nurses should ensure they understand all directions regarding the drug, dosage, and side effects to provide the optimum amount of medication. The ordering provider should clarify any doubts regarding the drug. Pharmacists should track all prescriptions accurately and report any suspicion of drug misuse.

@@ -1,0 +1,7 @@
+Suppression is usually a manifest secondary adaptation used by the visual system to overcome diplopia in children. Suppression is usually detected using first or second-degree fusion tests such as the Maddox rod and Worth four-dot test. This test accesses the presence or absence of suppression via the temporary disruption of fusion. Clinically, this is achieved by presenting dissimilar images or objects of contrasting characteristics to each eye. Uncorrected refractive error in children may therefore be a risk for suppression as unequal amounts of ametropia may result in dissimilar images reaching the retina.
+
+Individuals with significant differences in refractive error between both eyes may also suffer unequal retinal images due to the magnification (or minification) properties of spectacles. The amount of anisometropia that may trigger a breakdown of binocular vision is still up for debate.
+
+Aniseikonia can be corrected by dispensing iseikonic lenses. However, these spectacles tend to be very expensive and are not easily available. Contact lenses have also shown promise in mitigating the occurrence of aniseikonia.
+
+Strabismus is easily identified by an inward (eso) or outward (exo) turning of one or both eyes. Refractive amblyopia, a term used to describe vision loss secondary to uncorrected refractive error, is most commonly associated with anisometropia.

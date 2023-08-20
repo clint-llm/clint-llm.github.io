@@ -1,0 +1,1 @@
+Although difficult to definitively establish, anembryonic pregnancy possibly represents half of all miscarriages in the first trimester of pregnancy.

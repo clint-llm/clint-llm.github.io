@@ -1,0 +1,1 @@
+The primary neural structures in the supraclavicular fossa are separated into superficial and deep nerves by the fascial carpet of the neck. Superficial to this fascial carpet lies the vagus nerve (cranial nerve X) within the carotid sheath. Deep to the fascial carpet within this region lie the phrenic nerve (C3-C5), which is responsible for innervating the diaphragm.

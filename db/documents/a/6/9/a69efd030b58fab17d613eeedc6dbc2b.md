@@ -1,0 +1,1 @@
+Foot ulcer differential diagnoses include malignancies like squamous cell carcinoma (SCC), basal cell carcinoma (BCC), melanoma, Kaposi sarcoma, lymphoproliferative malignancies, and primary skin disorders like sarcoidosis, necrobiosis lipoidica, bullous diseases, and pyoderma gangrenosum.

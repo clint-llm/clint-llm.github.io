@@ -1,0 +1,1 @@
+The most common variants are related to the anterosuperior aspect of the shoulder joint, as well as variable development and shape of the bones within the shoulder girdle.

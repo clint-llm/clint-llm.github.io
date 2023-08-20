@@ -1,0 +1,3 @@
+Age, overuse, smoking, and corticosteroid use contribute to tendon degeneration and, later, tendinopathy. Furthermore, there is a vascular watershed zone at the distal biceps tendon, and lack of sufficient blood supply also plays a crucial role in potentiating tendon rupture.
+
+The proximal tendon rupture in most cases occurs at the tendon-labral junction or the bony attachment. Distal tendon ruptures usually occur at the insertion on the radial tuberosity.

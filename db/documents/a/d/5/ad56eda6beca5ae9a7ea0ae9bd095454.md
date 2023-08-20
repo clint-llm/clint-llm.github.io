@@ -1,0 +1,11 @@
+The PLL comprises superficial and deep connective tissue layers, which can generally be distinguished by their morphology and fiber arrangement. The superficial layer is the more posterior, with its distinction from the dura mater often being difficult to determine.
+
+Nevertheless, there is considerable morphological variation even within the lumbar region, where both the central fibers and the ‘‘fanlike’’ portion appear to decrease in width between L1 and L5.****The deep layer, which is adherent to the superficial layer in the midline, is of a more uniform diameter throughout its length, being 2 to 3 mm wide at its narrowest point.
+
+In the cervical region, the PLL is a wide bandlike structure of similar width over both the intervertebral disc and vertebral body, however more inferiorly, it becomes increasingly denticulate, with its widest part being over the IVD. The separate fibers of the superficial and deep layers were difficult to identify at the level of the IVD, but their attachment to the margins of the vertebral bodies and intervening annulus fibrosus was clear.
+
+The fibers of each layer appeared to merge, forming a common attachment. Both superficial and deep layers are attached to a midline bony septum on the posterior surface of the vertebral body between the superior and inferior margins. This attachment was not always continuous because of deficiencies in the septum in the central third of the vertebral body. The orientation of fibers within the PLL was consistent at all levels, with those in the central portion of the superficial layer being more vertical than those of the ‘‘fanlike’’ portion. Although the deep layer was visible through the superficial layer, its fiber orientation could not be established.
+
+The posterior longitudinal ligament has a more protective than a supportive role. The observed pattern of migrations of foreign materials like masses and bony fragments following a vertebral fracture into the vertebral canal confirms that PLL acts to protect the spinal cord and from displaced disc material.
+
+Fibers of the superficial layer will limit forward flexion, while the oblique fibers of the deep layer will limit lateral flexion and rotation. However, research has suggested that fibers from both layers are involved in all movements, with an increasing number of fibers recruited with increasing load.

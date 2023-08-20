@@ -1,0 +1,7 @@
+A pelvic fracture involves damage to the hip bones, sacrum, or coccyx - the bony structures forming the pelvic ring. Due to the inherent structural and mechanical integrity of this ring, the pelvis is a highly stable structure. Therefore, fractures of the pelvis occur most commonly in the setting of a high-impact trauma and are often associated with additional fractures or injuries elsewhere in the body. This activity describes how to suspect and diagnose pelvic fractures, how to evaluate them and how to manage them appropriately; it further highlights the role of the interprofessional team in caring for patients with this condition.
+
+**Objectives:**
+- Summarize the general anatomy of the pelvic ring.
+- Review the diagnostic approach for the evaluation and assessment of a patient presenting with a potential pelvic fracture, including any indicated imaging studies.
+- Describe the treatment and management strategies available for pelvic fractures, based on the specific fracture type and severity.
+- Explain the importance of interprofessional team strategies for improving care coordination and communication to aid in prompt diagnosis of pelvic fracture and improving outcomes in patients diagnosed with the condition.

@@ -1,0 +1,1 @@
+The necessary equipment is a table (as well as all previous clinical data).

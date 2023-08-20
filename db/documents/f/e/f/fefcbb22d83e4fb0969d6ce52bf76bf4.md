@@ -1,0 +1,15 @@
+Early diagnosis is most important to manage ocular symptoms and maximize visual potential, which has further ramifications on general safety and wellbeing, education, self-esteem, and cognitive development. Family and providers are not always alerted by hypopigmentation of skin, hair, and eyelashes, except in the context of family members who are constitutionally darker pigmented and the contrast is more striking. Iris hypopigmentation may be overlooked initially as it is not uncommon in infants for iridic melanin deposits to take six to nine months to reach adult coloration. Ocular manifestations usually grip the attention of caregivers or physicians within the first 3 to 6 months of life. Pediatricians often suspect OCA at the 2 or 4-month well-baby check. While patchy congenital hypopigmentation may lead clinicians to investigate piebaldism or Waardenburg syndrome, generalized hypopigmentation with nystagmus and normal hearing is sufficient to pursue an evaluation for albinism, be it OCA or one of the syndromic forms.
+
+Special attention needs to be given to associated symptoms (recurrent infections in CHD, bleeding in HPS, and mental retardation in Cross syndrome, Angelman syndrome, or Prader-Willi) so that a diagnosis of syndromic albinism is not missed.
+
+Ophthalmology can help confirm the diagnosis with testing. Characteristic ocular changes (infantile nystagmus, photophobia, reduced iris pigment with transillumination, reduced retinal pigment, visualization of choroidal blood vessels on a fundoscopic exam, foveal hypoplasia, decreased visual acuity, strabismus, misrouting of optic nerves on selective VEP exam) combined with cutaneous hypopigmentation.
+
+Generalized congenital hypopigmentation with normal ocular motion or normal ophthalmic examination is not OCA, and an assessment for nutritional or metabolic disorders should ensue.  These include phenylketonuria, homocystinuria, histidinemia, Menkes syndrome (copper deficiency), and kwashiorkor. If the patient has impaired hearing, Tietz syndrome should be considered.
+
+Molecular genetic testing can confirm the diagnosis but is not routinely done. It is expensive and best done using multigene or comprehensive genome sequencing. Clinical diagnosis, especially incorporating a complete ophthalmologic exam, is sufficient. An exception is to distinguish OCA1A and OCA1B in infancy, as they can be phenotypically identical during the first year of life. If patients develop some pigmentation after the first year of life, genetic testing may be useful to distinguish OCA1B from clinically similar OCA2.
+
+Carriers are asymptomatic heterozygotes of autosomal recessive genes.  Carrier testing makes sense in child-bearing age family members of albino patients but requires the pathogenic variant in the family to be already identified, thus necessitating gene sequencing of the albino, themselves.
+
+Prenatal diagnosis or preimplantation genetic diagnosis can similarly be made if the pathogenic variant is already identified.
+
+No specific serological tests or imaging needs to be performed in the diagnosis or routine management of albinism.

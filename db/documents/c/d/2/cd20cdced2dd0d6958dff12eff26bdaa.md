@@ -1,0 +1,1 @@
+The clear cornea is contiguous with the opaque sclera. The corneal tissues are avascular. Nourishment is derived internally from the aqueous humor and externally from the oxygenated tear film. The cornea is made up of five distinct layers. The epithelium is the outermost layer. Thickness is estimated to be 51 microns in normal eyes.

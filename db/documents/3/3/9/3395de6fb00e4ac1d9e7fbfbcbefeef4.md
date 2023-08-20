@@ -1,0 +1,3 @@
+The overall prognosis of infants born with congenital varicella syndrome is poor, often fatal in roughly 30% of infected babies within the first month of life. Death in infancy often results from intractable gastrointestinal reflux, severe recurrent aspiration pneumonia, and respiratory failure.
+
+For infants with neonatal varicella infection, if untreated, the mortality rate is as high as 31%. Death typically occurs from varicella pneumonia. The mortality rate decreases to 7% when VZIG is administered.

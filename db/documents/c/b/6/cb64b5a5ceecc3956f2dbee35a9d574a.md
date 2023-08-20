@@ -1,0 +1,3 @@
+It is important to evaluate the dietary history of the patient. Symptoms generally appear when weaning is started in an infant around 4-6 months of age. Clinically, it can range from recurrent vomiting, abdominal bloating and diarrhea, yellow discoloration of eyes (icterus), hepatomegaly, and failure to thrive in infants. Depending on the activity level of the aldolase B enzyme, the symptoms may vary, and commonly these individuals form an aversion to food rich in fructose and sucrose. Some cases remain undiagnosed for many years.
+
+In heterozygous individuals (carriers), they are generally asymptomatic but hyperuricemia is observed in some of the cases with a predisposition to gouty arthritis.

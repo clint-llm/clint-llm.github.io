@@ -1,0 +1,5 @@
+Pulmonary function tests aid in diagnosis, quantification of functional impairment, and monitoring of treatment or progression of a disease. The measurement of lung volumes and lung capacities is an integral part of pulmonary function testing.
+
+The vital capacity may assist in the diagnosis of underlying lung disease. It may also assist in differentiating between the various causes of lung disease. In obstructive lung diseases, such as asthma, emphysema, and bronchitis, the vital capacity is usually normal or only slightly reduced, whereas, in restrictive lung diseases, like idiopathic pulmonary fibrosis, a decrease in the vital capacity is seen. The vital capacity remains unchanged during pregnancy due to increased circumference of the rib cage.
+
+The measurement of vital capacity can also help determine the severity of involvement of respiratory muscles in neuromuscular disease. It can guide treatment decisions in patients with myasthenic crisis and Guillain-Barre syndrome.

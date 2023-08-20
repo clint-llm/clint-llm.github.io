@@ -1,0 +1,7 @@
+An episiotomy is performed using either scissors or a scalpel. The median episiotomy incision should begin at the posterior fourchette, to avoid the Bartholin glands, and run downward through the perineal body. The ideal length of the incision is different for each patient as it is dependent on the anatomy and relative size of the perineum. The apex of the episiotomy needs to be carefully visualized and secured while ensuring hemostasis.
+
+The mediolateral episiotomy also begins at the posterior fourchette. The incision should travel laterally, right or left, at a 45 to 60-degree angle, avoiding the anal sphincter musculature. Several studies have shown that an angle of 60 degrees is associated with a lower risk of third-degree tears and injury to the anal sphincter. This evidence, however, is not based on large randomized controlled trials.
+
+The modified median episiotomy is a less frequently used technique that is similar to the standard median incision. It is differentiated by the use of two transverse incisions, on either side perpendicular to the midline, above the suspected location of the external anal sphincter muscle. This modification is used to increase the diameter of the vaginal opening, better assisting in delivery.
+
+After delivery, a rectal exam is warranted to assess the extent of the incision. A continuous running stitch with absorbable sutures during the repair is the recommended approach, as it reduces the need for further removal at a later date.

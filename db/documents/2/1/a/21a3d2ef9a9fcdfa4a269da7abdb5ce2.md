@@ -1,0 +1,1 @@
+The eyelids are important for adequate tear film distribution across the ocular surface, tear drainage, protection of ocular surfaces, and cosmesis. The eyelids also contain glands that secrete substances responsible for lubricating the ocular surface.

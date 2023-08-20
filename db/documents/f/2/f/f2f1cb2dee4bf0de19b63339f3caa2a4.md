@@ -1,0 +1,9 @@
+Treatment with antiretroviral drugs (HAART) has shown improvement in cognitive function, including all cognitive domains. Also, the increase in CD4 count and the decrease in viral load have been correlated with cognitive improvement.
+
+Some experts believe that the drug's ability to cross the blood-brain barrier and achieve a high concentration in the cerebrovascular fluid is essential to lower the viral load. Letendre S et al. studied the CNS penetrability of ARV drugs. Individual ARV drugs were assigned a penetration rank of 0 (low), 0.5 (intermediate), or 1 (high). This ranking system was based on drug concentration in CSF, chemical properties, and CNS effectiveness in clinical studies. The CNS penetration-effectiveness (CPE) was calculated by summing the individual penetration ranks for each ARV in the regimen.
+
+Despite the above data, there is no clear evidence that certain regimens are more effective than others for neurocognitive disorders of HIV. Expert opinion suggests that antiretroviral agents with a "CNS penetration effectiveness (CPE)" score based on CSF drug kinetics might be better suited for these patients. However, clinical data to support this practice is lacking.
+
+In general, however, it is important to avoid efavirenz in patients with HIV-associated neurocognitive impairment. This is not due to its CPE score but due to the risk of neuropsychiatric side effects associated with this medication.
+
+Most research articles emphasize the use of psychiatric medications as needed for mood disorders. Many subtypes of antidepressants have been studied, including selective serotonin reuptake inhibitors, tricyclic antidepressants, and serotonin-norepinephrine reuptake inhibitors. All of these showed moderate symptomatic relief.

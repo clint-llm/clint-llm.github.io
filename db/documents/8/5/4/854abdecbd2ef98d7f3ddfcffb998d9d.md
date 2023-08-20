@@ -1,0 +1,5 @@
+Congenital heart defects of the cardiac architecture interfere with the separation of the cardiac segments, venous drainage, and function of the valve apparatus.
+
+The septum separates the right and left sides of the heart. After birth, if there is communication between the two sides, one of the following defects may occur, e.g., patent foramen ovale, atrial septal defect, ventricular septal defect, or complete atrioventricular defect. The obstructive cardiac anomalies include aortic stenosis, pulmonary stenosis, and coarctation of the aorta.
+
+The cyanotic defects have a characteristic feature of cyanosis because of the inadequate oxygenation of the blood. It includes tetralogy of Fallot, transposition of the great vessels, tricuspid atresia, pulmonary atresia, truncus arteriosus, total anomalous pulmonary venous connection, and hypoplastic left heart syndrome.

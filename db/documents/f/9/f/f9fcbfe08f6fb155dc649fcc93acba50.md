@@ -1,0 +1,11 @@
+Insulin lispro is available in 100 units/mL and 200 units/mL concentrations. It can be administered subcutaneously (as an injection or as a continuous infusion), or intravenously (IV).
+
+Patients administer subcutaneous injections 15 minutes before or immediately after a meal into areas with fatty tissue, such as the thighs, arms, buttocks, and abdomen. Care is necessary to avoid administering insulin into muscle. The rotation of sites is a recommendation to avoid lipodystrophy. Subcutaneous injections can be given using a syringe or a prefilled pen with either the 100 units/mL or 200 units/mL concentrations. These prefilled pens can deliver insulin in 0.5 to 1 unit increments.
+
+With a continuous subcutaneous insulin infusion, only the 100 units/mL concentration are an option. Patients require proper training in how to utilize the external insulin pump. Infusion sets and insertion sites should be changed every three days, again taking care to rotate infusion sites. The insulin reservoir in the pump should be changed at least every seven days.
+
+IV administration requires very close medical supervision to ensure the patient does not become hypoglycemic or hypokalemic. One must also be mindful that insulin readily adsorbs into IV tubing and infusion bags; therefore, the exact amount of insulin administered can be significantly less than the apparent amount. The rate of infusion must be adjusted based on the actual effect on the patient's glucose, not on the expected effect based on the dose.
+
+In general, insulin lispro can be diluted with a sterile diluent but should not be mixed or diluted with any other insulin. However, the one exception is insulin lispro 100 units/mL can be mixed from a vial only with insulin NPH, taking care to draw insulin lispro into the syringe first. This injection must be administered immediately after mixing. Mixing insulin lispro with NHP when contained in an external insulin pump is not an option.
+
+Insulin lispro is safe to use in the pediatric population, but a sterile diluent may be needed.

@@ -1,0 +1,3 @@
+**Normal Dosing Recommendations**
+
+Lemborexant is administered orally in doses of either 5 mg or 10 mg immediately before bed. Patients should not use lemborexant if they anticipate waking up before 7 hours after taking the medication so as not to experience dangerous impairment while awake. The maximum recommended clinical dose of lemborexant should not exceed 10 mg. Additionally, taking this medication with food or before eating may delay its onset of action. Lemborexant is not meant for use in combination with alcoholic beverages. Furthermore, there is no available research on lemborexant in pediatric populations or pregnant or breastfeeding women.

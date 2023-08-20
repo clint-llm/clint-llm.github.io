@@ -1,0 +1,1 @@
+Myocardial infarction (MI), colloquially known as “heart attack,” is caused by decreased or complete cessation of blood flow to a portion of the myocardium. Myocardial infarction may be “silent” and go undetected, or it could be a catastrophic event leading to hemodynamic deterioration and sudden death.

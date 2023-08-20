@@ -1,0 +1,5 @@
+The normal process of emmetropization starts with hyperopia in the infancy of approximately +2 D. During the first two years of life, and there is a rapid decrease in this hyperopia to approximately +1 D. The shift towards emmetropia continues at a slower rate after three years until around six years of age.
+
+This is related to the rate of growth of the eyeball. In myopic individuals, the axial length increases at a much faster rate. Axial myopia is an increase in axial length and thinning of the sclera that is due to increased collagen degradation and reduced collagen synthesis.
+
+Various environmental factors play a role in the development of myopia, although no clear association has been established yet. Several day-to-day activities, such as decreased outdoor time and increased near work activities, including increased use of electronic devices, play a contributory role in the development of myopia.

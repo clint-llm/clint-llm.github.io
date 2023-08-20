@@ -1,0 +1,5 @@
+A detailed history and thorough physical examination usually provide clues pointing towards secondary polycythemia. A detailed history, including questions for each of the various etiological factors for secondary polycythemia, can aid in the diagnosis.
+
+Patients usually have nonspecific symptoms on the presentation that include fatigue, headache, and dizziness. In some cases, due to the hyperviscosity of blood, transient ischemic attacks lead to a transient visual defect.
+
+On physical examination, scratch marks may be visible in these patients due to pruritus. Cyanosis and clubbing may also be seen. In patients who smoke, nicotinic staining of the nails and teeth can point to the underlying etiology. The body mass index of the patient, as well as the alertness, can help in identifying obstructive sleep apnea. A physical examination may reveal splenomegaly. Splenomegaly may, in turn, lead to early satiety as well. Hepatomegaly may be present in some patients. In cases with renal artery stenosis, a bruit may be heard on auscultation.

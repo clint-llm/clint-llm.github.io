@@ -1,0 +1,1 @@
+Psychiatric consultation is often indicated to complete the suicide risk assessment and establish a treatment regime. Psychological testing may be warranted. Social work, occupational therapy, and other disciplines may be included in planning care to address modifiable risk factors.

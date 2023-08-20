@@ -1,0 +1,3 @@
+Asthma is a chronic inflammatory disease of the airways, characterized by recurrent episodes of airflow obstruction resulting from edema, bronchospasm, and increased mucus production. The degree of reversibility of airflow obstruction with bronchodilators can vary.
+
+Patients who have asthma may experience a range of respiratory symptoms, such as wheezing, shortness of breath, cough, and chest tightness. There is a wide range in the frequency and severity of the symptoms, but uncontrolled asthma and acute exacerbations can lead to respiratory failure and death.

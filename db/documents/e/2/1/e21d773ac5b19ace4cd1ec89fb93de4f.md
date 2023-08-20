@@ -1,0 +1,1 @@
+Timely diagnosis and management are essential as hemifacial spasm is associated with social embarrassment, anxiety, and depression due to disability. Persistent eye closure in severe cases results in functional blindness and can be harmful to the patient and surroundings, especially during driving or operating heavy machinery. Physicians must educate patients regarding the same.

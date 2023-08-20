@@ -1,0 +1,3 @@
+The infrahyoid muscles receive innervation from the deep ansa cervicalis (C1 to C3), a branch of the cervical plexus. The thyrohyoid muscle also receives nerve supply by the superior ansa cervicalis going alongside the hypoglossal nerve.
+
+The sternocleidomastoid muscle receives motor innervation from the ipsilateral spinal accessory nerve (CN XI). The ventral rami of C2 and C3 from the cervical plexus provide sensory input to the sternocleidomastoid.

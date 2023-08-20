@@ -1,0 +1,1 @@
+Thoracentesis is a procedure that is performed to remove fluid or air from the thoracic cavity for both diagnostic and/or therapeutic purposes.

@@ -1,0 +1,1 @@
+More than 53-89% of women will experience some form of perineal laceration at the time of delivery.

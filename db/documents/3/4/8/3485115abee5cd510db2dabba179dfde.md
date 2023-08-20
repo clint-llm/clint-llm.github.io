@@ -1,0 +1,3 @@
+The cervix is composed of multiple cell types. The endocervix is lined by simple columnar epithelium interspersed with mucus-producing goblet cells, while the ectocervix and vagina are composed of squamous epithelium.
+
+Unlike the uterus, a purely smooth muscle organ, the cervix is a collagenous structure composed of proteoglycans, fibrin, and glycosaminoglycans (GAGs) with smooth muscle present throughout the organ.

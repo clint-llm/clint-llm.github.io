@@ -1,0 +1,1 @@
+A biopsy is the mainstay of diagnosis but requires invasive intervention. Light microscopy shows degranulated eosinophils and eosinophil cationic protein in the endocardium and activated eosinophils at the myocardial interstitium. On electron microscopy, a characteristic cardiac myocytolysis change showing disruption at the intercellular junctions is observed.

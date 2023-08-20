@@ -1,0 +1,13 @@
+The key to the management of VGS is prevention. Prevention of early (first 30 days after surgery) venous graft stenosis (VGS) is accomplished with meticulous surgical technique and appropriate perioperative anticoagulation. Ensuring the correct graft position during surgery and avoiding graft kinking or sharp turns are key. An adequately sized target vessel with sufficient runoff or distal perfusion must be chosen. Avoiding unnecessary extra vein graft skeletonization and decreased graft palpation during dissection may prevent early graft failures. Prevention of short-term (30 days to 18 months) and long-term (greater than 18 months) VGS are centered around preventing and slowing the progression and development of intimal hyperplasia and atherosclerosis. Various factors have been implicated in the development of VGS, and they are thought to closely parallel the same risk factors for the development of arterial atherosclerosis. A healthy diet, control of blood glucose levels, regular exercise, maintenance of appropriate blood pressure, management of dyslipidemia, and smoking cessation are recommended in all patients with peripheral or coronary artery disease.
+
+The Dual Ticagrelor Plus Aspirin Antiplatelet Strategy After Coronary Artery Bypass Grafting (DACAB) trial demonstrated the use of the P2Y12 receptor-blocking agent, ticagrelor, in addition to aspirin, improved venous graft patency with similar rates of major bleeding, for those who have undergone CABG.
+
+Another aspect of prevention is routine, predetermined surveillance. Concerning peripheral vascular bypass, routine doppler ultrasonography examinations allow the early identification of VGS, enabling endovascular reperfusion before complete graft failure.
+
+When prevention fails and VGS worsens, there are several reperfusion options.
+
+Still, no Randomized Controlled Trials (RCTs) compared endoluminal versus surgical intervention for stenosis in vein grafts following infrainguinal bypass. Currently, no high-certainty evidence supports the use of one type of intervention over another. High-quality studies must provide evidence on managing vein graft stenosis following infrainguinal bypass.
+
+When percutaneous coronary intervention (PCI) is completed, the decision for the use of a bare-metal stent (BMS) or a drug-eluting stent (DES) must be made. The Symbiot trial compared the Symbiot DES with a BMS. At eight months of follow-up, the incidence of major adverse cardiovascular events (MACE) between the Symbiot and BMS groups was similar.
+
+Several other smaller studies have shown, with some degree of variation, that DESs are preferred over BMSs concerning the treatment of VGS as measured by in-stent restenosis.

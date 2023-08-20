@@ -1,0 +1,9 @@
+Glucose filters through glomeruli, and then it is reabsorbed by the proximal renal tubule. Less than 0.1% of glucose is not reabsorbed by the kidneys (less than 0.25 mg/ml), and most of the standard test does not detect this level.  The causes of glucosuria can be grouped under two classes: the inability of PCT to reabsorb glucose and an increase in the concentration of glucose in the circulating blood.
+
+Defects in the PCT, either primary or secondary, can result in glucosuria.  Examples include pregnancy, Fanconi syndrome, and acute tubular necrosis. In a normal condition, when the plasma glucose level is increasing, renal tubular reabsorption of glucose will rise linearly until its maximum is reached (ranges from 0.9 to 2.0 mmol/min).
+
+Glucosuria can also occur in an increased concentration of glucose in the circulating blood. This phenomenon can also occur in normal individuals who consume excess carbohydrates, known as ‘alimentary glycosuria.’ It also presents in diabetic patients.
+
+Some conditions are known to raise the renal threshold for glucose, such as age, renal disease (diabetic glomerulosclerosis), heart failure, and chronic hyperglycemia. Also, some conditions are known to decrease it, such as hyperthyroidism, pregnancy, fever, and exercise. Normal aging and glomerulosclerosis in long-standing diabetes are associated with an increased renal threshold for glucose, and because of that, urine glucose testing becomes of little value, if any.
+
+A number of substances are also known for their capability to cause glucosuria, such as chloride, iodide, bromide, and nitrate of sodium. Glucosuria can also occur in a condition where there is a lack of oxygenation of the PCT.

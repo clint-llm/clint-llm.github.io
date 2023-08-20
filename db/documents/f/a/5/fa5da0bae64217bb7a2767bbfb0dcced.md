@@ -1,0 +1,5 @@
+Bile duct injury can cause serious complications, such as strictures, ascending cholangitis, cirrhosis, or portal hypertension, if unrecognized or improperly managed. Overall, there is a reduction in long term survival and quality of life with high rates of litigation.
+
+The surgeon should defer management of the injury to an experienced center with trained hepatobiliary experts, as the reconstruction performed by the surgeon causing the injury is only successful in treating the injury 21% of the time.
+
+The factors associated with successful repair include control of intraabdominal infection, intraoperative cholangiography, using the correct surgical reconstructive technique, and a repair performed by a hepatobiliary surgeon. The timing of repair has not been shown to influence the success of the repair as long as there is control of intraabdominal sepsis. Studies have demonstrated worse outcomes with early repair in the presence of intraabdominal infection.

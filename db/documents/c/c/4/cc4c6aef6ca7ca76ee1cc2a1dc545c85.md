@@ -1,0 +1,1 @@
+Surgical excision is the primary method of treatment.

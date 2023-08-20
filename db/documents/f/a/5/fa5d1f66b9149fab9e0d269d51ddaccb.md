@@ -1,0 +1,1 @@
+A lack of patient consent in a patient with the capacity to make such a decision precludes an ear examination. Caution must be taken in patients with otalgia as the examination can be uncomfortable.

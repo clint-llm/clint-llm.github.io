@@ -1,0 +1,1 @@
+Hepatitis B management ideally involves interprofessional collaboration. Primary care, gastroenterology, hepatology, infectious disease, liver transplant, and palliative care services are among the different services involved.

@@ -1,0 +1,1 @@
+Water intoxication can occur in a broad range of different clinical settings. It is uncommon and often associated with contests and alcohol intoxication.

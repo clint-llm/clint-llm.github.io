@@ -1,0 +1,1 @@
+Glycogenic hepatopathy (GH) is a benign and potentially reversible condition within few days to weeks with good glycemic control. GH has a very good prognosis and it must be carefully differentiated from non-alcoholic fatty liver disease (NAFLD) because NAFLD can progress to fibrosis while GH does not.

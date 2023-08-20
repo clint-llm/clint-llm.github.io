@@ -1,0 +1,5 @@
+Decubitus ulcers are a significant health care problem worldwide, which affects several thousand people each year.
+
+Sacral decubitus ulcers usually occur in elderly patients. Patients who are incontinent, paralyzed, or debilitated are more prone to getting them. Patients with normal sensory status, mobility, and mental status are less likely to form these ulcers because their normal physiologic feedback system leads to frequent physical positional shifts. As stated above, elderly patients are more prone to sacral decubitus ulcers; two-thirds of ulcers occur in patients who are over 70 years old. There is data that shows 83% of hospitalized patients with ulcers developed them within five days of their hospitalization.
+
+A study done in a medical research center in Turkey concluded that 360 patients out of 22834 admitted patients developed one or more pressure ulcers. Most of the patients who developed pressure ulcers were admitted to the intensive care unit (ICU).

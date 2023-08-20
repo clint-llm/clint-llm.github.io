@@ -1,0 +1,33 @@
+**Types of Managed Care Organizations**
+
+From an economist's point of view, managed care was the impetus for the growth of for-profit organizations in health care, which was predominantly operated by non-profit organizations for ages. Managed care has become a beacon of hope for employers to generate hospital revenue by cost control and utilization management. This cost containment concept leads to the development of different managed care organization models based on various networks. However, there are three major types of managed care organizations that gained recognition over the years.
+
+The managed care models (market plans) range from more restrictive to less restrictive. As mentioned previously, 1) HMOs are the first form of managed care organizations that falls under more restrictive category followed by 2) Physician Provider Organization (PPOs), less restrictive, and 3) Point-of-Service Plans (POS), the combination of HMO-like and PPOs features, thus blurring the managed care landscape.
+
+**Health Maintenance Organizations (HMOs)**
+
+An HMO involves preventive medical care services, capitation, prepaid premiums, a limited panel of primary care physicians (PCP), and specialists. HMOs frequently require healthcare plan members to choose physicians and hospitals in-network and only pay for the services obtained from in-network, making it more restrictive. Financial risk-bearing for providers is one of the main concerns on the HMO part; for instance, PCPs have to share financial risk with specialists. HMOs usually use capitation, risk pools, and withholds to control physician and patient behavior, consequently control overutilization to achieve cost containment.
+
+**Preferred Provider Organizations (PPOs)**
+
+PPOs involve selective contracts with a group of physicians and hospitals, discounted fee arrangements with providers, and negotiated charges for diagnosis-related groups (DRGs) with hospitals, flexible panel of providers. In this healthcare plan, the patient can choose physicians from out-of-network as well but incurs high-cost sharing. Prior authorization is generally necessary for hospitalization and high-cost outpatient procedures. PPOs provide flexibility and risk-sharing for both providers and patients, making PPOs less restrictive. Despite having higher premiums, PPOs became popular than HMOs.
+
+**Point of Service (POS)**
+
+POS provides a combination of HMO-like and PPO-like options. Patients have to choose PCP; however, they can select from out-of-network and allow patients to choose their physicians and care of their choice. This plan is mostly favored by employers for their employees with higher premium arrangements without fear of losing coverage if a patient or employee goes for out-of-network providers.
+
+Managed Care plans were fully or partially implemented all over the U.S., making MCOs ubiquitous. About 16% of insured workers around the country were enrolled under full risk-bearing HMOs, and an additional 49% enrolled in partial risk-bearing or discounted fee-for-service PPOs.
+
+**Effect of the Affordable Care Act (ACA) on Managed Care**
+
+In legislation, the enactment of ACA in 2010 considered a significant impact on the American Healthcare System since the passage of Medicare and Medicaid during the 1960s''. Patient Protection and Affordable Care Act (PPACA) is often referred to as "ACA" or "Obamacare," was the first of its kind to be increasingly consumer-driven and made MCOs accountable for its members/enrollees and the services provided to them. Among the ACA's many provisions, managed care plans were taken to a new level in the healthcare market. In the healthcare market, HMOs penetrated and peaked during the mid-1990s and later followed by a plateau. From 2001 to 2009, HMO enrolment declined from 91.1 million to 75.3 million. Managed care became a mature industry that has become a primary form of health insurance in the private sector, and states enrolled more members under Managed care Medicare and Medicaid plans. Under ACA provisions, HMO enrollment increased from 2014 (84.8 million) to 2015 (89.3 million). However, PPOs continue to rise after the 1990s due to acquisition and mergers in the market and still maintained their growth. Under ACA, PPOs have emerged as powerful players in the market from 2008 to 2015. The number of PCPs contracted per PPO rose 56.3% (from 3,595 to 5,618) and specialists rose 92.4% (from 6,962 to 13,397).
+
+**Regulation of Managed Care**
+
+Since the 1980s, there has been an explosion of managed care that simultaneously resulted in widespread complaints and negative publicity against managed care. In response to those negative criticism, state and federal governments imposed laws and regulations to protect both consumers and providers to a certain extent. The three federal laws, ERISA, COBRA, and TEFRA, mainly affect managed care with rapid expansion.
+
+ERISA stands for Employee Retirement Income Security Act of 1974; shields managed care organizations from malpractice lawsuits when they fall under employee group health plan governed by ERISA. Under ERISA, any negligence claims against ERISA managed care health plans for injuries resulting from physicians'' malpractice, overutilization, improper treatment plan, and denial of plan benefits can be subject to veto.
+
+TERA stands for the Tax Equity and Fiscal Responsibility Act of 1982. This legislation was created to reduce budget gaps to generate revenue. In healthcare, TEFRA required the conversion of hospital Medicare reimbursement from cost-plus to the prospective payment system (PPS) based on diagnosis-related groups (GRGs). Under PPS, hospitals receive a fixed amount based on patients'' principal diagnosis. To improve hospital revenue and earn profits, hospitals have to reduce inpatient days. Under the TEFRA program, managed care organizations were able to flourish as the main goal of managed care is to generate revenue by controlling costs and overutilization of hospital services.
+
+COBRA stands for the Consolidated Omnibus Budget Reconciliation Act of 1985, provides temporary access to the health coverage of the previous employers under certain events such as unemployment. COBRA coverage usually lasts for 18 months or sometimes extends up to 36 months, depending on the nature of the event. This federal law protects consumers from organizations such as MCOs through temporary access to full coverage of health insurance.

@@ -1,0 +1,3 @@
+Pure-tone testing assesses the auditory system through two pathways. In air conduction (AC) testing, sound waves enter the external auditory canal and pass through the tympanic membrane, ossicular chain, and cochlea to reach the cochlear nerve (part of cranial nerve VIII) and then travel through the brainstem to the auditory cortex. In bone conduction (BC) testing, sound waves are introduced directly to the cochlea through the vibration of a bone conduction oscillator on the mastoid process.
+
+By utilizing both methods of pure-tone testing, hearing loss is determined to be conductive (involving the pinna through the ossicular chain), sensorineural (involving the cochlea to the auditory cortex), or mixed (both conductive and sensorineural involvement).

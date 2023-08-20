@@ -1,0 +1,1 @@
+The frequency and severity of abortion complications depend on gestational age at the time of the abortion and the method of abortion.

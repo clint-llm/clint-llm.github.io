@@ -1,0 +1,3 @@
+The audiogram is the cornerstone of the diagnostic evaluation in hearing loss. Therefore, referral for assessment by an audiologist is a crucial component for any patient with suspected hearing loss. The audiometric workup typically involves pure tone audiometry to assess both bone and air conduction at various frequencies from low to high to determine hearing thresholds. The test determines the range and nature (conductive, sensorineural, or mixed) of hearing loss.
+
+Workup also commonly includes sound perception, speech recognition, tympanometry, and acoustic reflex.

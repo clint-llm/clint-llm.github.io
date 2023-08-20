@@ -1,0 +1,1 @@
+Cerebral amyloid angiopathy is strongly age-dependent, with the prevalence of moderate to severe CAA increasing with age. Sporadic CAA uncommonly affects individuals younger than 60 to 65 and even rarer for those in their 50s. CAA does not appear to have a predilection for gender. There is a possible association between hypertension and CAA, but this is disputed between experts.

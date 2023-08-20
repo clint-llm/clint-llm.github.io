@@ -1,0 +1,3 @@
+Carotidynia, also known as Fay syndrome or TIPIC syndrome, is a very rare vascular disorder presenting with unilateral neck and facial pain. Carotidynia is classified as an idiopathic neck pain syndrome and is associated with point tenderness over the bifurcation of the carotid artery. Symptoms are made worse by head movements, chewing, yawning, coughing, or swallowing. Increased pulsations are noted in the associated carotid artery. Carotidynia presents mostly unilaterally; however, bilateral cases have been reported.
+
+Patients report self-limited episodes of neck pain, with each episode lasting approximately 7 to 14 days. Most patients experience a relapse of episodes every 1 to 6 months.

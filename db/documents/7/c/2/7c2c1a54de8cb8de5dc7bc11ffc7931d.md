@@ -1,0 +1,1 @@
+The differential diagnosis includes any structural lesion that can localize to the inferomedial area of the pons, which can include neoplastic processes, hemorrhages, inflammatory disorders, and vascular malformations such as AVM (arteriovenous malformation).

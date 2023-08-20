@@ -1,0 +1,1 @@
+Isolated CFL injuries are rare as reported incidences are commonly classified under lateral ligament injuries. Thirty thousand ankle sprains occur each day, accounting for 25% to 40% of sports injuries. The lateral ligament compartment is involved in 85% of ankle injuries, with a daily incidence of one in 10,000.

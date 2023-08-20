@@ -1,0 +1,1 @@
+The prognosis for conduction aphasia depends on the underlying cause. If the cause is a stroke, patients can make a good recovery but may have persistent deficits. Speech therapy may be useful to help remediate the effects of aphasia and restore normal function.

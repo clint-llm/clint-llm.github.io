@@ -1,0 +1,3 @@
+Lee et al. studied the SSADH in the rat brain.
+
+The basal nuclei of Meynert are associated with Alzheimer disease. Finally, immunoreactivity was detected in raphe nuclei of the reticular formation of the midbrain, cerebellum, and inferior olivary nuclei of the medulla oblongata. Immunophenotypically reactive cells were markedly observed in the areas, which were linked with both the formatio reticularis and the limbic system of the rodent brain.

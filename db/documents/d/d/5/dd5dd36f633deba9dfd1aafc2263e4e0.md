@@ -1,0 +1,11 @@
+It remains imperative to identify the risk factors and perform a thorough assessment of the patient before performing a deep plane facelift. An interprofessional team approach is an ideal way to limit the complications of this procedure. Prior to surgery, the patient should have the following done:
+
+- Evaluation by a surgeon experienced in selecting the appropriate patient for the deep plane facelift surgery
+
+- Assessment by a primary care physician and/or anesthesiologist to ensure that the patient is fit for anesthesia
+
+An interprofessional team of an experienced surgeon, anesthesiologist, and surgical assistants and operative nurses should be involved during the deep plane facelift to maximize outcomes. Close follow-up during the initial post-operative period, either by a wound care nurse and/or clinician experienced in the post-operative care of the deep plane facelift, should monitor the patient for possible complications including a hematoma or facial nerve deficits. It is also crucial to educate the patient on adequately maintaining the surgical wounds, and avoiding strenuous activity, heavy lifting, or bending over during the first several days post-operatively to help prevent complications. [Level 5]
+
+Pharmacist involvement will include verifying dosing and agent selection for antibiotic prophylaxis, as well as pain medications and corticosteroids following the procedure, and performing medication reconciliation, reporting any concerns to the healthcare team. Nursing will assist in patient preparation for surgery, during the procedure, and in monitoring post-surgically, noting any concerns and letting the surgical team know. They are also front-line for verifying medication compliance and any potential adverse effects.
+
+As can be seen from the above, deep plane facelifts require an interprofessional team approach, including physicians, specialists, specialty-trained nurses, and pharmacists, all collaborating across disciplines to achieve optimal patient results. [Level 5]

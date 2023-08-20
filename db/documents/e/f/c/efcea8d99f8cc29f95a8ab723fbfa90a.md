@@ -1,0 +1,1 @@
+The saphenous nerve, artery, and vein are integral structures of a neurovascular bundle that courses through the thigh and leg of the lower limb. Firstly, the saphenous nerve is a strictly sensory nerve with no motor function.

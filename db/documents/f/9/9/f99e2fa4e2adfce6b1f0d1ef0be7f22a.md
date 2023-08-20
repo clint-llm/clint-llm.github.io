@@ -1,0 +1,5 @@
+Corneal topography, whether Placido based or slit scanning, or a combination of the two techniques, involves placing the patient's chin on the chin rest of the machine, asking the patient to focus on a fixation light, and capturing the image of the Placido mires and /or the slit beam by means of a camera and the machine automatically calculates the dioptric power across the corneal surface.
+
+Different indices are incorporated in the various devices to enable the prediction of ectasias, such as the Rabinowitz indices or the Klyce Maeda indices.
+
+The slit scanning devices such as Orbscan and the Schiempflug-based devices such as the Oculus pentacam have faster acquisition times which means lesser problems with the eye movement of patients during acquisition. The tear film has a major role to play in corneal topography maps. It is preferred to remove soft lenses a week before and rigid gas permeable lenses two weeks before doing corneal topography to avoid contact lens-induced warpage.

@@ -1,0 +1,5 @@
+Chloramphenicol can be administered topically as eye or ear drops, or as an eye ointment. It can also be given parenterally as intravenous injection or infusion or taken as oral capsules. Due to its high risk of adverse effects and toxicity, clinicians should prescribe chloramphenicol at therapeutic doses of not more than 50 mg/kg/day, given in divided doses at 6-hourly intervals. This dose may require an increase to 100 mg/kg/day for severe infections caused by moderately resistant organisms. If such increment in dosage is required, careful monitoring is imperative, with dose reductions back to 50mg/kg/day made as soon as possible. Also, dose reductions to 25 mg/kg/day may be necessary for neonates, and patients who have impaired liver or renal function.
+
+If administered as an intravenous infusion, it has to be given intermittently and diluted in either 0.9% sodium chloride or 5% glucose solutions.
+
+Clinicians should avoid using prolonged treatment with chloramphenicol.

@@ -1,0 +1,5 @@
+Nondisplaced talar head fractures receive conservative treatment. Displaced talar head fractures require surgery to reduce the malalignment of the talonavicular joint to reduce the incidence of osteoarthrosis and osteonecrosis.
+
+Type I neck fractures may are candidates for nonoperative treatment. However, even subtle displacement of a talar neck fracture may necessitate open reduction and internal fixation (ORIF), highlighting the role of CT in the evaluation of these fractures. Type II neck fractures require surgical reduction and fixation. Type III and IV neck fractures may be initially treated with a closed reduction in the emergency department to relieve skin tension and lessen soft-tissue injury with subsequent definitive surgical management (ORIF).
+
+Talar body fractures may be treated conservatively if nondisplaced. However, the majority of body fractures are displaced and require operative management to restore fragment and joint alignment. Posterior process fractures are treated nonoperatively, though excision of the fracture fragment may be necessary if pain persists despite appropriate conservative management.

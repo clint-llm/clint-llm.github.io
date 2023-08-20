@@ -1,0 +1,7 @@
+Actinomyces are gram-positive filamentous non-acid fast anaerobic to microaerophilic bacteria that typically colonize the human mouth, urogenital tract, and gastrointestinal tract but can cause an infection known as actinomycosis. The infection is usually granulomatous, suppurative, and may involve multiple sulfur-containing abscesses that form sinus tracts. Actinomycosis is generally not diagnosed until the chronic phase. In otherwise healthy individuals, the infection is generally treatable with a prolonged course of intravenous antibiotics; the outcome is more nebulous for immunocompromised individuals. This activity reviews the evaluation and treatment of actinomycosis and highlights the role of the interprofessional team in caring for patients with this condition.
+
+**Objectives:**
+- Explain why actinomycosis is generally not diagnosed until it reaches the chronic stage.
+- Identify the most common sites for actinomycosis infection and the expected signs and symptoms associated with each site.
+- Describe the treatment considerations for actinomycosis.
+- Explain why a well-integrated, interprofessional team approach is needed to provide optimal care to patients with actinomycosis.

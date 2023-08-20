@@ -1,0 +1,1 @@
+HPS complicates approximately 20% of cases and carries a 46% 5-year overall survival rate. These patients will require more aggressive treatment

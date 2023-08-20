@@ -1,0 +1,3 @@
+Reversible cerebral vasoconstriction syndrome (RCVS) is a medical condition in which there is multifocal arterial constriction and dilation in the cerebral vasculature and which may be associated with nonaneurysmal subarachnoid hemorrhage. This condition can correlate with pregnancy and exposure to certain drugs.
+
+RCVS has replaced previous terms, such as benign angiopathy of the central nervous system (CNS), migrainous vasospasm, migraine angiitis, drug-induced cerebral arteritis, or angiopathy, Call-Fleming and "thunderclap" headaches with reversible vasospasm to encompass multifocal arterial constriction and dilation.

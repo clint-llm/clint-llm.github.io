@@ -1,0 +1,11 @@
+Superficial wound infections are common in contaminated cases. Allowing the wound to close by secondary intent can reduce the risk of soft tissue infection, abscess, and potential wound dehiscence.
+
+Anastomotic breakdown or leak is the most feared common complication after SBR, with incidence varying from 1% to 24% based on numerous factors. Risk can be reduced by focusing on operative techniques to ensure adequate blood supply with minimal tension. This must be combined with appropriate preoperative and postoperative supportive care to mitigate the effects of systemic patient disease and prevent protein-calorie malnutrition.
+
+Unlike high-risk colonic anastomoses that can be protected with the proximal diversion of the fecal stream, diversion is not an option in SBR. Proximal diversion of anything proximal to the terminal ileum would impair the guts' absorptive function. Proximal decompression with a nasogastric or gastric tube can help alleviate early healing anastomosis. The anastomotic breakdown will inherently allow enteric contents to permeate into the peritoneal cavity, causing abscesses, peritonitis, and sepsis, and often progressing to abdominal wound dehiscence.
+
+Fistulization is a common subacute complication of anastomotic breakdown after SBR. Enterocutaneous fistulas are both common sequelae of anastomotic leaks, as well as a common reason for additional SBR if they are persistent. Enteroenteric and enterocolonic fistulae are not uncommon findings in a hostile abdomen of a malnourished or hemodynamically impaired patient. These are likely under-recognized due to the lack of external clinical signs and can contribute to malabsorption by allowing enteric contents to bypass a variable portion of the small bowel’s absorptive surface.
+
+SBR, as with any intraabdominal surgery, can contribute to adhesions which increase the future risk for obstruction.
+
+The absorption of fat-soluble vitamins is dependent on the diffusion process. First, the vitamins need to be emulsified and incorporated into micelles with other lipids to be absorbed. The emulsification depends on bile secretions and pancreatic enzymes. In SBS, there is a rapid intestinal transit reducing the time for emulsification resulting in fat-soluble vitamin deficiency.

@@ -1,0 +1,3 @@
+The autorefractors are widely used by ophthalmic clinicians and eye care practitioners globally to assess refractive error, accommodation, and prescription and dispense of spectacles. They are a highly repeatable, reliable, and accurate alternative to retinoscopy. Autorefractors are fairly precise in determining astigmatism. It is also helpful in children with cycloplegic retinoscopy and is fairly accurate compared to conventional retinoscopy.
+
+Autorefractors can be operated by clinical ophthalmic assistants or mid-level ophthalmic personnel with good accuracy and don't always require an optometrist to perform them. Some of the autorefractors can be directly attached to a phoropter so that autorefractors results can be loaded into the phoropter if needed for comparison.

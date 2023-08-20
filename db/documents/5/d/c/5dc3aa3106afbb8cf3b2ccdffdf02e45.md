@@ -1,0 +1,1 @@
+Factitious hypoglycemia is more common in women with diabetes, especially during the third and fourth decades of life.

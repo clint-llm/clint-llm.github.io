@@ -1,0 +1,1 @@
+Lennox-Gastaut syndrome (LGS) is a rare but severe form of childhood epilepsy that was first described by Dr. Henri Gastaut in Marseille, France in 1966.

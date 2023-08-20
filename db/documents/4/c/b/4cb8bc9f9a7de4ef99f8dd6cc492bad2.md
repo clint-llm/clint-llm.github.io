@@ -1,0 +1,1 @@
+The prognosis depends on the amount of glycine cleavage enzyme system activity.

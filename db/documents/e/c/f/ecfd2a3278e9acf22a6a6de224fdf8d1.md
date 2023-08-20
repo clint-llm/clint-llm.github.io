@@ -1,0 +1,1 @@
+A detailed history is critical to differentiate between provoked and unprovoked thromboembolism and should include demographics, family history, assessment of risk factors, description of symptoms and followed by a standard physical examination. In up to 70% of patients suffering from VTE, a provoking factor is present. One in three patients reports a positive family history.

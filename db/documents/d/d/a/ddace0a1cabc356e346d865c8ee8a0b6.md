@@ -1,0 +1,1 @@
+The primary function of the corpus callosum is to integrate and transfer information from both cerebral hemispheres to process sensory, motor, and high-level cognitive signals. There have been significant advances made in learning more about the corpus callosum's role by studying callosotomy patients with partial or total hemispheric disconnection.

@@ -1,0 +1,1 @@
+Currently, there is no antidote described in the literature for the toxicity of ethacrynic acid. Toxicity usually occurs in elderly patients with diminished renal function leading to volume depletion and, in some cases, toxicity. When adverse side effects occur, rapid discontinuation of ethacrynic acid and supportive care can lead to the resolution of symptoms.

@@ -1,0 +1,1 @@
+Lofgren syndrome typically does not require a histologic diagnosis. On pathology, it similar to other forms of sarcoidosis in that it characteristically presents with non-caseating epithelioid granulomas, usually with a sparse or absent surrounding lymphocytic inflammation, also known as “naked” granulomas, seen on biopsy.

@@ -1,0 +1,1 @@
+Cloacal malformations are rare congenital anomalies characterized by a confluence of the gastrointestinal, genital, and urologic systems which exits the perineum through a single orifice.

@@ -1,0 +1,1 @@
+A conjoined twin pregnancy presents the same way as other twin pregnancies, with a uterine size greater than expected for gestational age. Due to advances in imaging techniques, most cases these days are recognized early on prenatal ultrasonographic imaging.

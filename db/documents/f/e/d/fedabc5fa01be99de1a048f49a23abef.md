@@ -1,0 +1,1 @@
+Presence of Gerstmann’s syndrome with other disorder can make the normal life impossible, mainly due to the severe light-left disorientation.

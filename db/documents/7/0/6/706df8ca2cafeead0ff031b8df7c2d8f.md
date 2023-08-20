@@ -1,0 +1,3 @@
+A close interaction between the treating neurologist, psychiatrist, neurosurgeon, and radiologist is necessary for coming to the final diagnosis of KBS. Careful monitoring of diet is required if they have symptoms consistent with eating disorders. Staff members, including nurses, should be cognizant of hypersexual behaviors in these patients.
+
+The outcomes for these patients are poor; they often require medications to suppress abnormal behavior, and often, physical restraints are needed. Many end up in psychiatric institutions where they remain for life.

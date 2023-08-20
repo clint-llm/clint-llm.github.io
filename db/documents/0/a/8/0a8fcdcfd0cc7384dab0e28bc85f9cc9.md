@@ -1,0 +1,5 @@
+Once the anterior lens capsule is breached secondary to penetrating or blunt trauma, there is a cortical disturbance. The displaced cortex acts as an excellent nidus for microorganisms' growth and infection eruptions.
+
+Sometimes the foreign body is inert and remains lodged in the lens substance without reaction. If there is a breach of the posterior capsule, the microorganism, retained lens cortex, lens abscess, and chemical toxins released by the microorganism can reach the vitreous cavity and result in an inflammatory cascade.
+
+This results in vitritis and endophthalmitis. Whenever there is delayed endophthalmitis by low-grade pathogens such as P.acne, this is called localized endophthalmitis. In cases with immunosuppression or immunosuppressed patients, the mechanism of ocular immune privilege is also compromised in the anterior chamber, with a disrupted blood-retinal barrier, immunosuppressive factors in the eye, and systemic immune compromise such as anterior chamber-associated immune deviation (ACAID).

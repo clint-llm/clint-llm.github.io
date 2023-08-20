@@ -1,0 +1,1 @@
+Part of the maxillary artery arises from the remnant of the first aortic arch. In general the first and second part of the aortic arch regress and do not remain to form into any permanent anatomical structures.

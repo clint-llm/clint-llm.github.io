@@ -1,0 +1,9 @@
+Relevant history should be documented, including the time of injury, cause, and mechanism of injury, as well as other relevant details pertaining to the causation of the injury. The patients' tetanus vaccine status should be determined as well.
+
+Abrasions are commonly associated with physical trauma; this could result from falls and impact against hard and uneven surfaces, as well as the pressure of impending objects. They are commonly seen along with other forms of blunt force trauma, such as contusions and lacerations.
+
+While the physical examination of abrasions is important for treatment, the medicolegal examination of abrasions can be considerably more significant. Abrasions could be present over any part of the body. They are frequently seen over the exposed parts of the body, especially the head and neck, as well as the extremities. When found over the neck or genitalia, they may have a particular significance that requires further evaluation.
+
+The physical examination should include the type, size, shape, color, location, depth of the abrasions, and association with other injuries, as well as the presence of extraneous material. The scientific collection and evaluation of these extraneous materials can provide valuable information regarding the scene of a crime and in linking the suspect to the crime.
+
+The systematic management of the injury for medical and medicolegal purposes will ensure not just treatment of the injury but also may help in future legal proceedings. The medicolegal examination is especially important in injuries over the head and neck and around the genitalia. Injuries around the genitalia could be vital in identifying sexual violence, while minor injuries over the head and neck could be an indication of more serious underlying injuries.

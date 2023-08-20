@@ -1,0 +1,9 @@
+Cerebral ischemic events in the form of TIA or ischemic infarcts are the commonest presentation of all Moyamoya patients. Intracerebral hemorrhage occurs mainly among adult patients with MMD. Seizures can present both among adults and children. Symptoms can be categorized on the basis of etiology: those due to cerebral ischemia (i.e., stroke, transient ischemic attack (TIA), and seizure) and those due to the growth of collateral vessels that compensate for ischemia (i.e. hemorrhage and headache).
+
+- In the pediatric population, Moyamoya typically manifests with TIA or ischemic stroke. Attacks are usually precipitated by hyperventilation during crying, playing a wind instrument, or eating hot noodles. Hyperventilation decreases carbon dioxide, leading to cerebral vasoconstriction and aggravating cerebral hypo-perfusion. Children could also suffer from an intellectual disability. Deterioration of cognition is in a linear relationship with the number of strokes and chronic hypoxemia from a progressive narrowing of the cerebral vasculature
+
+- In addition to TIA or ischemic strokes, adults also frequently present with hemorrhagic stroke. Hemorrhage mainly results from a rupture of fragile moyamoya collaterals and seen in deep areas of the brain, such as basal ganglia, periventricular deep white matter. Intraventricular hemorrhage is common due to the close proximity of the primary site of intracerebral hemorrhage
+
+- Seizures are common complications of either ischemic or hemorrhagic events.
+
+- Migraine-like headaches are common in both, children and/or adults and occur probably from the stimulation of dural nociceptor by dilated trans-dural collaterals.

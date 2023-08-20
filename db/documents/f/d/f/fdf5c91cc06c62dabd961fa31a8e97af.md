@@ -1,0 +1,3 @@
+Laboratories are usually nondiagnostic. An electromyogram is used to measure the frequency of tremor activity.
+
+A Head computed tomographic (CT) scan will be useful for acute cases in which hemorrhage is identified. The gold standard study is a brain magnetic resonance imaging (MRI) with and without contrast, which will show ischemic lesions, neurodegenerative/inflammatory lesions, traumatic sequela, and tumoral/vascular pathologies. The brain MRI will also be used for the treatment coordination when fused to the head CT scan.

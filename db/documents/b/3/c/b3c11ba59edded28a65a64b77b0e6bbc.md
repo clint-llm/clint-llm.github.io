@@ -1,0 +1,1 @@
+As stated before, diurnal variations in height can be a source of error. Stature varies at different times of the day by up to 2 centimeters, with a reduction seen in the afternoons and evenings due to reduced elasticity of the intervertebral discs and vertebral muscles.

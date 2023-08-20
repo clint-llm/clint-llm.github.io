@@ -1,0 +1,1 @@
+Utmost care is necessary during the surgical removal of the third molar in the mandibular arch as the tooth can easily get displaced into the space present between the ramus of the mandible and medial pterygoid muscle.

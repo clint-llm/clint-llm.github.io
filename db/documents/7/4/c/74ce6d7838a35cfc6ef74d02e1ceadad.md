@@ -1,0 +1,1 @@
+The Verhoeff stain, also known as the Verhoeff-van Gieson stain, is a histological staining procedure developed by Frederick Herman Verhoeff in 1908. The Verhoeff stain is one of the most commonly-used stains to visualize elastic tissue, as found in blood vessel walls, elastic cartilage, lungs, skin, bladder, and some ligaments.

@@ -1,0 +1,3 @@
+Epidermolytic hyperkeratosis is primarily the result of point or missense mutations in the genes encoding keratin 1 (KRT1) and keratin 10 (KRT10).
+
+The offspring of parents with epidermal nevi may have generalized epidermolytic hyperkeratosis due to genetic mosaicism. The mosaic form of epidermolytic hyperkeratosis, variably labeled ichthyosis hystrix or linear epidermolytic hyperkeratosis, is caused by postzygotic mutations in keratin 1 and keratin 10 during embryogenesis. If these mutations involve gonadal cells, they can be transmitted to offspring and cause phenotypical epidermolytic hyperkeratosis.

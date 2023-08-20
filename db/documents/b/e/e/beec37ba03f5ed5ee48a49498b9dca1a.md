@@ -1,0 +1,1 @@
+In chronic cases, lifelong calcium supplements along with calcitriol are necessary. Most can live healthy, functional lives, but some have persistent complaints that may be improved by replacing parathyroid hormone.

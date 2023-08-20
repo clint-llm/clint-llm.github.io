@@ -1,0 +1,3 @@
+Fortunately, there are no reports of fatalities with topiramate monotherapy. Symptoms of toxicity include sedation, speech disturbance, blurred vision, agitation, ataxia, convulsions, and abdominal pain. ABG analysis in topiramate overdose usually demonstrates hyperchloraemic normal anion gap metabolic acidosis.
+
+In seven cases of topiramate toxicity observed by Polish Poison Control Centers, the most common symptom for topiramate toxicity was somnolence (66.7%), along with agitation, mydriasis, and vertigo (33.4%). One individual experienced three tonic-clonic seizures. There were no fatalities or long-term consequences observed. A specific antidote is not currently available.

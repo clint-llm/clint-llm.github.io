@@ -1,0 +1,3 @@
+Since the emergence of therapeutic communication as a concept in literature, it has been studied in various contexts. However, the definition of therapeutic communication has varied depending on the author and the context.  C. M. Rossiter, Jr. brought this to attention in 1975, outlining several issues to consider with the definition of therapeutic communication.
+
+Later, a now generally accepted definition of therapeutic communication was proposed by Gwen van Servellen in 1997.  In her text, therapeutic communication was defined as an exchange between the patient and provider using verbal and non-verbal methods. The ultimate goal of this communication style was considered to help the patient overcome some form of emotional or psychological distress.

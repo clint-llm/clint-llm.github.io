@@ -1,0 +1,5 @@
+The two most important independent risk factors for the development of tongue SCCA are heavy smoking and alcohol use.
+
+HPV-positive tumors of the base of tongue and oropharynx demonstrate such a great response to chemoradiation that experts in the field are exploring treatment de-intensification protocols to achieve cure while minimizing radiation side effects in these patients.
+
+Of note, even before the risk factors for oral cavity malignancy were known, the concept of field cancerization was introduced by Danely P. Slaughter in 1953. Briefly, he observed that the “benign” epithelium surrounding the oral cavity malignant tumor specimens was abnormal. Microscopic examination of these apparently healthy margins revealed the presence of pre-cancerous or cancerous epithelial cellular changes. This introduced the now popularized idea of a multicentric origin of oral cancer rather than a single anomalous cell as the origin of the disease.

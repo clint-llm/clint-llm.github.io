@@ -1,0 +1,7 @@
+Aspiration of gastric contents is a common cause of perioperative morbidity and mortality. Aspiration can lead to hypoxia, bronchospasm, pneumonitis, pneumonia, acute respiratory distress syndrome, and death. Aspiration pneumonia among surgical patients is associated with a 4.0-fold increased risk of intensive care admission, a 9-day increase in length of stay, and a 7.6-fold increased risk of in-hospital mortality.
+
+The risk of gastric aspiration can be reduced by fasting before planned procedures. The American Society for Anesthesiologists Practice Guidelines for Preoperative Fasting is intended to reduce gastric aspiration risk. These guidelines recommend that healthy patients fast for a minimum of 2 hours for clear liquids; 4 hours for human breastmilk; 6 hours for non-human breastmilk, infant formula, or light meals; and 8 hours for fried foods, fatty foods, and meat.
+
+No clear guidance on appropriate fasting periods is provided for patients at increased risk of delayed gastric emptying or pulmonary aspiration, such as those with diabetes mellitus, gastroesophageal reflux disease, morbid obesity pregnancy, or recent opioid use. Providers also face the challenge of unclear NPO status, as seen in poor historians, patients with dementia, language barriers, and non-compliant patients.
+
+Gastric ultrasound is a simple, fast, non-invasive bedside diagnostic test that provides a qualitative and quantitative assessment of gastric contents.

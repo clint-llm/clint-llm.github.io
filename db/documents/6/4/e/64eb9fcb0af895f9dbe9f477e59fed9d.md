@@ -1,0 +1,1 @@
+Women colonized with G. vaginalis are typically asymptomatic unless they have bacterial vaginosis.

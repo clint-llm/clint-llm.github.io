@@ -1,0 +1,3 @@
+The extensor carpi radialis brevis works in conjunction with the extensor carpi radialis longus to extend and abduct the wrist. In comparison to the extensor carpi radialis longus, the extensor carpi radialis brevis is shorter in length and is partially covered by it. Anatomically, the abductor pollicis longus and extensor pollicis brevis muscles pass superficially to the tendon of the extensor carpi radialis brevis.
+
+The extensor carpi radialis brevis also travels deep to the dorsal carpal ligament (extensor retinaculum) within the second extensor compartment of the wrist on the dorsal surface of the hand. This muscle can be palpated during extension and abduction of the wrist against resistance while the hand is pronated.

@@ -1,0 +1,3 @@
+**Identification and Subsequent Prevention**
+
+Effective kidney stone prevention depends on stone identification. Implementing preventive strategies that include primarily dietary changes and/or pharmacological treatments may be required. Additionally, regardless of underlying etiology, increasing water intake to maintain two liters of urine output per day, a low salt diet, and a decreased amount of animal protein consumption should be a daily practice. For absorptive hyperoxaluria, a low oxalate diet and increased dietary calcium intake are both recommended. Calcium supplements can reduce oxalate absorption, and can be protective. For struvite stones, patients must receive careful follow-up until the infection has resolved.

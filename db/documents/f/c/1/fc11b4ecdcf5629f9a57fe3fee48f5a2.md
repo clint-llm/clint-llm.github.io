@@ -1,0 +1,3 @@
+Biologic response modifiers should not be taken by patients who have active infections, demyelinating diseases, e.g., (multiple sclerosis, optic neuritis), and immunodeficiency syndromes. The use of TNF alfa blockers in chronic granulomatous disease-associated colitis was found to increase rates of severe infections and even mortality.
+
+BRM should also be avoided in patients with chronic recurrent infections and untreated latent TB. TNF inhibitors should be avoided or used with caution in a patient with CHF.

@@ -1,0 +1,1 @@
+Around 50% of patients with odontogenic cutaneous fistulas of the face and neck are initially misdiagnosed,

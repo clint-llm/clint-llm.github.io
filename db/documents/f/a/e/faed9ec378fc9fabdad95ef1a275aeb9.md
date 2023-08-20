@@ -1,0 +1,5 @@
+Trapezius hypertonicity and spasm are common causes of tension headaches among the general population. The path of the accessory nerve and occipital nerve predispose to entrapment, causing the classic "ram's horn" distribution of a tension headache. Tension headaches are bilateral, throbbing, traveling from the occipital region and wrapping around to the top of the head and forehead region. Stress, posture, and inadequate pre-activity stretching can exacerbate these symptoms. Tension headaches are not characterized by prodromal or sensorineural exacerbations related to light or sound, which would be found in cases of migraine headaches. Tension headaches are often treated with a suboccipital release, stretching, stress/anxiety relief, and NSAIDs.
+
+**Spinal Accessory Nerve Lesions**
+
+The spinal accessory nerve can be damaged intracranially or just below the jugular foramen by tumors or trauma, including surgical trauma. Lesions in either location will cause paralysis, hypotonia, hyporeflexia, and atrophy of the sternocleidomastoid and trapezius muscles and are classified as lower motor neuron lesions.

@@ -1,0 +1,3 @@
+Pulmonary hypertension (PH) is defined as mean pulmonary artery pressure greater than 20 mmHg measured during right heart catheterization. The term pulmonary artery hypertension (PAH) describes a subset of patients who also have the presence of pre-capillary hypertension, including an end-expiratory pulmonary artery wedge pressure (less than 15 mmHg) and a pulmonary vascular resistance greater than 3 Woods units.
+
+PAH has three subgroups: idiopathic, heritable, and pulmonary arterial hypertension related to risk factors or associated conditions. This review will focus on idiopathic pulmonary artery hypertension (IPAH), which corresponds to sporadic disease, in the absence of family history, hereditary forms, or risk factors for PAH.

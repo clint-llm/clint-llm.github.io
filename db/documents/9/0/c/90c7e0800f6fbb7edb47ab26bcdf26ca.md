@@ -1,0 +1,1 @@
+Clinicians must remain cognizant when prescribing serotonergic medication. Agents that are most notorious for precipitating such a crisis are often cited as the class of MAO-Is, especially when used as augmenting strategies. As long as the clinician is aware and educates the patient to identify early manifestations of the phenomenon, then the dangers remain minimal.

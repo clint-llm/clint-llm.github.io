@@ -1,0 +1,7 @@
+Imaging modalities can assist in defining the extent and severity of the biceps femoris tendon injury.
+
+**Plain radiographs:**anteroposterior view of the pelvis, anteroposterior and lateral views of the femur may show an avulsed bony fragment of the ischial tuberosity.
+
+**Magnetic resonance imaging (MRI):**due to variable injury patterns, prompt diagnosis with an MRI is important****MRI can be used to assess the degree of tendon retraction and integrity of the surrounding bony structure. There will be increased signal intensity in T2 weighted images in cases of partial tears. In contrast to increased signal intensity in T1 weighted images that is usually seen in cases of tendinopathy.
+
+**Ultrasonography**offers the advantage of zero radiation and is relatively inexpensive. Besides, sonography allows a dynamic assessment, which can be employed to assess the reciprocal movement of the biceps femoris tendon against the surrounding soft tissues (Figure 1).**Color or power Doppler ultrasound**can be used to assess intra-tendinous/muscular hypervascularity, which is indicative of neovascularization or inflammation of the injured tendon. Comparison with the contralateral side may be valuable for diagnosis.

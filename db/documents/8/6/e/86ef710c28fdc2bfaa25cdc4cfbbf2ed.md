@@ -1,0 +1,9 @@
+Cushing disease, or hypophysial corticotropin producing adenoma, accounts for the vast majority of Cushing syndrome causalities. Although the discrete threshold of pituitary adenoma has not been identified yet, tumor size of equal or greater than 6 millimeters is highly indicative of Cushing disease as the causality of Cushing syndrome.
+
+The treatment plan for pituitary adenomas mostly consists of transsphenoidal surgery by utilizing a microsurgical approach, which might cause up to 90%, and less than 70% absolute resolution in micro and macroadenomas, respectively.
+
+Ectopic ACTH, mostly due to paraneoplastic causalities, accounts for the second-most common cause of ACTH-dependent cortical hyperplasia. The three most common types of the mentioned etiology of Cushing syndrome includes lung, bronchial carcinoid tumor, and small cell lung cancer.
+
+The treatment plan for ectopic ACTH depends on the functional status of the patient. In those affected with clinically symptomatic Cushing syndrome and acceptable functional status, surgical resection of the inciting tumor is highly recommended while medical treatment in those with poor functional status is preferred. Moreover, medical treatment might be prioritized in demanding emergent control of the elevated level of cortisol, and unknown primary tumor. On the other hand, the treatment plan for those with intractable hypercortisolism and inoperable Cushing syndrome due to ectopic ACTH hypersecretion, bilateral surgical resection of the adrenal glands, and long term hormone replacement is preferred.
+
+ACTH-independent hypercortisolism or adrenal originated Cushing syndrome might occur due to a couple of causalities, including primary pigmented nodular adrenal disease (PPNAD) or ACTH-independent macronodular adrenal hyperplasia (AIMAH).

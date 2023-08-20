@@ -1,0 +1,1 @@
+The prognosis of tropical sprue is usually good. The response with treatment has been excellent in people who acquired it during travel to endemic regions, with rare or no recurrence. The recurrence rate in residents of endemic regions is reported to be around 20%, with frequent relapses over the years. However, recent studies have shown improvement in the trends.

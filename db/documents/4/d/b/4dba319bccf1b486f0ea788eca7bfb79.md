@@ -1,0 +1,5 @@
+The etiology of night eating syndrome has remained unknown.  Recent research has proposed a link between a psychological course, neurological, and/or genetic processes. A study by Lamerz and colleagues conducted on children in Germany showed that patients were more likely to develop night eating syndrome if their mothers had night eating behavior.  These patients were compared to children of mothers who did not have night eating behavior.
+
+A recent study compared night eating behaviors in families who had a person with the condition to those families who did not. The results showed that those with NES had first-degree relatives with the disorder more often than the control group suggesting a heritability aspect to the disorder.
+
+Stress can exacerbate the symptoms of the disorder, and symptoms can be alleviated by decreasing stress levels.

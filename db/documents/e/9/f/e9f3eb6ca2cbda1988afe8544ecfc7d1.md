@@ -1,0 +1,1 @@
+Patients with acute and active disease should have low sodium in their diet and should also be encouraged to restrict their fluid intake.

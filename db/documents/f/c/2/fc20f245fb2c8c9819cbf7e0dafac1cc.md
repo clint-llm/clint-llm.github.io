@@ -1,0 +1,3 @@
+Many precise molecular events guide normal organ system development. The gastrointestinal system, for instance, arises from the foregut. Key genes called Hox genes are involved in specific molecular pathways for gut development.
+
+Hox gene expression is highly regulated and plays a role in determining the fate of different parts of the gut. For example, expression of Hoxa3 and Hoxb4 genes have been found in the foregut, while the expression of Hoxc5 occurs in the midgut, and Hoxa13 genes are expressed in the hindgut. This pattern of gene expression contributes to the molecular differentiation of the digestive tract.

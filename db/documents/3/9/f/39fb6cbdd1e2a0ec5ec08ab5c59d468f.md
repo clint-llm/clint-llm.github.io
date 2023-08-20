@@ -1,0 +1,1 @@
+The nails have multiple functions, including protective, mechanical, thermoregulatory, and cosmetic. Nails provide a rigid barrier for the distal digits and prevent hypertrophy that has been shown to ensue after great toe avulsions.

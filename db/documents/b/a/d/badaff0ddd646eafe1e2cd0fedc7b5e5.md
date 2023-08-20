@@ -1,0 +1,1 @@
+Temporomandibular disorder classic triad includes pain in the temporomandibular joint, reduced mandibular range of motion, and functional clicking. This can impair patients' capacity to perform everyday tasks such as eating, speaking, or yawning, significantly impacting their quality of life.

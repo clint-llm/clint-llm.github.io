@@ -1,0 +1,1 @@
+Recurrent laryngeal nerve injuries are the most feared complication of parathyroid and thyroid operations due to the subsequent rise in postoperative morbidity. Some other symptoms of recurrent laryngeal nerve injury include vocal cord paresis or palsy, dyspnea, and deglutition.

@@ -1,0 +1,1 @@
+MIBG negative metastatic tumors have a very poor prognosis. 123I-MIBG positive tumors can be treated with MIBG therapy in the form of 131I-MIBG, which emits beta radiation. There is no reliable data about its efficacy due to the lack of comparable study designs.

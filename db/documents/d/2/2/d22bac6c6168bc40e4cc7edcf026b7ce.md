@@ -1,0 +1,1 @@
+The xeroderma diagnosis is clinical; history and physical examination are sufficient to recognize this common condition accurately. Healthcare providers may use laboratory testing to assess underlying causes, such as thyroid hormone levels, vitamin levels, etc. A skin biopsy may be obtained in rare cases to distinguish from mimicking conditions.

@@ -1,0 +1,3 @@
+If the patient is in an in-patient facility, the nurse will review the diet order. All healthcare team members need to have a complete understanding regarding what items are acceptable in a clear liquid diet. This should be reviewed in detail with the patient as well. In addition, conversations with the interprofessional team should occur as needed about the patient's readiness to advance the diet.
+
+If a person will be utilizing a clear liquid diet at home, it is important to ensure proper patient education when ordering such a diet, as it can be both challenging and frustrating for patients.

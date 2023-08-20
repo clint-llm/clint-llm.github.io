@@ -1,0 +1,1 @@
+Studies vary on outcomes of herniated disc prognosis. But the majority of cases respond to conservative management. One study did show that 30% of patients complain of back pain at one year

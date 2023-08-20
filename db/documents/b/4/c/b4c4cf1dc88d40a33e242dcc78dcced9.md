@@ -1,0 +1,1 @@
+TPP primarily involves the respiratory and musculoskeletal systems. The central nervous, integumentary, vascular, and lymphatic systems also affect the TPP.

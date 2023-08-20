@@ -1,0 +1,1 @@
+The spinal nerves S3-S5 originate in the conus and provide motor and sensory innervation to the lower extremities, bowel, bladder, and perineum. They are also crucial for sexual function. Spinal nerves L2-L5, S1-S5, and Co1 continue inferiorly as the cauda equina. Compression of these nerves can produce cauda equina or conus medullaris syndromes.

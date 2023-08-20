@@ -1,0 +1,1 @@
+The etiology of narcissistic personality disorder is multifaceted. Some studies have suggested a genetic predisposition toward the disorder.

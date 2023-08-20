@@ -1,0 +1,3 @@
+Laboratory tests to assess renal function, including either a basic or comprehensive metabolic panel, may be used. Additionally, a urinalysis, urine electrolytes, and urine pH can help direct towards a specific type of stone.
+
+A KUB (kidney-ureter-bladder) X-ray is also an option; however, uric acid stones are difficult to assess with this imaging. A CT of the abdomen and pelvis without contrast can also be performed and has higher sensitivity. Contrast medium is typically avoided when there is a concern for a kidney stone as enhancement of the vessels and ureters can obscure stone findings.

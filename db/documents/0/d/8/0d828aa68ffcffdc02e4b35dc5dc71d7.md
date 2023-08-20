@@ -1,0 +1,1 @@
+Depending on the application, forearm splinting may be done alone or may require an assistant. If the patient can follow direction, an assistant may not be necessary. If the patient is not cooperative or is sedated, an assistant will be required to hold the forearm.

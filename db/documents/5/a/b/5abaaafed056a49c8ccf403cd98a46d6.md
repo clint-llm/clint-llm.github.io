@@ -1,0 +1,1 @@
+Skeletal muscle develops by epitheliomesenchymal transformation and originates from the somatic mesoderm. The epaxial myotomes develop the extensor muscles of the vertebral column. The embryological development of the back muscles has been a challenging field to study because current preparation methods make it challenging to identify muscle bundle direction.

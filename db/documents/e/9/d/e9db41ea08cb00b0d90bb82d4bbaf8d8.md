@@ -1,0 +1,3 @@
+There is a clear difference in the distribution of senile plaques and neurofibrillary tangles in posterior cortical atrophy as compared to Alzheimer's disease. This can be seen in post-mortem findings where primary visual cortices and visual association areas are mainly involved compared to patients with typical Alzheimer disease.
+
+There is a greater density of senile plaques and neurofibrillary tangles in the occipitoparietal area than in the frontal regions.

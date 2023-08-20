@@ -1,0 +1,1 @@
+The nose is an anatomically complex structure with wide variation. The nose plays a significant role in facial appearance and functionality.

@@ -1,0 +1,1 @@
+Complications are rare and are usually related to radionuclide administration, including venous extravasation or arterial injection. Allergic reactions are exceedingly rare but have been described.

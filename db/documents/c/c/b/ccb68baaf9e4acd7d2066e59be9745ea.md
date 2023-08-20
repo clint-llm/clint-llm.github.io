@@ -1,0 +1,1 @@
+There is no specific recommended antidote for an overdose of inamrinone. However, the FDA recommends implementing general cardiac support measures such as fluid and electrolyte replacement if necessary. It is important to consult a medical toxicologist in an accidental overdose of inamrinone.

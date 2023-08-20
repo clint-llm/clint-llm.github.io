@@ -1,0 +1,1 @@
+Axial flaps do not require any specialized equipment and are less technically demanding compared to microvascular free transfer. The equipment required is generally the same for other regional and local flap surgery.

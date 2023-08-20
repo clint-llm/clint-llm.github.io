@@ -1,0 +1,1 @@
+Once cordotomy is completed, the patient's vital signs and neurological status need to be monitored. The patient may develop urinary retention that may require catheterization, apnea, and fecal incontinence. The oxygen saturation must be continually monitored until the patient is stable.

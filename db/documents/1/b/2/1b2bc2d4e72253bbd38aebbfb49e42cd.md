@@ -1,0 +1,3 @@
+The levator ani muscle represents the evolutionary byproduct remnants of tailed mammalians. The muscle development is apparent as early as the ninth week of fetal life, where the rudimentary forms begin to form and can already be separated into three parts by loose mesenchyme. It is derived from the pubocaudal group of muscles. In the fourteenth week of fetal life, the distinctive funnel shape is visible. By the second trimester, the differences in the male and female forms of the levator ani muscles become more evident. Pubococcygeus and the iliococcygeus get differentiated with the help of the tendinous arch.
+
+The embryological sheet from which this muscle complex derives is the mesoderm.

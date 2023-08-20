@@ -1,0 +1,1 @@
+Laugier-Hunziker syndrome has more frequently been reported in the Asian population and displays a higher incidence in the Chinese population.

@@ -1,0 +1,3 @@
+Ciliary ganglion lesions lead to mydriasis or tonic pupil. In this condition, the pupil is non-reactive to light and slowly accommodating. Adie syndrome or Holmes Adie syndrome is a condition caused by a bacterial or viral infection, and it leads to inflammation and damage of ciliary ganglion. In this condition, the pupil is tonically dilated and slowly reacting to light, but a definite response to accommodation is present.
+
+In addition to Adie syndrome, a tonic pupil can result from other conditions like Ross syndrome, diabetic neuropathy, infection of ciliary ganglion like  Herpes zoster virus infection, trauma to the ciliary ganglion, damage to the short ciliary nerve, intra-orbital tumors, damage to Edinger Westphal nucleus, etc.

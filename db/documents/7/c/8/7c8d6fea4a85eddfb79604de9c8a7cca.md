@@ -1,0 +1,1 @@
+Carotid bodies develop from a conglomeration of neural crest cells, nerve fibers, and blood vessels after sympathetic and cranial nerve ganglia invade the wall of the third branchial arch’s mesenchymal primordia.

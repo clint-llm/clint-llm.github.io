@@ -1,0 +1,1 @@
+Cheilitis granulomatosa (CG) is a rare chronic disease characterized by a recurrent firm swelling of one or both lips, and, histologically, by a granulomatous infiltrate. An isolated granulomatous machrochelitis defines the cheilitis granulomatosa of Miescher (CGM).

@@ -1,0 +1,1 @@
+It is recommended for the primary physician to consult with an infectious disease specialist regarding confirmation of the disease, treatment, and follow-up. Pediatric infectious disease specialists are best suited to manage congenital syphilis.

@@ -1,0 +1,1 @@
+Two ongoing clinical trials to evaluate potential therapeutic interventions for ALD are actively recruiting. NCT03727555 clinical trial evaluates the use of lentiviral vector TYF-ABCD1 to correct the defective ABCD1 gene associated with ALD. Another trial, NCT03852498, aims to assess the effect of autologous CD34+ HCT on ALD.

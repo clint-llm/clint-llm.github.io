@@ -1,0 +1,1 @@
+Continuous medical education can be obtained through the CDC website regarding yellow fever and yellow fever vaccine.

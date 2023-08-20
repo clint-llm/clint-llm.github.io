@@ -1,0 +1,11 @@
+The anterior inferior cerebellar artery is commonly the most caudal branch of and arises from the lateral wall of the lower or middle third of the basilar artery. Infrequently, however, the AICA originates from the distal vertebral artery. Anterior inferior cerebellar artery usually originates as a single trunk but duplication of the main trunk is a well-known variation. The AICA exists in hemodynamic balance with the other cerebellar arteries, namely, the superior cerebellar (SCA) and posterior inferior cerebellar (PICA), the sizes of these vessels being highly variable depending on which is the dominant arterial supply to the cerebellar cortex.
+
+After originating from the lateral wall of basilar artery it courses posterolaterally, ventral to the pons in the prepontine cistern, then enters the cerebellopontine angle and continues along the anterior cerebellar surface. The main trunk bifurcates into the superior and inferior trunks at the pontomedullary junction adjacent to the exit of facial and vestibulocochlear nerves from the brain stem.
+
+The anterior inferior cerebellar artery can be divided into four segments including the anterior pontine (close to the abducent nerve), lateral pontine (close to the facial and vestibulocochlear nerves), flocculopeduncular, and cortical segments. The lateral pontine segment can be further divided into pre-meatal, meatal, and postmeatal segments based on their relationship with the internal auditory meatus.
+
+The labyrinthine artery, also called the internal auditory artery is in most cases a branch of the anterior inferior cerebellar artery, less commonly it arises directly from the basilar artery.
+
+The anterior inferior cerebellar artery supplies the middle cerebellar peduncle, lower lateral pons, anteroinferior surface of the cerebellum, flocculus and the choroid plexus of the lateral ventricle.
+
+The labyrinthine artery supplies labyrinth and cochlea of the inner ear along with facial (CN VII) and vestibulocochlear (CN VIII) nerves.

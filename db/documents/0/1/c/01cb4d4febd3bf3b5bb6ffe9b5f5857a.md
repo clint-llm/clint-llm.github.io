@@ -1,0 +1,1 @@
+CVID affects approximately 1 of 25000 individuals, with a higher prevalence in northern Europe.

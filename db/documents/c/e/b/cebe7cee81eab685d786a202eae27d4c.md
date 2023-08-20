@@ -1,0 +1,5 @@
+The diagnosis and management of Noonan syndrome require an interprofessional team that includes a geneticist, pediatrician, nurse practitioner, primary care provider, ENT surgeon, audiologist, ophthalmologist, and a cardiologist.
+
+There is no cure for Noonan syndrome as it is a genetically inherited disease. Management of Noonan syndrome is targeted toward symptomatic improvement and supportive care. Interprofessional care is often needed; multiple organ systems are to be addressed. Hearing tests and ophthalmic exams are appropriate throughout childhood. In males with cryptorchidism, orchiopexy should be performed when the child is approximately one-year-old if the testes have not descended. This procedure is done to reduce the risk of developing testicular cancer in adulthood.
+
+For congenital heart defects, an echo and ECG should be obtained. Even in patients without a diagnosis of cardiac defects, a cardiac evaluation is needed every five years. Short stature can be evaluated for the treatment of growth hormone. Appropriate supportive measures can be used to target lymphedema.

@@ -1,0 +1,1 @@
+Patients who are systemically unstable for a surgical procedure or who are unwilling to accept the potential surgical complications. Relative contraindications include chronic sinusitis, orbital infection, immunocompromise, bleeding disorders, and atretic sinuses.

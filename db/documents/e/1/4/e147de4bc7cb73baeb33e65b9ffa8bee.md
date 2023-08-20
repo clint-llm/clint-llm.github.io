@@ -1,0 +1,1 @@
+An azygos lobe is a rare, anatomical variant of the upper lobe of the right lung found in approximately 1% of anatomic specimens and 0.4% of chest radiographs

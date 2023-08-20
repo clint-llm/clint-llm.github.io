@@ -1,0 +1,1 @@
+The wound management team is responsible for taking care of any patient with pressure sores. This team usually includes the primary attending, dermatologist and/or plastic surgeon, nurse, nurse assistant, dietitian, and physical therapist. Daily skin check-up is required, especially for patients who are at a high risk for skin breakdown based on the Braden and Norton scales.

@@ -1,0 +1,1 @@
+Inverted urothelial papilloma is a rare tumor that presents as a non-invasive endophytic urothelial neoplasm of the renal pelvis, ureter, or urinary bladder accounting for less than 1% of all urothelial neoplasms.Paschkis in 1927, there have been more than 1,000 cases reported in the literature.

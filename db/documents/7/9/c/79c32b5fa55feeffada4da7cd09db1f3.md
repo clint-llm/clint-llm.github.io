@@ -1,0 +1,1 @@
+Many athletes recover rapidly with only minimal intervention, and most are effectively treated in the pre-hospital setting and do not require treatment at a hospital. A study evaluating participants in the Gothenburg half marathon demonstrated only 1.19 to 2.21 per one thousand needed more intervention than ambulation and oral hydration.

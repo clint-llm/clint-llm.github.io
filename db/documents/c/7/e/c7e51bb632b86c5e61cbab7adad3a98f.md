@@ -1,0 +1,7 @@
+Giardia lamblia enteritis is caused by a unicellular flagellated protozoan pathogen Giardia lamblia (G. duodenalis, G. intestinalis). In addition to humans, Giardia enteritis has been reported in cats, dogs, cattle, sheep, and other livestock. It is spread via the fecal-oral route, most commonly through contaminated swimming and drinking water.
+
+Giardia has different assemblages typed A to G, with A and B types occurring in humans and animals and types C to G occurring exclusively in animals. Assemblages A and B can be spread zoonotically; however, this is not the most common route of transmission.
+
+The reproductive cycle of giardia includes nonmotile cysts and motile trophozoites. Much like other parasites, the cysts are responsible for transmission of Giardia enteritis. They are immediately infectious when released into the environment via feces and can remain infectious for up to almost 3 months, thriving and reproducing in cool, damp areas, especially river water. The trophozoites are responsible for gastroenteritis and other symptoms of the disease. Both may be excreted in stool, but only the cysts survive long-term.
+
+Giardia lamblia is not considered an opportunistic pathogen, although rates in HIV-positive and immunocompromised patients are slightly higher.

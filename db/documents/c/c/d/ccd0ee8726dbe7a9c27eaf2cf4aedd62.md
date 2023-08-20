@@ -1,0 +1,1 @@
+Umbilical hernias are common in children, It is estimated 10-30 % of all white children at birth, decreasing to 2-10% at one year, with boys and girls affected equally

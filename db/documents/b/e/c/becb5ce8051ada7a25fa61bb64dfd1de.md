@@ -1,0 +1,1 @@
+Differential diagnosis includes cyanotic congenital heart disease, which presents with cyanosis. iNO treatment worsens the clinical condition in total anomalous pulmonary venous return and should be avoided. Infants with PDA, transposition of great vessels, and coarctation of the aorta can present with differential cyanosis.

@@ -1,0 +1,3 @@
+An understanding of the pathogenesis of characteristic features of DRS, such as globe retraction and shoots, is essential in the evaluation and management of the condition. Paradoxical innervation of the LR by oculomotor nerve leads to co-contraction of lateral rectus (LR) and medial rectus (MR) on attempted adduction. This leads to globe retraction, which is usually accompanied by a narrowing of the palpebral aperture.
+
+Another characteristic feature is shoots, which can be explained by mechanical factors as well as innervational anomalies. The mechanical cause of these vertical movements is due to a “bridle effect” or “leash effect” of the tight LR.

@@ -1,0 +1,1 @@
+The most salient or easily applied strategums from the aforementioned learning theories can be administered when educating patients. Understanding the nuances of learning can help improve patient compliance, leading to an improved prognosis. Thus, it is imperative for interprofessional teams to understand which teaching modalities may engender the best compliance.

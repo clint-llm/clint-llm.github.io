@@ -1,0 +1,1 @@
+The description of lung infarction of a thromboembolic etiology was first described by Virchow in 1856.

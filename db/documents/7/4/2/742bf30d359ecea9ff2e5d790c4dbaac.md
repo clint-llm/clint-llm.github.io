@@ -1,0 +1,3 @@
+Evaluation should focus on the identification of the primary cause and reversible secondary contributors, such as hypovolemia, pump failure, or obstruction that is causing shock. Patients must be placed on continuous cardiopulmonary monitoring.
+
+The following labs should be monitored: Complete blood count with differential (CBC-d), basic metabolic profile with liver function test, disseminated intravascular coagulation (DIC) panel, arterial blood gas, urinalysis, and pan cultures (blood, urine, wound, tracheal if intubated). Inflammatory markers, including C-reactive protein or procalcitonin and lactate levels, should be monitored. A chest x-ray should be obtained to monitor the degree of ARDS.

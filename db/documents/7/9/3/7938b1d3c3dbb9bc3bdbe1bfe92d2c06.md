@@ -1,0 +1,1 @@
+Cutis marmorata telangiectatica congenita is of unknown etiology; however, several studies have attributed the cause of the disease to be multifactorial.

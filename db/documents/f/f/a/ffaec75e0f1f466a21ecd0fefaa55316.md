@@ -1,0 +1,1 @@
+Complications associated with breast self-examination are principally secondary to false-positive findings resulting in increased benign lesion identification, unnecessary imaging, biopsies, and anxiety provoked by a possible cancer diagnosis.

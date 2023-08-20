@@ -1,0 +1,1 @@
+In general, sciatica can be managed conservatively. However, if the spinal mass effect is diagnosed, for example, an epidural abscess or epidural hematoma, immediate consultation with a spinal surgeon should be obtained.

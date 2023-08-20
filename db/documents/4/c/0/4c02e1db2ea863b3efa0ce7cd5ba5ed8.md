@@ -1,0 +1,1 @@
+Kupffer cells stain positive for macrophage markers, including ED1, E2, and Ki-M2R in rats and F4/80 in mice. Their lysosomes stain positively for acid phosphatase. Kupffer cells can phagocytize other tracer substances, such as carbon, India ink, or latex microspheres, which are helpful in their identification.

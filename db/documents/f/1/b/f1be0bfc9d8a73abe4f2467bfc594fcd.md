@@ -1,0 +1,1 @@
+Congenital milia tend to resolve spontaneously without scarring within a couple of weeks, though they may persist for several months, usually disappearing during the first month of life. Acquired milia may continue without treatment.

@@ -1,0 +1,3 @@
+Patients with cutaneous sarcoidosis should be educated about their diagnosis, its chronicity, and the increased association with pulmonary sarcoidosis. The health care providers should convey the importance of regular follow-ups for disease monitoring and medication toxicity monitoring. Patients should be educated about the common symptoms of specific organ involvement as some of them may develop symptoms several years after the initial presentation.
+
+Patients on medications like methotrexate should be educated about contraception to avoid pregnancy while taking it. They should receive age-appropriate vaccines prior to initiating anti-TNF-alfa antagonists.

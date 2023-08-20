@@ -1,0 +1,1 @@
+Physeal injuries are frequently encountered in the pediatric population. It is important to review with the patient and family the risk of growth arrest and deformity after injury.  It is important to watch for leg length discrepancy and to plan for possible surgical intervention if needed based on the patient's age/growth left.

@@ -1,0 +1,1 @@
+MDD has been found to have the highest lifetime prevalence of any psychiatric disorder. The lifetime prevalence rate for MDD is 5 to 17 percent, with almost double in women than in men. The mean age of onset for MDD is about 40 years. Risk factors can be categorized into three broad groups: internal factors, external factors, and adverse life events.

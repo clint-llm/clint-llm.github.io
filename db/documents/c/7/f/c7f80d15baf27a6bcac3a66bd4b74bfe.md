@@ -1,0 +1,1 @@
+Patients should be informed that myotonias are inherited disorders that are no fault of their own. Additionally, treatment options exist and are best managed with frequent routine follow-up with a specialist. Patients should not feel despair, as patients with myotonia disorders can mostly live routine lives with trigger avoidance, diet changes, and pharmacological treatment.

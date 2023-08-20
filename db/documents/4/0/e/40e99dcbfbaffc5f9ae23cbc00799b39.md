@@ -1,0 +1,1 @@
+As HDV depends on HBV, prevention can be achieved with hepatitis B vaccination. If the host is immune to HBV, they are subsequently protected against HDV. Patients who are at risk of contracting HDV infection should be encouraged to receive hepatitis B vaccine.

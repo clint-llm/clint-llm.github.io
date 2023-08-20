@@ -1,0 +1,3 @@
+Malocclusion is often developed when a child begins transitioning into mixed dentition. Overall, there is not a significant difference between males and females. However, female dental eruption and maturation tend to occur faster than males. Therefore it is common for females to receive orthodontic treatment before males.
+
+Studies have shown that the black population has malocclusions more frequently. However, there is no genetic evidence supporting this.

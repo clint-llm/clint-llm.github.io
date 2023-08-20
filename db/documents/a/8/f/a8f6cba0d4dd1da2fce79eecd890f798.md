@@ -1,0 +1,7 @@
+The myocardium depends on a continuous supply of oxygen due to its limited anaerobic capacity. When the coronary flow is unable to meet the demands of the myocardial tissue, myocardial ischemia results. Prolonged ischemia can compromise the function and integrity of the myocardium, resulting in decreased cardiac output, arrhythmia, and/or death.
+
+The most common etiology of compromised coronary circulation is coronary artery disease (CAD), the details of which are beyond the scope of this discussion. The build-up (and rupture) of plaques causes decreased coronary luminal diameter, resulting in a mismatch between oxygen demand and delivery. Certain medications such as nitroglycerin and calcium channel-blocking agents exist, which can contribute to relief from myocardial ischemia by dilating the large coronary arteries.
+
+Similarly, several other conditions exist that can lead to such a mismatch between oxygen demand and delivery to the myocardium. Hypertension is a common condition that results in increased afterload. In response, cardiac muscle hypertrophies over time. The net result is increased oxygen demand due to increased muscle mass and decreased coronary flow due to increased ventricular pressure.
+
+Further understanding of coronary circulation physiology and pathophysiology has and will allow clinicians to tackle the issues mentioned above from a preventive aspect. Regular exercise training has shown a decrease in CAD morbidity and mortality through various adaptations in the cardiovascular system.

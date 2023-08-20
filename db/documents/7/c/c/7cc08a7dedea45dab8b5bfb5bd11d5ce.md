@@ -1,0 +1,5 @@
+The vast majority of patients with coccydynia do not require surgical treatment (e.g., coccygectomy; surgical amputation, or removal, of the coccyx).
+
+In rare patients that undergo coccygectomy, it is important to monitor the surgical site for infection. The coccygectomy site is very close ot the anus, and infection is common. One study by Dr. Wood from Harvard University found that 39% of coccygectomy patients had postoperative wound problems, with 22% of patients having an infection at the surgical site.
+
+When pain persists despite coccygectomy, it is essential to assess this body region with updated imaging studies (e.g., radiographs and/or MRI). Sometimes postoperative imaging studies will reveal that the surgery inadvertently failed to remove one or more coccygeal bones or coccygeal bony fragments.

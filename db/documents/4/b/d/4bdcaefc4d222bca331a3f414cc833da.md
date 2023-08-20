@@ -1,0 +1,1 @@
+There is no known antidote on the market today for the overdose or toxicity of setmelanotide. In the case of an overdose or toxicity, it is recommended to initiate appropriate supportive treatment based on the clinical signs and symptoms of the patient.

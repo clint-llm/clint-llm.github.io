@@ -1,0 +1,1 @@
+Patients with acute fatty liver of pregnancy and their infant should undergo testing for LCHAD deficiency. Patients should receive counseling that AFLP can still occur in subsequent pregnancies even if testing for LCHAD is negative, and therefore, patients planning another pregnancy can potentially benefit from a specialist referral.

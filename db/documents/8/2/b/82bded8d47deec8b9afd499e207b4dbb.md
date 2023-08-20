@@ -1,0 +1,1 @@
+Microscopic examination takes place after administration of 10% to 20% potassium hydroxide (KOH) solution to the skin scrapings.  Gentle heating, in addition to the KOH preparation, serves to dissolve the keratin and emphasize the dermatophyte itself. Microscopic visualization reveals septate and branching long, narrow hyphae without constriction.

@@ -1,0 +1,1 @@
+Pharyngeal pouches are endodermal out-pockets occurring between the pharyngeal arches in embryological development. Various transcription factors regulate the mechanical bending of the endodermal tube, resulting in pharyngeal pouch formation.

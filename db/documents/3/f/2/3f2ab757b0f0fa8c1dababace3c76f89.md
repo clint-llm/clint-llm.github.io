@@ -1,0 +1,1 @@
+An attractive smile results from a harmonious relationship between the teeth, the extent of the gingival display, and the lip framing while smiling.

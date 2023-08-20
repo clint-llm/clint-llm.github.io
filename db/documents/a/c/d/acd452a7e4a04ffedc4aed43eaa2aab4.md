@@ -1,0 +1,49 @@
+# Introduction
+
+Essential to any organism’s survival is its ability to sustain a stable internal environment. In medicine, this balance is referred to as homeostasis, a relatively stable state that the body attempts to maintain for a smoothly functioning system.
+
+# Issues of Concern
+
+When a cell is exposed to an insult, external or internal, it can react to this injury differently depending on the circumstance. Cell response can lead to adaptation, apoptosis, or necrosis. Adaptation successfully maintains homeostasis by reversible responses that can alter cell function and structure. A physiological example of adaptation is seen in pregnancy, where uterine cells increase in size (hypertrophy) and number (hyperplasia). Adaptations may also result in atrophy, a decrease in cell size and activity that is classically seen in the disuse of certain muscle groups. Metaplasia is an adaptation that results in a change of the cell type. Pathologically, this is seen in diseases such as Barrett esophagus, where increased exposure of acid to esophageal cells from the stomach results in a phenotypical change in cells from columnar to squamous.
+
+# Function
+
+If a cell is unable to adapt to increased stress, injury results. Cell injury is reversible until a certain threshold where it progresses to cell death. Historically, cell death has been designated into two classes: necrosis and apoptosis. Necrosis is often coined as accidental death as it is generally seen as not controlled by the cell. Apoptosis, on the other hand, is typically viewed as programmed cell death, regulated and controlled. The two differ in presentation, morphology, and mechanism though there has been recognized overlap, which will be discussed at the end of this review.
+
+Necrosis typically occurs when there is extensive damage to the cell membrane and internal structures that push the cell past reversible injury. It is usually the result of acute external factors, such as trauma, ischemia, toxins, or other non-physiologic mechanisms. Necrotic cell death results in a specific presentation such as damage to the plasma membrane, cellular swelling, and unregulated nuclear degradation.
+
+Ischemia, for example, typically ends in necrotic cell death. With the decreased delivery of oxygen to the cell, oxidative phosphorylation performed by the mitochondria becomes compromised. This results in a decreased amount of ATP available in the cytoplasm. In cells with a Na+/K+ (sodium-potassium) pump, lack of sufficient ATP disables the transporter. Sodium begins to increase within the cell as it can no longer be pumped out. This results in cellular swelling as the increase in intracellular sodium pulls water in. Cellular swelling, blebbing, and loss of microvilli are typical presentations of necrotic cell death. If ATP is restored in time, these presentations are reversible. If ATP is not restored before further cell damage, the loss of ATP progresses to have extensive effects on the cell.
+
+Without the restoration of ATP, the Ca+ pump ceases to function, causing an influx of calcium ions. Free calcium levels are usually kept low inside the cytoplasm as calcium activates many cellular processes. With the increased free calcium now in the cell, it begins to interact with cellular enzymes that cause further membrane and nuclear damage.
+
+Free cytoplasmic calcium increases mitochondrial permeability by opening a transitional pore. Exposure of mitochondrial contents artificially releases cytochrome c (Cyt c), an important factor in the electron transport chain as well as in apoptosis and cell death. Cyt c begins a cascade of cell injury by direct activation of caspases. This would be one way that necrosis and apoptosis begin to overlap, as caspase activation is a primary mechanism of apoptotic death. In necrotic cell death, the release of caspases is coincidental to cellular injury. In apoptosis, caspase activation is purposeful and initiated through a series of regulating factors.
+
+The cellular characteristics of necrotic cell death do not always follow the pattern seen in ischemic injury, but it serves as a good example. Necrosis results in cell lysis and exposure of cytoplasmic contents in an uncontrolled setting as the plasma membrane is damaged, regardless of the type of damage that led it to this stage. A release of cellular content into the surrounding area generally elicits an inflammatory response not seen in apoptosis.
+
+Clinically, cell lysis and enzymatic leakage are used to assess a potential pathology in patients. When a cardiac cell is damaged and then results in cell lysis, cell-specific enzymes are leaked into the extracellular space. The presence of these cell-specific enzymes, troponin, and CK-MB (creatine kinase-muscle/brain), can be used to diagnose myocardial infarctions.
+
+If necrotic cell death is considered accidental cell death, then apoptosis would be referred to as a type of programmed cell death. Recently, a form of controlled necrosis called necroptosis was identified. Apoptosis may be viewed as self-sacrifice by the cell to prevent collateral damage to the surrounding area. Although the mechanisms that lead to necrosis are always pathological, apoptosis does not share the same distinction. Apoptotic mechanisms are used during embryology to shape fingers, selectively resorbing the webbing between digits.
+
+Characteristics of apoptosis are cell shrinkage, an intact membrane, chromatin condensation (pyknosis), apoptotic bodies, and lack of inflammatory response. Potentially dangerous cytoplasmic enzymes are carefully packaged and blebbed off the membrane in vacuoles called apoptotic bodies. Lymphocytes later phagocytose these bodies without causing local damage. The key to controlled apoptosis is caspases.
+
+Caspase is a portmanteau for cysteine-aspartic proteases, named for the active site cysteine and its cleaving after aspartic acid residues. Caspases exist as inactive enzymes (zymogens) until appropriate activation by apoptotic signals.
+
+If a cell recognizes it is infected, it may signal it for destruction by altering its membrane, flipping the inner leaflet membrane out to expose phospholipids (specifically, phosphatidylserine) to the outer leaflet, and ultimately triggering a response from patrolling lymphocytes. The lymphocytes, upon noticing the altered membrane, will initiate the extrinsic apoptosis pathway for that cell.
+
+An outside signal initiates the extrinsic pathway via death receptors (DRs). In T-cell mediated death, the plasma membrane-associated death receptor (FasR) is engaged by the T-cell death ligand (FasL). The FasR/FasL interaction, also known as the death receptor pathway, fuses inner membrane Fas-associated death domain proteins (FADD). FADD (or the death effector domain), newly formed, can combine with pro-caspase 8 (zymogen of caspase 8).
+
+Caspases are broken into two groups: activators and executioners. Appropriately named, activator caspases 2, 8, 9, and 10 switches on the executioners, caspases 3, 6, and 7. The executioner caspases control DNA fragmentation, membrane alterations, chromatin condensation, and many other factors manipulating the cell content for apoptosis. Caspase 9 released from the extrinsic pathway will extinguish the cell unless inhibited by the survival factor XIAP (X-linked inhibitor of apoptosis protein). Because of its ability to escape the death cycle of a cell, XIAP has been connected to several types of cancer.
+
+The intrinsic apoptotic pathway (also referred to as the mitochondrial pathway) responds to triggers from inside the cell, like irreparable DNA damage.
+
+BCL-2 is part of the BCL family with anti-apoptotic properties (along with BCL-X and MCL-1).
+
+BCL-2 is inactivated by pro-apoptotic BH3 proteins Bim, Bad, or Bid (subsets of the BCL-2 family that contains only a single BH3 domain). Inactivation of BCL-2 allows Bax/Bak to combine and form a pore, letting IMS proteins leak into the cytoplasm. Newly released Cyt C begins the formation of apoptosomes by combining with adaptor proteins (Apaf-1) in the cytoplasm. Apoptosomes activate the zymogen pro-caspase 9, similar to how DISC activated pro-caspase 8.
+
+# Clinical Significance
+
+Cells that harbor a mutation in BCL-2 where it increases quantity or remains to inhibit Bak/Bax despite death signals can become cancerous. For example, follicular lymphoma has a quantity mutation that leads to excessively high levels of BCL-2, decreasing the propensity of these cells to release Bak/Bax and enter apoptosis. If there is a lot of BCL-2 protecting the cell, there would need to be a greater increase in Bim/Bad/Bid to counter, which does not happen in this cancerous state.
+
+P53 is a tumor suppressor gene that can work in this same Bax/Bak pathway. P53 functions as a regulator within the cell cycle at the G1/S checkpoint. It can arrest the cell cycle at this stage to allow time for DNA repair if P53 senses any mutation. P53 is upregulated when the cell experiences DNA damage or cell cycle abnormalities. The apoptotic pathway of P53 is turned on when the mutations are beyond repair, leading to activation of Bax.
+
+The understanding of cell death and the players involved is a subject of constant research. The better one understands the mechanism of cell death, the more likely it is that knowledge can be integrated into clinical medicine. It is possible to use these pathways to one's advantage, simulating the actions of apoptosis by inhibiting BCL-2 in tumor cells like the chemotherapy drug oblimersen used for chronic lymphocytic leukemia. Chemotherapy treatments with radiation can manipulate these pathways more directly by causing DNA damage that drives the cell to apoptosis.

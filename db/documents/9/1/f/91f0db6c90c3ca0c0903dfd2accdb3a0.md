@@ -1,0 +1,1 @@
+Most patients with acne conglobata are shy and embarrassed about their skin condition. Many give a history of being withdrawn and isolated. Suicidal ideations are also common in this population. Thus, it is vital to offer them mental health counseling and referral to their primary care physician or psychiatrist to manage depression.

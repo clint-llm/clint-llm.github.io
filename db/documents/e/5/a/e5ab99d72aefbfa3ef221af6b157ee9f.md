@@ -1,0 +1,7 @@
+The Rinne test differentiates sound transmission via air conduction from sound transmission via bone conduction. It can serve as a quick screen for conductive hearing loss. A Rinne test should be done in conjunction with a Weber test to detect sensorineural hearing loss. Over the years, many types of tuning forks tests had been developed to assess hearing loss, but today only two have withstood the test of time: Rinne and Weber. Both these tests are now routinely taught in medical schools and are performed regularly to evaluate patients with hearing problems. The Rinne test is used when conductive hearing loss is suspected and used in patients with otosclerosis to determine if a patient might benefit from stapes surgery. This activity describes the technique of conducting the Rinne test and its clinical relevance. This activity reviews the indications and techniques involved in performing the Rinne test and interpreting the results. This activity highlights the role of the interprofessional team in the care of patients with hearing problems.
+
+**Objectives:**
+- Identify the anatomical structures involved in hearing loss.
+- Describe the technique for performing the Rinne test.
+- Explain how to interpret the findings of the Rinne test.
+- Outline interprofessional team strategies for enhancing care coordination and communication to advance the diagnosis and management of hearing loss and improve outcomes.

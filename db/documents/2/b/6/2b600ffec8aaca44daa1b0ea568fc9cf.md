@@ -1,0 +1,1 @@
+Pilon fractures occur more frequently in males (57% to 65%) compared to females.

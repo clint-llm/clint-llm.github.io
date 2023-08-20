@@ -1,0 +1,1 @@
+Acute pericarditis was reported in 0.1% to 0.2% of hospitalized patients for non-ischemic chest pain.

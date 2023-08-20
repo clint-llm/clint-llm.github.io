@@ -1,0 +1,1 @@
+It is best to take precautions and carefully read labels when taking zinc supplements or tablets, which are readily available at most drug stores. A large overdose of zinc sulfate tablets will require medical attention.

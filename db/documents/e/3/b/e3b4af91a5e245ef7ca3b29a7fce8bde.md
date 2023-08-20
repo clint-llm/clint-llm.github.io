@@ -1,0 +1,5 @@
+Deep neck infections are common. As they comprise many discrete entities, it is difficult to accurately estimate the number of deep neck space infections in the United States or worldwide. It would be reasonable to assume that incidence in the United States is lower than in countries where immunizations and/or early medical intervention for more superficial infections is unavailable. A study in 2009 by Adeil et al. estimated more than 3400 U.S. pediatric hospital admissions per year for deep neck space infection.
+
+Peritonsillar abscess is most common in 20- to 40-year-olds. Children are not often affected by a peritonsillar abscess but can be if they are immuno-compromised. Females and males are affected equally. Chronic tonsillitis or multiple rounds of oral antibiotics may predispose a person to the formation of a peritonsillar abscess.
+
+Parapharyngeal abscesses can develop in any age patient but are most common in children and adolescents. Immunocompromised adults are also at increased risk.

@@ -1,0 +1,1 @@
+A variety of reasons make it challenging to estimate the exact prevalence of pica; for example, studies use variable definitions of pica, under-reporting is common among affected subjects, and a strong cultural and social influence adds further difficulty to detection.

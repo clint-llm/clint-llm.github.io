@@ -1,0 +1,1 @@
+Polycythemia vera (PV) can affect all ethnic groups with no sex predilection, although there are slightly more cases in men than women.

@@ -1,0 +1,1 @@
+There is deposition of yellow material within the retinal pigment epithelium (RPE), the subretinal space, and the photoreceptor zone.

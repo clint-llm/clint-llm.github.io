@@ -1,0 +1,5 @@
+A meniscal injury should be suspected when a patient presents with knee pain, particularly after a twisting type injury when the foot is planted on the ground. This injury can happen with or without an external force applied to the knee.
+
+Usually, pain presents along the knee joint line. Common patient complaints include pain and mechanical complaints such as locking, clicking, catching, or inability to extend the knee fully.
+
+Ligamentous injuries commonly accompany meniscal injuries. An external force applied to the lateral knee can result in an injury complex known as the "unhappy triad." This group of injuries includes damage to the medial or lateral meniscus with concomitant injury to the anterior cruciate ligament (ACL) and the medial collateral ligament (MCL). During an orthopedic and physical examination, joint line tenderness, joint effusion, and impaired range of motion are common findings.

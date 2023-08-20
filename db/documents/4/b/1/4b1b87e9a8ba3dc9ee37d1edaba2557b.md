@@ -1,0 +1,5 @@
+Managing an inferior wall MI requires an interprofessional team of nurses, physicians, a cardiac surgeon, and a cardiologist. These patients are prone to life-threatening complications and hence prevention is the best approach. At discharge, the patients should be educated by the nurse about the potential need for pacing in the future. The dietitian should recommend a low salt, low-fat diet. The patient should be enrolled in a cardiac rehab program. The pharmacist should encourage smoking cessation, compliance with medications and lowering both blood cholesterol and glucose.
+
+**Outcomes**
+
+When the RV is involved in an inferior wall MI it is an independent predictor of major complications and lengthening hospital stay. In addition, ischemia to the conducting pathways are disrupted leading to a high degree of an atrioventricular blockade, that frequently requires pacing. The mortality rates when the RV is involved is often more than 25% compared to patients without Rv involvement. In addition, even after discharge, a significant number of these patients need permanent pacing within 3 years.

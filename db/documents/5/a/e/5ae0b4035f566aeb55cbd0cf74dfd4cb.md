@@ -1,0 +1,1 @@
+The outcome of patients with relapsing polychondritis has improved in recent years; survival has increased from 70% at five years to 91% at ten years. The more common clinical presentation is a relatively benign disease, with respiratory failure due to airway collapse being the most common cause of death.

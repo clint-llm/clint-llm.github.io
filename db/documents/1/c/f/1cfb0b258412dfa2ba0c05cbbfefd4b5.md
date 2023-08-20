@@ -1,0 +1,1 @@
+The prognosis for thoracic trauma can vary widely, given that thoracic injuries can range from simple rib fractures to pneumothoraces to direct penetrating cardiac injuries. Ultimately the degree and mechanism of injury combined with the patient's underlying comorbidities determine the prognosis of a patient who has suffered thoracic trauma.

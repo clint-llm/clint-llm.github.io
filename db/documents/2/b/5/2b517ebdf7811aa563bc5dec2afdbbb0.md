@@ -1,0 +1,7 @@
+Total parenteral nutrition is a medication used to manage and treat malnourishment. It is in the nutrition class of drugs. Total parenteral nutrition is indicated when there is impaired gastrointestinal function and contraindications to enteral nutrition. Total parenteral nutrition (TPN) is when the IV administered nutrition is the only source of nutrition the patient is receiving. This activity describes the indications, action, and contraindications for total parenteral nutrition as a valuable agent in managing malnourishment and the nonfunctional gastrointestinal system. In addition, this activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent for members of the interprofessional team in the management of patients with malnourishment and nonfunctional gastrointestinal system and related conditions.
+
+**Objectives:**
+- Identify the indications for total parenteral nutrition. 
+- Describe the potential adverse effects of total parenteral nutrition 
+- Review the appropriate monitoring of total parenteral nutrition.
+- Outline interprofessional team strategies for improving care coordination and communication to advance total parenteral nutrition and improve outcomes.

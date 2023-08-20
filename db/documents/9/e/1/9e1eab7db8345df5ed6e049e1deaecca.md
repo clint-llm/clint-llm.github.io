@@ -1,0 +1,7 @@
+You have likely heard the phrase practice makes perfect. Iterative phrases, such as practice makes permanent, and perfect practice makes perfect, may also be familiar. The nature versus nurture debate is also germane to this discussion relative to natural talent/ability versus what can be learned/acquired. In medical education, traditional methods of heavy didactics followed by short clerkships and electives emphasize knowledge acquisition over skills, as evidenced by the adage see one, do one, teach one. This approach implies virtually instantaneous mastery of new procedures and clinical skills with minimal if any, practice or instruction.
+
+Methods of skill acquisition, professional development, and expert performance have long been studied and debated. K. Anders Ericcson introduced a descriptor for his perspective of how expertise, expert performance, and experts develop: deliberate practice (DP) is “when individuals engage in practice activities (which are, at least initially, designed by teachers and coaches) with full concentration on improving some specific aspect of performance.”
+
+Ericcson and Smith empirically studied reproducible superior performance to investigate the underlying methods and mechanisms.
+
+This method, employed in an iterative, active cycle to provide ample opportunities for gradual refinements of learner performance, has been shown to yield significant improvements in performance.

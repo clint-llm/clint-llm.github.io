@@ -1,0 +1,1 @@
+Patients diagnosed with amenorrhea need long-term follow-up because resumptions of menstrual cycles may take months or years.

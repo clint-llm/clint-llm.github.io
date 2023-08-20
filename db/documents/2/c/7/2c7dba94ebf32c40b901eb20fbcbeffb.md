@@ -1,0 +1,1 @@
+The ethmoid bone is an unpaired cranial bone that is a significant component of the upper nasal cavity and the nasal septum. The ethmoid bone also constitutes the medial orbit wall.

@@ -1,0 +1,1 @@
+The incidence of metacarpal neck fractures presenting for hospital care in the United States is 13.6 per 100,000 person-years.

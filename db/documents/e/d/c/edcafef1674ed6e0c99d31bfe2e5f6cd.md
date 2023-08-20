@@ -1,0 +1,1 @@
+Clinically, documentation on lactulose toxicity is lacking. Specific studies using rats inoculated with various concentrations of lactulose syrup ranging from 0.5-5% revealed no evidence of toxicity.

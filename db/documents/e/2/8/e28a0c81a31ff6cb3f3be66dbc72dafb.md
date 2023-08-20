@@ -1,0 +1,1 @@
+Nurses, respiratory therapists, and clinicians must be aware of the pitfalls and considerations when using CO2 detectors. an interprofessional team approach to monitoring patients using these devices will produce the best patient outcomes. [Level V]

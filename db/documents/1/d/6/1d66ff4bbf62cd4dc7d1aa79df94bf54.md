@@ -1,0 +1,1 @@
+Neurogenic shock can be fatal, and patients who have experienced spinal cord injury must understand that any signs of nausea, dizziness, or chest pain following such an incident require emergent attention from qualified healthcare practitioners.

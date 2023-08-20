@@ -1,0 +1,1 @@
+Some surgeons, when performing palatoplasties, actually cut the tendinous portion of the tensor veli palatini. Palatoplasties are done to surgically correct cleft palates. Interestingly enough, in this patient population, the TVP is anatomically altered.

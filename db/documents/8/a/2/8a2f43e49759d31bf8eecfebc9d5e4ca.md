@@ -1,0 +1,1 @@
+There is a paucity of data regarding the toxicity and overdosage of teprotumumab. Symptoms of overdose are likely to be consistent with its adverse effect profile.

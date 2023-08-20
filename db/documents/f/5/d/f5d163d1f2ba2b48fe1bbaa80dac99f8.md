@@ -1,0 +1,3 @@
+Myeloperoxidase (MPO) is a hemoprotein expressed in azurophilic granules of neutrophils and in the lysosomes of monocytes. The enzyme has strong antibacterial properties and is unique in its ability to generate potent bactericidal compounds such as hypochlorous acid (HOCl) from hydrogen peroxide and the halide, chloride.
+
+Myeloperoxidase deficiency, first described in 1954 is an autosomal recessive disorder caused by mutations in the MPO gene on chromosome 17. It is the commonest inherited defect of phagocytes. Patients with MPO deficiency have impaired microbial killing, but the majority are asymptomatic clinically except if they are also diabetic. In this review, we provide an update on this common phagocyte disorder.

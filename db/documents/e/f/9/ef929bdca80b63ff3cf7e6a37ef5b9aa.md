@@ -1,0 +1,1 @@
+Oliguria is a commonly prevalent condition in hospitalized patients and requires close follow up.

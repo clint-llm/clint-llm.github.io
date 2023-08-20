@@ -1,0 +1,9 @@
+Laparotomy is one of the most common surgical procedures performed for abdominal trauma. The essence of a successful trauma laparotomy outcome relies on a methodical sequence of steps, surgical knowledge of maneuvers, and sound surgical decisions based on evidence and experience. Surgical maneuvers have been developed over years of experience to enable the surgeon to gain access to injuries of deep abdominal structures, identify these injuries and address them appropriately. Complete left medial visceral rotation or Mattox maneuver is one such intraoperative surgical innovation which has revolutionized the trauma surgery since the 1970s.
+
+**Definition**
+
+Mattox Maneuver, also known as a left medial visceral rotation, is a surgical step to explore and handle Zone 1 and 2 retroperitoneal injuries (aorta, left iliac and pelvic vessels). It starts with incising the parietal peritoneum at the white line of Toldt from the sigmoid colon to the splenic flexure. The spleen, tail of the pancreas, left kidney, and stomach are mobilized and reflected medially during this maneuver to explore the deeper structures.
+
+**Historical Perspective**
+
+Dr. Kenneth L Mattox was a chief resident in surgery at Baylor College of Medicine, and he was operating on patient early in the morning. The patient underwent multiple previous abdominal surgeries and was bleeding into the retroperitoneal space. Dr. Mattox was assisted by a second-year urology resident. They needed to mobilize the viscera and obtain access and control deep retroperitoneal bleeding which was suspected to be coming from aorta or IVC. They developed this maneuver on the table. They could save the patient together. Encouraged by this “new approach” they performed a few more similar cases and presented their data at a national meeting, and hence it has been called the “Mattox maneuver” since then

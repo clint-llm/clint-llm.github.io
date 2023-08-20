@@ -1,0 +1,1 @@
+Opioid-induced endocrinopathy (OIE) is a condition which is estimated to affect more Americans than other common comorbid conditions such as heart disease and diabetes combined.

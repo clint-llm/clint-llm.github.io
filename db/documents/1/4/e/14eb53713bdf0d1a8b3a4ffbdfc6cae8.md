@@ -1,0 +1,1 @@
+Although recurrent pneumomediastinum is a risk, it is usually benign and morbidity and mortality are primarily attributable to the precipitating cause. Most cases of pneumomediastinum are self-resolving and require only symptomatic treatment or observation.

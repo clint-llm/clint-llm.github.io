@@ -1,0 +1,1 @@
+Primary CNS lymphoma has an annual incidence of approximately 1500 cases in the United States.
